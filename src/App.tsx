@@ -13,7 +13,7 @@ import { SHOWS } from './data/shows';
 import { Show } from './types';
 
 const getDisplayThumbnail = (show: Show) => {
-  if (!show.videoUrl) return ''; // Return empty to trigger black background
+  if (!show.videoUrl) return ''; // Forces the black placeholder
   
   if (show.videoUrl.includes('drive.google.com')) {
     const match = show.videoUrl.match(/\/d\/([^/?#]+)/) || show.videoUrl.match(/[?&]id=([^&#]+)/);
@@ -27,12 +27,12 @@ const getDisplayThumbnail = (show: Show) => {
       return `https://img.youtube.com/vi/${match[1]}/maxresdefault.jpg`;
     }
   }
-  return show.thumbnailUrl || '';
+  return ''; 
 };
 
 const getVideoPlatform = (url?: string) => {
   if (!url) return null;
-  if (url.includes('drive.google.com')) return 'Google Drive';
+  if (url.includes('drive.google.com')) return 'Drive';
   if (url.includes('youtube.com') || url.includes('youtu.be')) return 'YouTube';
   return null;
 };
@@ -155,18 +155,19 @@ export default function App() {
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                   ) : (
-                    <div className="absolute inset-0 bg-black flex items-center justify-center border border-white/10">
-                       <Video className="w-8 h-8 text-gray-700" />
+                    <div className="absolute inset-0 bg-black flex flex-col items-center justify-center border border-white/10">
+                       <Video className="w-8 h-8 text-gray-700 mb-2" />
+                       <span className="text-xs text-gray-600 font-semibold uppercase tracking-widest">No Video</span>
                     </div>
                   )}
                   
                   <div className="absolute bottom-2 right-2 bg-black/80 px-1.5 py-0.5 rounded text-xs font-medium flex gap-1 items-center">
                     {getVideoPlatform(show.videoUrl) && (
-                      <span className={getVideoPlatform(show.videoUrl) === 'YouTube' ? 'text-red-400' : 'text-blue-400'}>
+                      <span className={getVideoPlatform(show.videoUrl) === 'YouTube' ? 'text-red-500' : 'text-blue-400'}>
                         {getVideoPlatform(show.videoUrl)}
                       </span>
                     )}
-                    <span className="opacity-50">|</span>
+                    {getVideoPlatform(show.videoUrl) && <span className="opacity-50">|</span>}
                     <span>1080p</span>
                   </div>
                   <div className="absolute inset-0 bg-black/20 group-hover:bg-black/0 transition-colors" />
@@ -222,7 +223,7 @@ export default function App() {
               </div>
 
               <div className="flex-1 space-y-4">
-                <div className="aspect-video bg-black w-full rounded-none md:rounded-xl overflow-hidden relative shadow-2xl">
+                <div className="aspect-video bg-black w-full rounded-none md:rounded-xl overflow-hidden relative shadow-2xl border border-white/5">
                   {selectedShow.videoUrl ? (
                     <iframe 
                       src={getEmbedUrl(selectedShow.videoUrl)} 
@@ -232,9 +233,9 @@ export default function App() {
                       title={selectedShow.venue}
                     />
                   ) : (
-                    <div className="absolute inset-0 flex flex-col items-center justify-center bg-black border border-white/5">
+                    <div className="absolute inset-0 flex flex-col items-center justify-center bg-black">
                       <Video className="w-16 h-16 mb-4 text-gray-700" />
-                      <p className="text-xl font-medium opacity-50">Video link unavailable</p>
+                      <p className="text-xl font-medium opacity-50 uppercase tracking-widest">Video link unavailable</p>
                     </div>
                   )}
                 </div>
@@ -274,15 +275,20 @@ export default function App() {
                 <div className="space-y-3 pb-20">
                   {filteredShows.filter(s => s.id !== selectedShow.id).slice(0, 10).map((show) => (
                     <div key={show.id} className="flex gap-2 group cursor-pointer" onClick={() => setSelectedShow(show)}>
-                      <div className="w-40 aspect-video rounded-lg overflow-hidden flex-shrink-0 bg-black">
+                      <div className="w-40 aspect-video rounded-lg overflow-hidden flex-shrink-0 bg-black relative border border-white/5">
                          {getDisplayThumbnail(show) ? (
                             <img src={getDisplayThumbnail(show)} className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
                          ) : (
-                            <div className="w-full h-full flex items-center justify-center border border-white/10"><Video className="w-5 h-5 text-gray-700"/></div>
+                            <div className="w-full h-full flex items-center justify-center"><Video className="w-5 h-5 text-gray-700"/></div>
+                         )}
+                         {getVideoPlatform(show.videoUrl) && (
+                           <div className="absolute bottom-1 right-1 bg-black/80 px-1 py-0.5 rounded text-[10px] font-bold">
+                             <span className={getVideoPlatform(show.videoUrl) === 'YouTube' ? 'text-red-500' : 'text-blue-400'}>{getVideoPlatform(show.videoUrl)}</span>
+                           </div>
                          )}
                       </div>
                       <div className="overflow-hidden">
-                        <h4 className="text-sm font-bold line-clamp-2 leading-tight mb-1">
+                        <h4 className="text-sm font-bold line-clamp-2 leading-tight mb-1 group-hover:text-blue-400 transition-colors">
                           {show.artist} {show.date} {show.venue}
                         </h4>
                         <p className="text-xs text-gray-400 font-medium mt-1">{show.city}, {show.state}</p>
