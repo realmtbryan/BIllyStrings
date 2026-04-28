@@ -5,15 +5,15 @@
 
 import { useState, useMemo } from 'react';
 import { 
-  Play, Search, Calendar, MapPin, User, Video, X, Music, 
-  Info, MonitorPlay, Home, ThumbsUp, Share2
+  Play, Search, Calendar, MapPin, Video, X, Music, 
+  MonitorPlay, Home, ThumbsUp, Share2
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { SHOWS } from './data/shows';
 import { Show } from './types';
 
 const getDisplayThumbnail = (show: Show) => {
-  if (!show.videoUrl) return ''; // Forces the black placeholder
+  if (!show.videoUrl) return ''; 
   
   if (show.videoUrl.includes('drive.google.com')) {
     const match = show.videoUrl.match(/\/d\/([^/?#]+)/) || show.videoUrl.match(/[?&]id=([^&#]+)/);
@@ -56,6 +56,7 @@ export default function App() {
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | 'All'>('All');
+  const [showAll, setShowAll] = useState(false); // The main toggle state
 
   const years = useMemo(() => {
     const uniqueYears = Array.from(new Set(SHOWS.map(s => s.year))).sort((a, b) => a - b);
@@ -69,12 +70,13 @@ export default function App() {
         show.city.toLowerCase().includes(searchQuery.toLowerCase()) ||
         show.artist.toLowerCase().includes(searchQuery.toLowerCase());
       const matchesYear = selectedYear === 'All' || show.year === selectedYear;
-      return matchesSearch && matchesYear;
+      const matchesAvailability = showAll ? true : !!show.videoUrl;
+      return matchesSearch && matchesYear && matchesAvailability;
     }).sort((a, b) => {
       if (a.year !== b.year) return a.year - b.year;
       return a.date.localeCompare(b.date);
     });
-  }, [searchQuery, selectedYear]);
+  }, [searchQuery, selectedYear, showAll]);
 
   return (
     <div className="min-h-screen bg-[#0f0f0f] text-white font-sans">
@@ -103,11 +105,27 @@ export default function App() {
       </header>
 
       <div className="flex">
+        {/* Desktop Sidebar */}
         <aside className="w-60 hidden lg:block sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto p-3 border-r border-white/5">
           <nav className="space-y-1">
             <SidebarItem icon={Home} label="Home" active />
-            <SidebarItem icon={Video} label="Shorts" />
-            <SidebarItem icon={Music} label="Subscriptions" />
+            <hr className="my-3 border-white/10" />
+            
+            <div className="px-3 mb-2 flex flex-col gap-2">
+              <h3 className="text-sm font-semibold opacity-60">Visibility</h3>
+              <button
+                onClick={() => setShowAll(!showAll)}
+                className={`flex items-center justify-between w-full p-2 rounded-lg border transition-colors ${
+                  showAll ? 'bg-blue-500/10 border-blue-500/50 text-blue-400' : 'bg-white/5 border-white/10 text-gray-400'
+                }`}
+              >
+                <span className="text-xs font-semibold uppercase tracking-wider">{showAll ? 'All Shows' : 'Available Only'}</span>
+                <div className={`w-7 h-4 rounded-full relative transition-colors ${showAll ? 'bg-blue-500' : 'bg-gray-600'}`}>
+                  <div className={`absolute top-0.5 left-0.5 w-3 h-3 rounded-full bg-white transition-transform ${showAll ? 'translate-x-3' : ''}`} />
+                </div>
+              </button>
+            </div>
+
             <hr className="my-3 border-white/10" />
             <h3 className="px-3 mb-2 text-sm font-semibold opacity-60">Years</h3>
             {years.map(year => (
@@ -122,22 +140,39 @@ export default function App() {
           </nav>
         </aside>
 
-        <main className="flex-1 p-4 md:p-6">
-          <div className="flex gap-2 overflow-x-auto pb-4 lg:hidden no-scrollbar">
-            {years.map(year => (
-              <button
-                key={year}
-                onClick={() => setSelectedYear(typeof year === 'string' ? 'All' : year)}
-                className={`px-3 py-1.5 rounded-lg text-sm font-medium whitespace-nowrap transition-colors ${
-                  selectedYear === year ? 'bg-white text-black' : 'bg-white/10 hover:bg-white/20'
-                }`}
-              >
-                {year}
-              </button>
-            ))}
+        <main className="flex-1 w-full max-w-full overflow-hidden">
+          {/* Mobile Filter & Toggle Bar */}
+          <div className="flex flex-col lg:hidden px-4 pt-4 pb-2 space-y-3">
+              <div className="flex items-center justify-between">
+                  <h2 className="text-sm font-bold opacity-60 uppercase tracking-widest">Filters</h2>
+                  <button
+                      onClick={() => setShowAll(!showAll)}
+                      className={`flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-colors ${
+                          showAll ? 'bg-blue-500/10 border-blue-500/50 text-blue-400' : 'bg-white/5 border-white/10 text-gray-400'
+                      }`}
+                  >
+                      <span className="text-xs font-semibold">{showAll ? 'ALL SHOWS' : 'AVAILABLE ONLY'}</span>
+                      <div className={`w-7 h-4 rounded-full relative transition-colors ${showAll ? 'bg-blue-500' : 'bg-gray-600'}`}>
+                          <div className={`absolute top-0.5 left-0.5 w-3 h-3 rounded-full bg-white transition-transform ${showAll ? 'translate-x-3' : ''}`} />
+                      </div>
+                  </button>
+              </div>
+              <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar w-full">
+                {years.map(year => (
+                  <button
+                    key={year}
+                    onClick={() => setSelectedYear(typeof year === 'string' ? 'All' : year)}
+                    className={`px-3 py-1.5 rounded-lg text-sm font-medium whitespace-nowrap transition-colors flex-shrink-0 ${
+                      selectedYear === year ? 'bg-white text-black' : 'bg-white/10 hover:bg-white/20'
+                    }`}
+                  >
+                    {year}
+                  </button>
+                ))}
+              </div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 gap-y-8 mt-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 gap-y-8 p-4 md:p-6">
             {filteredShows.map((show) => (
               <motion.div 
                 layoutId={`show-${show.id}`}
@@ -191,7 +226,7 @@ export default function App() {
                     <div className="text-sm text-gray-400 space-y-0.5">
                       <div className="flex items-center gap-1">
                         <MapPin className="w-3 h-3" />
-                        <span>{show.city}, {show.state}</span>
+                        <span className="truncate">{show.city}, {show.state}</span>
                       </div>
                       <div className="flex items-center gap-1">
                         <Calendar className="w-3 h-3" />
@@ -202,6 +237,12 @@ export default function App() {
                 </div>
               </motion.div>
             ))}
+            
+            {filteredShows.length === 0 && (
+               <div className="col-span-full py-20 text-center text-gray-500">
+                  <p className="text-lg">No shows found for this selection.</p>
+               </div>
+            )}
           </div>
         </main>
       </div>
@@ -235,7 +276,7 @@ export default function App() {
                   ) : (
                     <div className="absolute inset-0 flex flex-col items-center justify-center bg-black">
                       <Video className="w-16 h-16 mb-4 text-gray-700" />
-                      <p className="text-xl font-medium opacity-50 uppercase tracking-widest">Video link unavailable</p>
+                      <p className="text-xl font-medium opacity-50 uppercase tracking-widest text-center px-4">Video Link Unavailable</p>
                     </div>
                   )}
                 </div>
@@ -265,15 +306,22 @@ export default function App() {
                       </div>
                     </div>
                   </div>
+                  
+                  {selectedShow.setlist && (
+                    <div className="mt-6 bg-[#181818] rounded-xl p-4 md:p-6 border border-white/5">
+                        <h3 className="font-bold text-lg mb-3">Setlist</h3>
+                        <p className="text-gray-300 text-sm leading-relaxed whitespace-pre-wrap">{selectedShow.setlist.replace(/ \| /g, '\n')}</p>
+                    </div>
+                  )}
                 </div>
               </div>
 
-              <div className="w-full xl:w-[400px] px-4 md:px-0">
+              <div className="w-full xl:w-[400px] px-4 md:px-0 pb-10">
                 <div className="flex items-center justify-between mb-4">
                   <h2 className="font-bold">Up next</h2>
                 </div>
                 <div className="space-y-3 pb-20">
-                  {filteredShows.filter(s => s.id !== selectedShow.id).slice(0, 10).map((show) => (
+                  {filteredShows.filter(s => s.id !== selectedShow.id && s.videoUrl).slice(0, 10).map((show) => (
                     <div key={show.id} className="flex gap-2 group cursor-pointer" onClick={() => setSelectedShow(show)}>
                       <div className="w-40 aspect-video rounded-lg overflow-hidden flex-shrink-0 bg-black relative border border-white/5">
                          {getDisplayThumbnail(show) ? (
@@ -295,8 +343,8 @@ export default function App() {
                       </div>
                     </div>
                   ))}
-                  <button onClick={() => setSelectedShow(null)} className="w-full py-3 border border-white/10 rounded-xl text-sm font-medium hover:bg-white/5 transition-colors hidden xl:block">
-                    Back to Home
+                  <button onClick={() => setSelectedShow(null)} className="w-full py-3 border border-white/10 rounded-xl text-sm font-medium hover:bg-white/5 transition-colors block mt-8 mb-8">
+                    Back to Archive
                   </button>
                 </div>
               </div>
