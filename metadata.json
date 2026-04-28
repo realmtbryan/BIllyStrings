@@ -1,0 +1,6 @@
+{
+  "name": "Billy Strings Show Archive",
+  "description": "A YouTube-like viewer for Billy Strings live shows, archives, and performance videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
