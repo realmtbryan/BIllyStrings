@@ -52,11 +52,52 @@ const getEmbedUrl = (url?: string) => {
   return url;
 };
 
+// Smart Thumbnail component that handles broken image links gracefully
+function SmartThumbnail({ show, className }: { show: Show, className?: string }) {
+  const initialSrc = getDisplayThumbnail(show);
+  const [imgSrc, setImgSrc] = useState(initialSrc);
+  const [hasError, setHasError] = useState(false);
+
+  if (!show.videoUrl) {
+    return (
+      <div className="absolute inset-0 bg-black flex flex-col items-center justify-center border border-white/10">
+        <Video className="w-8 h-8 text-gray-700 mb-2" />
+        <span className="text-xs text-gray-600 font-semibold uppercase tracking-widest">No Video</span>
+      </div>
+    );
+  }
+
+  if (hasError || !imgSrc) {
+    return (
+      <div className="absolute inset-0 bg-gradient-to-br from-gray-900 to-black flex flex-col items-center justify-center border border-white/10">
+         <MonitorPlay className="w-8 h-8 text-gray-600 mb-1 opacity-50" />
+         <span className="text-[9px] text-gray-500 font-bold uppercase tracking-widest text-center px-1 leading-tight">Video Available<br/>(Cover Missing)</span>
+      </div>
+    );
+  }
+
+  return (
+    <img
+      src={imgSrc}
+      alt={show.venue}
+      className={className || "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}
+      onError={() => {
+        // Progressive fallback for YouTube: maxres -> hqdefault -> error
+        if (imgSrc.includes('maxresdefault')) {
+          setImgSrc(imgSrc.replace('maxresdefault', 'hqdefault'));
+        } else {
+          setHasError(true);
+        }
+      }}
+    />
+  );
+}
+
 export default function App() {
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | 'All'>('All');
-  const [showAll, setShowAll] = useState(false); // The main toggle state
+  const [showAll, setShowAll] = useState(false); 
 
   const years = useMemo(() => {
     const uniqueYears = Array.from(new Set(SHOWS.map(s => s.year))).sort((a, b) => a - b);
@@ -105,7 +146,6 @@ export default function App() {
       </header>
 
       <div className="flex">
-        {/* Desktop Sidebar */}
         <aside className="w-60 hidden lg:block sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto p-3 border-r border-white/5">
           <nav className="space-y-1">
             <SidebarItem icon={Home} label="Home" active />
@@ -141,7 +181,6 @@ export default function App() {
         </aside>
 
         <main className="flex-1 w-full max-w-full overflow-hidden">
-          {/* Mobile Filter & Toggle Bar */}
           <div className="flex flex-col lg:hidden px-4 pt-4 pb-2 space-y-3">
               <div className="flex items-center justify-between">
                   <h2 className="text-sm font-bold opacity-60 uppercase tracking-widest">Filters</h2>
@@ -183,18 +222,7 @@ export default function App() {
                 transition={{ type: 'spring', stiffness: 300, damping: 30 }}
               >
                 <div className="aspect-video bg-black rounded-xl overflow-hidden relative mb-3">
-                  {getDisplayThumbnail(show) ? (
-                    <img 
-                      src={getDisplayThumbnail(show)} 
-                      alt={show.venue} 
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    />
-                  ) : (
-                    <div className="absolute inset-0 bg-black flex flex-col items-center justify-center border border-white/10">
-                       <Video className="w-8 h-8 text-gray-700 mb-2" />
-                       <span className="text-xs text-gray-600 font-semibold uppercase tracking-widest">No Video</span>
-                    </div>
-                  )}
+                  <SmartThumbnail show={show} />
                   
                   <div className="absolute bottom-2 right-2 bg-black/80 px-1.5 py-0.5 rounded text-xs font-medium flex gap-1 items-center">
                     {getVideoPlatform(show.videoUrl) && (
@@ -324,11 +352,7 @@ export default function App() {
                   {filteredShows.filter(s => s.id !== selectedShow.id && s.videoUrl).slice(0, 10).map((show) => (
                     <div key={show.id} className="flex gap-2 group cursor-pointer" onClick={() => setSelectedShow(show)}>
                       <div className="w-40 aspect-video rounded-lg overflow-hidden flex-shrink-0 bg-black relative border border-white/5">
-                         {getDisplayThumbnail(show) ? (
-                            <img src={getDisplayThumbnail(show)} className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
-                         ) : (
-                            <div className="w-full h-full flex items-center justify-center"><Video className="w-5 h-5 text-gray-700"/></div>
-                         )}
+                         <SmartThumbnail show={show} className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
                          {getVideoPlatform(show.videoUrl) && (
                            <div className="absolute bottom-1 right-1 bg-black/80 px-1 py-0.5 rounded text-[10px] font-bold">
                              <span className={getVideoPlatform(show.videoUrl) === 'YouTube' ? 'text-red-500' : 'text-blue-400'}>{getVideoPlatform(show.videoUrl)}</span>
