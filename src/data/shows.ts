@@ -2,7 +2,7 @@ import { Show } from '../types';
 
 export const SHOWS: Show[] = [
   {
-    id: '2012-05-03-1',
+    id: '2012-05-03-0',
     artist: 'Billy Strings & Don Julin',
     date: '2012-05-03',
     venue: 'Southside Hideout',
@@ -14,7 +14,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-05-09-2',
+    id: '2012-05-09-1',
     artist: 'Billy Strings & Don Julin',
     date: '2012-05-09',
     venue: 'WNMC Station',
@@ -26,7 +26,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-06-01-3',
+    id: '2012-06-01-2',
     artist: 'Billy Strings & Don Julin',
     date: '2012-06-01',
     venue: 'Left Foot Charley',
@@ -38,7 +38,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-07-31-4',
+    id: '2012-07-31-3',
     artist: 'Billy Strings & Don Julin',
     date: '2012-07-31',
     venue: 'Downtown Traverse City',
@@ -50,7 +50,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-08-11-5',
+    id: '2012-08-11-4',
     artist: 'Billy Strings & Don Julin',
     date: '2012-08-11',
     venue: 'Poppycocks',
@@ -62,7 +62,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-11-18-6',
+    id: '2012-11-18-5',
     artist: 'Billy Strings & Don Julin',
     date: '2012-11-18',
     venue: 'Left Foot Charley',
@@ -74,7 +74,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2012-12-30-7',
+    id: '2012-12-30-6',
     artist: 'Billy Strings & Don Julin',
     date: '2012-12-30',
     venue: 'Brew',
@@ -86,7 +86,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-01-03-9',
+    id: '2013-01-03-7',
     artist: 'Billy Strings',
     date: '2013-01-03',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -98,7 +98,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-01-10-10',
+    id: '2013-01-10-8',
     artist: 'Billy Strings',
     date: '2013-01-10',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -110,7 +110,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-01-17-11',
+    id: '2013-01-17-9',
     artist: 'Billy Strings',
     date: '2013-01-17',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -122,7 +122,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-01-31-12',
+    id: '2013-01-31-10',
     artist: 'Billy Strings',
     date: '2013-01-31',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -134,7 +134,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-02-07-13',
+    id: '2013-02-07-11',
     artist: 'Billy Strings',
     date: '2013-02-07',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -146,7 +146,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-02-09-14',
+    id: '2013-02-09-12',
     artist: 'Billy Strings',
     date: '2013-02-09',
     venue: 'Horizon Books',
@@ -158,7 +158,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-02-21-15',
+    id: '2013-02-21-13',
     artist: 'Billy Strings',
     date: '2013-02-21',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -170,7 +170,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-02-22-16',
+    id: '2013-02-22-14',
     artist: 'Billy Strings',
     date: '2013-02-22',
     venue: 'InsideOut Gallery',
@@ -182,7 +182,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-02-28-17',
+    id: '2013-02-28-15',
     artist: 'Billy Strings',
     date: '2013-02-28',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -194,7 +194,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-03-01-18',
+    id: '2013-03-01-16',
     artist: 'Billy Strings',
     date: '2013-03-01',
     venue: 'Left Foot Charley',
@@ -206,7 +206,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-03-07-19',
+    id: '2013-03-07-17',
     artist: 'Billy Strings',
     date: '2013-03-07',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -218,10 +218,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-03-08-20',
+    id: '2013-03-08-18',
     artist: 'Billy Strings',
     date: '2013-03-08',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2013,
@@ -230,7 +230,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-03-14-21',
+    id: '2013-03-14-19',
     artist: 'Billy Strings',
     date: '2013-03-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -242,7 +242,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-03-22',
+    id: '2013-04-03-20',
     artist: 'Billy Strings',
     date: '2013-04-03',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -254,7 +254,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-04-23',
+    id: '2013-04-04-21',
     artist: 'Billy Strings',
     date: '2013-04-04',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -266,10 +266,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-05-24',
+    id: '2013-04-05-22',
     artist: 'Billy Strings',
     date: '2013-04-05',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2013,
@@ -278,7 +278,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-06-25',
+    id: '2013-04-06-23',
     artist: 'Billy Strings',
     date: '2013-04-06',
     venue: 'Elderly Instruments',
@@ -290,10 +290,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-06-26',
+    id: '2013-04-06-24',
     artist: 'Billy Strings',
     date: '2013-04-06',
-    venue: 'Callahan\'s Music Hall',
+    venue: 'Callahan's Music Hall',
     city: 'Auburn Hills',
     state: 'MI',
     year: 2013,
@@ -302,7 +302,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-07-27',
+    id: '2013-04-07-25',
     artist: 'Billy Strings',
     date: '2013-04-07',
     venue: 'Ionia Theatre',
@@ -314,7 +314,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-11-28',
+    id: '2013-04-11-26',
     artist: 'Billy Strings',
     date: '2013-04-11',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -326,7 +326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-12-29',
+    id: '2013-04-12-27',
     artist: 'Billy Strings',
     date: '2013-04-12',
     venue: 'Brew North',
@@ -338,10 +338,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-13-30',
+    id: '2013-04-13-28',
     artist: 'Billy Strings',
     date: '2013-04-13',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2013,
@@ -350,7 +350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-18-31',
+    id: '2013-04-18-29',
     artist: 'Billy Strings',
     date: '2013-04-18',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -362,7 +362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-25-32',
+    id: '2013-04-25-30',
     artist: 'Billy Strings',
     date: '2013-04-25',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -374,7 +374,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-26-33',
+    id: '2013-04-26-31',
     artist: 'Billy Strings',
     date: '2013-04-26',
     venue: 'The Good Work Collective',
@@ -386,7 +386,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-27-34',
+    id: '2013-04-27-32',
     artist: 'Billy Strings',
     date: '2013-04-27',
     venue: 'Bush Theatre',
@@ -398,31 +398,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-27-35',
+    id: '2013-04-27-33',
     artist: 'Billy Strings',
     date: '2013-04-27',
-    venue: 'Elderly Instruments, Timing is Everything Workshop',
-    city: 'Lansing',
-    state: 'MI',
+    venue: 'Elderly Instruments',
+    city: 'Timing is Everything Workshop',
+    state: 'Lansing',
     year: 2013,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2013-04-27-36',
+    id: '2013-04-27-34',
     artist: 'Billy Strings',
     date: '2013-04-27',
-    venue: 'Elderly Instruments, Improvisation 101 Workshop',
-    city: 'Lansing',
-    state: 'MI',
+    venue: 'Elderly Instruments',
+    city: 'Improvisation 101 Workshop',
+    state: 'Lansing',
     year: 2013,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2013-05-02-37',
+    id: '2013-05-02-35',
     artist: 'Billy Strings',
     date: '2013-05-02',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -434,7 +434,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-05-09-38',
+    id: '2013-05-09-36',
     artist: 'Billy Strings',
     date: '2013-05-09',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -446,7 +446,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-05-15-39',
+    id: '2013-05-15-37',
     artist: 'Billy Strings',
     date: '2013-05-15',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -458,7 +458,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-05-26-40',
+    id: '2013-05-26-38',
     artist: 'Billy Strings',
     date: '2013-05-26',
     venue: 'Fountain Point',
@@ -470,7 +470,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-05-31-41',
+    id: '2013-05-31-39',
     artist: 'Billy Strings',
     date: '2013-05-31',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -482,7 +482,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-05-42',
+    id: '2013-06-05-40',
     artist: 'Billy Strings',
     date: '2013-06-05',
     venue: 'Nauti Cat Cruises',
@@ -494,7 +494,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-06-43',
+    id: '2013-06-06-41',
     artist: 'Billy Strings',
     date: '2013-06-06',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -506,7 +506,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-13-44',
+    id: '2013-06-13-42',
     artist: 'Billy Strings',
     date: '2013-06-13',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -518,7 +518,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-18-45',
+    id: '2013-06-18-43',
     artist: 'Billy Strings',
     date: '2013-06-18',
     venue: 'Memorial Park',
@@ -530,19 +530,415 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-19-46',
+    id: '2013-06-19-44',
     artist: 'Billy Strings',
     date: '2013-06-19',
     venue: 'The Green Frog',
     city: 'Bellingham',
     state: 'WA',
     year: 2013,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/_o-0IKmQNyc',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-20-47',
+    id: '2013-06-19-bonus-45-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 2)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/BU0SriTdP-4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 3)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/OvPTnlt9Abk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 4)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/HklsAmhnZso',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 5)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/6f4qUHa9sIU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 6)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/_kGHdg-Syi4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 7)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/fzN9Le-EHZM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 8)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/QYjNzBM79K0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 9)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/TXEr15KZXa0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 10)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ZCzfx-vwtBQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 11)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/B8cXnL3OnM4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 12)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/1VOza2vE3B0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 13)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/hUCatt_Wh3g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 14)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/iottSAhmGak',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 15)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/EIDNIiE74lE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 16)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ZocAJsT6coo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 17)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/rSEDqNZzLYc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 18)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/QYjSAqteqO0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 19)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/85JTMBek57c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 20)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/erX4_uM_vBY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 21)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/zy41JeSM1uQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 22)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/lzgXPI3M84A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 23)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/wQBevzXLFiE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 24)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/1UQAKI65tBg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 25)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/0qQ-tKBAQ08',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 26)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/QMjI_ynubDs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 27)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/FRxzxXnDn2M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 28)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/3Lnd8M1gR6s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 29)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ufd0OfwCxME',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 30)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/yKoBkFC7_bc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 31)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/b9N4PNoFw8U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-31',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 32)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/KCJYL2Fa_uc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-32',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 33)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/BtPyM1uVOIo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-19-bonus-45-33',
+    artist: 'Billy Strings (Archive)',
+    date: '2013-06-19',
+    venue: 'The Green Frog (Part 34)',
+    city: 'Bellingham',
+    state: 'WA',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/3RwnPtRQ0ho',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2013-06-20-45',
     artist: 'Billy Strings',
     date: '2013-06-20',
     venue: 'Mississippi Pizza',
@@ -554,7 +950,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-21-48',
+    id: '2013-06-21-46',
     artist: 'Billy Strings',
     date: '2013-06-21',
     venue: 'Artichoke Community Music',
@@ -566,10 +962,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-06-22-49',
+    id: '2013-06-22-47',
     artist: 'Billy Strings',
     date: '2013-06-22',
-    venue: 'Abbie Weisenbloom\'s House Concerts',
+    venue: 'Abbie Weisenbloom's House Concerts',
     city: 'Portland',
     state: 'OR',
     year: 2013,
@@ -578,7 +974,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-07-03-50',
+    id: '2013-07-03-48',
     artist: 'Billy Strings',
     date: '2013-07-03',
     venue: 'The Leelandau Community Cultural Center',
@@ -590,7 +986,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-07-11-51',
+    id: '2013-07-11-49',
     artist: 'Billy Strings',
     date: '2013-07-11',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -602,7 +998,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-07-13-52',
+    id: '2013-07-13-50',
     artist: 'Billy Strings',
     date: '2013-07-13',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -614,7 +1010,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-07-14-53',
+    id: '2013-07-14-51',
     artist: 'Billy Strings',
     date: '2013-07-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -626,7 +1022,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-07-18-54',
+    id: '2013-07-18-52',
     artist: 'Billy Strings',
     date: '2013-07-18',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -638,10 +1034,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-02-55',
+    id: '2013-08-02-53',
     artist: 'Billy Strings',
     date: '2013-08-02',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2013,
@@ -650,19 +1046,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-04-56',
+    id: '2013-08-04-54',
     artist: 'Billy Strings & Don Julin',
     date: '2013-08-04',
-    venue: 'Rocky Top Preserve, Rootenanny',
-    city: 'Ellsworth',
-    state: 'MI',
+    venue: 'Rocky Top Preserve',
+    city: 'Rootenanny',
+    state: 'Ellsworth',
     year: 2013,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-04-57',
+    id: '2013-08-04-55',
     artist: 'Billy Strings',
     date: '2013-08-04',
     venue: 'Open Space Park',
@@ -674,7 +1070,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-08-58',
+    id: '2013-08-08-56',
     artist: 'Billy Strings',
     date: '2013-08-08',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -686,7 +1082,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-14-59',
+    id: '2013-08-14-57',
     artist: 'Billy Strings',
     date: '2013-08-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -698,7 +1094,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-22-60',
+    id: '2013-08-22-58',
     artist: 'Billy Strings',
     date: '2013-08-22',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -710,7 +1106,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-28-61',
+    id: '2013-08-28-59',
     artist: 'Billy Strings',
     date: '2013-08-28',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -722,7 +1118,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-29-62',
+    id: '2013-08-29-60',
     artist: 'Billy Strings',
     date: '2013-08-29',
     venue: 'Jaycees Bandshell in Veterans Memorial Park',
@@ -734,7 +1130,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-30-63',
+    id: '2013-08-30-61',
     artist: 'Billy Strings',
     date: '2013-08-30',
     venue: 'City Park Grill',
@@ -746,10 +1142,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-08-31-64',
+    id: '2013-08-31-62',
     artist: 'Billy Strings',
     date: '2013-08-31',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2013,
@@ -758,7 +1154,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-01-65',
+    id: '2013-09-01-63',
     artist: 'Billy Strings',
     date: '2013-09-01',
     venue: 'Apache Trout Grill',
@@ -770,7 +1166,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-05-66',
+    id: '2013-09-05-64',
     artist: 'Billy Strings',
     date: '2013-09-05',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -782,7 +1178,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-08-67',
+    id: '2013-09-08-65',
     artist: 'Billy Strings',
     date: '2013-09-08',
     venue: 'Wheatland Music Organization',
@@ -794,7 +1190,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-12-68',
+    id: '2013-09-12-66',
     artist: 'Billy Strings',
     date: '2013-09-12',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -806,7 +1202,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-13-69',
+    id: '2013-09-13-67',
     artist: 'Billy Strings',
     date: '2013-09-13',
     venue: 'Ore Dock Brewing Company',
@@ -818,7 +1214,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-14-70',
+    id: '2013-09-14-68',
     artist: 'Billy Strings',
     date: '2013-09-14',
     venue: 'Orpheum Theater',
@@ -830,7 +1226,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-15-71',
+    id: '2013-09-15-69',
     artist: 'Billy Strings',
     date: '2013-09-15',
     venue: 'House Concert',
@@ -842,7 +1238,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-19-72',
+    id: '2013-09-19-70',
     artist: 'Billy Strings',
     date: '2013-09-19',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -854,7 +1250,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-22-73',
+    id: '2013-09-22-71',
     artist: 'Billy Strings & Don Julin',
     date: '2013-09-22',
     venue: 'Earthworks Harvest Gathering',
@@ -866,7 +1262,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-09-26-74',
+    id: '2013-09-26-72',
     artist: 'Billy Strings',
     date: '2013-09-26',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -878,7 +1274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-02-75',
+    id: '2013-10-02-73',
     artist: 'Billy Strings',
     date: '2013-10-02',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -890,7 +1286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-10-76',
+    id: '2013-10-10-74',
     artist: 'Billy Strings',
     date: '2013-10-10',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -902,7 +1298,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-11-77',
+    id: '2013-10-11-75',
     artist: 'Billy Strings',
     date: '2013-10-11',
     venue: 'City Park Grill',
@@ -914,7 +1310,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-17-78',
+    id: '2013-10-17-76',
     artist: 'Billy Strings',
     date: '2013-10-17',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -926,7 +1322,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-20-79',
+    id: '2013-10-20-77',
     artist: 'Billy Strings',
     date: '2013-10-20',
     venue: 'Bluestone Vineyards',
@@ -938,7 +1334,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-25-80',
+    id: '2013-10-25-78',
     artist: 'Billy Strings',
     date: '2013-10-25',
     venue: 'Two Way Street Coffeehouse',
@@ -950,7 +1346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-25-81',
+    id: '2013-10-25-79',
     artist: 'Billy Strings',
     date: '2013-10-25',
     venue: 'Sheraton Westport Plaza Hotel (Official Showcase)',
@@ -962,7 +1358,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-26-82',
+    id: '2013-10-26-80',
     artist: 'Billy Strings',
     date: '2013-10-26',
     venue: 'The Tea House',
@@ -974,7 +1370,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-27-83',
+    id: '2013-10-27-81',
     artist: 'Billy Strings',
     date: '2013-10-27',
     venue: 'Sheraton Westport Plaza Hotel (Michigan Madness)',
@@ -986,7 +1382,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-27-84',
+    id: '2013-10-27-82',
     artist: 'Billy Strings',
     date: '2013-10-27',
     venue: 'Sheraton Westport Plaza Hotel (Michigan Madness - Late Night)',
@@ -998,7 +1394,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-10-27-85',
+    id: '2013-10-27-83',
     artist: 'Billy Strings',
     date: '2013-10-27',
     venue: 'KC Cafe Radio',
@@ -1010,7 +1406,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-11-07-86',
+    id: '2013-11-07-84',
     artist: 'Billy Strings',
     date: '2013-11-07',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1022,7 +1418,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-11-14-87',
+    id: '2013-11-14-85',
     artist: 'Billy Strings',
     date: '2013-11-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1034,7 +1430,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-11-27-88',
+    id: '2013-11-27-86',
     artist: 'Billy Strings',
     date: '2013-11-27',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1046,7 +1442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-11-30-89',
+    id: '2013-11-30-87',
     artist: 'Billy Strings',
     date: '2013-11-30',
     venue: 'City Park Grill',
@@ -1058,7 +1454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-05-90',
+    id: '2013-12-05-88',
     artist: 'Billy Strings',
     date: '2013-12-05',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1070,7 +1466,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-07-91',
+    id: '2013-12-07-89',
     artist: 'Billy Strings',
     date: '2013-12-07',
     venue: 'The Workshop Brewing Company',
@@ -1082,7 +1478,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-10-92',
+    id: '2013-12-10-90',
     artist: 'Billy Strings',
     date: '2013-12-10',
     venue: 'Red Mesa Grill',
@@ -1094,10 +1490,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-11-93',
+    id: '2013-12-11-91',
     artist: 'Billy Strings',
     date: '2013-12-11',
-    venue: 'Pearl\'s New Orleans Kitchen',
+    venue: 'Pearl's New Orleans Kitchen',
     city: 'Elk Rapids',
     state: 'MI',
     year: 2013,
@@ -1106,7 +1502,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-12-94',
+    id: '2013-12-12-92',
     artist: 'Billy Strings',
     date: '2013-12-12',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1118,7 +1514,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-14-95',
+    id: '2013-12-14-93',
     artist: 'Billy Strings',
     date: '2013-12-14',
     venue: 'InsideOut Gallery',
@@ -1130,7 +1526,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-19-96',
+    id: '2013-12-19-94',
     artist: 'Billy Strings',
     date: '2013-12-19',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1142,7 +1538,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2013-12-26-97',
+    id: '2013-12-26-95',
     artist: 'Billy Strings',
     date: '2013-12-26',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1154,7 +1550,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-01-09-99',
+    id: '2014-01-09-96',
     artist: 'Billy Strings',
     date: '2014-01-09',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1166,7 +1562,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-01-16-100',
+    id: '2014-01-16-97',
     artist: 'Billy Strings',
     date: '2014-01-16',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1178,7 +1574,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-01-23-101',
+    id: '2014-01-23-98',
     artist: 'Billy Strings',
     date: '2014-01-23',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1190,7 +1586,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-01-30-102',
+    id: '2014-01-30-99',
     artist: 'Billy Strings',
     date: '2014-01-30',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1202,7 +1598,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-01-31-103',
+    id: '2014-01-31-100',
     artist: 'Billy Strings',
     date: '2014-01-31',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1214,10 +1610,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-05-104',
+    id: '2014-02-05-101',
     artist: 'Billy Strings',
     date: '2014-02-05',
-    venue: 'Pearl\'s New Orleans Kitchen',
+    venue: 'Pearl's New Orleans Kitchen',
     city: 'Elk Rapids',
     state: 'MI',
     year: 2014,
@@ -1226,7 +1622,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-06-105',
+    id: '2014-02-06-102',
     artist: 'Billy Strings',
     date: '2014-02-06',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1238,7 +1634,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-07-106',
+    id: '2014-02-07-103',
     artist: 'Billy Strings',
     date: '2014-02-07',
     venue: 'Left Foot Charley',
@@ -1250,7 +1646,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-08-107',
+    id: '2014-02-08-104',
     artist: 'Billy Strings',
     date: '2014-02-08',
     venue: 'Grand Traverse Commons',
@@ -1262,7 +1658,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-13-108',
+    id: '2014-02-13-105',
     artist: 'Billy Strings',
     date: '2014-02-13',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1274,7 +1670,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-25-109',
+    id: '2014-02-25-106',
     artist: 'Billy Strings',
     date: '2014-02-25',
     venue: 'Northern Natural LLC',
@@ -1286,7 +1682,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-27-110',
+    id: '2014-02-27-107',
     artist: 'Billy Strings',
     date: '2014-02-27',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1298,10 +1694,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-02-28-111',
+    id: '2014-02-28-108',
     artist: 'Billy Strings',
     date: '2014-02-28',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -1310,7 +1706,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-01-112',
+    id: '2014-03-01-109',
     artist: 'Billy Strings',
     date: '2014-03-01',
     venue: 'Poppycocks',
@@ -1322,7 +1718,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-06-113',
+    id: '2014-03-06-110',
     artist: 'Billy Strings',
     date: '2014-03-06',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1334,7 +1730,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-13-114',
+    id: '2014-03-13-111',
     artist: 'Billy Strings',
     date: '2014-03-13',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1346,10 +1742,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-14-115',
+    id: '2014-03-14-112',
     artist: 'Billy Strings',
     date: '2014-03-14',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -1358,7 +1754,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-15-116',
+    id: '2014-03-15-113',
     artist: 'Billy Strings',
     date: '2014-03-15',
     venue: 'The Workshop Brewing Company',
@@ -1370,7 +1766,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-03-20-117',
+    id: '2014-03-20-114',
     artist: 'Billy Strings',
     date: '2014-03-20',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1382,7 +1778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-04-10-118',
+    id: '2014-04-10-115',
     artist: 'Billy Strings',
     date: '2014-04-10',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1394,7 +1790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-04-24-119',
+    id: '2014-04-24-116',
     artist: 'Billy Strings',
     date: '2014-04-24',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1406,10 +1802,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-04-25-120',
+    id: '2014-04-25-117',
     artist: 'Billy Strings',
     date: '2014-04-25',
-    venue: 'Bell\'s Eccentric Cafe Back Room',
+    venue: 'Bell's Eccentric Cafe Back Room',
     city: 'Kalamazoo',
     state: 'MI',
     year: 2014,
@@ -1418,10 +1814,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-04-26-121',
+    id: '2014-04-26-118',
     artist: 'Billy Strings',
     date: '2014-04-26',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -1430,7 +1826,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-01-122',
+    id: '2014-05-01-119',
     artist: 'Billy Strings',
     date: '2014-05-01',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1442,7 +1838,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-02-123',
+    id: '2014-05-02-120',
     artist: 'Billy Strings',
     date: '2014-05-02',
     venue: 'Left Foot Charley',
@@ -1454,7 +1850,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-03-124',
+    id: '2014-05-03-121',
     artist: 'Billy Strings',
     date: '2014-05-03',
     venue: 'Private Event',
@@ -1466,7 +1862,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-04-125',
+    id: '2014-05-04-122',
     artist: 'Billy Strings',
     date: '2014-05-04',
     venue: 'Community Church',
@@ -1478,7 +1874,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-04-126',
+    id: '2014-05-04-123',
     artist: 'Billy Strings',
     date: '2014-05-04',
     venue: 'Beacon Place Benefit Concert',
@@ -1490,7 +1886,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-06-127',
+    id: '2014-05-06-124',
     artist: 'Billy Strings',
     date: '2014-05-06',
     venue: 'Mass Street Music',
@@ -1502,7 +1898,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-07-128',
+    id: '2014-05-07-125',
     artist: 'Billy Strings',
     date: '2014-05-07',
     venue: 'Front Range BBQ',
@@ -1514,7 +1910,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-08-129',
+    id: '2014-05-08-126',
     artist: 'Billy Strings',
     date: '2014-05-08',
     venue: 'Ted Farha House Concert',
@@ -1526,7 +1922,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-13-130',
+    id: '2014-05-13-127',
     artist: 'Billy Strings',
     date: '2014-05-13',
     venue: 'Long Meadow Ranch',
@@ -1538,7 +1934,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-14-131',
+    id: '2014-05-14-128',
     artist: 'Billy Strings',
     date: '2014-05-14',
     venue: 'Dan Baron House Concert',
@@ -1550,7 +1946,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-15-132',
+    id: '2014-05-15-129',
     artist: 'Billy Strings',
     date: '2014-05-15',
     venue: 'Tsunami Books',
@@ -1562,10 +1958,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-18-133',
+    id: '2014-05-18-130',
     artist: 'Billy Strings',
     date: '2014-05-18',
-    venue: 'Abbie Weisenbloom\'s House Concerts',
+    venue: 'Abbie Weisenbloom's House Concerts',
     city: 'Portland',
     state: 'OR',
     year: 2014,
@@ -1574,7 +1970,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-19-134',
+    id: '2014-05-19-131',
     artist: 'Billy Strings',
     date: '2014-05-19',
     venue: 'The Green Frog',
@@ -1586,7 +1982,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-21-135',
+    id: '2014-05-21-132',
     artist: 'Billy Strings',
     date: '2014-05-21',
     venue: 'Twisted Pine Brewing Company',
@@ -1598,19 +1994,67 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-22-136',
+    id: '2014-05-22-133',
     artist: 'Billy Strings',
     date: '2014-05-22',
     venue: 'The Stage at KDHX',
     city: 'St. Louis',
     state: 'OR',
     year: 2014,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/7HsHT1GzzEU',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-23-137',
+    id: '2014-05-22-bonus-134-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-05-22',
+    venue: 'The Stage at KDHX (Part 2)',
+    city: 'St. Louis',
+    state: 'OR',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/yiBJTIXQXUk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-05-22-bonus-134-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-05-22',
+    venue: 'The Stage at KDHX (Part 3)',
+    city: 'St. Louis',
+    state: 'OR',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/HqBj4TgJCbM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-05-22-bonus-134-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-05-22',
+    venue: 'The Stage at KDHX (Part 4)',
+    city: 'St. Louis',
+    state: 'OR',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/_8VLLncH4DM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-05-22-bonus-134-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-05-22',
+    venue: 'The Stage at KDHX (Part 5)',
+    city: 'St. Louis',
+    state: 'OR',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/aIQfNIVTutg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-05-23-134',
     artist: 'Billy Strings',
     date: '2014-05-23',
     venue: 'Live and Local',
@@ -1622,7 +2066,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-23-138',
+    id: '2014-05-23-135',
     artist: 'Billy Strings',
     date: '2014-05-23',
     venue: 'Rose Bowl Tavern',
@@ -1634,7 +2078,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-24-139',
+    id: '2014-05-24-136',
     artist: 'Billy Strings',
     date: '2014-05-24',
     venue: 'Wheatland Music Organization',
@@ -1646,7 +2090,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-29-140',
+    id: '2014-05-29-137',
     artist: 'Billy Strings',
     date: '2014-05-29',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1658,10 +2102,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-30-141',
+    id: '2014-05-30-138',
     artist: 'Billy Strings',
     date: '2014-05-30',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -1670,7 +2114,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-05-31-142',
+    id: '2014-05-31-139',
     artist: 'Billy Strings',
     date: '2014-05-31',
     venue: 'The Cabbage Shed',
@@ -1682,7 +2126,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-06-05-143',
+    id: '2014-06-05-140',
     artist: 'Billy Strings',
     date: '2014-06-05',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1694,7 +2138,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-06-12-144',
+    id: '2014-06-12-141',
     artist: 'Billy Strings',
     date: '2014-06-12',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1706,7 +2150,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-06-17-145',
+    id: '2014-06-17-142',
     artist: 'Billy Strings & Don Julin',
     date: '2014-06-17',
     venue: 'Fountain Point',
@@ -1718,7 +2162,175 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-06-19-146',
+    id: '2014-06-17-bonus-143-0',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 1)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/3Q2hAFpZZnk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-1',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 2)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/-4rQNE3xT58',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-2',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 3)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/eKCG8poeDcU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-3',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 4)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/6URNXDPjf5M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-4',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 5)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/sUXhU7TopHQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-5',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 6)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/TDgli7ByHCU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-6',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 7)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/dVS7oUuMt3A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-7',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 8)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/mvBerXuTrvg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-8',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 9)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/MzM8otXlTMo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-9',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 10)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/mN3ehx8lXOo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-10',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 11)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/P1-AQfpTOQo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-11',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 12)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/5syArdPucXc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-12',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 13)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/8cpfg2CKmF4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-17-bonus-143-13',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-06-17',
+    venue: 'Fountain Point (Part 14)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/7BpIO3PVu3o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-06-19-143',
     artist: 'Billy Strings',
     date: '2014-06-19',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1730,7 +2342,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-02-147',
+    id: '2014-07-02-144',
     artist: 'Billy Strings',
     date: '2014-07-02',
     venue: 'Fountain Point',
@@ -1742,34 +2354,46 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-12-148',
+    id: '2014-07-12-145',
     artist: 'Billy Strings & Don Julin',
     date: '2014-07-12',
-    venue: 'Natural Chimneys Park - Southern Stage, Redwing Roots Festival',
-    city: 'Mount Solon',
-    state: 'VA',
+    venue: 'Natural Chimneys Park - Southern Stage',
+    city: 'Redwing Roots Festival',
+    state: 'Mount Solon',
     year: 2014,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-16-149',
+    id: '2014-07-16-146',
     artist: 'Billy Strings',
     date: '2014-07-16',
     venue: 'Fountain Point',
     city: 'Lake Leelanau',
     state: 'MI',
     year: 2014,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/MzsCxDgWigE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-21-150',
+    id: '2014-07-16-bonus-147-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-07-16',
+    venue: 'Fountain Point (Part 2)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/sV3YHnhjCY8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-07-21-147',
     artist: 'Billy Strings',
     date: '2014-07-21',
-    venue: 'Mario Batali\'s House',
+    venue: 'Mario Batali's House',
     city: 'Lake Leelanau',
     state: 'MI',
     year: 2014,
@@ -1778,7 +2402,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-22-151',
+    id: '2014-07-22-148',
     artist: 'Billy Strings',
     date: '2014-07-22',
     venue: 'The Ark',
@@ -1790,7 +2414,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-30-152',
+    id: '2014-07-30-149',
     artist: 'Billy Strings',
     date: '2014-07-30',
     venue: 'Fountain Point',
@@ -1802,7 +2426,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-07-31-153',
+    id: '2014-07-31-150',
     artist: 'Billy Strings',
     date: '2014-07-31',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1814,10 +2438,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-01-154',
+    id: '2014-08-01-151',
     artist: 'Billy Strings',
     date: '2014-08-01',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -1826,7 +2450,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-03-155',
+    id: '2014-08-03-152',
     artist: 'Billy Strings',
     date: '2014-08-03',
     venue: 'Glen Arbor Arts Center',
@@ -1838,7 +2462,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-05-156',
+    id: '2014-08-05-153',
     artist: 'Billy Strings & Don Julin',
     date: '2014-08-05',
     venue: 'Fountain Point',
@@ -1850,7 +2474,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-06-157',
+    id: '2014-08-05-bonus-154-0',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-08-05',
+    venue: 'Fountain Point (Part 1)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/OYUPEy_DYuU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-05-bonus-154-1',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-08-05',
+    venue: 'Fountain Point (Part 2)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/BoRZ0GaLKok',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-05-bonus-154-2',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2014-08-05',
+    venue: 'Fountain Point (Part 3)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/owYrYemdUk4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-06-154',
     artist: 'Billy Strings',
     date: '2014-08-06',
     venue: 'Lelu Cafe',
@@ -1862,7 +2522,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-07-158',
+    id: '2014-08-07-155',
     artist: 'Billy Strings',
     date: '2014-08-07',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1874,7 +2534,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-08-159',
+    id: '2014-08-08-156',
     artist: 'Billy Strings',
     date: '2014-08-08',
     venue: 'The Cabbage Shed',
@@ -1886,7 +2546,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-09-160',
+    id: '2014-08-09-157',
     artist: 'Billy Strings',
     date: '2014-08-09',
     venue: 'The Cabbage Shed',
@@ -1898,7 +2558,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-10-161',
+    id: '2014-08-10-158',
     artist: 'Billy Strings',
     date: '2014-08-10',
     venue: 'Bluestone Vineyards',
@@ -1910,7 +2570,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-13-162',
+    id: '2014-08-13-159',
     artist: 'Billy Strings',
     date: '2014-08-13',
     venue: 'Old City Park',
@@ -1922,7 +2582,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-14-163',
+    id: '2014-08-14-160',
     artist: 'Billy Strings',
     date: '2014-08-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1934,43 +2594,199 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-16-164',
+    id: '2014-08-16-161',
     artist: 'Billy Strings & Don Julin',
     date: '2014-08-16',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2014,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-17-165',
+    id: '2014-08-17-162',
     artist: 'Billy Strings & Don Julin',
     date: '2014-08-17',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2014,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-19-166',
+    id: '2014-08-19-163',
     artist: 'Billy Strings',
     date: '2014-08-19',
     venue: 'Fountain Point',
     city: 'Lake Leelanau',
     state: 'MI',
     year: 2014,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Hsp5LpVjj90',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-21-167',
+    id: '2014-08-19-bonus-164-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 2)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/hZf2J_0hJQY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 3)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/YW1p5fdOn20',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 4)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/UH5RuUbFAg0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 5)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/bJ2XBYC9kEE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 6)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/5bc3rPMPkPI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 7)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/T-_ZcPoEjDA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 8)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/xcCqF1wBTKU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 9)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/qI7juMSUI2s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 10)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/0lGdgUdwPB4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 11)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/htv7zQ4LZXg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 12)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/lLDgUyY8Sxo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 13)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/mVcM6iEDgQ0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-19-bonus-164-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-08-19',
+    venue: 'Fountain Point (Part 14)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/qwGpuWGL8do',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-08-21-164',
     artist: 'Billy Strings',
     date: '2014-08-21',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1982,7 +2798,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-08-28-168',
+    id: '2014-08-28-165',
     artist: 'Billy Strings',
     date: '2014-08-28',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -1994,7 +2810,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-09-04-169',
+    id: '2014-09-04-166',
     artist: 'Billy Strings',
     date: '2014-09-04',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2006,7 +2822,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-09-18-170',
+    id: '2014-09-18-167',
     artist: 'Billy Strings',
     date: '2014-09-18',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2018,31 +2834,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-02-171',
+    id: '2014-10-02-168',
     artist: 'Billy Strings',
     date: '2014-10-02',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2014,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-03-172',
+    id: '2014-10-03-169',
     artist: 'Billy Strings',
     date: '2014-10-03',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2014,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-04-173',
+    id: '2014-10-04-170',
     artist: 'Billy Strings',
     date: '2014-10-04',
     venue: 'City Plaza',
@@ -2054,7 +2870,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-09-174',
+    id: '2014-10-09-171',
     artist: 'Billy Strings',
     date: '2014-10-09',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2066,7 +2882,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-10-175',
+    id: '2014-10-10-172',
     artist: 'Billy Strings',
     date: '2014-10-10',
     venue: 'Rockford Brewing Company',
@@ -2078,7 +2894,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-11-176',
+    id: '2014-10-11-173',
     artist: 'Billy Strings',
     date: '2014-10-11',
     venue: 'Ludington Octoberfest',
@@ -2090,7 +2906,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-11-177',
+    id: '2014-10-11-174',
     artist: 'Billy Strings',
     date: '2014-10-11',
     venue: 'The Mitten Bar',
@@ -2102,7 +2918,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-23-178',
+    id: '2014-10-23-175',
     artist: 'Billy Strings',
     date: '2014-10-23',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2114,7 +2930,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-10-30-179',
+    id: '2014-10-30-176',
     artist: 'Billy Strings',
     date: '2014-10-30',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2126,7 +2942,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-15-180',
+    id: '2014-11-15-177',
     artist: 'Billy Strings',
     date: '2014-11-15',
     venue: 'City Winery',
@@ -2138,7 +2954,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-16-181',
+    id: '2014-11-16-178',
     artist: 'Billy Strings',
     date: '2014-11-16',
     venue: 'City Winery',
@@ -2150,7 +2966,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-20-182',
+    id: '2014-11-20-179',
     artist: 'Billy Strings',
     date: '2014-11-20',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2162,7 +2978,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-21-183',
+    id: '2014-11-21-180',
     artist: 'Billy Strings',
     date: '2014-11-21',
     venue: 'The Cabbage Shed',
@@ -2174,7 +2990,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-22-184',
+    id: '2014-11-22-181',
     artist: 'Billy Strings',
     date: '2014-11-22',
     venue: 'The Workshop Brewing Company',
@@ -2186,7 +3002,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-26-185',
+    id: '2014-11-26-182',
     artist: 'Billy Strings',
     date: '2014-11-26',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2198,10 +3014,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-28-186',
+    id: '2014-11-28-183',
     artist: 'Billy Strings',
     date: '2014-11-28',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -2210,7 +3026,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-11-29-187',
+    id: '2014-11-29-184',
     artist: 'Billy Strings',
     date: '2014-11-29',
     venue: 'Grosse Point Park',
@@ -2222,7 +3038,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-04-188',
+    id: '2014-12-04-185',
     artist: 'Billy Strings',
     date: '2014-12-04',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2234,7 +3050,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-05-189',
+    id: '2014-12-05-186',
     artist: 'Billy Strings',
     date: '2014-12-05',
     venue: 'Left Foot Charley',
@@ -2246,7 +3062,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-06-190',
+    id: '2014-12-06-187',
     artist: 'Billy Strings',
     date: '2014-12-06',
     venue: 'Lelu Cafe',
@@ -2258,7 +3074,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-09-191',
+    id: '2014-12-09-188',
     artist: 'Billy Strings',
     date: '2014-12-09',
     venue: 'Red Mesa Grill',
@@ -2270,7 +3086,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-11-192',
+    id: '2014-12-11-189',
     artist: 'Billy Strings',
     date: '2014-12-11',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2282,7 +3098,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-12-193',
+    id: '2014-12-12-190',
     artist: 'Billy Strings',
     date: '2014-12-12',
     venue: 'The Cabbage Shed',
@@ -2294,19 +3110,79 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-13-194',
+    id: '2014-12-13-191',
     artist: 'Billy Strings',
     date: '2014-12-13',
     venue: 'The Mitten Bar',
     city: 'Ludington',
     state: 'MI',
     year: 2014,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/3yq0B5neH2o',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-18-195',
+    id: '2014-12-13-bonus-192-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-13',
+    venue: 'The Mitten Bar (Part 2)',
+    city: 'Ludington',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/0VHPTms2hrg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-13-bonus-192-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-13',
+    venue: 'The Mitten Bar (Part 3)',
+    city: 'Ludington',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/oKg9tgqW3pI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-13-bonus-192-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-13',
+    venue: 'The Mitten Bar (Part 4)',
+    city: 'Ludington',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/qpSRwmRDte0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-13-bonus-192-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-13',
+    venue: 'The Mitten Bar (Part 5)',
+    city: 'Ludington',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/GtAXspwybI4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-13-bonus-192-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-13',
+    venue: 'The Mitten Bar (Part 6)',
+    city: 'Ludington',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/uvCXj0xOIlQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-18-192',
     artist: 'Billy Strings',
     date: '2014-12-18',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2318,7 +3194,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-19-196',
+    id: '2014-12-19-193',
     artist: 'Billy Strings',
     date: '2014-12-19',
     venue: 'Rockford Brewing Company',
@@ -2330,7 +3206,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-20-197',
+    id: '2014-12-20-194',
     artist: 'Billy Strings',
     date: '2014-12-20',
     venue: 'Founders Brewing Company',
@@ -2342,22 +3218,346 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-26-198',
+    id: '2014-12-26-195',
     artist: 'Billy Strings',
     date: '2014-12-26',
     venue: 'The Workshop Brewing Company',
     city: 'Traverse City',
     state: 'MI',
     year: 2014,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/MTbZEuT2iek',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2014-12-27-199',
+    id: '2014-12-26-bonus-196-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 2)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/XFoTfYL8dKw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 3)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/b-DGZ-dCmr0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 4)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/pn1Pa051Ksw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 5)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/Xfo1Rel7UJ0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 6)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/j-PmdCLuA3E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 7)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/raby8KzBgs8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 8)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/Z49XUn-dxIA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 9)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/_mX9u85ta_E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 10)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/qjEKhRDOCe0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 11)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/TdKl-IEF7Z8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 12)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/gIlYVSS0GrQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 13)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/3KP107kN6IA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 14)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/chQWoaAufSY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 15)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/o8OlcEMDc8k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 16)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/uaEyr8k1FvE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 17)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/vFm2q9r7FLk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 18)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/LgILjznQngI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 19)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/Gwz_0xdSCVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 20)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/7_DO2yb7cYI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 21)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/FSHdpK-Iofk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 22)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/qHhdHtAV-k8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 23)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/WEvDzbUczYU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 24)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/8n3hwHlM5ak',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 25)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/yLsImfUn1fQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 26)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/tRR2_6s6YRY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 27)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/vtzSidDT9y4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-26-bonus-196-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2014-12-26',
+    venue: 'The Workshop Brewing Company (Part 28)',
+    city: 'Traverse City',
+    state: 'MI',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/dJhIK8DW4Vs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2014-12-27-196',
     artist: 'Billy Strings',
     date: '2014-12-27',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2014,
@@ -2366,7 +3566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-08-201',
+    id: '2015-01-08-197',
     artist: 'Billy Strings',
     date: '2015-01-08',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2378,7 +3578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-09-202',
+    id: '2015-01-09-198',
     artist: 'Billy Strings',
     date: '2015-01-09',
     venue: 'Trinity House Theatre',
@@ -2390,19 +3590,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-10-203',
+    id: '2015-01-10-199',
     artist: 'Billy Strings',
     date: '2015-01-10',
     venue: 'The Intersection',
     city: 'Grand Rapids',
     state: 'MI',
     year: 2015,
-    videoUrl: 'https://www.youtube.com/embed/oKg9tgqW3pI',
+    videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-16-204',
+    id: '2015-01-16-200',
     artist: 'Billy Strings',
     date: '2015-01-16',
     venue: 'Hotel Winneshiek',
@@ -2414,10 +3614,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-17-205',
+    id: '2015-01-17-201',
     artist: 'Billy Strings',
     date: '2015-01-17',
-    venue: 'River\'s Edge Gallery',
+    venue: 'River's Edge Gallery',
     city: 'Muscatine',
     state: 'IA',
     year: 2015,
@@ -2426,7 +3626,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-18-206',
+    id: '2015-01-18-202',
     artist: 'Billy Strings',
     date: '2015-01-18',
     venue: 'Community Church',
@@ -2438,7 +3638,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-19-207',
+    id: '2015-01-19-203',
     artist: 'Billy Strings',
     date: '2015-01-19',
     venue: 'Dakota Jazz Club',
@@ -2450,7 +3650,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-21-208',
+    id: '2015-01-21-204',
     artist: 'Billy Strings',
     date: '2015-01-21',
     venue: 'City Winery',
@@ -2462,7 +3662,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-22-209',
+    id: '2015-01-22-205',
     artist: 'Billy Strings',
     date: '2015-01-22',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2474,7 +3674,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-29-210',
+    id: '2015-01-29-206',
     artist: 'Billy Strings',
     date: '2015-01-29',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2486,7 +3686,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-01-31-211',
+    id: '2015-01-31-207',
     artist: 'Billy Strings',
     date: '2015-01-31',
     venue: 'Happy Days Lodge',
@@ -2498,7 +3698,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-05-212',
+    id: '2015-02-05-208',
     artist: 'Billy Strings',
     date: '2015-02-05',
     venue: 'Whiskey Jacks at Big Sky Resort',
@@ -2510,7 +3710,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-06-213',
+    id: '2015-02-06-209',
     artist: 'Billy Strings',
     date: '2015-02-06',
     venue: 'Carabiner Lounge',
@@ -2522,7 +3722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-07-214',
+    id: '2015-02-07-210',
     artist: 'Billy Strings',
     date: '2015-02-07',
     venue: 'Carabiner Lounge',
@@ -2534,7 +3734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-12-215',
+    id: '2015-02-12-211',
     artist: 'Billy Strings',
     date: '2015-02-12',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2546,7 +3746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-13-216',
+    id: '2015-02-13-212',
     artist: 'Billy Strings',
     date: '2015-02-13',
     venue: 'The Intersection',
@@ -2558,7 +3758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-14-217',
+    id: '2015-02-14-213',
     artist: 'Billy Strings',
     date: '2015-02-14',
     venue: 'The Workshop Brewing Company',
@@ -2570,7 +3770,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-15-218',
+    id: '2015-02-15-214',
     artist: 'Billy Strings',
     date: '2015-02-15',
     venue: 'The Leelandau Community Cultural Center',
@@ -2582,7 +3782,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-19-219',
+    id: '2015-02-19-215',
     artist: 'Billy Strings',
     date: '2015-02-19',
     venue: 'Sheraton Kansas City Hotel',
@@ -2594,7 +3794,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-19-220',
+    id: '2015-02-19-216',
     artist: 'Billy Strings',
     date: '2015-02-19',
     venue: 'The Westin Kansas City Hotel',
@@ -2606,7 +3806,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-25-221',
+    id: '2015-02-25-217',
     artist: 'Billy Strings',
     date: '2015-02-25',
     venue: 'Nectar Lounge',
@@ -2618,7 +3818,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-26-222',
+    id: '2015-02-26-218',
     artist: 'Billy Strings',
     date: '2015-02-26',
     venue: 'The Hyatt Regency Bellevue - Grand Ballroom',
@@ -2630,7 +3830,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-26-223',
+    id: '2015-02-26-219',
     artist: 'Billy Strings',
     date: '2015-02-26',
     venue: 'The Hyatt Regency Bellevue - Regency Ballroom',
@@ -2642,7 +3842,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-27-224',
+    id: '2015-02-27-220',
     artist: 'Billy Strings & Don Julin',
     date: '2015-02-27',
     venue: 'The Hyatt Regency Bellevue - Larch Room',
@@ -2654,7 +3854,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-02-28-225',
+    id: '2015-02-28-221',
     artist: 'Billy Strings & Don Julin',
     date: '2015-02-28',
     venue: 'The Hyatt Regency Bellevue - Evergreen Ballroom',
@@ -2666,7 +3866,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-04-226',
+    id: '2015-03-04-222',
     artist: 'Billy Strings',
     date: '2015-03-04',
     venue: 'Tsunami Books',
@@ -2678,7 +3878,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-05-227',
+    id: '2015-03-05-223',
     artist: 'Billy Strings',
     date: '2015-03-05',
     venue: 'String Theory Music',
@@ -2690,7 +3890,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-06-228',
+    id: '2015-03-06-224',
     artist: 'Billy Strings',
     date: '2015-03-06',
     venue: 'The Green Frog',
@@ -2702,10 +3902,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-07-229',
+    id: '2015-03-07-225',
     artist: 'Billy Strings',
     date: '2015-03-07',
-    venue: 'Abbie Weisenbloom\'s House Concerts',
+    venue: 'Abbie Weisenbloom's House Concerts',
     city: 'Portland',
     state: 'OR',
     year: 2015,
@@ -2714,7 +3914,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-08-230',
+    id: '2015-03-08-226',
     artist: 'Billy Strings',
     date: '2015-03-08',
     venue: 'Canyon Arts Center',
@@ -2726,7 +3926,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-10-231',
+    id: '2015-03-10-227',
     artist: 'Billy Strings',
     date: '2015-03-10',
     venue: 'House Concert',
@@ -2738,7 +3938,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-11-232',
+    id: '2015-03-11-228',
     artist: 'Billy Strings',
     date: '2015-03-11',
     venue: 'House Concert',
@@ -2750,7 +3950,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-12-233',
+    id: '2015-03-12-229',
     artist: 'Billy Strings',
     date: '2015-03-12',
     venue: 'House Concert',
@@ -2762,7 +3962,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-15-234',
+    id: '2015-03-15-230',
     artist: 'Billy Strings & Don Julin',
     date: '2015-03-15',
     venue: 'City Winery',
@@ -2774,7 +3974,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-19-235',
+    id: '2015-03-19-231',
     artist: 'Billy Strings',
     date: '2015-03-19',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2786,7 +3986,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-20-236',
+    id: '2015-03-20-232',
     artist: 'Billy Strings',
     date: '2015-03-20',
     venue: 'MSU Community Music School',
@@ -2798,7 +3998,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-21-237',
+    id: '2015-03-21-233',
     artist: 'Billy Strings',
     date: '2015-03-21',
     venue: 'The Kalamazoo Valley Museum',
@@ -2810,7 +4010,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-26-238',
+    id: '2015-03-26-234',
     artist: 'Billy Strings',
     date: '2015-03-26',
     venue: 'The Music Box',
@@ -2822,19 +4022,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-27-239',
+    id: '2015-03-27-235',
     artist: 'Billy Strings',
     date: '2015-03-27',
     venue: 'Frontier Ranch',
     city: 'Patsakala',
     state: 'OH',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/YjA-h1EuPiU',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-03-28-240',
+    id: '2015-03-27-bonus-236-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-03-27',
+    venue: 'Frontier Ranch (Part 2)',
+    city: 'Patsakala',
+    state: 'OH',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/wP9FZojVO3c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-03-28-236',
     artist: 'Billy Strings',
     date: '2015-03-28',
     venue: 'Riverdog Retreat',
@@ -2846,7 +4058,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-02-241',
+    id: '2015-04-02-237',
     artist: 'Billy Strings',
     date: '2015-04-02',
     venue: 'Marble Valley Correctional Facility',
@@ -2858,7 +4070,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-03-242',
+    id: '2015-04-03-238',
     artist: 'Billy Strings',
     date: '2015-04-03',
     venue: 'Caffe Lena',
@@ -2870,7 +4082,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-04-243',
+    id: '2015-04-04-239',
     artist: 'Billy Strings',
     date: '2015-04-04',
     venue: 'Harmony Presents',
@@ -2882,31 +4094,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-10-244',
+    id: '2015-04-10-240',
     artist: 'Billy Strings',
     date: '2015-04-10',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-11-245',
+    id: '2015-04-11-241',
     artist: 'Billy Strings',
     date: '2015-04-11',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-14-246',
+    id: '2015-04-14-242',
     artist: 'Billy Strings',
     date: '2015-04-14',
     venue: 'The Pour House',
@@ -2918,19 +4130,127 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-15-247',
+    id: '2015-04-15-243',
     artist: 'Billy Strings',
     date: '2015-04-15',
     venue: 'RJ Rockers Brewing Company',
     city: 'Spartansburg',
     state: 'SC',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/dYDCIekfNG4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-18-248',
+    id: '2015-04-15-bonus-244-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 2)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/W57rpwrEBxM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 3)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/M5JOB38OWCg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 4)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/SnvsvImnQ9o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 5)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/57XEnDzG6KM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 6)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Rb66b9KeuxA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 7)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hUhGwP3zcIE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 8)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/6sZWXfFBKwU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 9)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Uy2VvYMa-9A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-15-bonus-244-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-04-15',
+    venue: 'RJ Rockers Brewing Company (Part 10)',
+    city: 'Spartansburg',
+    state: 'SC',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ibsc52jfC-I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-04-18-244',
     artist: 'Billy Strings',
     date: '2015-04-18',
     venue: 'Cuegrass Festival',
@@ -2942,7 +4262,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-22-249',
+    id: '2015-04-22-245',
     artist: 'Billy Strings',
     date: '2015-04-22',
     venue: 'Northern Natural Cider House',
@@ -2954,7 +4274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-23-250',
+    id: '2015-04-23-246',
     artist: 'Billy Strings',
     date: '2015-04-23',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -2966,7 +4286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-24-251',
+    id: '2015-04-24-247',
     artist: 'Billy Strings',
     date: '2015-04-24',
     venue: 'The Ark',
@@ -2978,7 +4298,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-25-252',
+    id: '2015-04-25-248',
     artist: 'Billy Strings',
     date: '2015-04-25',
     venue: 'Stormcloud Brewing Company',
@@ -2990,7 +4310,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-04-30-253',
+    id: '2015-04-30-249',
     artist: 'Billy Strings',
     date: '2015-04-30',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3002,19 +4322,67 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-01-254',
+    id: '2015-05-01-250',
     artist: 'Billy Strings',
     date: '2015-05-01',
     venue: 'Space',
     city: 'Evanston',
     state: 'IL',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/esVKqI9U9OE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-02-255',
+    id: '2015-05-01-bonus-251-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-05-01',
+    venue: 'Space (Part 2)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/wCXBCCqAiY0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-05-01-bonus-251-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-05-01',
+    venue: 'Space (Part 3)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/CfhENVkUlOo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-05-01-bonus-251-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-05-01',
+    venue: 'Space (Part 4)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/s9CNlq-PSpg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-05-01-bonus-251-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-05-01',
+    venue: 'Space (Part 5)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/FJHE82-lXYQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-05-02-251',
     artist: 'Billy Strings',
     date: '2015-05-02',
     venue: 'The Workshop Brewing Company',
@@ -3026,7 +4394,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-06-256',
+    id: '2015-05-06-252',
     artist: 'Billy Strings',
     date: '2015-05-06',
     venue: 'International Bluegrass Music Meseum',
@@ -3038,7 +4406,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-09-257',
+    id: '2015-05-09-253',
     artist: 'Billy Strings',
     date: '2015-05-09',
     venue: 'Indy Folk Series',
@@ -3050,7 +4418,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-14-258',
+    id: '2015-05-14-254',
     artist: 'Billy Strings',
     date: '2015-05-14',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3062,7 +4430,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-15-259',
+    id: '2015-05-15-255',
     artist: 'Billy Strings',
     date: '2015-05-15',
     venue: 'Rockford Brewing Company',
@@ -3074,7 +4442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-16-260',
+    id: '2015-05-16-256',
     artist: 'Billy Strings',
     date: '2015-05-16',
     venue: 'Empire Asparagus Festival',
@@ -3086,7 +4454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-17-261',
+    id: '2015-05-17-257',
     artist: 'Billy Strings',
     date: '2015-05-17',
     venue: 'Wheeler House Concert',
@@ -3098,7 +4466,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-21-262',
+    id: '2015-05-21-258',
     artist: 'Billy Strings',
     date: '2015-05-21',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3110,55 +4478,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-23-263',
+    id: '2015-05-23-259',
     artist: 'Billy Strings & Don Julin',
     date: '2015-05-23',
-    venue: 'Allegany County Fairgrounds, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-24-264',
+    id: '2015-05-24-260',
     artist: 'Billy Strings & Don Julin',
     date: '2015-05-24',
-    venue: 'Allegany County Fairgrounds, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-28-265',
+    id: '2015-05-28-261',
     artist: 'Billy Strings & Don Julin',
     date: '2015-05-28',
-    venue: 'Bill Monroe Memorial Park, John Hartford Memorial Music Festival',
-    city: 'Bean Blossom',
-    state: 'IN',
+    venue: 'Bill Monroe Memorial Park',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-05-30-266',
+    id: '2015-05-30-262',
     artist: 'Billy Strings & Don Julin',
     date: '2015-05-30',
-    venue: 'Bill Monroe Memorial Park - Main Stage, John Hartford Memorial Music Festival',
-    city: 'Bean Blossom',
-    state: 'IN',
+    venue: 'Bill Monroe Memorial Park - Main Stage',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom',
     year: 2015,
     videoUrl: 'https://drive.google.com/file/d/1L7fqrZ_NnvGuOntIPkb7eEFHdspcOkQx/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-04-267',
+    id: '2015-06-04-263',
     artist: 'Billy Strings',
     date: '2015-06-04',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3170,10 +4538,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-05-268',
+    id: '2015-06-05-264',
     artist: 'Billy Strings',
     date: '2015-06-05',
-    venue: 'Bell\'s Beer Garden',
+    venue: 'Bell's Beer Garden',
     city: 'Kalamazoo',
     state: 'MI',
     year: 2015,
@@ -3182,7 +4550,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-07-269',
+    id: '2015-06-07-265',
     artist: 'Billy Strings',
     date: '2015-06-07',
     venue: 'Red House Concert Series',
@@ -3194,10 +4562,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-10-270',
+    id: '2015-06-10-266',
     artist: 'Billy Strings',
     date: '2015-06-10',
-    venue: 'Short\'s Brewing Company',
+    venue: 'Short's Brewing Company',
     city: 'Bellaire',
     state: 'MI',
     year: 2015,
@@ -3206,7 +4574,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-11-271',
+    id: '2015-06-11-267',
     artist: 'Billy Strings',
     date: '2015-06-11',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3218,7 +4586,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-12-272',
+    id: '2015-06-12-268',
     artist: 'Billy Strings',
     date: '2015-06-12',
     venue: 'The Mitten Bar',
@@ -3230,7 +4598,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-13-273',
+    id: '2015-06-13-269',
     artist: 'Billy Strings',
     date: '2015-06-13',
     venue: 'The Workshop Brewing Company',
@@ -3242,7 +4610,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-14-274',
+    id: '2015-06-14-270',
     artist: 'Billy Strings',
     date: '2015-06-14',
     venue: 'Circle Pine Center',
@@ -3254,7 +4622,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-17-275',
+    id: '2015-06-17-271',
     artist: 'Billy Strings',
     date: '2015-06-17',
     venue: 'Fountain Point',
@@ -3266,7 +4634,115 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-18-276',
+    id: '2015-06-17-bonus-272-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 1)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/b08ENF4BzLU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 2)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/DJY5RjuHHDY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 3)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/7AsUzQ_YgOk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 4)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/MP-XZzVxjfM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 5)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/bvd2bO11lo4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 6)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/OPHPV9jXXDE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 7)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/b6W5LY5EizI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 8)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/6uO2waS2O3U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-17-bonus-272-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-06-17',
+    venue: 'Fountain Point (Part 9)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/LsxRoFdOIjY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-06-18-272',
     artist: 'Billy Strings & Don Julin',
     date: '2015-06-18',
     venue: 'Eaton County Fair - Early Set',
@@ -3278,7 +4754,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-18-277',
+    id: '2015-06-18-273',
     artist: 'Billy Strings',
     date: '2015-06-18',
     venue: 'Eaton County Fair - Late Set',
@@ -3290,10 +4766,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-19-278',
+    id: '2015-06-19-274',
     artist: 'Billy Strings',
     date: '2015-06-19',
-    venue: 'Johnny\'s Speakeasy',
+    venue: 'Johnny's Speakeasy',
     city: 'Ann Arbor',
     state: 'MI',
     year: 2015,
@@ -3302,7 +4778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-20-279',
+    id: '2015-06-20-275',
     artist: 'Billy Strings',
     date: '2015-06-20',
     venue: 'Founders Brewing Company',
@@ -3314,19 +4790,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-27-280',
+    id: '2015-06-27-276',
     artist: 'Billy Strings',
     date: '2015-06-27',
-    venue: 'Yellow Creek Park - Main Stage, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park - Main Stage',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-06-30-281',
+    id: '2015-06-30-277',
     artist: 'Billy Strings',
     date: '2015-06-30',
     venue: 'Montague Band Shell',
@@ -3338,7 +4814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-01-282',
+    id: '2015-07-01-278',
     artist: 'Billy Strings & Don Julin',
     date: '2015-07-01',
     venue: 'Fountain Point',
@@ -3350,7 +4826,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-02-283',
+    id: '2015-07-01-bonus-279-0',
+    artist: 'Billy Strings & Don Julin (Archive)',
+    date: '2015-07-01',
+    venue: 'Fountain Point (Part 1)',
+    city: 'Lake Leelanau',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/iuU6urwejh4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-02-279',
     artist: 'Billy Strings',
     date: '2015-07-02',
     venue: 'Pavillions Circle',
@@ -3362,7 +4850,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-03-284',
+    id: '2015-07-03-280',
     artist: 'Billy Strings',
     date: '2015-07-03',
     venue: 'Coyote Crossing Resort',
@@ -3374,7 +4862,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-04-285',
+    id: '2015-07-04-281',
     artist: 'Billy Strings',
     date: '2015-07-04',
     venue: 'Great Lakes Maritime Heritage Center',
@@ -3386,7 +4874,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-08-286',
+    id: '2015-07-08-282',
     artist: 'Billy Strings',
     date: '2015-07-08',
     venue: 'Fountain Point',
@@ -3398,7 +4886,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-11-287',
+    id: '2015-07-11-283',
     artist: 'Billy Strings',
     date: '2015-07-11',
     venue: 'Somerset Community College',
@@ -3410,7 +4898,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-12-288',
+    id: '2015-07-12-284',
     artist: 'Billy Strings',
     date: '2015-07-12',
     venue: 'Natural Chimneys Park',
@@ -3422,7 +4910,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-14-289',
+    id: '2015-07-14-285',
     artist: 'Billy Strings',
     date: '2015-07-14',
     venue: 'Eagleview Town Center',
@@ -3434,46 +4922,274 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-17-290',
+    id: '2015-07-17-286',
     artist: 'Billy Strings',
     date: '2015-07-17',
-    venue: 'Walsh Farm - Grass Roots Stage, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm - Grass Roots Stage',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-18-291',
+    id: '2015-07-18-287',
     artist: 'Billy Strings',
     date: '2015-07-18',
-    venue: 'Walsh Farm - High Meadow Stage, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm - High Meadow Stage',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/pf2R2hz6U5U',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-19-292',
+    id: '2015-07-18-bonus-288-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 2)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/W2sZKbV4pCU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-18-bonus-288-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 3)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/D5lC8OWboec',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-18-bonus-288-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 4)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/AxyleUfbOS8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-18-bonus-288-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 5)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/8YDyHGXqcMQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-18-bonus-288-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 6)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/c7un3qtcrK4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-18-bonus-288-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-18',
+    venue: 'Walsh Farm - High Meadow Stage (Part 7)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/CzklldJ5bJk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-288',
     artist: 'Billy Strings',
     date: '2015-07-19',
-    venue: 'Walsh Farm - High Meadow Stage, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm - High Meadow Stage',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/xa9V23tts8w',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-23-293',
+    id: '2015-07-19-bonus-289-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 2)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/JZiOhoqtpxw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 3)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/0RLxE1m5G6U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 4)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/RwWQb9N9m3w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 5)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/kiaCpyKB50M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 6)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/lowYk_GklnM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 7)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/XK27ZKL1OaI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 8)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/TXNuMqZxuHc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 9)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/GjINeMclsVw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 10)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/9vAu6dC59j4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 11)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/3xdAWBm-JB8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 12)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/nCZ0ZzyeZk4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 13)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/JZQF1TP3fXQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-19-bonus-289-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-07-19',
+    venue: 'Walsh Farm - High Meadow Stage (Part 14)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/i-OlVbGSjnQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-07-23-289',
     artist: 'Billy Strings',
     date: '2015-07-23',
-    venue: 'Cervante\'s Other Side',
+    venue: 'Cervante's Other Side',
     city: 'Denver',
     state: 'CO',
     year: 2015,
@@ -3482,7 +5198,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-26-294',
+    id: '2015-07-26-290',
     artist: 'Billy Strings',
     date: '2015-07-26',
     venue: 'Planet Bluegrass Ranch',
@@ -3494,31 +5210,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-07-31-295',
+    id: '2015-07-31-291',
     artist: 'Billy Strings',
     date: '2015-07-31',
-    venue: 'Pendarvis Farm, Pickathon Music Festival',
-    city: 'Happy Valley',
-    state: 'OR',
+    venue: 'Pendarvis Farm',
+    city: 'Pickathon Music Festival',
+    state: 'Happy Valley',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-01-296',
+    id: '2015-08-01-292',
     artist: 'Billy Strings',
     date: '2015-08-01',
-    venue: 'Pendarvis Farm, Pickathon Music Festival',
-    city: 'Happy Valley',
-    state: 'OR',
+    venue: 'Pendarvis Farm',
+    city: 'Pickathon Music Festival',
+    state: 'Happy Valley',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-02-297',
+    id: '2015-08-02-293',
     artist: 'Billy Strings',
     date: '2015-08-02',
     venue: 'The Spotlight',
@@ -3530,10 +5246,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-07-298',
+    id: '2015-08-07-294',
     artist: 'Billy Strings',
     date: '2015-08-07',
-    venue: 'Tucker\'s of Northport',
+    venue: 'Tucker's of Northport',
     city: 'Northport',
     state: 'MI',
     year: 2015,
@@ -3542,7 +5258,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-11-299',
+    id: '2015-08-11-295',
     artist: 'Billy Strings',
     date: '2015-08-11',
     venue: 'Frederick Meijer Gardens',
@@ -3554,7 +5270,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-12-300',
+    id: '2015-08-12-296',
     artist: 'Billy Strings',
     date: '2015-08-12',
     venue: 'The Leelandau School',
@@ -3566,7 +5282,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-13-301',
+    id: '2015-08-13-297',
     artist: 'Billy Strings',
     date: '2015-08-13',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3578,7 +5294,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-14-302',
+    id: '2015-08-14-298',
     artist: 'Billy Strings',
     date: '2015-08-14',
     venue: 'Ed White Field',
@@ -3590,31 +5306,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-15-303',
+    id: '2015-08-15-299',
     artist: 'Billy Strings & Don Julin',
     date: '2015-08-15',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-16-304',
+    id: '2015-08-16-300',
     artist: 'Billy Strings & Don Julin',
     date: '2015-08-16',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-18-305',
+    id: '2015-08-18-301',
     artist: 'Billy Strings',
     date: '2015-08-18',
     venue: 'Beaver Island Community Center',
@@ -3626,7 +5342,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-19-306',
+    id: '2015-08-19-302',
     artist: 'Billy Strings',
     date: '2015-08-19',
     venue: 'Fountain Point',
@@ -3638,7 +5354,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-20-307',
+    id: '2015-08-20-303',
     artist: 'Billy Strings',
     date: '2015-08-20',
     venue: 'Ludington State Park',
@@ -3650,7 +5366,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-21-308',
+    id: '2015-08-21-304',
     artist: 'Billy Strings',
     date: '2015-08-21',
     venue: 'Grand Traverse Commons',
@@ -3662,7 +5378,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-22-309',
+    id: '2015-08-22-305',
     artist: 'Billy Strings',
     date: '2015-08-22',
     venue: 'Almira Township Park',
@@ -3674,7 +5390,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-27-310',
+    id: '2015-08-27-306',
     artist: 'Billy Strings',
     date: '2015-08-27',
     venue: 'Full Moon House Concerts',
@@ -3686,31 +5402,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-28-311',
+    id: '2015-08-28-307',
     artist: 'Billy Strings',
     date: '2015-08-28',
-    venue: 'Porcupine Mountains Wilderness State Park, Porcupine Mountains Music Festival',
-    city: 'Ontonagon',
-    state: 'MI',
+    venue: 'Porcupine Mountains Wilderness State Park',
+    city: 'Porcupine Mountains Music Festival',
+    state: 'Ontonagon',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-08-29-312',
+    id: '2015-08-29-308',
     artist: 'Billy Strings',
     date: '2015-08-29',
-    venue: 'Porcupine Mountains Wilderness State Park, Porcupine Mountains Music Festival',
-    city: 'Ontonagon',
-    state: 'MI',
+    venue: 'Porcupine Mountains Wilderness State Park',
+    city: 'Porcupine Mountains Music Festival',
+    state: 'Ontonagon',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-17-313',
+    id: '2015-09-17-309',
     artist: 'Billy Strings',
     date: '2015-09-17',
     venue: 'Parkway',
@@ -3722,7 +5438,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-18-314',
+    id: '2015-09-18-310',
     artist: 'Billy Strings',
     date: '2015-09-18',
     venue: 'Bristol Rhythm & Roots Festival - Moore Stage',
@@ -3734,7 +5450,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-19-315',
+    id: '2015-09-19-311',
     artist: 'Billy Strings',
     date: '2015-09-19',
     venue: 'Bristol Rhythm & Roots Festival - Mural Stage',
@@ -3746,7 +5462,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-19-316',
+    id: '2015-09-19-312',
     artist: 'Billy Strings',
     date: '2015-09-19',
     venue: 'Bristol Rhythm & Roots Festival - State Stage',
@@ -3758,7 +5474,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-20-317',
+    id: '2015-09-20-313',
     artist: 'Billy Strings',
     date: '2015-09-20',
     venue: 'Coastal Credit Union Midtown Park',
@@ -3770,7 +5486,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-23-318',
+    id: '2015-09-23-314',
     artist: 'Billy Strings',
     date: '2015-09-23',
     venue: 'The Nick',
@@ -3782,7 +5498,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-24-319',
+    id: '2015-09-24-315',
     artist: 'Billy Strings',
     date: '2015-09-24',
     venue: 'Varsity Theatre',
@@ -3794,7 +5510,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-25-320',
+    id: '2015-09-25-316',
     artist: 'Billy Strings',
     date: '2015-09-25',
     venue: 'Robin Bledsoe Park',
@@ -3806,10 +5522,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-27-321',
+    id: '2015-09-27-317',
     artist: 'Billy Strings',
     date: '2015-09-27',
-    venue: 'Lafayette\'s Music Room',
+    venue: 'Lafayette's Music Room',
     city: 'Memphis',
     state: 'TN',
     year: 2015,
@@ -3818,7 +5534,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-09-29-322',
+    id: '2015-09-29-318',
     artist: 'Billy Strings',
     date: '2015-09-29',
     venue: 'Lincoln Theatre',
@@ -3830,31 +5546,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-01-323',
+    id: '2015-10-01-319',
     artist: 'Billy Strings',
     date: '2015-10-01',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-02-324',
+    id: '2015-10-02-320',
     artist: 'Billy Strings',
     date: '2015-10-02',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2015,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-03-325',
+    id: '2015-10-03-321',
     artist: 'Billy Strings',
     date: '2015-10-03',
     venue: 'City Plaza',
@@ -3866,7 +5582,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-07-326',
+    id: '2015-10-07-322',
     artist: 'Billy Strings',
     date: '2015-10-07',
     venue: 'SpeakEZ Lounge',
@@ -3878,7 +5594,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-08-327',
+    id: '2015-10-08-323',
     artist: 'Billy Strings',
     date: '2015-10-08',
     venue: 'Sixth Street Park',
@@ -3890,7 +5606,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-09-328',
+    id: '2015-10-09-324',
     artist: 'Billy Strings',
     date: '2015-10-09',
     venue: 'Park Theatre',
@@ -3902,7 +5618,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-10-329',
+    id: '2015-10-10-325',
     artist: 'Billy Strings',
     date: '2015-10-10',
     venue: 'Traverse City',
@@ -3914,7 +5630,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-17-330',
+    id: '2015-10-17-326',
     artist: 'Billy Strings',
     date: '2015-10-17',
     venue: 'Caramoor Center for Music and Arts',
@@ -3926,7 +5642,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-22-331',
+    id: '2015-10-22-327',
     artist: 'Billy Strings',
     date: '2015-10-22',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -3938,7 +5654,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-23-332',
+    id: '2015-10-23-328',
     artist: 'Billy Strings',
     date: '2015-10-23',
     venue: 'Central United Methodist Church',
@@ -3950,10 +5666,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-30-333',
+    id: '2015-10-30-329',
     artist: 'Billy Strings',
     date: '2015-10-30',
-    venue: 'Bell\'s Eccentric Cafe Back Room',
+    venue: 'Bell's Eccentric Cafe Back Room',
     city: 'Kalmazoo',
     state: 'MI',
     year: 2015,
@@ -3962,7 +5678,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-10-31-334',
+    id: '2015-10-31-330',
     artist: 'Billy Strings',
     date: '2015-10-31',
     venue: 'Space',
@@ -3974,43 +5690,1099 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-01-335',
+    id: '2015-10-31-bonus-331-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 1)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/pBKcilO7cyc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 2)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/DP2UV6i_Ov4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 3)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/t5_vpp2-Sfs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 4)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ym8cY5gd74E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 5)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/UOUiVQAXdNs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 6)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/JR828xpB8KY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-10-31-bonus-331-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-10-31',
+    venue: 'Space (Part 7)',
+    city: 'Evanston',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/HU1qDu53Su4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-331',
     artist: 'Billy Strings',
     date: '2015-11-01',
     venue: 'Reid Holt Memorial Chapel - Lake Forest College',
     city: 'Lake Forest',
     state: 'IL',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/V41R6nTPOXg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-05-336',
+    id: '2015-11-01-bonus-332-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 2)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/yaoltRk7AHU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 3)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/P1p9ZqWyrA0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 4)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Pc3yOAVAxy8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 5)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/RNr5DiV4-bw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 6)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/dhJi2rLcJEc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 7)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/gRhgi4EhT68',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 8)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/WUVnvr0N-jw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 9)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/0w5Y-ivIp8c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 10)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/EjeHOFRHDx4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 11)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/7YnEqFYiuuc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-01-bonus-332-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-01',
+    venue: 'Reid Holt Memorial Chapel - Lake Forest College (Part 12)',
+    city: 'Lake Forest',
+    state: 'IL',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/vl3LK8pOwlI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-332',
     artist: 'Billy Strings',
     date: '2015-11-05',
     venue: 'Wonder Ballroom',
     city: 'Portland',
     state: 'OR',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/DryjzXB56y4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-06-337',
+    id: '2015-11-05-bonus-333-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 2)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/_0fWv3aarmM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 3)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/RvpLD5shs-I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 4)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/xn-dzphrgkU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 5)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/93EgkgjNKfU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 6)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/whpWmNJFLy4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 7)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hYAj_ppKaR8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 8)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/HgHdldrmZVY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 9)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/EEzWuT1RyQk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 10)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/KWrqpADVwPE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 11)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/litWLjHnNJU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 12)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/_8qPvNxWTYo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 13)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/dxIpOuLmxt4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 14)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/aO3DW848GBI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 15)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/qIsnzMnB3no',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 16)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/OEFFsLwvWRI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 17)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/HzBeQcti9jc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 18)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/MPjWFhy3-U8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 19)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/NGnBkJj313w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 20)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/GchQrwcEGfg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 21)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/uVBv3youkaA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 22)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Remymr4R4J0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 23)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/8ag-F986iI4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 24)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/EUJe10-J-IA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 25)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/aR3iXp5Qnh4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 26)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/dXiyTY6Ctdg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 27)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/pwscYemcbRs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 28)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/qan4VRikfz8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 29)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/oJEhrXZv00c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 30)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ckgkFuoyxWE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 31)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/amDWJCY51tE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-31',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 32)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/45eqAfT4vT0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-32',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 33)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/WS4N6YwfGdE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-33',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 34)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/yuKenBxJ3ag',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-34',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 35)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/DPo5_LfMN-4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-35',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 36)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/v1J4e-x9r5s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-36',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 37)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/5StvqAZehLY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-37',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 38)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Qw73W77Ow2Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-38',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 39)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hJSqQ92Bnj4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-39',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 40)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/pApOP1sEQ2g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-40',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 41)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Mn0N1KrwtK0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-41',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 42)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ZgvKz-JSMwo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-42',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 43)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/o3MeJC3onrY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-43',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 44)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/I62PGIQq0z0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-44',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 45)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Y3-728niBW8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-45',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 46)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/j3wPQpMITRs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-46',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 47)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/TPr9IdL09Ao',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-47',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 48)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/j5uRXugQAYY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-48',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 49)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/YJE4tdyHImo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-49',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 50)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/saKA3ykZYUY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-50',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 51)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/l-kQHuNa0FE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-51',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 52)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/bt1mwUOvIVQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-52',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 53)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Y2enKbZ5j8Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-53',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 54)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/vWdltyRT_Yo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-54',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 55)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/OQv81UrNe7g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-55',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 56)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/9g_CxpCtQe8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-56',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 57)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/C448bFnrdHs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-57',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 58)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/_eZf15Tm5ls',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-58',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 59)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/he4FHyOxBMg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-05-bonus-333-59',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-05',
+    venue: 'Wonder Ballroom (Part 60)',
+    city: 'Portland',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/HSo8WlArPZw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-333',
     artist: 'Billy Strings',
     date: '2015-11-06',
     venue: 'Tsunami Books',
     city: 'Eugene',
     state: 'OR',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/PVwWNkdkwV0',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-21-338',
+    id: '2015-11-06-bonus-334-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 2)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/2aPakoUubjE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 3)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/dLDDDHp304U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 4)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/k-quQ5aqIio',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 5)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/47lXEKd-hKE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 6)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/0kvNDCx0QSE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 7)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Hz69TTAvKtg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 8)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/L2HtTZ67ekY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 9)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/Lx-pqzSDZJs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 10)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/U4fFR2-vgww',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 11)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/i4C3QMtAj04',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-06-bonus-334-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-11-06',
+    venue: 'Tsunami Books (Part 12)',
+    city: 'Eugene',
+    state: 'OR',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/iA8cTDlZ_7w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-11-21-334',
     artist: 'Billy Strings',
     date: '2015-11-21',
     venue: 'Hotel Cafe',
@@ -4022,7 +6794,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-25-339',
+    id: '2015-11-25-335',
     artist: 'Billy Strings',
     date: '2015-11-25',
     venue: 'InsideOut Gallery',
@@ -4034,7 +6806,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-11-28-340',
+    id: '2015-11-28-336',
     artist: 'Billy Strings',
     date: '2015-11-28',
     venue: 'Kalamazoo State Theater',
@@ -4046,19 +6818,163 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-04-341',
+    id: '2015-12-04-337',
     artist: 'Billy Strings',
     date: '2015-12-04',
     venue: 'Seven Steps Up Live Music & Event Venue',
     city: 'Spring Lake',
     state: 'MI',
     year: 2015,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/fziV5y-e5Qw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-05-342',
+    id: '2015-12-04-bonus-338-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 2)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/sOL_DLWwi0Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 3)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/fcHFkmXlPCg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 4)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ljm6vighFrg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 5)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/CgtKwt5tFRg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 6)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/pd8UrDE4hbk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 7)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hCj0UE4A1pM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 8)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/6bWDAsaDmoo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 9)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/8hdaABoEFe8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 10)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/yol88VP68fw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 11)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/_Tk1nCnyxBo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 12)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/qzla8TQ6zqQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-04-bonus-338-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2015-12-04',
+    venue: 'Seven Steps Up Live Music & Event Venue (Part 13)',
+    city: 'Spring Lake',
+    state: 'MI',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/TVIBlpSCuh4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2015-12-05-338',
     artist: 'Billy Strings',
     date: '2015-12-05',
     venue: 'Iowa Yacht Club',
@@ -4070,7 +6986,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-06-343',
+    id: '2015-12-06-339',
     artist: 'Billy Strings',
     date: '2015-12-06',
     venue: 'Icehouse',
@@ -4082,7 +6998,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-18-344',
+    id: '2015-12-18-340',
     artist: 'Billy Strings',
     date: '2015-12-18',
     venue: 'The Ark',
@@ -4094,7 +7010,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-26-345',
+    id: '2015-12-26-341',
     artist: 'Billy Strings',
     date: '2015-12-26',
     venue: 'Freshwater Art Gallery & Concert Venue',
@@ -4106,7 +7022,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-31-346',
+    id: '2015-12-31-342',
     artist: 'Billy Strings',
     date: '2015-12-31',
     venue: 'Little Bohemia - The West End Pub & Eatery',
@@ -4118,7 +7034,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2015-12-31-347',
+    id: '2015-12-31-343',
     artist: 'Billy Strings',
     date: '2015-12-31',
     venue: 'Grand Armory Brewing Company',
@@ -4130,7 +7046,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-01-09-349',
+    id: '2016-01-09-344',
     artist: 'Billy Strings',
     date: '2016-01-09',
     venue: 'The Intersection',
@@ -4142,7 +7058,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-01-15-350',
+    id: '2016-01-15-345',
     artist: 'Billy Strings',
     date: '2016-01-15',
     venue: 'East Lansing Hannah Community Center',
@@ -4154,7 +7070,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-01-16-351',
+    id: '2016-01-16-346',
     artist: 'Billy Strings',
     date: '2016-01-16',
     venue: 'Kalamazoo State Theater',
@@ -4166,7 +7082,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-10-352',
+    id: '2016-02-10-347',
     artist: 'Billy Strings',
     date: '2016-02-10',
     venue: 'Beachland Ballroom',
@@ -4178,7 +7094,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-11-353',
+    id: '2016-02-11-348',
     artist: 'Billy Strings',
     date: '2016-02-11',
     venue: 'Woodlands Tavern',
@@ -4190,7 +7106,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-12-354',
+    id: '2016-02-12-349',
     artist: 'Billy Strings',
     date: '2016-02-12',
     venue: 'Rex Theatre',
@@ -4202,7 +7118,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-13-355',
+    id: '2016-02-13-350',
     artist: 'Billy Strings',
     date: '2016-02-13',
     venue: 'City Opera House',
@@ -4214,7 +7130,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-17-356',
+    id: '2016-02-17-351',
     artist: 'Billy Strings',
     date: '2016-02-17',
     venue: 'Bunk Bar',
@@ -4226,10 +7142,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-18-357',
+    id: '2016-02-18-352',
     artist: 'Billy Strings',
     date: '2016-02-18',
-    venue: 'Hodi\'s Half Note',
+    venue: 'Hodi's Half Note',
     city: 'Fort Collins',
     state: 'CO',
     year: 2016,
@@ -4238,7 +7154,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-19-358',
+    id: '2016-02-19-353',
     artist: 'Billy Strings',
     date: '2016-02-19',
     venue: 'Larimer Lounge',
@@ -4250,7 +7166,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-20-359',
+    id: '2016-02-20-354',
     artist: 'Billy Strings',
     date: '2016-02-20',
     venue: 'Nottingham Park',
@@ -4262,10 +7178,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-02-20-360',
+    id: '2016-02-20-355',
     artist: 'Billy Strings',
     date: '2016-02-20',
-    venue: 'Loaded Joe\'s - late night set',
+    venue: 'Loaded Joe's - late night set',
     city: 'Avon',
     state: 'CO',
     year: 2016,
@@ -4274,10 +7190,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-10-361',
+    id: '2016-03-10-356',
     artist: 'Billy Strings',
     date: '2016-03-10',
-    venue: 'Eli\'s BBQ',
+    venue: 'Eli's BBQ',
     city: 'Cincinnati',
     state: 'OH',
     year: 2016,
@@ -4286,7 +7202,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-11-362',
+    id: '2016-03-11-357',
     artist: 'Billy Strings',
     date: '2016-03-11',
     venue: 'Happy Days Lodge',
@@ -4298,19 +7214,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-12-363',
+    id: '2016-03-12-358',
     artist: 'Billy Strings',
     date: '2016-03-12',
     venue: 'Founders Brewing Company',
     city: 'Grand Rapids',
     state: 'MI',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/j13rSdItNUg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-15-364',
+    id: '2016-03-12-bonus-359-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-03-12',
+    venue: 'Founders Brewing Company (Part 2)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/9zdvxeuCTD4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-03-12-bonus-359-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-03-12',
+    venue: 'Founders Brewing Company (Part 3)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-hVa-d2zq-I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-03-15-359',
     artist: 'Billy Strings',
     date: '2016-03-15',
     venue: '12th & Porter',
@@ -4322,7 +7262,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-17-365',
+    id: '2016-03-17-360',
     artist: 'Billy Strings',
     date: '2016-03-17',
     venue: 'The Vaudeville News',
@@ -4334,7 +7274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-18-366',
+    id: '2016-03-18-361',
     artist: 'Billy Strings',
     date: '2016-03-18',
     venue: 'Dakota Jazz Club & Restaurant',
@@ -4346,19 +7286,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-19-367',
+    id: '2016-03-19-362',
     artist: 'Billy Strings',
     date: '2016-03-19',
     venue: 'The Source Public House',
     city: 'Menasha',
     state: 'WI',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/-Yim4EYT3mY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-03-20-368',
+    id: '2016-03-19-bonus-363-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-03-19',
+    venue: 'The Source Public House (Part 2)',
+    city: 'Menasha',
+    state: 'WI',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/JgAIHRaXXNg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-03-19-bonus-363-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-03-19',
+    venue: 'The Source Public House (Part 3)',
+    city: 'Menasha',
+    state: 'WI',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/eot8R9HNtHY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-03-19-bonus-363-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-03-19',
+    venue: 'The Source Public House (Part 4)',
+    city: 'Menasha',
+    state: 'WI',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/8SljUcVq0Ak',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-03-20-363',
     artist: 'Billy Strings',
     date: '2016-03-20',
     venue: 'City Winery',
@@ -4370,7 +7346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-01-369',
+    id: '2016-04-01-364',
     artist: 'Billy Strings',
     date: '2016-04-01',
     venue: 'The Grey Eagle',
@@ -4382,10 +7358,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-02-370',
+    id: '2016-04-02-365',
     artist: 'Billy Strings',
     date: '2016-04-02',
-    venue: 'Jack Rabbit\'s',
+    venue: 'Jack Rabbit's',
     city: 'Jacksonville',
     state: 'FL',
     year: 2016,
@@ -4394,7 +7370,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-03-371',
+    id: '2016-04-03-366',
     artist: 'Billy Strings',
     date: '2016-04-03',
     venue: 'Safety Harbor Waterfront Park',
@@ -4406,19 +7382,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-06-372',
+    id: '2016-04-06-367',
     artist: 'Billy Strings',
     date: '2016-04-06',
-    venue: 'Mortimer\'s Cafe and Pub',
+    venue: 'Mortimer's Cafe and Pub',
     city: 'Charlotte',
     state: 'NC',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/nNwSXe7MSQA',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-07-373',
+    id: '2016-04-06-bonus-368-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 2)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/p-7OpLuqJJc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 3)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/p01_y0DHxyo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 4)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-Aa5NREb318',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 5)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/jpmst_6P15I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 6)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/qRM48vescjg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 7)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Ub-naDJbKFY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-06-bonus-368-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-06',
+    venue: 'Mortimer's Cafe and Pub (Part 8)',
+    city: 'Charlotte',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/4Uft3jbwuZE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-07-368',
     artist: 'Billy Strings',
     date: '2016-04-07',
     venue: 'Sugar Creek Brewing Company',
@@ -4430,19 +7490,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-08-374',
+    id: '2016-04-08-369',
     artist: 'Billy Strings',
     date: '2016-04-08',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-09-375',
+    id: '2016-04-09-370',
     artist: 'Billy Strings',
     date: '2016-04-09',
     venue: 'The Down Home Eclectic Music Room',
@@ -4454,10 +7514,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-14-376',
+    id: '2016-04-14-371',
     artist: 'Billy Strings',
     date: '2016-04-14',
-    venue: 'Hodi\'s Half Note',
+    venue: 'Hodi's Half Note',
     city: 'Fort Collins',
     state: 'CO',
     year: 2016,
@@ -4466,31 +7526,175 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-15-377',
+    id: '2016-04-15-372',
     artist: 'Billy Strings',
     date: '2016-04-15',
     venue: 'Wildflower Pavillion',
     city: 'Lyons',
     state: 'CO',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/p8UTto-EIPk',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-16-378',
+    id: '2016-04-16-373',
     artist: 'Billy Strings',
     date: '2016-04-16',
     venue: 'Larimer Lounge',
     city: 'Denver',
     state: 'CO',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/H4bB88uv9II',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-17-379',
+    id: '2016-04-16-bonus-374-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 2)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/KUT4yO86pDg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 3)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/9HP5C_UhMFk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 4)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/dxmEwxWWrHE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 5)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/0_o-PQMNiJU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 6)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-CJMQMzfZSw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 7)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/g4RU67G0gF0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 8)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/hOWuNu4_lRg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 9)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/SfUoTpujESg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 10)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/KXlqwGdGe-g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 11)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/YZPJxL5OzRs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 12)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/icHXlLndyVo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-16-bonus-374-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-04-16',
+    venue: 'Larimer Lounge (Part 13)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/6GWV924CEHA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-04-17-374',
     artist: 'Billy Strings',
     date: '2016-04-17',
     venue: 'Larimer Lounge',
@@ -4502,7 +7706,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-20-380',
+    id: '2016-04-20-375',
     artist: 'Billy Strings',
     date: '2016-04-20',
     venue: 'Boulder Run Bar & Grille',
@@ -4514,10 +7718,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-21-381',
+    id: '2016-04-21-376',
     artist: 'Billy Strings',
     date: '2016-04-21',
-    venue: 'Jerry\'s Pub & Restaurant',
+    venue: 'Jerry's Pub & Restaurant',
     city: 'Brooklyn',
     state: 'MI',
     year: 2016,
@@ -4526,7 +7730,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-22-382',
+    id: '2016-04-22-377',
     artist: 'Billy Strings',
     date: '2016-04-22',
     venue: 'Park Theatre',
@@ -4538,10 +7742,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-23-383',
+    id: '2016-04-23-378',
     artist: 'Billy Strings',
     date: '2016-04-23',
-    venue: 'Small\'s',
+    venue: 'Small's',
     city: 'Hamtramck',
     state: 'MI',
     year: 2016,
@@ -4550,7 +7754,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-27-384',
+    id: '2016-04-27-379',
     artist: 'Billy Strings',
     date: '2016-04-27',
     venue: 'Wolf Hills Brewing',
@@ -4562,7 +7766,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-29-385',
+    id: '2016-04-29-380',
     artist: 'Billy Strings',
     date: '2016-04-29',
     venue: 'Wilkes Community College',
@@ -4574,7 +7778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-04-30-386',
+    id: '2016-04-30-381',
     artist: 'Billy Strings',
     date: '2016-04-30',
     venue: 'Wilkes Community College',
@@ -4586,7 +7790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-04-387',
+    id: '2016-05-04-382',
     artist: 'Billy Strings',
     date: '2016-05-04',
     venue: 'The Factory at Franklin',
@@ -4598,7 +7802,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-07-388',
+    id: '2016-05-07-383',
     artist: 'Billy Strings',
     date: '2016-05-07',
     venue: 'Lure Seafood and Grille',
@@ -4610,7 +7814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-20-389',
+    id: '2016-05-20-384',
     artist: 'Billy Strings',
     date: '2016-05-20',
     venue: 'Riverdog Retreat',
@@ -4622,31 +7826,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-21-390',
+    id: '2016-05-21-385',
     artist: 'Billy Strings',
     date: '2016-05-21',
-    venue: 'Bicentennial Park - Main Stage, RiverRoots Music and Folk Arts Festival',
-    city: 'Madison',
-    state: 'IN',
+    venue: 'Bicentennial Park - Main Stage',
+    city: 'RiverRoots Music and Folk Arts Festival',
+    state: 'Madison',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-21-391',
+    id: '2016-05-21-386',
     artist: 'Billy Strings',
     date: '2016-05-21',
-    venue: 'Bicentennial Park - Jam Tent, RiverRoots Music and Folk Arts Festival',
-    city: 'Madison',
-    state: 'IN',
+    venue: 'Bicentennial Park - Jam Tent',
+    city: 'RiverRoots Music and Folk Arts Festival',
+    state: 'Madison',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-27-392',
+    id: '2016-05-27-387',
     artist: 'Billy Strings',
     date: '2016-05-27',
     venue: 'The 35th Star',
@@ -4658,55 +7862,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-28-393',
+    id: '2016-05-28-388',
     artist: 'Billy Strings',
     date: '2016-05-28',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-05-29-394',
+    id: '2016-05-29-389',
     artist: 'Billy Strings',
     date: '2016-05-29',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-03-395',
+    id: '2016-06-03-390',
     artist: 'Billy Strings',
     date: '2016-06-03',
-    venue: 'Bill Monroe Memorial Music Park - Hartford Stage, John Hartford Memorial Festival',
-    city: 'Bean Blossom Township',
-    state: 'IN',
+    venue: 'Bill Monroe Memorial Music Park - Hartford Stage',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/EHKEuKB3zBw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-04-396',
+    id: '2016-06-03-bonus-391-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-03',
+    venue: 'Bill Monroe Memorial Music Park - Hartford Stage (Part 2)',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/xhd67_BaO90',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-03-bonus-391-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-03',
+    venue: 'Bill Monroe Memorial Music Park - Hartford Stage (Part 3)',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/39OZMbUMLBY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-03-bonus-391-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-03',
+    venue: 'Bill Monroe Memorial Music Park - Hartford Stage (Part 4)',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/rtGDYPxVsg4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-03-bonus-391-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-03',
+    venue: 'Bill Monroe Memorial Music Park - Hartford Stage (Part 5)',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/vYr6oY-OoRs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-04-391',
     artist: 'Billy Strings',
     date: '2016-06-04',
-    venue: 'Bill Monroe Memorial Music Park - Hippy Hill Stage, John Hartford Memorial Festival',
-    city: 'Bean Blossom Township',
-    state: 'IN',
+    venue: 'Bill Monroe Memorial Music Park - Hippy Hill Stage',
+    city: 'John Hartford Memorial Festival',
+    state: 'Bean Blossom Township',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-15-397',
+    id: '2016-06-15-392',
     artist: 'Billy Strings',
     date: '2016-06-15',
     venue: 'Charleston Pour House',
@@ -4718,7 +7970,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-16-398',
+    id: '2016-06-16-393',
     artist: 'Billy Strings',
     date: '2016-06-16',
     venue: 'American Tobacco Campus',
@@ -4730,7 +7982,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-17-399',
+    id: '2016-06-17-394',
     artist: 'Billy Strings',
     date: '2016-06-17',
     venue: 'RJ Rockers Brewing Company',
@@ -4742,10 +7994,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-18-400',
+    id: '2016-06-18-395',
     artist: 'Billy Strings',
     date: '2016-06-18',
-    venue: 'Barley\'s Taproom',
+    venue: 'Barley's Taproom',
     city: 'Knoxville',
     state: 'TN',
     year: 2016,
@@ -4754,7 +8006,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-19-401',
+    id: '2016-06-19-396',
     artist: 'Billy Strings',
     date: '2016-06-19',
     venue: 'The Grey Eagle',
@@ -4766,79 +8018,367 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-23-402',
+    id: '2016-06-23-397',
     artist: 'Billy Strings',
     date: '2016-06-23',
     venue: 'Washington Park',
     city: 'Cincinnati',
     state: 'OH',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/OXK_ES8hoCs',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-25-403',
+    id: '2016-06-25-398',
     artist: 'Billy Strings',
     date: '2016-06-25',
-    venue: 'Yellow Creek Park - Pioneer Stage (late night), Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/NVODjofyosg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-06-25-404',
+    id: '2016-06-25-bonus-399-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 2)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/0TY9gyvp75M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 3)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/R4F4wP_BGwU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 4)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Bhvh6G__WfU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 5)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/J2dzyo5sm-0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 6)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ZFQc3Ic4VJY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 7)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kc4SO-SJfc0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 8)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/IQ7PMSsbyY8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 9)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/SmTc2KVcaWM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 10)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/RV_ra9aiUvQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 11)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QquPWCc-wxc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 12)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/MKrBNSixZYM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-399-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Pioneer Stage (late night) (Part 13)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/hIjHfyMS3pk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-399',
     artist: 'Billy Strings',
     date: '2016-06-25',
-    venue: 'Yellow Creek Park - Main Stage, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park - Main Stage',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/NVODjofyosg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-02-405',
+    id: '2016-06-25-bonus-400-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 2)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/0TY9gyvp75M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 3)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/R4F4wP_BGwU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 4)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Bhvh6G__WfU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 5)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/J2dzyo5sm-0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 6)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ZFQc3Ic4VJY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 7)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kc4SO-SJfc0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 8)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/IQ7PMSsbyY8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 9)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/SmTc2KVcaWM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 10)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/RV_ra9aiUvQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 11)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QquPWCc-wxc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 12)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/MKrBNSixZYM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-06-25-bonus-400-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-06-25',
+    venue: 'Yellow Creek Park - Main Stage (Part 13)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/hIjHfyMS3pk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-07-02-400',
     artist: 'Billy Strings',
     date: '2016-07-02',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-02-406',
+    id: '2016-07-02-401',
     artist: 'Billy Strings',
     date: '2016-07-02',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-03-407',
+    id: '2016-07-03-402',
     artist: 'Billy Strings',
     date: '2016-07-03',
-    venue: 'Plumas-Sierra County Fairgrounds - Vaudeville Tent, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds - Vaudeville Tent',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-07-408',
+    id: '2016-07-07-403',
     artist: 'Billy Strings',
     date: '2016-07-07',
     venue: 'Adado Riverfront Park',
@@ -4850,31 +8390,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-09-409',
+    id: '2016-07-09-404',
     artist: 'Billy Strings',
     date: '2016-07-09',
-    venue: 'Breidert Green Park - Early Set, Frankfort Bluegrass Festival',
-    city: 'Frankfort',
-    state: 'IL',
+    venue: 'Breidert Green Park - Early Set',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
     year: 2016,
     videoUrl: 'https://drive.google.com/file/d/1tY1vREGyOXkg7_ReJ26krbc5ND3UKy1G/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-09-410',
+    id: '2016-07-09-405',
     artist: 'Billy Strings',
     date: '2016-07-09',
-    venue: 'Breidert Green Park - Late Set, Frankfort Bluegrass Festival',
-    city: 'Frankfort',
-    state: 'IL',
+    venue: 'Breidert Green Park - Late Set',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
     year: 2016,
     videoUrl: 'https://drive.google.com/file/d/1tY1vREGyOXkg7_ReJ26krbc5ND3UKy1G/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-10-411',
+    id: '2016-07-10-406',
     artist: 'Billy Strings',
     date: '2016-07-10',
     venue: 'Dakota Jazz Club & Restaurant',
@@ -4886,7 +8426,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-13-412',
+    id: '2016-07-13-407',
     artist: 'Billy Strings',
     date: '2016-07-13',
     venue: 'Live From The Divide',
@@ -4898,7 +8438,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-14-413',
+    id: '2016-07-14-408',
     artist: 'Billy Strings',
     date: '2016-07-14',
     venue: 'The Big Dipper',
@@ -4910,7 +8450,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-15-414',
+    id: '2016-07-15-409',
     artist: 'Billy Strings',
     date: '2016-07-15',
     venue: 'Sunset Tavern',
@@ -4922,10 +8462,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-16-415',
+    id: '2016-07-16-410',
     artist: 'Billy Strings',
     date: '2016-07-16',
-    venue: 'Horning\'s Hideout',
+    venue: 'Horning's Hideout',
     city: 'North Plains',
     state: 'OR',
     year: 2016,
@@ -4934,10 +8474,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-17-416',
+    id: '2016-07-17-411',
     artist: 'Billy Strings',
     date: '2016-07-17',
-    venue: 'Horning\'s Hideout',
+    venue: 'Horning's Hideout',
     city: 'North Plains',
     state: 'OR',
     year: 2016,
@@ -4946,7 +8486,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-20-417',
+    id: '2016-07-20-412',
     artist: 'Billy Strings',
     date: '2016-07-20',
     venue: 'Hotel Utah Saloon',
@@ -4958,7 +8498,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-21-418',
+    id: '2016-07-21-413',
     artist: 'Billy Strings',
     date: '2016-07-21',
     venue: 'SOhO Restaurant and Music Club',
@@ -4970,7 +8510,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-22-419',
+    id: '2016-07-22-414',
     artist: 'Billy Strings',
     date: '2016-07-22',
     venue: 'Pasadena Pavillion for the Performing Arts',
@@ -4982,7 +8522,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-23-420',
+    id: '2016-07-23-415',
     artist: 'Billy Strings',
     date: '2016-07-23',
     venue: 'Pilgrim United Church',
@@ -4994,7 +8534,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-24-421',
+    id: '2016-07-24-416',
     artist: 'Billy Strings',
     date: '2016-07-24',
     venue: 'Musical Instrument Museum',
@@ -5006,7 +8546,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-28-422',
+    id: '2016-07-28-417',
     artist: 'Billy Strings',
     date: '2016-07-28',
     venue: 'The Bootleg at Atomic Cowboy',
@@ -5018,7 +8558,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-29-423',
+    id: '2016-07-29-418',
     artist: 'Billy Strings',
     date: '2016-07-29',
     venue: 'The Livery',
@@ -5030,7 +8570,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-07-30-424',
+    id: '2016-07-30-419',
     artist: 'Billy Strings',
     date: '2016-07-30',
     venue: 'Old Dog Tavern',
@@ -5042,7 +8582,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-08-13-425',
+    id: '2016-08-13-420',
     artist: 'Billy Strings',
     date: '2016-08-13',
     venue: 'Maiden Alley Cinema',
@@ -5054,31 +8594,427 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-08-19-426',
+    id: '2016-08-19-421',
     artist: 'Billy Strings',
     date: '2016-08-19',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/6jQruYqmzhg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-08-21-427',
+    id: '2016-08-19-bonus-422-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 2)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/om9wtYSz94E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 3)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/8lBWE-SbcXY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 4)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/KDVauS5siB4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 5)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/4FEYssTb1O0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 6)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/m62yOC2frKo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 7)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/vTPvu94zyg4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 8)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/TOOVtViLJlU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 9)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/33ygC6dJL6Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 10)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/gQyPEcFdYeM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 11)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/AE9b2808SMo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 12)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/96qQQhWE4iQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 13)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/skG0fhp6No8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 14)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/4VU2a1vGF4k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 15)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/EleZubBfdLo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 16)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/tGvC9SXiCQI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 17)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/MCEZolNaonE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 18)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/7-ljYixBHQg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 19)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/j-Pz8cvEVH0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 20)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-V8E2jGe0K8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 21)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/z5qOBv2Ir_M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 22)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/n2YtFmyyXFY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 23)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-IGfhpp8zuo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 24)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/mBrznGvXuZk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 25)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/2iHZupcFpdY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 26)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/irtdPI_h6IY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 27)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/jnTrJj4AJj0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 28)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/mRqcQmOja2w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 29)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/NWGRNyc6buk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 30)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/qxgYeUJVWEY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 31)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/6hKABhWZBVk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-31',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 32)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/2aUcee9d3Zw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-32',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 33)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/h8IqLEH5yMQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-19-bonus-422-33',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-08-19',
+    venue: 'Hoxeyville Festival Grounds (Part 34)',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/PlA7kHF4UeU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-08-21-422',
     artist: 'Billy Strings',
     date: '2016-08-21',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-08-27-428',
+    id: '2016-08-27-423',
     artist: 'Billy Strings',
     date: '2016-08-27',
     venue: 'Auto City Outdoor Event Center & Speedway',
@@ -5090,7 +9026,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-03-429',
+    id: '2016-09-03-424',
     artist: 'Billy Strings',
     date: '2016-09-03',
     venue: 'Skyline Ranch Resorts - Ranch Stage',
@@ -5102,7 +9038,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-03-430',
+    id: '2016-09-03-425',
     artist: 'Billy Strings',
     date: '2016-09-03',
     venue: 'Skyline Ranch Resorts - Saloon Stage',
@@ -5114,7 +9050,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-04-431',
+    id: '2016-09-04-426',
     artist: 'Billy Strings',
     date: '2016-09-04',
     venue: 'Skyline Ranch Resorts - Workshop',
@@ -5126,7 +9062,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-04-432',
+    id: '2016-09-04-427',
     artist: 'Billy Strings',
     date: '2016-09-04',
     venue: 'Skyline Ranch Resorts - Main Stage',
@@ -5138,7 +9074,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-07-433',
+    id: '2016-09-07-428',
     artist: 'Billy Strings',
     date: '2016-09-07',
     venue: 'The Down Home Eclectic Music Room',
@@ -5150,10 +9086,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-08-434',
+    id: '2016-09-08-429',
     artist: 'Billy Strings',
     date: '2016-09-08',
-    venue: 'Cat\'s Cradle',
+    venue: 'Cat's Cradle',
     city: 'Carrboro',
     state: 'NC',
     year: 2016,
@@ -5162,7 +9098,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-09-435',
+    id: '2016-09-09-430',
     artist: 'Billy Strings',
     date: '2016-09-09',
     venue: 'The Listening Room at Irish Bread Pub',
@@ -5174,7 +9110,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-10-436',
+    id: '2016-09-10-431',
     artist: 'Billy Strings',
     date: '2016-09-10',
     venue: 'U.S. National Whitewater Center',
@@ -5186,7 +9122,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-15-437',
+    id: '2016-09-15-432',
     artist: 'Billy Strings',
     date: '2016-09-15',
     venue: 'Diamond Pub Concert Hall',
@@ -5198,7 +9134,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-16-438',
+    id: '2016-09-16-433',
     artist: 'Billy Strings',
     date: '2016-09-16',
     venue: 'Park Street Saloon',
@@ -5210,7 +9146,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-17-439',
+    id: '2016-09-17-434',
     artist: 'Billy Strings',
     date: '2016-09-17',
     venue: 'The Cat in the Cream Coffeehouse',
@@ -5222,7 +9158,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-19-440',
+    id: '2016-09-19-435',
     artist: 'Billy Strings',
     date: '2016-09-19',
     venue: '',
@@ -5234,7 +9170,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-20-441',
+    id: '2016-09-20-436',
     artist: 'Billy Strings',
     date: '2016-09-20',
     venue: 'The Basement',
@@ -5246,7 +9182,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-23-442',
+    id: '2016-09-23-437',
     artist: 'Billy Strings',
     date: '2016-09-23',
     venue: 'The Warehouse at Mt. Victor',
@@ -5258,10 +9194,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-24-443',
+    id: '2016-09-24-438',
     artist: 'Billy Strings',
     date: '2016-09-24',
-    venue: 'Morgan\'s Riverside Campground',
+    venue: 'Morgan's Riverside Campground',
     city: 'Morrow',
     state: 'OH',
     year: 2016,
@@ -5270,7 +9206,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-25-444',
+    id: '2016-09-25-439',
     artist: 'Billy Strings',
     date: '2016-09-25',
     venue: 'Little Fish Brewing Company',
@@ -5282,7 +9218,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-09-30-445',
+    id: '2016-09-30-440',
     artist: 'Billy Strings',
     date: '2016-09-30',
     venue: 'Capital Ale House',
@@ -5294,7 +9230,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-01-446',
+    id: '2016-10-01-441',
     artist: 'Billy Strings',
     date: '2016-10-01',
     venue: 'City Plaza',
@@ -5306,31 +9242,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-06-447',
+    id: '2016-10-06-442',
     artist: 'Billy Strings',
     date: '2016-10-06',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-07-448',
+    id: '2016-10-07-443',
     artist: 'Billy Strings',
     date: '2016-10-07',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2016,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-08-449',
+    id: '2016-10-08-444',
     artist: 'Billy Strings',
     date: '2016-10-08',
     venue: 'The Bywater',
@@ -5342,7 +9278,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-09-450',
+    id: '2016-10-09-445',
     artist: 'Billy Strings',
     date: '2016-10-09',
     venue: 'Legends',
@@ -5354,7 +9290,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-10-451',
+    id: '2016-10-10-446',
     artist: 'Billy Strings',
     date: '2016-10-10',
     venue: 'Georgia Theatre',
@@ -5366,7 +9302,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-12-452',
+    id: '2016-10-12-447',
     artist: 'Billy Strings',
     date: '2016-10-12',
     venue: 'Shaftman Performance Hall - Jefferson Center',
@@ -5378,7 +9314,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-12-453',
+    id: '2016-10-12-448',
     artist: 'Yonder Mountain String Band',
     date: '2016-10-12',
     venue: 'Shaftman Performance Hall - Jefferson Center',
@@ -5390,7 +9326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-13-454',
+    id: '2016-10-13-449',
     artist: 'Billy Strings',
     date: '2016-10-13',
     venue: 'Mainstage Morgantown',
@@ -5402,7 +9338,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-14-455',
+    id: '2016-10-14-450',
     artist: 'Billy Strings',
     date: '2016-10-14',
     venue: 'Jefferson Theater',
@@ -5414,7 +9350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-15-456',
+    id: '2016-10-15-451',
     artist: 'Billy Strings',
     date: '2016-10-15',
     venue: '9:30 Club',
@@ -5426,7 +9362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-16-457',
+    id: '2016-10-16-452',
     artist: 'Billy Strings',
     date: '2016-10-16',
     venue: 'The Ardmore Music Hall',
@@ -5438,7 +9374,187 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-22-458',
+    id: '2016-10-16-bonus-453-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 1)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/eyXLrDWp1yM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 2)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/mATMT50exog',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 3)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/gFLRhi5lMDA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 4)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/T0IDfr1w9aM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 5)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/l9FnhfFCDwk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 6)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/fog6anRHjzw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 7)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/toypuTnD9j0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 8)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kIj590p-Veg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 9)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/xvQoq8lxTsk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 10)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/CjYTxhsNWu4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 11)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/IJCTG65KR_c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 12)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QxuLnoL5I1Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 13)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/jx3KSigWZZc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 14)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Dno-twiYsCk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-16-bonus-453-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-16',
+    venue: 'The Ardmore Music Hall (Part 15)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/mW8Yq7iPoJk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-453',
     artist: 'Billy Strings',
     date: '2016-10-22',
     venue: 'Downtown Asheville',
@@ -5450,7 +9566,115 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-27-459',
+    id: '2016-10-22-bonus-454-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 1)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/wHioe38UJB4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 2)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/A-qQTlX1e60',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 3)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/LFycHPcJIKg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 4)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/SgRPxgWwAk8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 5)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QC3w_4jMmuA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 6)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/yaGu_czX_xE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 7)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Zz0I5tzQRFQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 8)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Y9JWyjkIQrc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-22-bonus-454-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-10-22',
+    venue: 'Downtown Asheville (Part 9)',
+    city: 'Asheville',
+    state: 'NC',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/lk-yNccTW3k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-10-27-454',
     artist: 'Billy Strings',
     date: '2016-10-27',
     venue: 'The Sinclair',
@@ -5462,7 +9686,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-28-460',
+    id: '2016-10-28-455',
     artist: 'Billy Strings',
     date: '2016-10-28',
     venue: 'Marble Valley Regional Correctional Facility',
@@ -5474,7 +9698,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-28-461',
+    id: '2016-10-28-456',
     artist: 'Billy Strings',
     date: '2016-10-28',
     venue: 'Higher Ground',
@@ -5486,7 +9710,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-29-462',
+    id: '2016-10-29-457',
     artist: 'Billy Strings',
     date: '2016-10-29',
     venue: 'Sherman Theater',
@@ -5498,7 +9722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-30-463',
+    id: '2016-10-30-458',
     artist: 'Billy Strings',
     date: '2016-10-30',
     venue: 'Elk Creek Cafe & Ale Works',
@@ -5510,7 +9734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-10-31-464',
+    id: '2016-10-31-459',
     artist: 'Billy Strings',
     date: '2016-10-31',
     venue: 'Brooklyn Bowl',
@@ -5522,7 +9746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-11-06-465',
+    id: '2016-11-06-460',
     artist: 'Billy Strings',
     date: '2016-11-06',
     venue: 'Tsunami Books',
@@ -5534,7 +9758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-11-17-466',
+    id: '2016-11-17-461',
     artist: 'Billy Strings',
     date: '2016-11-17',
     venue: 'Capitol Arts Center',
@@ -5546,7 +9770,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-11-25-467',
+    id: '2016-11-25-462',
     artist: 'Billy Strings',
     date: '2016-11-25',
     venue: 'Park Theatre',
@@ -5558,7 +9782,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-11-26-468',
+    id: '2016-11-26-463',
     artist: 'Billy Strings',
     date: '2016-11-26',
     venue: 'Founders Brewing Company',
@@ -5570,7 +9794,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-11-27-469',
+    id: '2016-11-27-464',
     artist: 'Billy Strings',
     date: '2016-11-27',
     venue: 'The Ark',
@@ -5582,7 +9806,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-01-470',
+    id: '2016-12-01-465',
     artist: 'Billy Strings',
     date: '2016-12-01',
     venue: 'The Grove at Upcountry Provisions',
@@ -5594,7 +9818,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-02-471',
+    id: '2016-12-02-466',
     artist: 'Billy Strings',
     date: '2016-12-02',
     venue: 'The Grey Eagle',
@@ -5606,7 +9830,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-03-472',
+    id: '2016-12-03-467',
     artist: 'Billy Strings',
     date: '2016-12-03',
     venue: 'The Down Home Eclectic Music Room',
@@ -5618,7 +9842,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-07-473',
+    id: '2016-12-07-468',
     artist: 'Billy Strings',
     date: '2016-12-07',
     venue: 'The 5 Spot',
@@ -5630,10 +9854,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-08-474',
+    id: '2016-12-08-469',
     artist: 'Billy Strings',
     date: '2016-12-08',
-    venue: 'Barley\'s Taproom',
+    venue: 'Barley's Taproom',
     city: 'Knoxville',
     state: 'TN',
     year: 2016,
@@ -5642,19 +9866,403 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-09-475',
+    id: '2016-12-09-470',
     artist: 'Billy Strings',
     date: '2016-12-09',
     venue: 'The Crimson Moon',
     city: 'Dahloneg',
     state: 'GA',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/axa9eYEPf-g',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-10-476',
+    id: '2016-12-09-bonus-471-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 2)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/nNm6Y8b0UKA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 3)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/SrIfkWYkQ2M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 4)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/d1xxUygFa90',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 5)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/j03dqekGsUE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 6)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/q9twUKMw5-w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 7)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QCI7ZtwceQ8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 8)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/hBHq3obADoI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 9)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/KnWApj6uUh0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 10)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/8yXldFSuTog',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 11)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/4P1jK88O3rk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 12)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/c1Fa0rd99_8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 13)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/IBHcBhuPul0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 14)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/0ZHk98FD1nk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 15)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/DEfaSS9MSFw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 16)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/wQ9nAD9IIH0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 17)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/nAGc3i0n914',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 18)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/U6nSYxgufYY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 19)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/25UNO1dUFa0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 20)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/U0hICdXkmcY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 21)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/BKn-sYPUuZ0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 22)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/RsWNJpBjgmA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 23)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/amBuqW54Q-0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 24)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/i5T0Tmi9Gmw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 25)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/zKILL1IqNQw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 26)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ivt4yp_PWpE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 27)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/c5DK7wL6a9Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 28)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/XYfYKJfSjrw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 29)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/DsvEI1Nq6qs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 30)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/7i67gKpHcSQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 31)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ZHVobRGJQN4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-31',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 32)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/cRN-TMkOyRw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-09-bonus-471-32',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-09',
+    venue: 'The Crimson Moon (Part 33)',
+    city: 'Dahloneg',
+    state: 'GA',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ptwl598qkjk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-10-471',
     artist: 'Billy Strings',
     date: '2016-12-10',
     venue: 'The Rabbit Hole',
@@ -5666,7 +10274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-11-477',
+    id: '2016-12-11-472',
     artist: 'Billy Strings',
     date: '2016-12-11',
     venue: 'Muddy Creek Music Hall',
@@ -5678,7 +10286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-14-478',
+    id: '2016-12-14-473',
     artist: 'Billy Strings',
     date: '2016-12-14',
     venue: 'The 5 Spot',
@@ -5690,22 +10298,190 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-21-479',
+    id: '2016-12-21-474',
     artist: 'Billy Strings',
     date: '2016-12-21',
     venue: 'The 5 Spot',
     city: 'Nashville',
     state: 'TN',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/5AEIb6dvaQ8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-22-480',
+    id: '2016-12-21-bonus-475-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/_qDuCcNEXv8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/BZ7Tj_DvCxA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/iMT-v3HvthI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/zTffs3NsR5o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 6)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/U05y2l7uU6E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 7)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/JIU0Kr0SKoE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 8)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/9-mFMWic_jU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 9)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/iJVzzxqyX78',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 10)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/VvpmPocXNO0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 11)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Wh1AO5EQiJ0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 12)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/QznJQHUP94g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 13)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/As_FovJFmZg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 14)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/nViD8qi57hk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-21-bonus-475-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-21',
+    venue: 'The 5 Spot (Part 15)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/CnjPdDSJtlo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-22-475',
     artist: 'Billy Strings',
     date: '2016-12-22',
-    venue: 'Barley\'s Taproom',
+    venue: 'Barley's Taproom',
     city: 'Knoxville',
     state: 'TN',
     year: 2016,
@@ -5714,19 +10490,295 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-28-481',
+    id: '2016-12-28-476',
     artist: 'Billy Strings',
     date: '2016-12-28',
     venue: 'The 5 Spot',
     city: 'Nashville',
     state: 'TN',
     year: 2016,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/eaZwC5SswFA',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-29-482',
+    id: '2016-12-28-bonus-477-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/8CCSg0IiRHQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/RXsfGCNWu5Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/vJjcy68mVWM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/LSW6XZTXebk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 6)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/XVesuGnzdQ8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 7)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/eh-OHWUt2h8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 8)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/JNV0H8TLJYo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 9)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/_BsS5FJtNbA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 10)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/i2XICXsQmZc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 11)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kpBu2dvBsRk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 12)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/XxaPc1_cAog',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 13)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ElLc4E928bU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 14)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/AhvOJJPJwd0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 15)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/yctpGa557WI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 16)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/sZYOa3yd2Qk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 17)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/8xyNVt_Gr0A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 18)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/IyQENFvvGUc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 19)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/g88Tp9XzJvM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 20)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/UXhA159s1Kg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 21)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/qegxFh6WPkY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 22)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Md1PJMmObAs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 23)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/rDGEdo37mcc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-28-bonus-477-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2016-12-28',
+    venue: 'The 5 Spot (Part 24)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/egm2GieDtWE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2016-12-29-477',
     artist: 'Billy Strings',
     date: '2016-12-29',
     venue: 'Rex Theater',
@@ -5738,7 +10790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-30-483',
+    id: '2016-12-30-478',
     artist: 'Billy Strings',
     date: '2016-12-30',
     venue: 'Rex Theater',
@@ -5750,7 +10802,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2016-12-31-484',
+    id: '2016-12-31-479',
     artist: 'Billy Strings',
     date: '2016-12-31',
     venue: 'The National',
@@ -5762,7 +10814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-12-486',
+    id: '2017-01-12-480',
     artist: 'Billy Strings',
     date: '2017-01-12',
     venue: 'Church at Echo Mountain',
@@ -5774,7 +10826,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-13-487',
+    id: '2017-01-13-481',
     artist: 'Billy Strings',
     date: '2017-01-13',
     venue: 'The Orange Peel',
@@ -5786,7 +10838,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-13-488',
+    id: '2017-01-13-482',
     artist: 'Infamous Stringdusters',
     date: '2017-01-13',
     venue: 'The Orange Peel',
@@ -5798,7 +10850,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-14-489',
+    id: '2017-01-14-483',
     artist: 'Billy Strings',
     date: '2017-01-14',
     venue: 'Georgia Theatre',
@@ -5810,7 +10862,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-14-490',
+    id: '2017-01-14-484',
     artist: 'Infamous Stringdusters',
     date: '2017-01-14',
     venue: 'Georgia Theatre',
@@ -5822,55 +10874,139 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-15-491',
+    id: '2017-01-15-485',
     artist: 'Billy Strings',
     date: '2017-01-15',
     venue: 'Barter Theatre',
     city: 'Abingdon',
     state: 'VA',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/mDWsAJZCKOI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-21-492',
+    id: '2017-01-21-486',
     artist: 'Billy Strings',
     date: '2017-01-21',
-    venue: 'Cumberland Caverns, Bluegrass Underground',
-    city: 'McMinnville',
-    state: 'TN',
+    venue: 'Cumberland Caverns',
+    city: 'Bluegrass Underground',
+    state: 'McMinnville',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-24-493',
+    id: '2017-01-24-487',
     artist: 'Billy Strings',
     date: '2017-01-24',
     venue: 'Park Street Saloon',
     city: 'Columbus',
     state: 'OH',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/3qIhyzE94WE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-25-494',
+    id: '2017-01-24-bonus-488-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-24',
+    venue: 'Park Street Saloon (Part 2)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/lR30Gp9ywjI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-24-bonus-488-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-24',
+    venue: 'Park Street Saloon (Part 3)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/fG9e16cwHVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-24-bonus-488-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-24',
+    venue: 'Park Street Saloon (Part 4)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/bbcqEJZxuLc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-25-488',
     artist: 'Billy Strings',
     date: '2017-01-25',
     venue: 'Harvester Performing Arts Center',
     city: 'Rocky Mount',
     state: 'VA',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/cgv95VhwB-U',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-26-495',
+    id: '2017-01-25-bonus-489-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-25',
+    venue: 'Harvester Performing Arts Center (Part 2)',
+    city: 'Rocky Mount',
+    state: 'VA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ZolOyAzF6lI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-25-bonus-489-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-25',
+    venue: 'Harvester Performing Arts Center (Part 3)',
+    city: 'Rocky Mount',
+    state: 'VA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/6GBrZLOhhTE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-25-bonus-489-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-25',
+    venue: 'Harvester Performing Arts Center (Part 4)',
+    city: 'Rocky Mount',
+    state: 'VA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IRk0wLmWCMc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-25-bonus-489-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-01-25',
+    venue: 'Harvester Performing Arts Center (Part 5)',
+    city: 'Rocky Mount',
+    state: 'VA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HPQNurww8L8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-01-26-489',
     artist: 'Billy Strings',
     date: '2017-01-26',
     venue: 'Memorial Hall OTR',
@@ -5882,7 +11018,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-27-496',
+    id: '2017-01-27-490',
     artist: 'Billy Strings',
     date: '2017-01-27',
     venue: 'Space',
@@ -5894,7 +11030,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-01-28-497',
+    id: '2017-01-28-491',
     artist: 'Billy Strings',
     date: '2017-01-28',
     venue: 'Scratched Vinyl',
@@ -5906,7 +11042,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-03-498',
+    id: '2017-02-03-492',
     artist: 'Billy Strings',
     date: '2017-02-03',
     venue: 'The Cooperage',
@@ -5918,19 +11054,91 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-04-499',
+    id: '2017-02-04-493',
     artist: 'Billy Strings',
     date: '2017-02-04',
     venue: 'The Gold Room',
     city: 'Colorado Springs',
     state: 'CO',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/N8LvU3SpkI4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-08-500',
+    id: '2017-02-04-bonus-494-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 2)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Kk2oCBhydQg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-04-bonus-494-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 3)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/RzWPeMQIjso',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-04-bonus-494-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 4)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/JjD2TBie4kY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-04-bonus-494-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 5)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/mCq8B0NuFKI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-04-bonus-494-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 6)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/wJ5GzIqTmSk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-04-bonus-494-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-04',
+    venue: 'The Gold Room (Part 7)',
+    city: 'Colorado Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/PVh8zWRla1c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-08-494',
     artist: 'Billy Strings',
     date: '2017-02-08',
     venue: 'Pub Station',
@@ -5942,7 +11150,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-09-501',
+    id: '2017-02-09-495',
     artist: 'Billy Strings',
     date: '2017-02-09',
     venue: 'Big Sky Bluegrass',
@@ -5954,7 +11162,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-10-502',
+    id: '2017-02-10-496',
     artist: 'Billy Strings',
     date: '2017-02-10',
     venue: 'Big Sky Bluegrass',
@@ -5966,7 +11174,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-11-503',
+    id: '2017-02-11-497',
     artist: 'Billy Strings',
     date: '2017-02-11',
     venue: 'Big Sky Bluegrass',
@@ -5978,7 +11186,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-14-504',
+    id: '2017-02-14-498',
     artist: 'Billy Strings',
     date: '2017-02-14',
     venue: 'The Green Frog',
@@ -5990,7 +11198,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-15-505',
+    id: '2017-02-15-499',
     artist: 'Billy Strings',
     date: '2017-02-15',
     venue: 'Tractor Tavern',
@@ -6002,7 +11210,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-16-506',
+    id: '2017-02-16-500',
     artist: 'Billy Strings',
     date: '2017-02-16',
     venue: 'Bunk Bar',
@@ -6014,7 +11222,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-17-507',
+    id: '2017-02-17-501',
     artist: 'Billy Strings',
     date: '2017-02-17',
     venue: 'Bunk Bar',
@@ -6026,7 +11234,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-18-508',
+    id: '2017-02-18-502',
     artist: 'Billy Strings',
     date: '2017-02-18',
     venue: 'The OK Theatre',
@@ -6038,7 +11246,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-18-509',
+    id: '2017-02-18-503',
     artist: 'Billy Strings',
     date: '2017-02-18',
     venue: 'Bunk Bar',
@@ -6050,7 +11258,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-20-510',
+    id: '2017-02-20-504',
     artist: 'Billy Strings',
     date: '2017-02-20',
     venue: 'Urban Lounge',
@@ -6062,22 +11270,70 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-22-511',
+    id: '2017-02-22-505',
     artist: 'Billy Strings',
     date: '2017-02-22',
     venue: 'Fox Theatre',
     city: 'Boulder',
     state: 'CO',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/jxYP--xe2Zc',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-23-512',
+    id: '2017-02-22-bonus-506-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-22',
+    venue: 'Fox Theatre (Part 2)',
+    city: 'Boulder',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/cfg1vp6slDg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-22-bonus-506-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-22',
+    venue: 'Fox Theatre (Part 3)',
+    city: 'Boulder',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/7VBOttaWXlw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-22-bonus-506-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-22',
+    venue: 'Fox Theatre (Part 4)',
+    city: 'Boulder',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HpUvqYub7Ls',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-22-bonus-506-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-22',
+    venue: 'Fox Theatre (Part 5)',
+    city: 'Boulder',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/wkUGDYjYgMs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-23-506',
     artist: 'Billy Strings',
     date: '2017-02-23',
-    venue: 'Hodi\'s Half Note',
+    venue: 'Hodi's Half Note',
     city: 'Fort Collins',
     state: 'CO',
     year: 2017,
@@ -6086,43 +11342,271 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-24-513',
+    id: '2017-02-24-507',
     artist: 'Billy Strings',
     date: '2017-02-24',
     venue: 'Winter WonderGrass Fesitval',
     city: 'Steamboat Springs',
     state: 'CO',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Tqco9nauNOI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-24-514',
+    id: '2017-02-24-bonus-508-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 2)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/W4IKpVvWvPo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 3)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/tIGXwnx3n6k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 4)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/UZYzURL9LDU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 5)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/iPeLVO-6eQs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 6)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/sRmDuIe6lyY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 7)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/anNjOKiO3_M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 8)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0t6Y90hFoaw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 9)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/o-3md72kaMw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-508-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Winter WonderGrass Fesitval (Part 10)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5uurDWEycE8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-508',
     artist: 'Billy Strings',
     date: '2017-02-24',
     venue: 'Old Town Pub (late night)',
     city: 'Steamboat Springs',
     state: 'CO',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Tqco9nauNOI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-02-25-515',
+    id: '2017-02-24-bonus-509-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 2)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/W4IKpVvWvPo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 3)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/tIGXwnx3n6k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 4)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/UZYzURL9LDU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 5)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/iPeLVO-6eQs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 6)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/sRmDuIe6lyY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 7)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/anNjOKiO3_M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 8)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0t6Y90hFoaw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 9)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/o-3md72kaMw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-24-bonus-509-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-24',
+    venue: 'Old Town Pub (late night) (Part 10)',
+    city: 'Steamboat Springs',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5uurDWEycE8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-02-25-509',
     artist: 'Billy Strings',
     date: '2017-02-25',
     venue: 'Bluebird Theater',
     city: 'Denver',
     state: 'CO',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/zBmHQuA684A',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-04-516',
+    id: '2017-02-25-bonus-510-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-02-25',
+    venue: 'Bluebird Theater (Part 2)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qXSotulABN0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-04-510',
     artist: 'David Grisman’s Bluegrass Experience',
     date: '2017-03-04',
     venue: 'David Posnack JCC',
@@ -6134,7 +11618,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-17-517',
+    id: '2017-03-17-511',
     artist: 'David Grisman’s Bluegrass Experience',
     date: '2017-03-17',
     venue: 'Anastasia Music Festival',
@@ -6146,7 +11630,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-18-518',
+    id: '2017-03-18-512',
     artist: 'David Grisman’s Bluegrass Experience',
     date: '2017-03-18',
     venue: 'Grey Eagle Tavern',
@@ -6158,7 +11642,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-22-519',
+    id: '2017-03-22-513',
     artist: 'Billy Strings',
     date: '2017-03-22',
     venue: 'The Waiting Room Outdoors',
@@ -6170,7 +11654,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-23-520',
+    id: '2017-03-23-514',
     artist: 'Billy Strings',
     date: '2017-03-23',
     venue: 'First Avenue',
@@ -6182,7 +11666,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-24-521',
+    id: '2017-03-24-515',
     artist: 'Billy Strings',
     date: '2017-03-24',
     venue: 'Pabst Theater',
@@ -6194,7 +11678,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-25-522',
+    id: '2017-03-25-516',
     artist: 'Billy Strings',
     date: '2017-03-25',
     venue: 'Vic Theatre',
@@ -6206,43 +11690,439 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-27-524',
+    id: '2017-03-27-517',
     artist: 'Billy Strings',
     date: '2017-03-27',
     venue: 'The Vogue',
     city: 'Indianapolis',
     state: 'IN',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ShCF7AdFGhI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-29-525',
+    id: '2017-03-27-bonus-518-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-27',
+    venue: 'The Vogue (Part 2)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Z6AbImiOYQo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-27-bonus-518-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-27',
+    venue: 'The Vogue (Part 3)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/t22gCD2B-Es',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-27-bonus-518-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-27',
+    venue: 'The Vogue (Part 4)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/YH6-z7lYHAk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-518',
     artist: 'Billy Strings',
     date: '2017-03-29',
     venue: 'Minglewood Hall',
     city: 'Memphis',
     state: 'TN',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/F7ZTYlNVLzw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-30-526',
+    id: '2017-03-29-bonus-519-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 2)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_OOPyBlB6Mw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 3)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/hdX7MNIjbDo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 4)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/3Bz891H89sw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 5)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Dj-us7CI-RQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 6)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/PdWkvaRIjck',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 7)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/bnrruukxS28',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 8)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/pxqPI93MImM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 9)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/hqY5-uKKA18',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 10)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HIdItPvb8aE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 11)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/smTrAxH4YrI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 12)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/uKmiaWwY-5E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 13)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/j5PU6oVH9l4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 14)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/6urvvGxAv_g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 15)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/EgrvCJFZsmk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 16)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ODq0tyZEdCA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 17)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VA4SuKnX5F4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 18)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CCZ3n-yeXYI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 19)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Pd6iLf2AQoY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 20)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/DdrSXDmRjHk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 21)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/4msa5dNW9KQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 22)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/giLjNm057-0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 23)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/n59v3u5zWXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 24)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MxHDg9UBT4I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 25)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/6dw4GD5nV8Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-29-bonus-519-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-29',
+    venue: 'Minglewood Hall (Part 26)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/pMTXe7oZu6c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-30-519',
     artist: 'Billy Strings',
     date: '2017-03-30',
     venue: 'Marathon Music Works',
     city: 'Nashville',
     state: 'TN',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/UJ7H4ymOmQY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-03-31-527',
+    id: '2017-03-30-bonus-520-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-30',
+    venue: 'Marathon Music Works (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/lvCXML0HVXI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-30-bonus-520-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-30',
+    venue: 'Marathon Music Works (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/sE2J954KQjo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-30-bonus-520-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-30',
+    venue: 'Marathon Music Works (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/7XoU3CeD4V4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-30-bonus-520-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-30',
+    venue: 'Marathon Music Works (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/PN9LwvHGe10',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-30-bonus-520-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-03-30',
+    venue: 'Marathon Music Works (Part 6)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Lhp3bq6xuKQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-03-31-520',
     artist: 'Billy Strings',
     date: '2017-03-31',
     venue: 'A.J. Fletcher Opera Theater',
@@ -6254,7 +12134,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-01-528',
+    id: '2017-04-01-521',
     artist: 'Billy Strings',
     date: '2017-04-01',
     venue: 'Rives Theater',
@@ -6266,19 +12146,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-20-529',
+    id: '2017-04-20-522',
     artist: 'Billy Strings',
     date: '2017-04-20',
     venue: 'Salt Lick Pavilion',
     city: 'Driftwood',
     state: 'TX',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/noTQb18VgNA',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-21-530',
+    id: '2017-04-21-523',
     artist: 'Billy Strings',
     date: '2017-04-21',
     venue: 'Terrapin Hill Farm',
@@ -6290,19 +12170,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-22-531',
+    id: '2017-04-22-524',
     artist: 'Billy Strings',
     date: '2017-04-22',
     venue: '3rd & Lindsay Bar and Grill',
     city: 'Nashville',
     state: 'TN',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/rnBEC98JusE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-27-532',
+    id: '2017-04-22-bonus-525-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-22',
+    venue: '3rd & Lindsay Bar and Grill (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/oqJCm69urfo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-22-bonus-525-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-22',
+    venue: '3rd & Lindsay Bar and Grill (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/1TepKUnHc74',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-525',
     artist: 'Billy Strings',
     date: '2017-04-27',
     venue: 'The Ardmore Music Hall',
@@ -6314,7 +12218,355 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-28-533',
+    id: '2017-04-27-bonus-526-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 1)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/UrWH_Y06Pwo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 2)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/uhiQQ65YDyE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 3)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Lq6-kOOK558',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 4)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/D6HGJuOSPEI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 5)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/YjMYaGugFjM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 6)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VdYXsON4EVs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 7)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/rtuKbRCsF8E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 8)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/p5kthRxgINk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 9)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_SWNd4nxZ8M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 10)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/eYvpvepA0TM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 11)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/8y2iCVdr4hU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 12)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MnxXA1bQ0vc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 13)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MKqPw4YFbsI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 14)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/T7Eg1jeZVcE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 15)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/nN657sg_ZAU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 16)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/I5lFKvo5waE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 17)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/4UcDxEfiBgk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 18)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/094i6WQVY-s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 19)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/rsB2cLYkJu4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 20)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/1f_pfu7Myuc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 21)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0O8JnbHInGg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 22)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2ezTbkBTcn8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 23)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/whPjNlolfzI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 24)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/lPHWZBp5kC0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 25)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/aGgcBHAJ5o0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 26)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5u5N5mGOxx0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 27)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/g6qr7IgslHo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 28)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/wSJ7eEwY-k8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-27-bonus-526-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-04-27',
+    venue: 'The Ardmore Music Hall (Part 29)',
+    city: 'Ardmore',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/u2Cdx_EBs88',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-04-28-526',
     artist: 'Billy Strings',
     date: '2017-04-28',
     venue: 'WTMD Studios',
@@ -6326,7 +12578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-04-29-534',
+    id: '2017-04-29-527',
     artist: 'Billy Strings',
     date: '2017-04-29',
     venue: '8x10',
@@ -6338,7 +12590,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-11-535',
+    id: '2017-05-11-528',
     artist: 'Billy Strings',
     date: '2017-05-11',
     venue: 'Revel',
@@ -6350,19 +12602,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-13-536',
+    id: '2017-05-13-529',
     artist: 'Billy Strings',
     date: '2017-05-13',
-    venue: 'Western Carolina St. Fairgrounds, Aiken Bluegrass Festival',
-    city: 'Aiken',
-    state: 'SC',
+    venue: 'Western Carolina St. Fairgrounds',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
     year: 2017,
     videoUrl: 'https://drive.google.com/file/d/1iSL407e-YhvsjGOo1M-4572aQaO571Uy/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-18-537',
+    id: '2017-05-18-530',
     artist: 'Billy Strings',
     date: '2017-05-18',
     venue: 'Riverdog Retreat',
@@ -6374,7 +12626,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-19-538',
+    id: '2017-05-19-531',
     artist: 'Billy Strings',
     date: '2017-05-19',
     venue: 'James Street Ballroom',
@@ -6386,31 +12638,139 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-20-539',
+    id: '2017-05-20-532',
     artist: 'Billy Strings',
     date: '2017-05-20',
-    venue: 'The Pavilion at Montage Mountain, Susquehanna Breakdown',
-    city: 'Scranton',
-    state: 'PA',
+    venue: 'The Pavilion at Montage Mountain',
+    city: 'Susquehanna Breakdown',
+    state: 'Scranton',
     year: 2017,
     videoUrl: 'https://drive.google.com/file/d/16voftq5CBViIpMT4rLmCLKackrUN5176/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-21-540',
+    id: '2017-05-21-533',
     artist: 'Billy Strings',
     date: '2017-05-21',
-    venue: 'Roy\'s Hall',
+    venue: 'Roy's Hall',
     city: 'Blairstown',
     state: 'NJ',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/sRQXP8ektjA',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-24-541',
+    id: '2017-05-21-bonus-534-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 2)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qsTR_B7CuMU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 3)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/XIGRcanCelk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 4)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/-iNHECst5EI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 5)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5qWIPFDDhUU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 6)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/X98NghshPqc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 7)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/vtVV1uWs1ik',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 8)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/sZRg3oA_hnk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 9)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/15AP2BS_HuM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-21-bonus-534-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-21',
+    venue: 'Roy's Hall (Part 10)',
+    city: 'Blairstown',
+    state: 'NJ',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/rs097p-tikU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-24-534',
     artist: 'Billy Strings',
     date: '2017-05-24',
     venue: 'Capital Ale House',
@@ -6422,55 +12782,859 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-25-542',
+    id: '2017-05-25-535',
     artist: 'Billy Strings',
     date: '2017-05-25',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-27-543',
+    id: '2017-05-27-536',
     artist: 'Billy Strings',
     date: '2017-05-27',
-    venue: 'Allegany County Fairgrounds, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/vZ9zSCjbDZ0',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-28-544',
+    id: '2017-05-27-bonus-537-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 2)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Ns-qr8g9EoY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 3)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/jTd88NQKpU0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 4)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IWj2X5hVj7A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 5)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/zPmdZLzUidc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 6)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/dOcwG6JGXkA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 7)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/q5P_t7igdAk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-27-bonus-537-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-27',
+    venue: 'Allegany County Fairgrounds (Part 8)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CtyW3nEForY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-537',
     artist: 'Billy Strings',
     date: '2017-05-28',
-    venue: 'Allegany County Fairgrounds - Early Set, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds - Early Set',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/uNTWGQbgv8s',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-05-28-545',
+    id: '2017-05-28-bonus-538-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 2)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HAxnZBkIjp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 3)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/RHfHdSFzIA8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 4)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CKyn3XOt3b4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 5)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2fem6zn68ck',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 6)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2DIWvrH-VPQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 7)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/r6Vyl8t5aVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 8)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/U6RofqF4XJk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 9)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/TrfaLDXitow',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 10)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CYt-npW9BGs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 11)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/K1ORB52yLjo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 12)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/1nAHJHGSaHI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 13)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IUNIyNz2RrE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 14)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VVSwB1o8EG8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 15)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/4-1EUV01S1w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 16)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ZiQYgCE313g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 17)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/o9P_bk-P-ew',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 18)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/fq4ZQL89U2Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 19)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/R8CKNNcBpp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 20)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qysW687KC4s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 21)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/C4x5HIdp9L0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 22)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Fg9G1LbMhT0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 23)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/eBQxOCiGpiw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 24)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/EsZHcw087YA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 25)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/X5W-ihfAfIw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 26)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0uZaUNpCPN8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 27)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/BzYWQ14O7FQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 28)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Y8XFWfeS00U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 29)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HZNJYg5I7VQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 30)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/xu9UKS1SSGo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-538-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Early Set (Part 31)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/DYSgSDQVCVg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-538',
     artist: 'Billy Strings',
     date: '2017-05-28',
-    venue: 'Allegany County Fairgrounds - Late Set, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds - Late Set',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/uNTWGQbgv8s',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-01-546',
+    id: '2017-05-28-bonus-539-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 2)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HAxnZBkIjp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 3)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/RHfHdSFzIA8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 4)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CKyn3XOt3b4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 5)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2fem6zn68ck',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 6)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2DIWvrH-VPQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 7)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/r6Vyl8t5aVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 8)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/U6RofqF4XJk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 9)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/TrfaLDXitow',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 10)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/CYt-npW9BGs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 11)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/K1ORB52yLjo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 12)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/1nAHJHGSaHI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 13)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IUNIyNz2RrE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 14)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VVSwB1o8EG8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 15)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/4-1EUV01S1w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 16)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ZiQYgCE313g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 17)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/o9P_bk-P-ew',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 18)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/fq4ZQL89U2Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 19)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/R8CKNNcBpp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 20)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qysW687KC4s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 21)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/C4x5HIdp9L0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 22)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Fg9G1LbMhT0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 23)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/eBQxOCiGpiw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 24)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/EsZHcw087YA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 25)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/X5W-ihfAfIw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 26)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0uZaUNpCPN8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 27)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/BzYWQ14O7FQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 28)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Y8XFWfeS00U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 29)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HZNJYg5I7VQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 30)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/xu9UKS1SSGo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-05-28-bonus-539-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-05-28',
+    venue: 'Allegany County Fairgrounds - Late Set (Part 31)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/DYSgSDQVCVg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-01-539',
     artist: 'Billy Strings',
     date: '2017-06-01',
     venue: 'U.S. National Whitewater Center',
@@ -6482,7 +13646,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-02-547',
+    id: '2017-06-02-540',
     artist: 'Billy Strings',
     date: '2017-06-02',
     venue: '',
@@ -6494,7 +13658,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-03-548',
+    id: '2017-06-03-541',
     artist: 'Billy Strings',
     date: '2017-06-03',
     venue: 'Lake Logan Episcopal Center',
@@ -6506,7 +13670,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-04-549',
+    id: '2017-06-04-542',
     artist: 'Billy Strings',
     date: '2017-06-04',
     venue: 'Muddy Creek Cafe & Music Hall',
@@ -6518,7 +13682,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-08-550',
+    id: '2017-06-08-543',
     artist: 'Billy Strings',
     date: '2017-06-08',
     venue: 'The Bootleg at Atomic Cowboy',
@@ -6530,19 +13694,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-10-551',
+    id: '2017-06-10-544',
     artist: 'Billy Strings',
     date: '2017-06-10',
-    venue: 'Whispering Pines Campground, Blue Ox Music Festival',
-    city: 'Eau Claire',
-    state: 'WI',
+    venue: 'Whispering Pines Campground',
+    city: 'Blue Ox Music Festival',
+    state: 'Eau Claire',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-12-552',
+    id: '2017-06-12-545',
     artist: 'Billy Strings',
     date: '2017-06-12',
     venue: 'The Calumet Theatre',
@@ -6554,7 +13718,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-16-553',
+    id: '2017-06-16-546',
     artist: 'Billy Strings',
     date: '2017-06-16',
     venue: 'Star City BrewingCompany',
@@ -6566,7 +13730,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-17-554',
+    id: '2017-06-17-547',
     artist: 'Billy Strings',
     date: '2017-06-17',
     venue: 'Duck Creek Venue',
@@ -6578,31 +13742,283 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-22-555',
+    id: '2017-06-22-548',
     artist: 'Billy Strings',
     date: '2017-06-22',
-    venue: 'Yellow Creek Park, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-23-556',
+    id: '2017-06-23-549',
     artist: 'Billy Strings',
     date: '2017-06-23',
-    venue: 'Yellow Creek Park, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Gt6QMlqhvu8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-24-557',
+    id: '2017-06-23-bonus-550-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 2)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/icpigPigLWc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 3)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_n_yl245xNE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 4)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IFmzc3bHUnM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 5)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/WHmKqzS9J34',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 6)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ylJTL-1vZJc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 7)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Mz1JgjRi2ug',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 8)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/NQaE8XK3_AM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 9)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/tndXQSgcFkA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 10)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MHp-kuBXqMY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 11)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2G0lqal7w_U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 12)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/WKMH9nsU-MM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 13)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/N2Xp_jOb4Cs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 14)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/FszZ47S2zLI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 15)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_Oh8ToxQLRY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 16)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/X-U89Qz4BMM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 17)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/dBRD0Eu-YVU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 18)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/XTXTCXnT9oE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 19)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/nodSd0rYY4A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 20)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MCiTbf3s26k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 21)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gyTmtRR8Gb8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-23-bonus-550-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-06-23',
+    venue: 'Yellow Creek Park (Part 22)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Q59Qyj39V-M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-06-24-550',
     artist: 'Billy Strings',
     date: '2017-06-24',
     venue: 'The Stage @ Lake Sara',
@@ -6614,7 +14030,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-25-558',
+    id: '2017-06-25-551',
     artist: 'Billy Strings',
     date: '2017-06-25',
     venue: 'The Stage @ Lake Sara',
@@ -6626,43 +14042,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-29-559',
+    id: '2017-06-29-552',
     artist: 'Billy Strings',
     date: '2017-06-29',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-30-560',
+    id: '2017-06-30-553',
     artist: 'Billy Strings',
     date: '2017-06-30',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival - Big Meadow Stage',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival - Big Meadow Stage',
+    state: 'Quincy',
     year: 2017,
     videoUrl: 'https://drive.google.com/file/d/1pduw-WMADxV6wI6HScfVXtmnR1kqDUWb/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-06-30-561',
+    id: '2017-06-30-554',
     artist: 'Billy Strings',
     date: '2017-06-30',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2017,
     videoUrl: 'https://drive.google.com/file/d/1pduw-WMADxV6wI6HScfVXtmnR1kqDUWb/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-06-562',
+    id: '2017-07-06-555',
     artist: 'Billy Strings',
     date: '2017-07-06',
     venue: 'The Southgate House Revival - Sanctuary Stage',
@@ -6674,31 +14090,127 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-07-563',
+    id: '2017-07-07-556',
     artist: 'Billy Strings',
     date: '2017-07-07',
-    venue: 'Bell\'s Eccentric Cafe',
+    venue: 'Bell's Eccentric Cafe',
     city: 'Kalamazoo',
     state: 'MI',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/f_ntKPSeSuM',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-08-564',
+    id: '2017-07-07-bonus-557-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-07',
+    venue: 'Bell's Eccentric Cafe (Part 2)',
+    city: 'Kalamazoo',
+    state: 'MI',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_0JR9PWC3uo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-07-bonus-557-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-07',
+    venue: 'Bell's Eccentric Cafe (Part 3)',
+    city: 'Kalamazoo',
+    state: 'MI',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/xNVF_WQH7_U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-07-bonus-557-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-07',
+    venue: 'Bell's Eccentric Cafe (Part 4)',
+    city: 'Kalamazoo',
+    state: 'MI',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/-rRWqhaexHE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-08-557',
     artist: 'Billy Strings',
     date: '2017-07-08',
-    venue: 'Breidert Green, Frankfort Bluegrass Festival',
-    city: 'Frankfort',
-    state: 'IL',
+    venue: 'Breidert Green',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/n5ITDJZK2jE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-09-565',
+    id: '2017-07-08-bonus-558-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-08',
+    venue: 'Breidert Green (Part 2)',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/OLfdT_-3IrI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-08-bonus-558-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-08',
+    venue: 'Breidert Green (Part 3)',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/eEooLpNux4Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-08-bonus-558-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-08',
+    venue: 'Breidert Green (Part 4)',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/lnGbbb8oCZU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-08-bonus-558-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-08',
+    venue: 'Breidert Green (Part 5)',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gMu4YPPZXKQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-08-bonus-558-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-08',
+    venue: 'Breidert Green (Part 6)',
+    city: 'Frankfort Bluegrass Festival',
+    state: 'Frankfort',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/nMtLfcaMPD8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-09-558',
     artist: 'Billy Strings',
     date: '2017-07-09',
     venue: 'G.A.R. Hall',
@@ -6710,7 +14222,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-12-566',
+    id: '2017-07-12-559',
     artist: 'Billy Strings',
     date: '2017-07-12',
     venue: 'Buffalo Iron Works',
@@ -6722,7 +14234,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-13-567',
+    id: '2017-07-13-560',
     artist: 'Billy Strings',
     date: '2017-07-13',
     venue: 'The F.M. Kirby Center for the Performing Arts',
@@ -6734,46 +14246,46 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-14-568',
+    id: '2017-07-14-561',
     artist: 'Billy Strings',
     date: '2017-07-14',
-    venue: 'Walsh Farm - Catskill Stage, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm - Catskill Stage',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-14-569',
+    id: '2017-07-14-562',
     artist: 'Billy Strings',
     date: '2017-07-14',
-    venue: 'Walsh Farm - High Meadow Stage, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm - High Meadow Stage',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-15-570',
+    id: '2017-07-15-563',
     artist: 'Billy Strings',
     date: '2017-07-15',
-    venue: 'Red Wing Roots Festival - Southern Stage, Natural Chimneys Regional Park & Campground',
-    city: 'Mount Solon',
-    state: 'VA',
+    venue: 'Red Wing Roots Festival - Southern Stage',
+    city: 'Natural Chimneys Regional Park & Campground',
+    state: 'Mount Solon',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-17-571',
+    id: '2017-07-17-564',
     artist: 'Billy Strings',
     date: '2017-07-17',
-    venue: 'Bell\'s Beer Garden',
+    venue: 'Bell's Beer Garden',
     city: 'Kalamazoo',
     state: 'MI',
     year: 2017,
@@ -6782,7 +14294,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-19-572',
+    id: '2017-07-19-565',
     artist: 'Billy Strings',
     date: '2017-07-19',
     venue: 'The Factory at Franklin',
@@ -6794,7 +14306,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-20-573',
+    id: '2017-07-20-566',
     artist: 'Billy Strings',
     date: '2017-07-20',
     venue: 'Capitol Arts Center',
@@ -6806,22 +14318,370 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-21-574',
+    id: '2017-07-21-567',
     artist: 'Billy Strings',
     date: '2017-07-21',
     venue: 'The Burl',
     city: 'Lexington',
     state: 'KY',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/RfsKrmOP3DU',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-22-575',
+    id: '2017-07-21-bonus-568-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 2)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/da75UxKFyw8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 3)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VA6QGzJ7KpQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 4)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/j2Qo1_FySuE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 5)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/jky4NH4mcHU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 6)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/3yTlKfgoRJ8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 7)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/f4O_D4uuc0g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 8)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Ud-N5iQdQyI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 9)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/8P6moLEPFLo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 10)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/GCG9qdAm1J4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 11)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/JExluJOOMss',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 12)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/d0Q3qYSw4HM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 13)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/-8J4rrN3tgs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 14)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/mR14oelKxdo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 15)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HzXwLHBxVIQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 16)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VOrsh9WNly4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 17)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/DZbvTLBLx_s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 18)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Jj8WxC2inII',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 19)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/pc9o1CMDJWc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 20)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qt0HVq0guzc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 21)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/my4cuTZNCTw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 22)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2up0p7IJgTs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 23)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HD6J1mWIupY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 24)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/154amqNfqa0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 25)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/dAvYDOcf3rA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 26)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/i7qMnYkn1hg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 27)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/FpYwkNiZJZY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 28)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/IXQZfm-nEo0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 29)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/hFC33UqNfzk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-21-bonus-568-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-07-21',
+    venue: 'The Burl (Part 30)',
+    city: 'Lexington',
+    state: 'KY',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/z1SNnySPQrg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-07-22-568',
     artist: 'Billy Strings',
     date: '2017-07-22',
-    venue: 'Marvin\'s Mountainto',
+    venue: 'Marvin's Mountainto',
     city: 'Masontown',
     state: 'WV',
     year: 2017,
@@ -6830,7 +14690,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-25-576',
+    id: '2017-07-25-569',
     artist: 'Billy Strings',
     date: '2017-07-25',
     venue: 'House Concert',
@@ -6842,7 +14702,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-26-577',
+    id: '2017-07-26-570',
     artist: 'Billy Strings',
     date: '2017-07-26',
     venue: 'Pine Creek Lodge',
@@ -6854,7 +14714,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-27-578',
+    id: '2017-07-27-571',
     artist: 'Billy Strings',
     date: '2017-07-27',
     venue: 'The Top Hat',
@@ -6866,19 +14726,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-28-579',
+    id: '2017-07-28-572',
     artist: 'Billy Strings',
     date: '2017-07-28',
-    venue: 'Stanley Pioneer Park, Sawtooth Valley Gathering - Main Stage',
-    city: 'Stanley',
-    state: 'ID',
+    venue: 'Stanley Pioneer Park',
+    city: 'Sawtooth Valley Gathering - Main Stage',
+    state: 'Stanley',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-07-30-580',
+    id: '2017-07-30-573',
     artist: 'Billy Strings',
     date: '2017-07-30',
     venue: 'Shastice Park',
@@ -6890,7 +14750,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-02-581',
+    id: '2017-08-02-574',
     artist: 'Billy Strings',
     date: '2017-08-02',
     venue: 'The Axe and Fiddle',
@@ -6902,7 +14762,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-03-582',
+    id: '2017-08-03-575',
     artist: 'Billy Strings',
     date: '2017-08-03',
     venue: 'Volcanic Theatre Pub',
@@ -6914,7 +14774,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-04-583',
+    id: '2017-08-04-576',
     artist: 'Billy Strings',
     date: '2017-08-04',
     venue: 'Pendarvis Farm',
@@ -6926,7 +14786,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-05-584',
+    id: '2017-08-05-577',
     artist: 'Billy Strings',
     date: '2017-08-05',
     venue: 'Pendarvis Farm',
@@ -6938,7 +14798,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-17-585',
+    id: '2017-08-17-578',
     artist: 'Billy Strings',
     date: '2017-08-17',
     venue: 'John Michael Kohler Arts Center',
@@ -6950,7 +14810,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-19-586',
+    id: '2017-08-19-579',
     artist: 'Billy Strings',
     date: '2017-08-19',
     venue: 'The Navy Pier',
@@ -6962,19 +14822,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-20-587',
+    id: '2017-08-20-580',
     artist: 'Billy Strings',
     date: '2017-08-20',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-23-588',
+    id: '2017-08-23-581',
     artist: 'Billy Strings',
     date: '2017-08-23',
     venue: 'Flour City Station',
@@ -6986,7 +14846,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-24-589',
+    id: '2017-08-24-582',
     artist: 'Billy Strings',
     date: '2017-08-24',
     venue: 'East Park Place',
@@ -6998,7 +14858,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-25-590',
+    id: '2017-08-25-583',
     artist: 'Billy Strings',
     date: '2017-08-25',
     venue: 'Finger Lakes Live',
@@ -7010,19 +14870,511 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-26-591',
+    id: '2017-08-26-584',
     artist: 'Billy Strings',
     date: '2017-08-26',
     venue: 'Rex Theater',
     city: 'Pittsburgh',
     state: 'PA',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/sR4GPK13Um4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-27-592',
+    id: '2017-08-26-bonus-585-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 2)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/yFcULA18gX4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 3)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/NM3gYEmSeNk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 4)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Iyhr-R4QW-0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 5)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/xVUB0ABX2Gw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 6)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ADFAJ0TIXoA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 7)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/iDR6LQQqeoU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 8)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gKrK3CJ46uM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 9)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/r8eGIW-Y9as',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 10)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/pxlfDKauJvE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 11)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/hjRnU8P81Ps',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 12)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/LAPvP_nYipU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 13)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/MsdPTq0JgPc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 14)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0pomxJtOcPc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 15)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/2v8JGgcjUYs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 16)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HCeV5ayuJC0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 17)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Rdsh7OSZYNk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 18)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gWsaZlqYkjY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 19)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Tvx16RQITCo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 20)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/dbl46Eze2ow',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 21)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Xg-95h8xc_Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 22)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/wGq_-gBiv7A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 23)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/a7HPMlgkBjk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 24)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/7Bd8bbu6qrM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 25)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/SGxrPCe-36E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 26)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/tsoD2EFoKWs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 27)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/lZRqZkvFrB0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 28)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/nBY9fj6_104',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 29)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/XtnZTJr1c4Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-29',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 30)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/jASgyv4IseM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-30',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 31)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/7BQ3s0VylVg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-31',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 32)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5wPaOycRfj0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-32',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 33)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/JwKqC27FNkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-33',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 34)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/rxwp6KjYy7c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-34',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 35)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/WLah0JzaX8c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-35',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 36)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/N5ZCbrcjrA4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-36',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 37)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/AdBj4Etq7jM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-37',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 38)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_zcXYg1tv_s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-38',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 39)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/m50O4oAfcTM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-39',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 40)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/zCDCzz28bLY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-40',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 41)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/XfXdLtUN2RM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-26-bonus-585-41',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-08-26',
+    venue: 'Rex Theater (Part 42)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/JkUirvZRm3s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-08-27-585',
     artist: 'Billy Strings',
     date: '2017-08-27',
     venue: 'Pinkney Park',
@@ -7034,7 +15386,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-29-593',
+    id: '2017-08-29-586',
     artist: 'Billy Strings',
     date: '2017-08-29',
     venue: 'The Saint',
@@ -7046,7 +15398,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-08-31-594',
+    id: '2017-08-31-587',
     artist: 'Billy Strings',
     date: '2017-08-31',
     venue: 'Parlor Newport',
@@ -7058,7 +15410,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-01-595',
+    id: '2017-09-01-588',
     artist: 'Billy Strings',
     date: '2017-09-01',
     venue: 'The Port Hunter',
@@ -7070,19 +15422,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-02-596',
+    id: '2017-09-02-589',
     artist: 'Billy Strings',
     date: '2017-09-02',
     venue: 'Riverwalk Cafe and Music Bar',
     city: 'Nashua',
     state: 'NH',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/DMtb3Dx-SIc',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-03-597',
+    id: '2017-09-02-bonus-590-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-02',
+    venue: 'Riverwalk Cafe and Music Bar (Part 2)',
+    city: 'Nashua',
+    state: 'NH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/AbmdpmoEUrE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-03-590',
     artist: 'Billy Strings',
     date: '2017-09-03',
     venue: 'Thomas Point Beach & Campground',
@@ -7094,7 +15458,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-08-598',
+    id: '2017-09-08-591',
     artist: 'Billy Strings',
     date: '2017-09-08',
     venue: 'The Belfry',
@@ -7106,7 +15470,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-09-599',
+    id: '2017-09-09-592',
     artist: 'Billy Strings',
     date: '2017-09-09',
     venue: 'Village Green City Park',
@@ -7118,7 +15482,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-09-600',
+    id: '2017-09-09-593',
     artist: 'Billy Strings',
     date: '2017-09-09',
     venue: 'Sisters Art Works',
@@ -7130,7 +15494,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-13-601',
+    id: '2017-09-13-594',
     artist: 'Billy Strings',
     date: '2017-09-13',
     venue: 'Mercy Lounge',
@@ -7142,7 +15506,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-14-602',
+    id: '2017-09-14-595',
     artist: 'Billy Strings',
     date: '2017-09-14',
     venue: 'American Tobacco Campus',
@@ -7154,19 +15518,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-15-603',
+    id: '2017-09-15-596',
     artist: 'Billy Strings',
     date: '2017-09-15',
-    venue: 'North Lexington Avenue, Downtown After Five',
-    city: 'Asheville',
-    state: 'NC',
+    venue: 'North Lexington Avenue',
+    city: 'Downtown After Five',
+    state: 'Asheville',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-16-604',
+    id: '2017-09-16-597',
     artist: 'Billy Strings',
     date: '2017-09-16',
     venue: 'Cumberland Square Park',
@@ -7178,7 +15542,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-15-605',
+    id: '2017-09-15-598',
     artist: 'Billy Strings',
     date: '2017-09-15',
     venue: 'Downtown Asheville',
@@ -7190,7 +15554,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-15-606',
+    id: '2017-09-15-599',
     artist: 'Billy Strings',
     date: '2017-09-15',
     venue: 'Bristol Rhythm & Roots Reunion',
@@ -7202,7 +15566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-16-607',
+    id: '2017-09-16-600',
     artist: 'Billy Strings',
     date: '2017-09-16',
     venue: 'Bristol Rhythm & Roots Reunion',
@@ -7214,7 +15578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-17-608',
+    id: '2017-09-17-601',
     artist: 'Billy Strings',
     date: '2017-09-17',
     venue: 'The Broadberry',
@@ -7226,7 +15590,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-19-609',
+    id: '2017-09-19-602',
     artist: 'Billy Strings',
     date: '2017-09-19',
     venue: '8x10',
@@ -7238,7 +15602,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-20-610',
+    id: '2017-09-20-603',
     artist: 'Billy Strings',
     date: '2017-09-20',
     venue: 'Black Cat',
@@ -7250,31 +15614,223 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-21-611',
+    id: '2017-09-21-604',
     artist: 'Billy Strings',
     date: '2017-09-21',
     venue: 'Boot & Saddle',
     city: 'Philadelphia',
     state: 'PA',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/UJRkhCzGwMI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-21-612',
-    artist: 'Billy Strings',
+    id: '2017-09-21-bonus-605-1',
+    artist: 'Billy Strings (Archive)',
     date: '2017-09-21',
-    venue: 'The Folk Show, WXPN Radio Studios',
+    venue: 'Boot & Saddle (Part 2)',
     city: 'Philadelphia',
     state: 'PA',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/n3KevTRp7J4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-22-613',
+    id: '2017-09-21-bonus-605-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 3)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/NEBywD5DfRo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 4)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/bfdekqghK9c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 5)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/mqkxDN90uLc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 6)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ZN9r_SRaOEk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 7)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/03VMCAsRFUk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 8)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gOnWY5ZaWP4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-605-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'Boot & Saddle (Part 9)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qYl3CQ-GVfQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-605',
+    artist: 'Billy Strings',
+    date: '2017-09-21',
+    venue: 'The Folk Show',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/UJRkhCzGwMI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 2)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/n3KevTRp7J4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 3)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/NEBywD5DfRo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 4)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/bfdekqghK9c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 5)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/mqkxDN90uLc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 6)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/ZN9r_SRaOEk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 7)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/03VMCAsRFUk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 8)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/gOnWY5ZaWP4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-21-bonus-606-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-21',
+    venue: 'The Folk Show (Part 9)',
+    city: 'WXPN Radio Studios',
+    state: 'Philadelphia',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qYl3CQ-GVfQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-22-606',
     artist: 'Billy Strings',
     date: '2017-09-22',
     venue: 'Rough Trade',
@@ -7286,7 +15842,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-23-614',
+    id: '2017-09-23-607',
     artist: 'Billy Strings',
     date: '2017-09-23',
     venue: 'Housatonic Street',
@@ -7298,7 +15854,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-24-615',
+    id: '2017-09-24-608',
     artist: 'Billy Strings',
     date: '2017-09-24',
     venue: 'Great Scott',
@@ -7310,19 +15866,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-25-616',
+    id: '2017-09-25-609',
     artist: 'Billy Strings',
     date: '2017-09-25',
     venue: 'Higher Ground',
     city: 'S. Burlington',
     state: 'VT',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/oSuoIc9zah4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-27-617',
+    id: '2017-09-27-610',
     artist: 'Billy Strings',
     date: '2017-09-27',
     venue: 'Buffalo Iron Works',
@@ -7334,19 +15890,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-28-618',
+    id: '2017-09-28-611',
     artist: 'Billy Strings',
     date: '2017-09-28',
     venue: 'Woodlands Tavern',
     city: 'Columbus',
     state: 'OH',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/VwCVKQ1Z7FY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-29-619',
+    id: '2017-09-28-bonus-612-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-28',
+    venue: 'Woodlands Tavern (Part 2)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/HYS9-0sfJkA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-28-bonus-612-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-09-28',
+    venue: 'Woodlands Tavern (Part 3)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/vgdU5mZaDW8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-09-29-612',
     artist: 'Billy Strings',
     date: '2017-09-29',
     venue: 'Zanzabar',
@@ -7358,7 +15938,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-09-30-620',
+    id: '2017-09-30-613',
     artist: 'Billy Strings',
     date: '2017-09-30',
     venue: 'Parkway',
@@ -7370,7 +15950,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-01-621',
+    id: '2017-10-01-614',
     artist: 'Billy Strings',
     date: '2017-10-01',
     venue: 'Charleston Pour House',
@@ -7382,7 +15962,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-04-622',
+    id: '2017-10-04-615',
     artist: 'Billy Strings',
     date: '2017-10-04',
     venue: 'The Earl',
@@ -7394,19 +15974,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-05-623',
+    id: '2017-10-05-616',
     artist: 'Billy Strings',
     date: '2017-10-05',
-    venue: 'Skunk Farm, Albino Skunk Music Festival',
-    city: 'Greer',
-    state: 'SC',
+    venue: 'Skunk Farm',
+    city: 'Albino Skunk Music Festival',
+    state: 'Greer',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-06-624',
+    id: '2017-10-06-617',
     artist: 'Billy Strings',
     date: '2017-10-06',
     venue: 'High Rock Outfitters',
@@ -7418,7 +15998,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-07-625',
+    id: '2017-10-07-618',
     artist: 'Billy Strings',
     date: '2017-10-07',
     venue: 'Roanoke Island Festival Park',
@@ -7430,19 +16010,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-08-626',
+    id: '2017-10-08-619',
     artist: 'Billy Strings',
     date: '2017-10-08',
-    venue: 'Infinity Downs Farm, Festy 8 - Skyline Stage',
-    city: 'Arrington',
-    state: 'VA',
+    venue: 'Infinity Downs Farm',
+    city: 'Festy 8 - Skyline Stage',
+    state: 'Arrington',
     year: 2017,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-10-627',
+    id: '2017-10-10-620',
     artist: 'Billy Strings',
     date: '2017-10-10',
     venue: 'The Parliament Room at Otus Supply',
@@ -7454,7 +16034,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-11-628',
+    id: '2017-10-11-621',
     artist: 'Billy Strings',
     date: '2017-10-11',
     venue: 'Hi-Fi Indy',
@@ -7466,7 +16046,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-12-629',
+    id: '2017-10-12-622',
     artist: 'Billy Strings',
     date: '2017-10-12',
     venue: 'The Back Room @ Colectivo',
@@ -7478,7 +16058,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-13-630',
+    id: '2017-10-13-623',
     artist: 'Billy Strings',
     date: '2017-10-13',
     venue: 'Schubas Tavern',
@@ -7490,7 +16070,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-14-631',
+    id: '2017-10-14-624',
     artist: 'Billy Strings',
     date: '2017-10-14',
     venue: 'Schubas Tavern',
@@ -7502,7 +16082,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-15-632',
+    id: '2017-10-15-625',
     artist: 'Billy Strings',
     date: '2017-10-15',
     venue: 'The Turf Club',
@@ -7514,7 +16094,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-16-633',
+    id: '2017-10-16-626',
     artist: 'Billy Strings',
     date: '2017-10-16',
     venue: 'High Rock Outfitters',
@@ -7526,7 +16106,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-25-634',
+    id: '2017-10-25-627',
     artist: 'Billy Strings',
     date: '2017-10-25',
     venue: 'Tractor Tavern',
@@ -7538,7 +16118,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-26-635',
+    id: '2017-10-26-628',
     artist: 'Billy Strings',
     date: '2017-10-26',
     venue: 'Volcanic Theatre',
@@ -7550,7 +16130,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-27-636',
+    id: '2017-10-27-629',
     artist: 'Billy Strings',
     date: '2017-10-27',
     venue: 'WOW Hall',
@@ -7562,7 +16142,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-28-637',
+    id: '2017-10-28-630',
     artist: 'Billy Strings',
     date: '2017-10-28',
     venue: 'Revolution Hall',
@@ -7574,7 +16154,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-10-31-638',
+    id: '2017-10-31-631',
     artist: 'Billy Strings',
     date: '2017-10-31',
     venue: 'Bottom of the Hill',
@@ -7586,7 +16166,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-01-639',
+    id: '2017-11-01-632',
     artist: 'Billy Strings',
     date: '2017-11-01',
     venue: 'Echoplex',
@@ -7598,7 +16178,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-03-640',
+    id: '2017-11-03-633',
     artist: 'Billy Strings',
     date: '2017-11-03',
     venue: 'Soda Bar',
@@ -7610,7 +16190,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-04-641',
+    id: '2017-11-04-634',
     artist: 'Billy Strings',
     date: '2017-11-04',
     venue: 'Last Exit Live',
@@ -7622,7 +16202,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-05-642',
+    id: '2017-11-05-635',
     artist: 'Billy Strings',
     date: '2017-11-05',
     venue: 'The Dirty Bourbon Dance Hall & Saloon',
@@ -7634,7 +16214,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-08-643',
+    id: '2017-11-08-636',
     artist: 'Billy Strings',
     date: '2017-11-08',
     venue: 'Fox Theatre',
@@ -7646,7 +16226,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-09-644',
+    id: '2017-11-09-637',
     artist: 'Billy Strings',
     date: '2017-11-09',
     venue: 'Fox Theatre',
@@ -7658,7 +16238,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-10-645',
+    id: '2017-11-10-638',
     artist: 'Billy Strings',
     date: '2017-11-10',
     venue: 'Bluebird Theater',
@@ -7670,7 +16250,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-11-646',
+    id: '2017-11-11-639',
     artist: 'Billy Strings',
     date: '2017-11-11',
     venue: 'Bluebird Theater',
@@ -7682,7 +16262,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-12-647',
+    id: '2017-11-12-640',
     artist: 'Billy Strings',
     date: '2017-11-12',
     venue: 'Globe Hall',
@@ -7694,7 +16274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-15-648',
+    id: '2017-11-15-641',
     artist: 'Billy Strings',
     date: '2017-11-15',
     venue: 'Downtown Asheville',
@@ -7706,7 +16286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-24-649',
+    id: '2017-11-24-642',
     artist: 'Billy Strings',
     date: '2017-11-24',
     venue: 'The Intersection',
@@ -7718,7 +16298,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-24-650',
+    id: '2017-11-24-643',
     artist: 'Billy Strings',
     date: '2017-11-24',
     venue: 'The Intersection',
@@ -7730,7 +16310,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-24-651',
+    id: '2017-11-24-644',
     artist: 'Billy Strings',
     date: '2017-11-24',
     venue: 'WYCE Studio',
@@ -7742,7 +16322,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-25-652',
+    id: '2017-11-25-645',
     artist: 'Billy Strings',
     date: '2017-11-25',
     venue: 'Mount Mancelona',
@@ -7754,7 +16334,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-11-26-653',
+    id: '2017-11-26-646',
     artist: 'Billy Strings',
     date: '2017-11-26',
     venue: 'The Ark',
@@ -7766,7 +16346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-01-654',
+    id: '2017-12-01-647',
     artist: 'Billy Strings',
     date: '2017-12-01',
     venue: 'American Theatre Company',
@@ -7778,7 +16358,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-02-655',
+    id: '2017-12-02-648',
     artist: 'Billy Strings',
     date: '2017-12-02',
     venue: 'Golden Light Cantena',
@@ -7790,7 +16370,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-08-656',
+    id: '2017-12-08-649',
     artist: 'Billy Strings',
     date: '2017-12-08',
     venue: 'Sharon Lynne Wilson Center for the Arts',
@@ -7802,7 +16382,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-09-657',
+    id: '2017-12-09-650',
     artist: 'Billy Strings',
     date: '2017-12-09',
     venue: 'Stoughton Opera House',
@@ -7814,7 +16394,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-14-658',
+    id: '2017-12-14-651',
     artist: 'Billy Strings',
     date: '2017-12-14',
     venue: 'The Burl',
@@ -7826,7 +16406,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-14-659',
+    id: '2017-12-14-652',
     artist: 'Billy Strings',
     date: '2017-12-14',
     venue: 'eTown Hall',
@@ -7838,7 +16418,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-16-660',
+    id: '2017-12-16-653',
     artist: 'Billy Strings',
     date: '2017-12-16',
     venue: 'Rives Theatre',
@@ -7850,10 +16430,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-28-661',
+    id: '2017-12-28-654',
     artist: 'Billy Strings',
     date: '2017-12-28',
-    venue: 'Bell\'s Eccentric Cafe',
+    venue: 'Bell's Eccentric Cafe',
     city: 'Kalamazoo',
     state: 'MI',
     year: 2017,
@@ -7862,7 +16442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-29-662',
+    id: '2017-12-29-655',
     artist: 'Billy Strings',
     date: '2017-12-29',
     venue: 'Riviera Theatre',
@@ -7874,55 +16454,235 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-30-663',
+    id: '2017-12-30-656',
     artist: 'Billy Strings',
     date: '2017-12-30',
     venue: 'Riviera Theatre',
     city: 'Chicago',
     state: 'IL',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/s18v_9PQYcM',
     setlist: 'On The Southbound | Red Fox | My Sweet Blue Eyed Darling | While I\'m Waiting Here | Taking A Slow Train | Dos Banjos | Am I Born to Die | Proud Mary | This Heart Of Mine | Dealing Despair | Brokedown Palace',
     thumbnailUrl: ''
   },
   {
-    id: '2017-12-31-664',
+    id: '2017-12-30-bonus-657-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-30',
+    venue: 'Riviera Theatre (Part 2)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/bZufmJ5redk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-12-30-bonus-657-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-30',
+    venue: 'Riviera Theatre (Part 3)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/J_renVRjpe0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-12-30-bonus-657-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-30',
+    venue: 'Riviera Theatre (Part 4)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/BMY_0xkQRjY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-12-30-bonus-657-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-30',
+    venue: 'Riviera Theatre (Part 5)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Yt5gtQCSBOw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-12-30-bonus-657-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-30',
+    venue: 'Riviera Theatre (Part 6)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/VK20FD-402M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2017-12-31-657',
     artist: 'Billy Strings',
     date: '2017-12-31',
     venue: 'Riviera Theatre',
     city: 'Chicago',
     state: 'IL',
     year: 2017,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/pSBQyISuAyQ',
     setlist: 'Little Maggie | Red Rocking Chair | Thirst Mutilator | So Many Miles | Unwanted Love | In Hiding | Freeborn Man | Lonesome River | That\'s What Love Will Make You Do | To Lay Me Down',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-11-666',
+    id: '2017-12-31-bonus-658-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2017-12-31',
+    venue: 'Riviera Theatre (Part 2)',
+    city: 'Chicago',
+    state: 'IL',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/vGzyyHRDGgI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-658',
     artist: 'Billy Strings',
     date: '2018-01-11',
-    venue: 'Eddie\'s Attic',
+    venue: 'Eddie's Attic',
     city: 'Decatur',
     state: 'GA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/tLD-Gxohmu4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-14-667',
+    id: '2018-01-11-bonus-659-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 2)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TPqLbz8zVEc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 3)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DnL1BqLKhLg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 4)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fYBULJCDRPY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 5)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9yLik7PVHxU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 6)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0vRbqYNad-Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 7)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ESJShQHyrpg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-11-bonus-659-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-11',
+    venue: 'Eddie's Attic (Part 8)',
+    city: 'Decatur',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/D2bttZO-Ez0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-14-659',
     artist: 'Billy Strings',
     date: '2018-01-14',
-    venue: 'Founders Park, Baygrass Bluegrass Festival',
-    city: 'Islamorada',
-    state: 'FL',
+    venue: 'Founders Park',
+    city: 'Baygrass Bluegrass Festival',
+    state: 'Islamorada',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/iMvujYz7wpI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-18-668',
+    id: '2018-01-14-bonus-660-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-14',
+    venue: 'Founders Park (Part 2)',
+    city: 'Baygrass Bluegrass Festival',
+    state: 'Islamorada',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/6QVtj5sWETU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-14-bonus-660-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-14',
+    venue: 'Founders Park (Part 3)',
+    city: 'Baygrass Bluegrass Festival',
+    state: 'Islamorada',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/a6pRTzNc6IQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-18-660',
     artist: 'Billy Strings',
     date: '2018-01-18',
     venue: 'Egyptian Room at Old National Centre',
@@ -7934,31 +16694,115 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-19-669',
+    id: '2018-01-18-bonus-661-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-18',
+    venue: 'Egyptian Room at Old National Centre (Part 1)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lUJU49_IeEs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-19-661',
     artist: 'Billy Strings',
     date: '2018-01-19',
     venue: 'New Daisy Theatre',
     city: 'Memphis',
     state: 'TN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/udu1fLxGu0Y',
     setlist: 'Dust In A Baggie | I\'m Still Here | Last Train To Clarksville | So Many Miles | Unwanted Love | Turmoil and Tinfoil | On The Line | China Doll | White Freight Liner Blues | Black Clouds',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-20-670',
+    id: '2018-01-19-bonus-662-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-19',
+    venue: 'New Daisy Theatre (Part 2)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LV-b8wy4bd0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-20-662',
     artist: 'Billy Strings',
     date: '2018-01-20',
     venue: 'Marathon Music Works',
     city: 'Nashville',
     state: 'TN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Chp8Bt95lBc',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-24-671',
+    id: '2018-01-20-bonus-663-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-20',
+    venue: 'Marathon Music Works (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/k5XT-6ktI_4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-20-bonus-663-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-20',
+    venue: 'Marathon Music Works (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vlHnbWBs4FE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-20-bonus-663-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-20',
+    venue: 'Marathon Music Works (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fJX6iESxTp8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-20-bonus-663-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-20',
+    venue: 'Marathon Music Works (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4aup8rqZXEs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-20-bonus-663-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-20',
+    venue: 'Marathon Music Works (Part 6)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/kM2_urRzH_k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-24-663',
     artist: 'Billy Strings',
     date: '2018-01-24',
     venue: 'The Egg',
@@ -7970,7 +16814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-25-672',
+    id: '2018-01-25-664',
     artist: 'Billy Strings',
     date: '2018-01-25',
     venue: 'House of Blues',
@@ -7982,7 +16826,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-26-673',
+    id: '2018-01-26-665',
     artist: 'Billy Strings',
     date: '2018-01-26',
     venue: 'PlayStation Theater',
@@ -7994,19 +16838,187 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-27-674',
+    id: '2018-01-27-666',
     artist: 'Billy Strings',
     date: '2018-01-27',
     venue: 'PlayStation Theater',
     city: 'New York',
     state: 'NY',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/B2tdI_JOv3U',
     setlist: 'On The Line | While I\'m Waiting Here | Long Gone | Thirst Mutilator | Dust In A Baggie | Uncle John | Hunt For The Red Fox | Blue Eyed Darling',
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-28-675',
+    id: '2018-01-27-bonus-667-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 2)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/txktnMD1JaY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 3)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/p4IUfBeRabo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 4)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/22SVXqS36bk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 5)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GkoLaHOXe48',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 6)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DP8bmy5QqnY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 7)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eHbF2tiX5xk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 8)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4CtIAtHKat0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 9)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WOM11mwcQRQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 10)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/cDJYCCEKr_A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 11)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/1FQaU2BmZcQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 12)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/j3vntX1wHUQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 13)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c1ij3jD_afU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 14)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/km4kvqjof5A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-27-bonus-667-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-01-27',
+    venue: 'PlayStation Theater (Part 15)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/FnFiaxlqXWU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-01-28-667',
     artist: 'Billy Strings',
     date: '2018-01-28',
     venue: 'Elk Creek Cafe & Aleworks',
@@ -8018,7 +17030,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-29-676',
+    id: '2018-01-29-668',
     artist: 'Billy Strings',
     date: '2018-01-29',
     venue: 'The F.M. Kirby Center for the Performing Arts',
@@ -8030,7 +17042,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-30-677',
+    id: '2018-01-30-669',
     artist: 'Billy Strings',
     date: '2018-01-30',
     venue: 'Private Venue',
@@ -8042,7 +17054,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-01-31-678',
+    id: '2018-01-31-670',
     artist: 'Billy Strings',
     date: '2018-01-31',
     venue: 'Carnegie Music Hall of Homestead',
@@ -8054,7 +17066,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-01-679',
+    id: '2018-02-01-671',
     artist: 'Billy Strings',
     date: '2018-02-01',
     venue: 'The Foundry at The Fillmore',
@@ -8066,19 +17078,163 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-02-680',
+    id: '2018-02-02-672',
     artist: 'Billy Strings',
     date: '2018-02-02',
     venue: '9:30 Club',
     city: 'Washington',
     state: 'DC',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/xQ23deBz_F8',
     setlist: 'Ernest T. Grass | Little Maggie | While I\'m Waiting Here | Train Train | China Doll | So Many Miles | Turmoil and Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-03-681',
+    id: '2018-02-02-bonus-673-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 2)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/xAXkTmvjWEM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 3)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/nscl5yATuaU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 4)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fmp60kicX_o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 5)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Q68Ky2gyzWY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 6)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TdUVRGdGUIg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 7)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/n0u00azJ2yE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 8)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/b3c_L0ITw4c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 9)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vpGoQ_ujPSc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 10)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4rh2bab0Xfs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 11)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GqNxAk37TfQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 12)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/z-rELxop0dg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-02-bonus-673-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-02',
+    venue: '9:30 Club (Part 13)',
+    city: 'Washington',
+    state: 'DC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pAxhtlOuSsU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-03-673',
     artist: 'Billy Strings',
     date: '2018-02-03',
     venue: 'The Anthem',
@@ -8090,7 +17246,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-09-682',
+    id: '2018-02-09-674',
     artist: 'Billy Strings',
     date: '2018-02-09',
     venue: 'Montana Jack at Big Sky Resort',
@@ -8102,7 +17258,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-10-683',
+    id: '2018-02-10-675',
     artist: 'Billy Strings',
     date: '2018-02-10',
     venue: 'Big Sky Resort',
@@ -8114,7 +17270,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-20-684',
+    id: '2018-02-20-676',
     artist: 'Billy Strings',
     date: '2018-02-20',
     venue: 'eTown Hall',
@@ -8126,19 +17282,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-22-685',
+    id: '2018-02-22-677',
     artist: 'Billy Strings',
     date: '2018-02-22',
     venue: 'Cervantes Masterpiece Ballroom',
     city: 'Denver',
     state: 'CO',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/mJ_cO-ifCZs',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-23-686',
+    id: '2018-02-22-bonus-678-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 2)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/l8cRtxcN8kU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 3)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c0Vm5JtBB3Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 4)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/OcEK5Mu1VCg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 5)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/jhvs-ecGrWI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 6)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qQVcxpPWaWc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 7)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/D1WL3VYJJCw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-22-bonus-678-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-22',
+    venue: 'Cervantes Masterpiece Ballroom (Part 8)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3jLGL4zUCPY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-23-678',
     artist: 'Billy Strings',
     date: '2018-02-23',
     venue: 'Aggie Theatre',
@@ -8150,10 +17390,22 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-24-687',
+    id: '2018-02-24-679',
     artist: 'Billy Strings',
     date: '2018-02-24',
-    venue: 'The Steamboat Grand, Winter WonderGrass',
+    venue: 'The Steamboat Grand',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: '',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-24-680',
+    artist: 'Billy Strings',
+    date: '2018-02-24',
+    venue: 'Schmiggity's Live Music & Dance Bar',
     city: 'Steamboat Springs',
     state: 'CO',
     year: 2018,
@@ -8162,31 +17414,223 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-24-688',
-    artist: 'Billy Strings',
-    date: '2018-02-24',
-    venue: 'Schmiggity\'s Live Music & Dance Bar',
-    city: 'Steamboat Springs',
-    state: 'CO',
-    year: 2018,
-    videoUrl: '',
-    setlist: '',
-    thumbnailUrl: ''
-  },
-  {
-    id: '2018-02-25-689',
+    id: '2018-02-25-681',
     artist: 'Billy Strings',
     date: '2018-02-25',
-    venue: 'Knoll Lot, Winter WonderGrass',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Knoll Lot',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/zE689M3tgMY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-02-28-690',
+    id: '2018-02-25-bonus-682-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 2)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/2cVbuRPnbX0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 3)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GWk8v7XQ1uo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 4)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/8PZyOh1fHjo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 5)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/KHqP76XYEXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 6)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/H0TFTSsZYBQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 7)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Ri0lkSuNvpE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 8)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eqnB_x-OBWs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 9)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Cyge6hK7DOY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 10)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9uZ8lanSe9k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 11)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/_fc2GkIOKh0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 12)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/V4WVJzvUM3I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 13)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/xfSEVqnuLRY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 14)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/jBicHeByIBU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 15)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/YpsBTnB50XQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 16)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/oaLP4wk7S9M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 17)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/wFPhupt7LPs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-25-bonus-682-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-02-25',
+    venue: 'Knoll Lot (Part 18)',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GsbAQOOEI4c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-02-28-682',
     artist: 'Billy Strings',
     date: '2018-02-28',
     venue: 'University of Wyoming',
@@ -8198,22 +17642,250 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-03-691',
+    id: '2018-03-03-683',
     artist: 'Billy Strings',
     date: '2018-03-03',
     venue: 'Bluestone',
     city: 'Columbus',
     state: 'OH',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/a2vKD0-Xxlk',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-08-692',
+    id: '2018-03-03-bonus-684-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 2)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c9CJ05iUXxQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 3)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TLKkwulzd7Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 4)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DG25QynMzRY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 5)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ybaUsWs4nkw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 6)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/F7l0dMPp6PU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 7)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Ol2OH43zNB4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 8)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ZRsIZ1H4VCU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 9)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/kr-RveCnZTE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 10)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/nu5gDk97pFQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 11)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WWZvW83GeoM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 12)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tt-rP-P77m0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 13)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/cq-obV_dzhA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 14)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tgYCH_AmSwI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 15)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Kw0_VMiA_zw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 16)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qviOKiKxTiI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 17)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/jhBR--LOwG8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 18)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Yz7UvCKnBv8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 19)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VyZxGMlkTc4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-03-bonus-684-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-03',
+    venue: 'Bluestone (Part 20)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fRbBJR_b5tQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-08-684',
     artist: 'Billy Strings',
     date: '2018-03-08',
-    venue: 'Eddie\'s Attic',
+    venue: 'Eddie's Attic',
     city: 'Decatur',
     state: 'GA',
     year: 2018,
@@ -8222,7 +17894,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-10-693',
+    id: '2018-03-10-685',
     artist: 'Billy Strings',
     date: '2018-03-10',
     venue: 'Curtis Hixon Park & Kiley Gardens',
@@ -8234,7 +17906,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-17-694',
+    id: '2018-03-17-686',
     artist: 'Billy Strings',
     date: '2018-03-17',
     venue: 'Waterloo Records',
@@ -8246,43 +17918,91 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-22-695',
+    id: '2018-03-22-687',
     artist: 'Billy Strings',
     date: '2018-03-22',
-    venue: 'Spirit of the Suwannee Music Park, Suwanee Spring Reunion',
-    city: 'Live Oak',
-    state: 'FL',
+    venue: 'Spirit of the Suwannee Music Park',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-23-696',
+    id: '2018-03-23-688',
     artist: 'Billy Strings',
     date: '2018-03-23',
-    venue: 'Spirit of the Suwannee Music Park, Suwanee Spring Reunion',
-    city: 'Live Oak',
-    state: 'FL',
+    venue: 'Spirit of the Suwannee Music Park',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/TtxZr1rNEPg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-23-697',
+    id: '2018-03-23-bonus-689-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-23',
+    venue: 'Spirit of the Suwannee Music Park (Part 2)',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lpxn8Q6UeP0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-23-bonus-689-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-23',
+    venue: 'Spirit of the Suwannee Music Park (Part 3)',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/HM5_87zLn8E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-23-689',
     artist: 'Billy Strings',
     date: '2018-03-23',
-    venue: 'Spirit of the Suwannee Music Park, Suwanee Spring Reunion',
-    city: 'Live Oak',
-    state: 'FL',
+    venue: 'Spirit of the Suwannee Music Park',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/TtxZr1rNEPg',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-03-24-698',
+    id: '2018-03-23-bonus-690-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-23',
+    venue: 'Spirit of the Suwannee Music Park (Part 2)',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lpxn8Q6UeP0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-23-bonus-690-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-03-23',
+    venue: 'Spirit of the Suwannee Music Park (Part 3)',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/HM5_87zLn8E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-03-24-690',
     artist: 'Billy Strings',
     date: '2018-03-24',
     venue: 'Cumberland Caverns',
@@ -8294,31 +18014,259 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-05-699',
+    id: '2018-04-05-691',
     artist: 'Billy Strings',
     date: '2018-04-05',
     venue: 'The Castle Theatre',
     city: 'Bloomington',
     state: 'IL',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/s2FFBLn1sjY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-06-700',
+    id: '2018-04-05-bonus-692-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 2)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SvHFZyJ2K70',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 3)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ZT0pc4wDnCI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 4)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/OGn44mv_OAI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 5)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/AD1iSsTO0lA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 6)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/p7rpmas6RT4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 7)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/dQMhk6Tnj7U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 8)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/bOTfwyHwK_s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 9)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GcplRTJf4_8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 10)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TE2OWNoPnYY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 11)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ogMieSXJQeQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-05-bonus-692-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-05',
+    venue: 'The Castle Theatre (Part 12)',
+    city: 'Bloomington',
+    state: 'IL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/815RAyK9MIA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-692',
     artist: 'Billy Strings',
     date: '2018-04-06',
     venue: 'The Bootleg at Atomic Cowboy',
     city: 'St. Louis',
     state: 'MO',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/hQs0q2a5_OQ',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-07-701',
+    id: '2018-04-06-bonus-693-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 2)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7A1jk5g0ux4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 3)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/L8J9a0ZYHcA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 4)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/R2IVVc6SDMY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 5)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RnLsDtiymfU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 6)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WgKgpgZvzVk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 7)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/d6uiSPvhuX4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 8)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Dq8mk9pLjUY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-06-bonus-693-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-06',
+    venue: 'The Bootleg at Atomic Cowboy (Part 9)',
+    city: 'St. Louis',
+    state: 'MO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/mAMx_x50_yk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-07-693',
     artist: 'Billy Strings',
     date: '2018-04-07',
     venue: 'Woodlands Tavern',
@@ -8330,43 +18278,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-13-702',
+    id: '2018-04-13-694',
     artist: 'Billy Strings',
     date: '2018-04-13',
-    venue: 'Plaza Hotel & Casino, Bender Jamboree',
-    city: 'Las Vegas',
-    state: 'NV',
+    venue: 'Plaza Hotel & Casino',
+    city: 'Bender Jamboree',
+    state: 'Las Vegas',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-14-703',
+    id: '2018-04-14-695',
     artist: 'Billy Strings',
     date: '2018-04-14',
-    venue: 'Plaza Hotel Showroom, Bender Jamboree',
-    city: 'Las Vegas',
-    state: 'NV',
+    venue: 'Plaza Hotel Showroom',
+    city: 'Bender Jamboree',
+    state: 'Las Vegas',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-20-704',
+    id: '2018-04-20-696',
     artist: 'Billy Strings',
     date: '2018-04-20',
-    venue: 'Camp ShhhhTimes Late Night Set, Old Settlers Music Festival',
-    city: 'Dale',
-    state: 'TX',
+    venue: 'Camp ShhhhTimes Late Night Set',
+    city: 'Old Settlers Music Festival',
+    state: 'Dale',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-20-705',
+    id: '2018-04-20-697',
     artist: 'Billy Strings',
     date: '2018-04-20',
     venue: 'Old Settlers Music Festival',
@@ -8378,7 +18326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-21-706',
+    id: '2018-04-21-698',
     artist: 'Billy Strings',
     date: '2018-04-21',
     venue: 'Old Settlers Music Festival',
@@ -8390,7 +18338,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-24-707',
+    id: '2018-04-24-699',
     artist: 'Billy Strings',
     date: '2018-04-24',
     venue: 'The Southgate House Revival',
@@ -8402,7 +18350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-25-708',
+    id: '2018-04-25-700',
     artist: 'Billy Strings',
     date: '2018-04-25',
     venue: 'Rex Theater',
@@ -8414,7 +18362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-26-709',
+    id: '2018-04-26-701',
     artist: 'Billy Strings',
     date: '2018-04-26',
     venue: 'The Haunt',
@@ -8426,7 +18374,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-27-710',
+    id: '2018-04-27-702',
     artist: 'Billy Strings',
     date: '2018-04-27',
     venue: 'River Street Jazz Cafe',
@@ -8438,19 +18386,307 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-28-711',
+    id: '2018-04-27-bonus-703-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 1)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/wpu9N_F2SwY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 2)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/HCkk_5LnzV4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 3)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/g3Krw2NVi5M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 4)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/1uqvMWQwmzs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 5)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ddNbKwtaL_4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 6)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TQFL_E_ZKQw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 7)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NJOrgKuIELI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 8)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DYDHoON7EeU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 9)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NtsN_94XITc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 10)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SQOHFNCU0Ek',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 11)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DFC6m9o5r0E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 12)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/owQrvwDLh1c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 13)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LnY0ZeBy-EI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-27-bonus-703-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-27',
+    venue: 'River Street Jazz Cafe (Part 14)',
+    city: 'Plains',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/R1rwxskSNZc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-703',
     artist: 'Billy Strings',
     date: '2018-04-28',
     venue: 'Druid Hill Park',
     city: 'Baltimore',
     state: 'MD',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/FNAhrwXLs40',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-04-30-712',
+    id: '2018-04-28-bonus-704-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 2)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/UdX_wo-Opxg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 3)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tOFCWnqrLos',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 4)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/w2TBpamYv0U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 5)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tUxeiXdBXpA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 6)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DtaFPW7fOC4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 7)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fyXuhg56kVs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 8)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7-eTeh3GR50',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 9)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/IDDWEZ01Djw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 10)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tz3ndHUwgKE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-28-bonus-704-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-04-28',
+    venue: 'Druid Hill Park (Part 11)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/XOs-STSE_9U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-04-30-704',
     artist: 'Billy Strings',
     date: '2018-04-30',
     venue: 'The Knitting Factory',
@@ -8462,7 +18698,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-01-713',
+    id: '2018-05-01-705',
     artist: 'Billy Strings',
     date: '2018-05-01',
     venue: 'Wonder Bar',
@@ -8474,7 +18710,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-02-714',
+    id: '2018-05-02-706',
     artist: 'Billy Strings',
     date: '2018-05-02',
     venue: 'Boot and Saddle',
@@ -8486,7 +18722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-03-715',
+    id: '2018-05-03-707',
     artist: 'Billy Strings',
     date: '2018-05-03',
     venue: 'The Southern Cafe & Music Hall',
@@ -8498,7 +18734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-04-716',
+    id: '2018-05-04-708',
     artist: 'Billy Strings',
     date: '2018-05-04',
     venue: 'Hot Springs Resort and Spa',
@@ -8510,7 +18746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-05-717',
+    id: '2018-05-05-709',
     artist: 'Billy Strings',
     date: '2018-05-05',
     venue: 'The Burl',
@@ -8522,7 +18758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-10-718',
+    id: '2018-05-10-710',
     artist: 'Billy Strings',
     date: '2018-05-10',
     venue: 'Lincoln Theatre',
@@ -8534,43 +18770,151 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-11-719',
+    id: '2018-05-11-711',
     artist: 'Billy Strings',
     date: '2018-05-11',
-    venue: 'Aiken County Fairgrounds, Aiken Bluegrass Festival',
-    city: 'Aiken',
-    state: 'SC',
+    venue: 'Aiken County Fairgrounds',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/1NvigJjKS3yDRDXGTaSYFmngNUlbIft0P/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-12-720',
+    id: '2018-05-11-bonus-712-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 1)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VIpL0rSRi7w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 2)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/CENlIlXkbVo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 3)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/C1e15gT5HMU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 4)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/p29hQgIYLGo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 5)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RHRHjzYOZF4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 6)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VoIIQVGYEz4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 7)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lwM5PsbbfLY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-11-bonus-712-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-11',
+    venue: 'Aiken County Fairgrounds (Part 8)',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4Sukm3Jm35c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-12-712',
     artist: 'Billy Strings',
     date: '2018-05-12',
-    venue: 'Aiken County Fairgrounds, Aiken Bluegrass Festival',
-    city: 'Aiken',
-    state: 'SC',
+    venue: 'Aiken County Fairgrounds',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-13-721',
+    id: '2018-05-13-713',
     artist: 'Billy Strings',
     date: '2018-05-13',
     venue: 'Triad Park',
     city: 'Kernersville',
     state: 'NC',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/pRzLkzRcFLo',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-18-722',
+    id: '2018-05-13-bonus-714-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-13',
+    venue: 'Triad Park (Part 2)',
+    city: 'Kernersville',
+    state: 'NC',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/L_4za9O53dE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-18-714',
     artist: 'Billy Strings',
     date: '2018-05-18',
     venue: 'McAwesome Ranch',
@@ -8582,19 +18926,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-19-723',
+    id: '2018-05-19-715',
     artist: 'Billy Strings',
     date: '2018-05-19',
     venue: 'Mishawaka Amphitheatre',
     city: 'Bellvue',
     state: 'CO',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ejqzo2duApE',
     setlist: 'Turmoil & Tinfoil | Unwanted Love | While I\'m Waiting Here | Pyramid Country | Train Train | Home Of The Red Fox | Little Maggie | Ten Degrees and Getting Colder | On The Line | Salty Sheep | The Train That Carried My Girl From Town | Black Mountain Rag | Black Clouds | Dust In A Baggie | So Many Miles | In Hiding | Letter to Seymour | Meet Me at the Creek | Proud Mary',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-24-724',
+    id: '2018-05-19-bonus-716-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-19',
+    venue: 'Mishawaka Amphitheatre (Part 2)',
+    city: 'Bellvue',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/K9GGshyFr4w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-24-716',
     artist: 'Billy Strings',
     date: '2018-05-24',
     venue: 'Salvage Station',
@@ -8606,67 +18962,451 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-25-725',
+    id: '2018-05-25-717',
     artist: 'Billy Strings',
     date: '2018-05-25',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/11g-AjkFT1Ni5-m3_97Ey4MeMom7nRXw1/preview',
     setlist: 'Banter | Guitar In My Hands | Dust In A Baggie | Swinging Doors | Can\'t You See | Johnny B. Goode | It Hurts Me Too | Compared To What | Hey Joe | Unknown | Born to Be Wild | Good Times, Bad Times | Unknown | Im Yours And Im Hers | Little Spoonful | Sweet Leaf | Rocky Top | Rock N Roll Hoochie Coo',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-25-726',
+    id: '2018-05-25-bonus-718-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 1)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/iQ33Sj2j1DI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-718-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 2)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/A4p1oMO3AUk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-718-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 3)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ZW1pSWb0oaw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-718-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 4)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/D-uJdSLrFKQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-718-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 5)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/AoaXghP9yV4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-718',
     artist: 'Billy Strings',
     date: '2018-05-25',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/11g-AjkFT1Ni5-m3_97Ey4MeMom7nRXw1/preview',
     setlist: 'Banter | Guitar In My Hands | Dust In A Baggie | Swinging Doors | Can\'t You See | Johnny B. Goode | It Hurts Me Too | Compared To What | Hey Joe | Unknown | Born to Be Wild | Good Times, Bad Times | Unknown | Im Yours And Im Hers | Little Spoonful | Sweet Leaf | Rocky Top | Rock N Roll Hoochie Coo',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-26-727',
-    artist: 'Billy Strings',
-    date: '2018-05-26',
-    venue: 'Allegany County Fairgrounds - Potomac Side Stage, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    id: '2018-05-25-bonus-719-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 1)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/iQ33Sj2j1DI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-26-728',
-    artist: 'Billy Strings',
-    date: '2018-05-26',
-    venue: 'Allegany County Fairgrounds - Music Hall (late night), DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    id: '2018-05-25-bonus-719-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 2)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/A4p1oMO3AUk',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-27-729',
+    id: '2018-05-25-bonus-719-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 3)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ZW1pSWb0oaw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-719-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 4)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/D-uJdSLrFKQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-25-bonus-719-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-25',
+    venue: 'Pop's Farm (Part 5)',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/AoaXghP9yV4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-719',
+    artist: 'Billy Strings',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EmycR4sfkaQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 2)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/OC2X9oE_2H8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 3)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TxVRfQuiirs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 4)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0Rilxxvt-P0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 5)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9yjWjkZ6ftg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 6)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/I1X1GjnQEWo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 7)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/MyEDMJXJd1I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 8)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Bz-jbMpu_GE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 9)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ecOyDfLPjAc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 10)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/J3bxsYIVhkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 11)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/6mMSNFukgfI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-720-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Potomac Side Stage (Part 12)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qICCKII-yY8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-720',
+    artist: 'Billy Strings',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EmycR4sfkaQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 2)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/OC2X9oE_2H8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 3)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TxVRfQuiirs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 4)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0Rilxxvt-P0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 5)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9yjWjkZ6ftg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 6)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/I1X1GjnQEWo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 7)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/MyEDMJXJd1I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 8)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Bz-jbMpu_GE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 9)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ecOyDfLPjAc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 10)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/J3bxsYIVhkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 11)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/6mMSNFukgfI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-26-bonus-721-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-26',
+    venue: 'Allegany County Fairgrounds - Music Hall (late night) (Part 12)',
+    city: 'DelFest',
+    state: 'Cumberland',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qICCKII-yY8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-05-27-721',
     artist: 'Billy Strings',
     date: '2018-05-27',
-    venue: 'Allegany County Fairgrounds, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-29-730',
+    id: '2018-05-29-722',
     artist: 'Billy Strings',
     date: '2018-05-29',
     venue: 'Beachland Ballroom and Tavern',
@@ -8678,31 +19418,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-05-31-731',
+    id: '2018-05-31-723',
     artist: 'Billy Strings',
     date: '2018-05-31',
-    venue: 'Hoxeyville Festival Grounds, Greensky Bluegrass Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Greensky Bluegrass Music Festival',
+    state: 'Wellston',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Y8NyyA4M5f8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-01-732',
+    id: '2018-05-31-bonus-724-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-05-31',
+    venue: 'Hoxeyville Festival Grounds (Part 2)',
+    city: 'Greensky Bluegrass Music Festival',
+    state: 'Wellston',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DU2ns9ORyTY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-01-724',
     artist: 'Billy Strings',
     date: '2018-06-01',
-    venue: 'Bill Monroe Memorial Music Park, John Hartford Memorial Music Festival',
-    city: 'Bean Blossom Township',
-    state: 'IN',
+    venue: 'Bill Monroe Memorial Music Park',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/1aK_NKNlgp17674pTgUQVLy4GLzR0jfO-/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-02-733',
+    id: '2018-06-01-bonus-725-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-01',
+    venue: 'Bill Monroe Memorial Music Park (Part 1)',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/S_UGHnoGH4M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-01-bonus-725-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-01',
+    venue: 'Bill Monroe Memorial Music Park (Part 2)',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Zd6oHQsm3nY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-01-bonus-725-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-01',
+    venue: 'Bill Monroe Memorial Music Park (Part 3)',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/L1sHAXAW8j8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-01-bonus-725-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-01',
+    venue: 'Bill Monroe Memorial Music Park (Part 4)',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/b3iF9x8GZI8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-01-bonus-725-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-01',
+    venue: 'Bill Monroe Memorial Music Park (Part 5)',
+    city: 'John Hartford Memorial Music Festival',
+    state: 'Bean Blossom Township',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7TOUJ2bKW1w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-725',
     artist: 'Billy Strings',
     date: '2018-06-02',
     venue: 'Buck Lake Ranch',
@@ -8714,55 +19526,259 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-07-734',
+    id: '2018-06-02-bonus-726-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 1)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/jpcb1fne4ac',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 2)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GNX9jIVrh6A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 3)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vLaaWX1RdXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 4)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/1RZphW5yDLE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 5)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/owRiiVOc8hY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 6)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pk4gIEJZCkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 7)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/FeBdm5A1F8Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 8)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PVm-0cSA9Wo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 9)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PaiAopA6Ya0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 10)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/swkfBdF2IuA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-02-bonus-726-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-02',
+    venue: 'Buck Lake Ranch (Part 11)',
+    city: 'Angola',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/kakBrxceyrE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-07-726',
     artist: 'Billy Strings',
     date: '2018-06-07',
     venue: 'Woodlands Tavern',
     city: 'Columbus',
     state: 'OH',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/8dbwWYeBN4w',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-08-735',
+    id: '2018-06-08-727',
     artist: 'Billy Strings',
     date: '2018-06-08',
     venue: 'Woodlands Tavern',
     city: 'Columbus',
     state: 'OH',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/fhPGsHYNPdM',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-09-736',
+    id: '2018-06-08-bonus-728-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-08',
+    venue: 'Woodlands Tavern (Part 2)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/a0-jCUL-oYk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-08-bonus-728-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-08',
+    venue: 'Woodlands Tavern (Part 3)',
+    city: 'Columbus',
+    state: 'OH',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/u1yfw5cl_yU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-09-728',
     artist: 'Billy Strings',
     date: '2018-06-09',
     venue: 'Weko Beach',
     city: 'Bridgman',
     state: 'MI',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ET-yOyX7tnw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-14-737',
+    id: '2018-06-09-bonus-729-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-09',
+    venue: 'Weko Beach (Part 2)',
+    city: 'Bridgman',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/cvwU18mvK48',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-09-bonus-729-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-09',
+    venue: 'Weko Beach (Part 3)',
+    city: 'Bridgman',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/zx4aThwLsvA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-09-bonus-729-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-09',
+    venue: 'Weko Beach (Part 4)',
+    city: 'Bridgman',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3zOYmW7L7dk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-09-bonus-729-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-09',
+    venue: 'Weko Beach (Part 5)',
+    city: 'Bridgman',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/V5l_ENAN5NQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-14-729',
     artist: 'Billy Strings',
     date: '2018-06-14',
-    venue: 'Whispering Pines Campground, Blue Ox Music Festival',
-    city: 'Eau Claire',
-    state: 'WI',
+    venue: 'Whispering Pines Campground',
+    city: 'Blue Ox Music Festival',
+    state: 'Eau Claire',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/1NGK1GCOd1To1yb6aGdZbL4KGPnLgFI9A/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-16-738',
+    id: '2018-06-16-730',
     artist: 'Billy Strings',
     date: '2018-06-16',
     venue: 'Downtown',
@@ -8774,7 +19790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-20-739',
+    id: '2018-06-20-731',
     artist: 'Billy Strings',
     date: '2018-06-20',
     venue: 'Sunset Plaza',
@@ -8786,31 +19802,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-21-740',
+    id: '2018-06-21-732',
     artist: 'Billy Strings',
     date: '2018-06-21',
-    venue: 'Town Park, Telluride Bluegrass Festival',
-    city: 'Telluride',
-    state: 'CO',
+    venue: 'Town Park',
+    city: 'Telluride Bluegrass Festival',
+    state: 'Telluride',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-22-741',
+    id: '2018-06-22-733',
     artist: 'Billy Strings',
     date: '2018-06-22',
-    venue: 'RiversEdge Amphitheater, Whimmydiddle Country Music Festival',
-    city: 'Hamilton',
-    state: 'OH',
+    venue: 'RiversEdge Amphitheater',
+    city: 'Whimmydiddle Country Music Festival',
+    state: 'Hamilton',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-23-742',
+    id: '2018-06-23-734',
     artist: 'Billy Strings',
     date: '2018-06-23',
     venue: 'The Stage @ Lake Sara',
@@ -8822,7 +19838,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-24-743',
+    id: '2018-06-24-735',
     artist: 'Billy Strings',
     date: '2018-06-24',
     venue: 'The Stage @ Lake Sara',
@@ -8834,19 +19850,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-28-744',
+    id: '2018-06-28-736',
     artist: 'Billy Strings',
     date: '2018-06-28',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
     state: 'TN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/o7TP7hCKPgU',
     setlist: 'Intro | Dust In A Baggie | Pyramid Country | Jam | Little Maggie | While I\'m Waiting Here | Turmoil and Tinfoil | Slow Train | Along the Road | Streamline Cannonball | Meet Me at the Creek | Down The Line | Announcer | And Am I Born to Die',
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-29-745',
+    id: '2018-06-29-737',
     artist: 'Billy Strings',
     date: '2018-06-29',
     venue: 'Downtown',
@@ -8858,43 +19874,259 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-06-30-746',
+    id: '2018-06-30-738',
     artist: 'Billy Strings',
     date: '2018-06-30',
-    venue: 'Yellow Creek Park, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ZRXvnz99uCM',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-01-747',
+    id: '2018-06-30-bonus-739-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 2)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Fez2UeSQCn4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 3)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WNUACeGTApk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 4)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/FqaNmyxNJDo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 5)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9iWfF3u2RyA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 6)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/en2psE4rZ7Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 7)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9V81v_FThNo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 8)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NIZsuV02BbY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 9)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lujnqRnP9sQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 10)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pGLffAf4-0w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 11)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/UUJZLtxfsUI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 12)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PeyAfg6mhnM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 13)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/M_F8ly6AZkU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-06-30-bonus-739-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-06-30',
+    venue: 'Yellow Creek Park (Part 14)',
+    city: 'Romp Festival',
+    state: 'Owensboro',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GtAtz0ZptZQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-01-739',
     artist: 'Billy Strings',
     date: '2018-07-01',
     venue: 'Sunset Hill Farm County Park',
     city: 'Valparaiso',
     state: 'IN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/lt0BVgGzCg8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-03-748',
+    id: '2018-07-01-bonus-740-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-01',
+    venue: 'Sunset Hill Farm County Park (Part 2)',
+    city: 'Valparaiso',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3s_8l6Q7vUI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-01-bonus-740-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-01',
+    venue: 'Sunset Hill Farm County Park (Part 3)',
+    city: 'Valparaiso',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/1k5ww7TYv2k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-01-bonus-740-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-01',
+    venue: 'Sunset Hill Farm County Park (Part 4)',
+    city: 'Valparaiso',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vC-oL6NyEhI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-01-bonus-740-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-01',
+    venue: 'Sunset Hill Farm County Park (Part 5)',
+    city: 'Valparaiso',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/jF3Hwj1Icdc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-01-bonus-740-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-01',
+    venue: 'Sunset Hill Farm County Park (Part 6)',
+    city: 'Valparaiso',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ER3XTirDY8o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-03-740',
     artist: 'Billy Strings',
     date: '2018-07-03',
-    venue: 'The Granada Outdoors, #LiveOnMass',
-    city: 'Lawrence',
-    state: 'KS',
+    venue: 'The Granada Outdoors',
+    city: '#LiveOnMass',
+    state: 'Lawrence',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-07-749',
+    id: '2018-07-07-741',
     artist: 'Billy Strings',
     date: '2018-07-07',
     venue: 'Breckenridge Brewery',
@@ -8906,19 +20138,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-08-750',
+    id: '2018-07-08-742',
     artist: 'Billy Strings',
     date: '2018-07-08',
-    venue: 'Plumas-Sierra County Fairgrounds, High Sierra Music Festival',
-    city: 'Quincy',
-    state: 'CA',
+    venue: 'Plumas-Sierra County Fairgrounds',
+    city: 'High Sierra Music Festival',
+    state: 'Quincy',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-11-751',
+    id: '2018-07-11-743',
     artist: 'Billy Strings',
     date: '2018-07-11',
     venue: 'Crested Butte Mountain Resort',
@@ -8930,7 +20162,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-12-752',
+    id: '2018-07-12-744',
     artist: 'Billy Strings',
     date: '2018-07-12',
     venue: 'Town Park',
@@ -8942,115 +20174,1123 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-17-753',
+    id: '2018-07-17-745',
     artist: 'Billy Strings',
     date: '2018-07-17',
     venue: 'Paste Studios',
     city: 'New York',
     state: 'NY',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/kpWCQHzLVOY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-17-754',
+    id: '2018-07-17-bonus-746-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 2)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3Gh86fzRdtk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 3)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/yFsurkIbkUU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 4)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fQqSAsWb904',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 5)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/rULZsqk2e60',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 6)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3FlUgJ_nfW0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 7)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/U5bm2IRRVVk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 8)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WB52kY9fqBQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 9)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tKN37_ySk6g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 10)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/hTXpr2LiUPo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 11)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/E1L3eMyjoOM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 12)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/sY29AOp1Wi0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 13)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/oaRlrx5IBfg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 14)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9MrDNsImbtk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 15)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/42so_6coabE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 16)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/zQW-c3UOpQ4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 17)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/08Rj--KtJSs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 18)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4CIFyzaFiKI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 19)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0gOAmsnfhBg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 20)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VJ7u1RimLvE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 21)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c5YcDlpuFXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 22)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Eaeaj5alUvg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 23)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/N2t5nx0Id5c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 24)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/HsQyv6ogKRA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-746-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'Paste Studios (Part 25)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/q__ufN2cwyc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-746',
     artist: 'Billy Strings',
     date: '2018-07-17',
     venue: 'The Loft at City Winery',
     city: 'New York',
     state: 'NY',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/kpWCQHzLVOY',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-18-755',
+    id: '2018-07-17-bonus-747-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 2)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3Gh86fzRdtk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 3)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/yFsurkIbkUU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 4)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fQqSAsWb904',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 5)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/rULZsqk2e60',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 6)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3FlUgJ_nfW0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 7)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/U5bm2IRRVVk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 8)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/WB52kY9fqBQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 9)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tKN37_ySk6g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 10)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/hTXpr2LiUPo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 11)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/E1L3eMyjoOM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 12)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/sY29AOp1Wi0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 13)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/oaRlrx5IBfg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 14)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9MrDNsImbtk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 15)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/42so_6coabE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 16)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/zQW-c3UOpQ4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 17)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/08Rj--KtJSs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 18)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4CIFyzaFiKI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 19)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0gOAmsnfhBg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 20)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VJ7u1RimLvE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 21)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c5YcDlpuFXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 22)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Eaeaj5alUvg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 23)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/N2t5nx0Id5c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 24)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/HsQyv6ogKRA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-17-bonus-747-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-17',
+    venue: 'The Loft at City Winery (Part 25)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/q__ufN2cwyc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-18-747',
     artist: 'Billy Strings',
     date: '2018-07-18',
     venue: 'Relix Offices',
     city: 'New York',
     state: 'NY',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/u2XaY1auqdE',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-19-756',
+    id: '2018-07-18-bonus-748-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-18',
+    venue: 'Relix Offices (Part 2)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/_DePSnMn65k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-18-bonus-748-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-18',
+    venue: 'Relix Offices (Part 3)',
+    city: 'New York',
+    state: 'NY',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/8P8YBxXpWfA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-19-748',
     artist: 'Billy Strings',
     date: '2018-07-19',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-20-757',
+    id: '2018-07-20-749',
     artist: 'Billy Strings',
     date: '2018-07-20',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/NVewroJJ6xw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-20-758',
+    id: '2018-07-20-bonus-750-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 2)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/iBUxgW-A5po',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 3)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pONS6qE_kfM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 4)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/I4cK4xk6bnQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 5)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Bwwq0Ch0_D8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 6)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eDD4yDuZQp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 7)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9VRl4GRWBBc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 8)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/mEw-WQD7ZPY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 9)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/z07cdlbJE9s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-750-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 10)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RC85gI4yAEU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-750',
     artist: 'Billy Strings',
     date: '2018-07-20',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/NVewroJJ6xw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-21-759',
+    id: '2018-07-20-bonus-751-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 2)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/iBUxgW-A5po',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 3)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pONS6qE_kfM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 4)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/I4cK4xk6bnQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 5)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Bwwq0Ch0_D8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 6)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eDD4yDuZQp4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 7)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9VRl4GRWBBc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 8)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/mEw-WQD7ZPY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 9)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/z07cdlbJE9s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-20-bonus-751-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-20',
+    venue: 'Walsh Farm (Part 10)',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RC85gI4yAEU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-21-751',
     artist: 'Billy Strings',
     date: '2018-07-21',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-25-760',
+    id: '2018-07-25-752',
     artist: 'Billy Strings',
     date: '2018-07-25',
-    venue: 'Prescott Park, Prescott Park Arts Festival',
-    city: 'Portsmouth',
-    state: 'NH',
+    venue: 'Prescott Park',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/q0cGIfvGN1g',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-26-761',
+    id: '2018-07-25-bonus-753-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 2)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/bIiy9Lrew20',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 3)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fwPpAzWiu_g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 4)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/1enYwr_e32Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 5)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VKFeoCMdoog',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 6)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/UfJVNQm7NfQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 7)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/s3hxWQVmWTI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 8)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/MQZPNxlEpng',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 9)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/t5RqlhTYvKI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 10)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/MfSOEXMoonw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 11)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/aUCOoeBx-Z8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 12)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/8PMHmOvtp6E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 13)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/hRnNDd6_Im0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 14)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TGwbMrv-yOQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 15)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PqfEwne1vDE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-25-bonus-753-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-25',
+    venue: 'Prescott Park (Part 16)',
+    city: 'Prescott Park Arts Festival',
+    state: 'Portsmouth',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/5ctFhv9oPHw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-26-753',
     artist: 'Billy Strings',
     date: '2018-07-26',
     venue: 'Narrows Center for the Arts',
     city: 'Fall River',
     state: 'MA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/iVoXXh0g-5k',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-27-762',
+    id: '2018-07-26-bonus-754-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-07-26',
+    venue: 'Narrows Center for the Arts (Part 2)',
+    city: 'Fall River',
+    state: 'MA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/kKYLR5Aa5HI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-07-27-754',
     artist: 'Billy Strings',
     date: '2018-07-27',
     venue: 'Waterfront Park',
@@ -9062,7 +21302,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-07-28-763',
+    id: '2018-07-28-755',
     artist: 'Billy Strings',
     date: '2018-07-28',
     venue: 'Ossipee Valley Fairgrounds',
@@ -9074,7 +21314,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-10-764',
+    id: '2018-08-10-756',
     artist: 'Billy Strings',
     date: '2018-08-10',
     venue: 'Grand Targhee Resort',
@@ -9086,7 +21326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-11-765',
+    id: '2018-08-11-757',
     artist: 'Billy Strings',
     date: '2018-08-11',
     venue: 'Rancho Del Rio',
@@ -9098,31 +21338,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-18-766',
+    id: '2018-08-18-758',
     artist: 'Billy Strings',
     date: '2018-08-18',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-19-767',
+    id: '2018-08-19-759',
     artist: 'Billy Strings',
     date: '2018-08-19',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-24-768',
+    id: '2018-08-24-760',
     artist: 'Billy Strings',
     date: '2018-08-24',
     venue: 'Pine Creek Lodge',
@@ -9134,67 +21374,187 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-25-769',
+    id: '2018-08-25-761',
     artist: 'Billy Strings',
     date: '2018-08-25',
     venue: 'River City Roots Festival',
     city: 'Missoula',
     state: 'MT',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Mb2wO11k4AE',
     setlist: 'Pyramid Country | Train Train | Airmail Special | While I\'m Waiting Here | Pyramid Country | Little Maggie | China Doll | So Many Miles | Turmoil and Tinfoil | In Hiding | Sitting On Top Of The World | Am I Born to Die',
     thumbnailUrl: ''
   },
   {
-    id: '2018-08-31-770',
+    id: '2018-08-25-bonus-762-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 2)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4cE5iMZQoAQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 3)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/P-zdNo3byd0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 4)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/wM261K574a4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 5)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/A5OYFuWgbFw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 6)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/uIBFkC_Pr_Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 7)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EZCM169KR_4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 8)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7SLYqnSZWbA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 9)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/wa68Skp6aGM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 10)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/gq8UqQr87xQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-25-bonus-762-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-08-25',
+    venue: 'River City Roots Festival (Part 11)',
+    city: 'Missoula',
+    state: 'MT',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tWDjKP9mK24',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-08-31-762',
     artist: 'Billy Strings',
     date: '2018-08-31',
-    venue: 'Riverfront Park, Peoria Blues & Heritage Music Festival',
-    city: 'Peoria',
-    state: 'IL',
+    venue: 'Riverfront Park',
+    city: 'Peoria Blues & Heritage Music Festival',
+    state: 'Peoria',
     year: 2018,
     videoUrl: '',
     setlist: 'Long Hot Summer Day | Little Maggie | Ain\'t Nothing to Me | Pyramid Country | Meet Me at the Creek | Dust In A Baggie | To Lay Me Down | Hollow Heart | Turmoil & Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-01-771',
+    id: '2018-09-01-763',
     artist: 'Billy Strings',
     date: '2018-09-01',
-    venue: 'Zane Shawnee Caverns, Hookaville',
-    city: 'Bellefontaine',
-    state: 'OH',
+    venue: 'Zane Shawnee Caverns',
+    city: 'Hookaville',
+    state: 'Bellefontaine',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-02-772',
+    id: '2018-09-02-764',
     artist: 'Billy Strings',
     date: '2018-09-02',
-    venue: 'Lake Snowden, Athens Harvest Festival',
-    city: 'Albany',
-    state: 'OH',
+    venue: 'Lake Snowden',
+    city: 'Athens Harvest Festival',
+    state: 'Albany',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-05-773',
+    id: '2018-09-05-765',
     artist: 'Billy Strings',
     date: '2018-09-05',
-    venue: 'Volcano Room inside Tennessee\'s Cumberland Caverns, Bluegrass Underground',
-    city: 'Pelham',
-    state: 'TN',
+    venue: 'Volcano Room inside Tennessee's Cumberland Caverns',
+    city: 'Bluegrass Underground',
+    state: 'Pelham',
     year: 2018,
     videoUrl: 'https://drive.google.com/file/d/1YT7NMxFhD-5ZuhJxFksqSs58W7uaR4rP/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-06-774',
+    id: '2018-09-06-766',
     artist: 'Billy Strings',
     date: '2018-09-06',
     venue: 'The Southgate House Revival - Sanctuary Stage',
@@ -9206,7 +21566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-07-775',
+    id: '2018-09-07-767',
     artist: 'Billy Strings',
     date: '2018-09-07',
     venue: 'Black Swamp Arts Festival',
@@ -9218,19 +21578,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-08-776',
+    id: '2018-09-08-768',
     artist: 'Billy Strings',
     date: '2018-09-08',
     venue: 'Feastival',
     city: 'Pittsburgh',
     state: 'PA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ciHp4LbG5os',
     setlist: 'Dreadful Wind and Rain | Dust In A Baggie | Thirst Mutilator | So Many Miles | Proud Mary | Turmoil and Tinfoil | Lonesome LA Cowboy | Home Of The Red Fox | Train That Carried My Girl From Town | While I\'m Waiting Here | Hollow Heart | She Makes My Love | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-13-777',
+    id: '2018-09-08-bonus-769-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-09-08',
+    venue: 'Feastival (Part 2)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/J8DF9x6qGF8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-09-08-bonus-769-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-09-08',
+    venue: 'Feastival (Part 3)',
+    city: 'Pittsburgh',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/kuNbVCC7X_c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-09-13-769',
     artist: 'Billy Strings',
     date: '2018-09-13',
     venue: 'Luck Mansion',
@@ -9242,19 +21626,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-14-778',
+    id: '2018-09-14-770',
     artist: 'Billy Strings',
     date: '2018-09-14',
-    venue: 'Stage 1, Walnut Valley Bluegrass Festival',
-    city: 'Winfield',
-    state: 'KS',
+    venue: 'Stage 1',
+    city: 'Walnut Valley Bluegrass Festival',
+    state: 'Winfield',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-15-779',
+    id: '2018-09-15-771',
     artist: 'Billy Strings',
     date: '2018-09-15',
     venue: 'Walnut Valley Bluegrass Festival',
@@ -9266,19 +21650,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-20-780',
+    id: '2018-09-20-772',
     artist: 'Billy Strings',
     date: '2018-09-20',
-    venue: 'Clarke County Ruritan Fairgrounds, Watermelon Park Festival',
-    city: 'Berryville',
-    state: 'VA',
+    venue: 'Clarke County Ruritan Fairgrounds',
+    city: 'Watermelon Park Festival',
+    state: 'Berryville',
     year: 2018,
     videoUrl: '',
     setlist: 'Slow Train | On The Line | Home Of The Red Fox | East Virginia Blues | While I\'m Waiting Here | Pyramid Country | Hobo Song | Turmoil and Tinfoil | Hold the Woodpile Down | Shackles & Chains | Thirst Mutilator | So Many Miles | Hollow Heart',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-22-781',
+    id: '2018-09-22-773',
     artist: 'Billy Strings',
     date: '2018-09-22',
     venue: 'Louisville Champions Park',
@@ -9290,19 +21674,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-23-782',
+    id: '2018-09-23-774',
     artist: 'Billy Strings',
     date: '2018-09-23',
     venue: 'MacAllister Amphitheater at Garfield Park',
     city: 'Indianapolis',
     state: 'IN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/IcStw12CvJ8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-25-783',
+    id: '2018-09-23-bonus-775-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-09-23',
+    venue: 'MacAllister Amphitheater at Garfield Park (Part 2)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/J9PZDphqWAg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-09-23-bonus-775-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-09-23',
+    venue: 'MacAllister Amphitheater at Garfield Park (Part 3)',
+    city: 'Indianapolis',
+    state: 'IN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eMD0GikhluI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-09-25-775',
     artist: 'Billy Strings',
     date: '2018-09-25',
     venue: 'Granada Theater',
@@ -9314,7 +21722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-26-784',
+    id: '2018-09-26-776',
     artist: 'Billy Strings',
     date: '2018-09-26',
     venue: 'Urbana-Champaign Independent Media Center',
@@ -9326,7 +21734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-27-785',
+    id: '2018-09-27-777',
     artist: 'Billy Strings',
     date: '2018-09-27',
     venue: 'The Source Public House',
@@ -9338,7 +21746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-28-786',
+    id: '2018-09-28-778',
     artist: 'Billy Strings',
     date: '2018-09-28',
     venue: 'Stoughton Opera House',
@@ -9350,7 +21758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-29-787',
+    id: '2018-09-29-779',
     artist: 'Billy Strings',
     date: '2018-09-29',
     venue: 'Main Stage',
@@ -9362,7 +21770,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-09-30-788',
+    id: '2018-09-30-780',
     artist: 'Billy Strings',
     date: '2018-09-30',
     venue: 'Door Community Auditorium',
@@ -9374,7 +21782,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-04-789',
+    id: '2018-10-04-781',
     artist: 'Billy Strings',
     date: '2018-10-04',
     venue: 'Old Rock House',
@@ -9386,67 +21794,319 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-06-790',
+    id: '2018-10-06-782',
     artist: 'Billy Strings',
     date: '2018-10-06',
-    venue: 'Pisgah Brewing Company, Marcus King Band Family Reunion',
-    city: 'Black Mountain',
-    state: 'NC',
+    venue: 'Pisgah Brewing Company',
+    city: 'Marcus King Band Family Reunion',
+    state: 'Black Mountain',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-07-791',
+    id: '2018-10-07-783',
     artist: 'Billy Strings',
     date: '2018-10-07',
-    venue: 'Infinity Downs Farm, The Festy',
-    city: 'Arrington',
-    state: 'VA',
+    venue: 'Infinity Downs Farm',
+    city: 'The Festy',
+    state: 'Arrington',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/D4XpqSq5hz4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-07-792',
+    id: '2018-10-07-bonus-784-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-07',
+    venue: 'Infinity Downs Farm (Part 2)',
+    city: 'The Festy',
+    state: 'Arrington',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VXkt4p6orwk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-07-bonus-784-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-07',
+    venue: 'Infinity Downs Farm (Part 3)',
+    city: 'The Festy',
+    state: 'Arrington',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/E2ySW8wB8Uo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-07-784',
     artist: 'Billy Strings',
     date: '2018-10-07',
-    venue: 'Infinity Downs Farm, The Festy',
-    city: 'Arrington',
-    state: 'VA',
+    venue: 'Infinity Downs Farm',
+    city: 'The Festy',
+    state: 'Arrington',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/D4XpqSq5hz4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-11-793',
+    id: '2018-10-07-bonus-785-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-07',
+    venue: 'Infinity Downs Farm (Part 2)',
+    city: 'The Festy',
+    state: 'Arrington',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VXkt4p6orwk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-07-bonus-785-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-07',
+    venue: 'Infinity Downs Farm (Part 3)',
+    city: 'The Festy',
+    state: 'Arrington',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/E2ySW8wB8Uo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-785',
     artist: 'Billy Strings',
     date: '2018-10-11',
     venue: '1884 Lounge',
     city: 'Memphis',
     state: 'TN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/UrI8s0fvnFI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-12-794',
+    id: '2018-10-11-bonus-786-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 2)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/5Bk2tegJSAs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 3)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/BbMMXo3WHXE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 4)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/6AhDPu8OLfg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 5)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PlV8fzUzbZI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 6)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/upDBKcfFp1k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 7)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/2BpAqxdQly4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 8)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LA5ya1TB3pw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 9)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/BJsYbVHMvfw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 10)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/v5oitEzZGGQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 11)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/tr6dHoZJUAs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 12)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/d9YbK8vyyJU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 13)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/mvEwn3Ozq3Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 14)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/JqIDz2ijVPE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 15)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/KTSUAAIemQY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 16)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vrdcNlDOD1s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 17)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Vds-LYrzkFE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-11-bonus-786-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-11',
+    venue: '1884 Lounge (Part 18)',
+    city: 'Memphis',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pDcGe0tkxAA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-12-786',
     artist: 'Billy Strings',
     date: '2018-10-12',
-    venue: 'The Farm, Hillberry Festival',
-    city: 'Eureka Springs',
-    state: 'AR',
+    venue: 'The Farm',
+    city: 'Hillberry Festival',
+    state: 'Eureka Springs',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-17-795',
+    id: '2018-10-17-787',
     artist: 'Billy Strings',
     date: '2018-10-17',
     venue: 'The Green Room',
@@ -9458,7 +22118,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-18-796',
+    id: '2018-10-18-788',
     artist: 'Billy Strings',
     date: '2018-10-18',
     venue: '191 Toole',
@@ -9470,19 +22130,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-19-797',
+    id: '2018-10-19-789',
     artist: 'Billy Strings',
     date: '2018-10-19',
     venue: 'Musical Instrument Museum Music Theater',
     city: 'Phoenix',
     state: 'AZ',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/7ZaTatLTetI',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-20-798',
+    id: '2018-10-19-bonus-790-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-19',
+    venue: 'Musical Instrument Museum Music Theater (Part 2)',
+    city: 'Phoenix',
+    state: 'AZ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qev0YO85PdE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-20-790',
     artist: 'Billy Strings',
     date: '2018-10-20',
     venue: 'The Bunkhouse Saloon',
@@ -9494,55 +22166,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-23-799',
+    id: '2018-10-23-791',
     artist: 'Billy Strings',
     date: '2018-10-23',
     venue: 'Soda Bar',
     city: 'San Diego',
     state: 'CA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/S28cxPmVcHw',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-24-800',
+    id: '2018-10-23-bonus-792-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-23',
+    venue: 'Soda Bar (Part 2)',
+    city: 'San Diego',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/CVyDxmmr-RY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-24-792',
     artist: 'Billy Strings',
     date: '2018-10-24',
     venue: 'Bootleg Theater',
     city: 'Los Angeles',
     state: 'CA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/o_33ay2mhIA',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-25-801',
+    id: '2018-10-24-bonus-793-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-24',
+    venue: 'Bootleg Theater (Part 2)',
+    city: 'Los Angeles',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/qrZjkd-BETM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-24-bonus-793-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-24',
+    venue: 'Bootleg Theater (Part 3)',
+    city: 'Los Angeles',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VBUv6H_zfKs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-25-793',
     artist: 'Billy Strings',
     date: '2018-10-25',
     venue: 'The Siren',
     city: 'Morro Bay',
     state: 'CA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/wxHenRPzpQ4',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-26-802',
+    id: '2018-10-25-bonus-794-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-25',
+    venue: 'The Siren (Part 2)',
+    city: 'Morro Bay',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9YGdpbCEsig',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-26-794',
     artist: 'Billy Strings',
     date: '2018-10-26',
-    venue: 'El Dorado County Fairgrounds - Eldorado Stage, Hangtown Music Festival',
-    city: 'Placerville',
-    state: 'CA',
+    venue: 'El Dorado County Fairgrounds - Eldorado Stage',
+    city: 'Hangtown Music Festival',
+    state: 'Placerville',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-27-803',
+    id: '2018-10-27-795',
     artist: 'Billy Strings',
     date: '2018-10-27',
     venue: 'Great American Music Hall',
@@ -9554,31 +22274,151 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-28-804',
+    id: '2018-10-28-796',
     artist: 'Billy Strings',
     date: '2018-10-28',
     venue: 'Mystic Theatre',
     city: 'Petaluma',
     state: 'CA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/gifW3XNm2i8',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-10-31-805',
+    id: '2018-10-28-bonus-797-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 2)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SAAxsxh04I0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 3)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/48otYrAK6wA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 4)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vy8EDDTl0R8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 5)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VVTGvJEeMrA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 6)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ofnSD07fiyk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 7)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/J531-9UUX7U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 8)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SpV0HakfW-o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-28-bonus-797-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-28',
+    venue: 'Mystic Theatre (Part 9)',
+    city: 'Petaluma',
+    state: 'CA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/KeTivsQgobw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-31-797',
     artist: 'Billy Strings',
     date: '2018-10-31',
     venue: 'Tractor Tavern',
     city: 'Seattle',
     state: 'WA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/TFCG9yTCEOQ',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-01-806',
+    id: '2018-10-31-bonus-798-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-31',
+    venue: 'Tractor Tavern (Part 2)',
+    city: 'Seattle',
+    state: 'WA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/aDMY1jdHJsk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-10-31-bonus-798-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-10-31',
+    venue: 'Tractor Tavern (Part 3)',
+    city: 'Seattle',
+    state: 'WA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/c5v3zaPkRkI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-01-798',
     artist: 'Billy Strings',
     date: '2018-11-01',
     venue: 'Revolution Hall',
@@ -9590,7 +22430,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-02-807',
+    id: '2018-11-02-799',
     artist: 'Billy Strings',
     date: '2018-11-02',
     venue: 'The Olympic',
@@ -9602,7 +22442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-03-808',
+    id: '2018-11-03-800',
     artist: 'Billy Strings',
     date: '2018-11-03',
     venue: 'The Commonwealth Room',
@@ -9614,7 +22454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-07-809',
+    id: '2018-11-07-801',
     artist: 'Billy Strings',
     date: '2018-11-07',
     venue: 'Club Dada',
@@ -9626,10 +22466,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-08-810',
+    id: '2018-11-08-802',
     artist: 'Billy Strings',
     date: '2018-11-08',
-    venue: 'Antone\'s',
+    venue: 'Antone's',
     city: 'Austin',
     state: 'TX',
     year: 2018,
@@ -9638,7 +22478,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-09-811',
+    id: '2018-11-09-803',
     artist: 'Billy Strings',
     date: '2018-11-09',
     venue: 'The Studio @ The Warehouse Live',
@@ -9650,43 +22490,331 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-10-812',
+    id: '2018-11-10-804',
     artist: 'Billy Strings',
     date: '2018-11-10',
     venue: 'd.b.a.',
     city: 'New Orleans',
     state: 'LA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/N7t30tIcC64',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-11-813',
+    id: '2018-11-10-bonus-805-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 2)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VvqYD_DZOig',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 3)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fhQIYCmust8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 4)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/_Urh5Jf9x7s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 5)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NluXDOyjoLU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 6)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/p-5gCLkSE7w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 7)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Vxdg6PSPCbA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 8)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/05JlJUlqtAQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 9)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LWDwMVnXZbs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 10)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/m2ghNzkJYko',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 11)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/I-RSONR4jGA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 12)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SEO0ziH5hyo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-10-bonus-805-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-10',
+    venue: 'd.b.a. (Part 13)',
+    city: 'New Orleans',
+    state: 'LA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/QN4WSPluxZY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-11-805',
     artist: 'Billy Strings',
     date: '2018-11-11',
     venue: 'Soul Kitchen',
     city: 'Mobile',
     state: 'AL',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/sOCgZvnd2CI',
     setlist: 'Dust In A Baggie | So Many Miles | Shackles & Chains | Hollow Heart | Slipstream | On The Line | Me & My Uncle | I\'m Still Here | Thirst Mutilator | Dealing Despair | White Dove | Pyramid Country | Seymour | Turmoil and Tinfoil | Along the Road',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-13-814',
+    id: '2018-11-11-bonus-806-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-11',
+    venue: 'Soul Kitchen (Part 2)',
+    city: 'Mobile',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Nk4SWmDbMNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-11-bonus-806-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-11',
+    venue: 'Soul Kitchen (Part 3)',
+    city: 'Mobile',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/sFQd7XeSfkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-11-bonus-806-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-11',
+    venue: 'Soul Kitchen (Part 4)',
+    city: 'Mobile',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fNnGnsZxjqk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-11-bonus-806-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-11',
+    venue: 'Soul Kitchen (Part 5)',
+    city: 'Mobile',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/D4lRzOuJnVs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-806',
     artist: 'Billy Strings',
     date: '2018-11-13',
     venue: 'Dothan Opera House',
     city: 'Dothan',
     state: 'AL',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/CSggCW3hZfs',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-14-815',
+    id: '2018-11-13-bonus-807-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 2)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/XAKrEBjrF58',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 3)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/949ySEizUXw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 4)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Y0tujEfdvxs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 5)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RDFGPoY0PfA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 6)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/zVzYkmUr3QY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 7)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/5NkMKxUMX4I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 8)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/O5uEBYKXhdM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-13-bonus-807-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-13',
+    venue: 'Dothan Opera House (Part 9)',
+    city: 'Dothan',
+    state: 'AL',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Oovluu3P2Q0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-14-807',
     artist: 'Billy Strings',
     date: '2018-11-14',
     venue: 'Saturn',
@@ -9698,19 +22826,127 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-15-816',
+    id: '2018-11-15-808',
     artist: 'Billy Strings',
     date: '2018-11-15',
     venue: 'Terminal West',
     city: 'Atlanta',
     state: 'GA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ytVomyIbI2k',
     setlist: 'Dealing Despair | Red Rocking Chair | This Heart Of Mine | Thirst Mutilator | So Many Miles | Slow Train | Thirst Mutilator | Back on the Train | While I\'m Waiting Here | Meet Me at the Creek | Pyramid Country | Train Train | Lonesome LA Cowboy | Black Clouds | White Dove | Hollow Heart | Me And My Uncle | Living Like An Animal | Me And My Uncle | China Doll | Dust In A Baggie | And Am I Born to Die | And Your Bird Can Sing',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-16-817',
+    id: '2018-11-15-bonus-809-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 2)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/AsLxGNRDj6w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 3)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/GVlf3QGJCXg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 4)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/rTW6kxgHp4s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 5)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/N-Jm5fyh3Z0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 6)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Gr0seDtbc8E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 7)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4xIS4h6j_7Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 8)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/nTV7ccXLvag',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 9)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/RWjqiL88t6M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-15-bonus-809-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-15',
+    venue: 'Terminal West (Part 10)',
+    city: 'Atlanta',
+    state: 'GA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/FQk4j55aoUY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-16-809',
     artist: 'Billy Strings',
     date: '2018-11-16',
     venue: 'The Standard',
@@ -9722,7 +22958,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-17-818',
+    id: '2018-11-17-810',
     artist: 'Billy Strings',
     date: '2018-11-17',
     venue: 'The Firmament',
@@ -9734,7 +22970,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-21-819',
+    id: '2018-11-21-811',
     artist: 'Billy Strings',
     date: '2018-11-21',
     venue: 'Ramsdell Theatre',
@@ -9746,31 +22982,199 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-23-820',
+    id: '2018-11-23-812',
     artist: 'Billy Strings',
     date: '2018-11-23',
     venue: 'The Intersection',
     city: 'Grand Rapids',
     state: 'MI',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Ok6Xk4oBTj4',
     setlist: 'Sally Goodin\' | Little Maggie | Back on the Train | Thirst Mutilator | So Many Miles | Black Clouds | Ten Degrees and Getting Colder | Turmoil and Tinfoil | Dust In A Baggie | Pretty Daughter | All Of Tomorrow | Big Mon | While I\'m Waiting Here | On The Line | And Your Bird Can Sing | Home Of The Red Fox | Letter to Seymour | Am I Born to Die | In Hiding',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-24-821',
+    id: '2018-11-23-bonus-813-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-23',
+    venue: 'The Intersection (Part 2)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7Bv-uiWeFOI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-813',
     artist: 'Billy Strings',
     date: '2018-11-24',
     venue: 'The Intersection',
     city: 'Grand Rapids',
     state: 'MI',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/BpQAnv9nexQ',
     setlist: 'Hollow Heart | Red Rocking Chair | Southern Flavor | Rocky Racoon | Ernest T. Grass | Paul and Silas | This Heart Of Mine | Dealing Despair | Deal | Bird Song | Pyramid Country | Airmail Special | Doin Things Right | Old Mexico | Me And My Uncle | Animal | Me And My Uncle | Meet Me at the Creek | Gotta Jibboo | Meet Me at the Creek | Roll On Buddy',
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-29-822',
+    id: '2018-11-24-bonus-814-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 2)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TinTgBaXKWg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 3)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/UcY4PMsf0hQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 4)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/K5JGZGQt1So',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 5)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/IkyfGuCzYGc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 6)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/OxnrZc8eFAM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 7)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/5ijU_zzokLo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 8)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vSjTq96w5Hw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 9)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/3xPF1uk_6e4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 10)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/hTiNx9i97Go',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 11)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NWs04iDes9s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 12)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/l_G4IaSoOIw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 13)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lAM6Y8PLE9k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-24-bonus-814-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-11-24',
+    venue: 'The Intersection (Part 14)',
+    city: 'Grand Rapids',
+    state: 'MI',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EK2wEs1umUY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-11-29-814',
     artist: 'Billy Strings',
     date: '2018-11-29',
     venue: 'Memorial Hall',
@@ -9782,7 +23186,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-11-30-823',
+    id: '2018-11-30-815',
     artist: 'Billy Strings',
     date: '2018-11-30',
     venue: 'Fox Theatre',
@@ -9794,67 +23198,187 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-01-824',
+    id: '2018-12-01-816',
     artist: 'Billy Strings',
     date: '2018-12-01',
     venue: 'Gothic Theatre',
     city: 'Englewood',
     state: 'CO',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/vZMrgSFHVso',
     setlist: 'On The Line | Train Train | Willin\' | I\'m Still Here | Thirst Mutilator | Dealing Despair | Doin Things Right | Ernest T. Grass | Little Maggie | Black Clouds | All Of Tomorrow | New Camptown Races | Sittin\' on Top of the World | Pretty Daughter | China Doll | Midnight Rider | Hollow Heart | Rocky Racoon | Meet Me at the Creek | Spinning | Bird Song | Meet Me at the Creek | Am I Born to Die | In Hiding',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-02-825',
+    id: '2018-12-02-817',
     artist: 'Billy Strings',
     date: '2018-12-02',
     venue: 'Globe Hall',
     city: 'Denver',
     state: 'CO',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/VhqIB4zur5o',
     setlist: 'Train 45 | Rollin\' In My Sweet Baby\'s Arms | Salty Dog | Cora Is Gone | Bluegrass Breakdown | First Whippoorwill | Down the Road | Shenandoah Breakdown | Rock Of Ages | Nobody\'s Love Is Like Ours | Can You Hear Me Callin\' | Lonesome Moonlight Waltz | Sunnyside Of The Mountain | Sweet Blue Eyed Darlin | Blue Moon Of Kentucky | Big Mon | Big Sandy River | I Haven\'t Seen Mary In Years | Love Please Come Home | Sophronie | Walls Of Time | John Hardy | Body and Soul | Ruby | Rank Stranger | Doin\' My Time | Ole Slew Foot | White Dove | Rocky Top | Angel Band | Roll On Buddy Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-08-826',
+    id: '2018-12-02-bonus-818-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 2)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/eCLGQnbG-9Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 3)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/G8p-SOAvyTw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 4)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PZ1ObGYXays',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 5)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/QQj0IjwBPhk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 6)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Qfze_gw6b74',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 7)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/foI2KZ1dtjc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 8)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/iOu_J7nfbkA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 9)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VIsPOBxMM8c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 10)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4NqzxDAaSHk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-02-bonus-818-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-02',
+    venue: 'Globe Hall (Part 11)',
+    city: 'Denver',
+    state: 'CO',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Fjy3lD7u9cs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-08-818',
     artist: 'Billy Strings',
     date: '2018-12-08',
-    venue: 'Sapphire Resort, Strings & Sol',
-    city: 'Puerto Morelos',
-    state: 'MX',
+    venue: 'Sapphire Resort',
+    city: 'Strings & Sol',
+    state: 'Puerto Morelos',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-09-827',
+    id: '2018-12-09-819',
     artist: 'Billy Strings',
     date: '2018-12-09',
-    venue: 'Sapphire Resort, Strings & Sol',
-    city: 'Puerto Morelos',
-    state: 'MX',
+    venue: 'Sapphire Resort',
+    city: 'Strings & Sol',
+    state: 'Puerto Morelos',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-10-828',
+    id: '2018-12-10-820',
     artist: 'Billy Strings',
     date: '2018-12-10',
-    venue: 'Sapphire Resort, Strings & Sol',
-    city: 'Puerto Morelos',
-    state: 'MX',
+    venue: 'Sapphire Resort',
+    city: 'Strings & Sol',
+    state: 'Puerto Morelos',
     year: 2018,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-13-829',
+    id: '2018-12-13-821',
     artist: 'Billy Strings',
     date: '2018-12-13',
     venue: 'Rives Theatre',
@@ -9866,19 +23390,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-14-830',
+    id: '2018-12-14-822',
     artist: 'Billy Strings',
     date: '2018-12-14',
     venue: 'Union Craft Brewing',
     city: 'Baltimore',
     state: 'MD',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/8Itmd0Z9-24',
     setlist: 'Old Home Place | New Camptown Races | Unwanted Love | Turmoil and Tinfoil | Red Rocking Chair | Southern Flavor | All Of Tomorrow | Dealing Despair | Deal | She Makes My Love | And Your Bird Can Sing | Pyramid Country | Little Maggie | Living Like An Animal | On The Line | Tennessee Stud | June Apple | Hollow Heart | China Doll | I Know You\'re Married | Dust In A Baggie | Black Clouds',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-15-831',
+    id: '2018-12-14-bonus-823-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-14',
+    venue: 'Union Craft Brewing (Part 2)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/XoS4hwBiPa0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-14-bonus-823-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-14',
+    venue: 'Union Craft Brewing (Part 3)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/CLCXBksH14E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-14-bonus-823-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-14',
+    venue: 'Union Craft Brewing (Part 4)',
+    city: 'Baltimore',
+    state: 'MD',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ndUFYMF272A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-823',
     artist: 'Billy Strings',
     date: '2018-12-15',
     venue: 'World Cafe Live',
@@ -9890,10 +23450,106 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-16-832',
+    id: '2018-12-15-bonus-824-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 1)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/uy14-ZG_NTY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 2)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/UrLGGtnfl5U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 3)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4vyFV_bs3qw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 4)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/b-dsY2Y79Cg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 5)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/dAlK1iS0wuQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 6)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/YItkh5GqIbs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 7)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/PIfRwxwXM8I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-15-bonus-824-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-15',
+    venue: 'World Cafe Live (Part 8)',
+    city: 'Philadelphia',
+    state: 'PA',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/aKF3X0lrmx8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-16-824',
     artist: 'Billy Strings',
     date: '2018-12-16',
-    venue: 'Grizzly\'s',
+    venue: 'Grizzly's',
     city: 'Stratton',
     state: 'VT',
     year: 2018,
@@ -9902,19 +23558,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-16-833',
+    id: '2018-12-16-825',
     artist: 'Billy Strings',
     date: '2018-12-16',
-    venue: 'Stratton Mountain Resort, Winter WonderGrass',
-    city: 'Stratton',
-    state: 'VT',
+    venue: 'Stratton Mountain Resort',
+    city: 'Winter WonderGrass',
+    state: 'Stratton',
     year: 2018,
     videoUrl: '',
     setlist: 'Dust In A Baggie | Thirst Mutilator | So Many Miles | Back on the Train | While I\'m Waiting Here | Pyramid Country | Little Maggie | Ten Degrees & Colder | Turmoil and Tinfoil | China Doll | Midnight Rider | Meet Me at the Creek | Nellie Kane | This Heart Of Mine | Ain\'t Nothing to Me | Paul and Silas | Shackles & Chains | New Camptown Races | Rocky Racoon | And Your Bird Can Sing | Bird Song | Feathers | White Dove | Dealing Despair | Home Of The Red Fox | Black Clouds | On The Line | Angel Band',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-18-834',
+    id: '2018-12-18-826',
     artist: 'Billy Strings',
     date: '2018-12-18',
     venue: 'The F.M. Kirby Center for the Performing Arts',
@@ -9926,31 +23582,235 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-19-835',
+    id: '2018-12-19-827',
     artist: 'Billy Strings',
     date: '2018-12-19',
     venue: 'Wonder Bar',
     city: 'Asbury Park',
     state: 'NJ',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ZjCMKfV3bRI',
     setlist: 'These Old Blues | Pyramid Country | Little Maggie | I Only Exist | Unwanted Love | Senor | All Of Tomorrow | Sophronie | Ernest T. Grass | Paul and Silas | Turmoil and Tinfoil | Black Clouds | While I\'m Waiting Here | Train Train | White Dove | Streamlined Cannonball | To Lay Me Down | Dust In A Baggie | Deal | Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-20-836',
+    id: '2018-12-19-bonus-828-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 2)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/pCp6xi720e8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 3)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/_Cx3etvWAk4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 4)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LIU2v-LwKo4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 5)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ygM7u46ammw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 6)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/CTOPsneV3Mk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 7)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/2ZoMfVHbWNs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 8)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/g6DjgCIm8LE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 9)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/DNLSR4v3muM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 10)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lkcnaz5nd7k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 11)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/SkzN8ETGwTE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 12)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/7RDncgv6B_E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 13)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/KVdPsWO_s1c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 14)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/NejJ7bDDhp8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 15)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Ix5uf-QiZXM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 16)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/ZKURWjfjUDM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 17)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TN4w8zXR_Nw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-19-bonus-828-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-19',
+    venue: 'Wonder Bar (Part 18)',
+    city: 'Asbury Park',
+    state: 'NJ',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/vyG4OQIOFeE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-20-828',
     artist: 'Billy Strings',
     date: '2018-12-20',
     venue: 'The Jefferson Theater',
     city: 'Charlottesville',
     state: 'VA',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/a1yQNuvUzio',
     setlist: 'Old Home Place | Red Rocking Chair | Dust In A Baggie | Thirst Mutilator | Steampowered Aeroplane | Along the Road | Turmoil and Tinfoil | Home Of The Red Fox | Midnight Train | Pyramid Country | Meet Me at the Creek | Old Slewfoot | Willin\' | Slow Train | Pancho and Lefty | Dealing Despair | This Heart Of Mine | Doing Things Right | And Your Bird Can Sing | On The Line',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-21-837',
+    id: '2018-12-21-829',
     artist: 'Billy Strings',
     date: '2018-12-21',
     venue: 'Asheville Music Hall',
@@ -9962,19 +23822,355 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-22-838',
+    id: '2018-12-22-830',
     artist: 'Billy Strings',
     date: '2018-12-22',
     venue: '3rd & Lindsley Bar and Grill',
     city: 'Nashville',
     state: 'TN',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/uAnlvyFWh8Y',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-26-839',
+    id: '2018-12-22-bonus-831-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/se9dPFX8L38',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/4j0LtIqOdN8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/s531Qydh2kU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/nd86BDzOblE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 6)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/wRIkhy-0tMk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-6',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 7)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/iXPgIFFlAeU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-7',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 8)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/08j-t_IGtss',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-8',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 9)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/LCrfsZo3EVw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-9',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 10)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/-sTGOfSNVU4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-10',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 11)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EK_xqbFKE5w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-11',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 12)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/EhBqaMNG-Iw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-12',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 13)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/9Qz9AC5oDSQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-13',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 14)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Dz_qAlExCX8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-14',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 15)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/-tpuq6VDOXI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-15',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 16)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/F_2fbjSsNCo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-16',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 17)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Cca2ZgxH2R0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-17',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 18)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/IBignXs28ns',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-18',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 19)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/lLtl11ys3UM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-19',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 20)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/TcUVe7orDjc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-20',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 21)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/oY87PjN1px8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-21',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 22)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/oZ1011nskNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-22',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 23)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/0l2ebo7DV5s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-23',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 24)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fhRyiHdP3nY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-24',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 25)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/aWlXNiAfXUY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-25',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 26)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/FyvBNXo6IH4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-26',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 27)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/trUC5x8qowA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-27',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 28)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/IuM1KXL41qw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-22-bonus-831-28',
+    artist: 'Billy Strings (Archive)',
+    date: '2018-12-22',
+    venue: '3rd & Lindsley Bar and Grill (Part 29)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/cwnq7__Q7YU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2018-12-26-831',
     artist: 'Billy Strings',
     date: '2018-12-26',
     venue: 'Jammin Java',
@@ -9986,31 +24182,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-29-840',
+    id: '2018-12-29-832',
     artist: 'Billy Strings',
     date: '2018-12-29',
     venue: 'Flagstar Strand Theatre',
     city: 'Pontiac',
     state: 'MI',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/rGxTowvTtQg',
     setlist: 'Sunny Side Of The Mountain | Thirst Mutilator | So Many Miles | Hollow Heart | Slipstream | While I\'m Waiting Here | Pyramid Country | Hobo Song | Bluegrass Breakdown | Doing My Time | Portrait Of The Blues | Down Yonder | I Haven\'t Seen Mary In Years | Little Cabin Home On The Hill | Thirst Mutilator | Deal | Along the Road | Streamlined Cannonball | Home Of The Red Fox | Dust In A Baggie | Here Comes The Sun',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-30-841',
+    id: '2018-12-30-833',
     artist: 'Billy Strings',
     date: '2018-12-30',
     venue: 'Flagstar Strand Theatre',
     city: 'Pontiac',
     state: 'MI',
     year: 2018,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/dMvQVVhwcjk',
     setlist: 'I\'m Still Here | Dealing Despair | L.A. Cowboy | Seymour | Red Rocking Chair | Southern Flavor | This Heart Of Mine | Jack A Roe | Pike County Breakdown | Sweet Blue Eyed Darlin | Bird Song | Seven Bridges Road | How Mountain Girls Can Love | All Of Tomorrow | I\'ll Remember You, Love, In My Prayers | Proud Mary | Today | All Fall Down | Ernest T. Grass | Paul and Silas | Turmoil and Tinfoil | Steam Powered Aereo Plane',
     thumbnailUrl: ''
   },
   {
-    id: '2018-12-31-842',
+    id: '2018-12-31-834',
     artist: 'Billy Strings',
     date: '2018-12-31',
     venue: 'Flagstar Strand Theatre',
@@ -10022,7 +24218,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-24-844',
+    id: '2019-01-24-835',
     artist: 'Billy Strings',
     date: '2019-01-24',
     venue: 'The Bluebird',
@@ -10034,7 +24230,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-25-845',
+    id: '2019-01-25-836',
     artist: 'Billy Strings',
     date: '2019-01-25',
     venue: 'Bottom Lounge',
@@ -10046,7 +24242,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-26-846',
+    id: '2019-01-26-837',
     artist: 'Billy Strings',
     date: '2019-01-26',
     venue: 'Headliners',
@@ -10058,7 +24254,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-29-847',
+    id: '2019-01-29-838',
     artist: 'Billy Strings',
     date: '2019-01-29',
     venue: 'State Theatre',
@@ -10070,7 +24266,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-30-848',
+    id: '2019-01-30-839',
     artist: 'Billy Strings',
     date: '2019-01-30',
     venue: 'House of Blues',
@@ -10082,10 +24278,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-01-31-849',
+    id: '2019-01-31-840',
     artist: 'Billy Strings',
     date: '2019-01-31',
-    venue: 'Penn\'s Peak',
+    venue: 'Penn's Peak',
     city: 'Jim Thorpe',
     state: 'PA',
     year: 2019,
@@ -10094,7 +24290,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-01-850',
+    id: '2019-02-01-841',
     artist: 'Billy Strings',
     date: '2019-02-01',
     venue: 'The Anthem',
@@ -10106,7 +24302,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-02-851',
+    id: '2019-02-02-842',
     artist: 'Billy Strings',
     date: '2019-02-02',
     venue: 'The Anthem',
@@ -10118,7 +24314,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-05-852',
+    id: '2019-02-05-843',
     artist: 'Billy Strings',
     date: '2019-02-05',
     venue: 'House of Blues',
@@ -10130,7 +24326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-06-853',
+    id: '2019-02-06-844',
     artist: 'Billy Strings',
     date: '2019-02-06',
     venue: 'EXPRESS LIVE!',
@@ -10142,7 +24338,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-07-854',
+    id: '2019-02-07-845',
     artist: 'Billy Strings',
     date: '2019-02-07',
     venue: 'Stage AE',
@@ -10154,7 +24350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-08-855',
+    id: '2019-02-08-846',
     artist: 'Billy Strings',
     date: '2019-02-08',
     venue: 'The Fillmore Detroit',
@@ -10166,7 +24362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-09-856',
+    id: '2019-02-09-847',
     artist: 'Billy Strings',
     date: '2019-02-09',
     venue: 'The Fillmore Detroit',
@@ -10178,7 +24374,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-13-857',
+    id: '2019-02-13-848',
     artist: 'Billy Strings',
     date: '2019-02-13',
     venue: 'The Ridgefield Playhouse',
@@ -10190,7 +24386,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-15-858',
+    id: '2019-02-15-849',
     artist: 'Billy Strings',
     date: '2019-02-15',
     venue: 'House of Blues',
@@ -10202,19 +24398,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-16-859',
+    id: '2019-02-16-850',
     artist: 'Billy Strings',
     date: '2019-02-16',
-    venue: 'Matthews Theatre, Princeton University',
-    city: 'Princeton',
-    state: 'NJ',
+    venue: 'Matthews Theatre',
+    city: 'Princeton University',
+    state: 'Princeton',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-17-860',
+    id: '2019-02-17-851',
     artist: 'Billy Strings',
     date: '2019-02-17',
     venue: 'Copeland Hall',
@@ -10226,43 +24422,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-22-861',
+    id: '2019-02-22-852',
     artist: 'Billy Strings',
     date: '2019-02-22',
-    venue: 'Hyatt Regency, Wintergrass',
-    city: 'Bellevue',
-    state: 'WA',
+    venue: 'Hyatt Regency',
+    city: 'Wintergrass',
+    state: 'Bellevue',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-24-862',
+    id: '2019-02-24-853',
     artist: 'Billy Strings',
     date: '2019-02-24',
-    venue: 'Knoll Lot, Winter WonderGrass',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Knoll Lot',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-02-24-863',
+    id: '2019-02-24-854',
     artist: 'Billy Strings',
     date: '2019-02-24',
-    venue: 'Steamboat Springs Ski Area, Winter WonderGrass',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Steamboat Springs Ski Area',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-06-864',
+    id: '2019-03-06-855',
     artist: 'Billy Strings',
     date: '2019-03-06',
     venue: '1884 Lounge',
@@ -10274,7 +24470,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-07-865',
+    id: '2019-03-07-856',
     artist: 'Billy Strings',
     date: '2019-03-07',
     venue: 'Saturn',
@@ -10286,7 +24482,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-08-866',
+    id: '2019-03-08-857',
     artist: 'Billy Strings',
     date: '2019-03-08',
     venue: 'Duling Hall',
@@ -10298,22 +24494,22 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-09-867',
+    id: '2019-03-09-858',
     artist: 'Billy Strings',
     date: '2019-03-09',
-    venue: 'F. G. Bulber Auditorium, McNeese State University',
-    city: 'Lake Charles',
-    state: 'LA',
+    venue: 'F. G. Bulber Auditorium',
+    city: 'McNeese State University',
+    state: 'Lake Charles',
     year: 2019,
     videoUrl: '',
     setlist: 'Dust In A Baggie | Thirst Mutilator | China Doll | Thirst Mutilator | Hollow Heart | All Of Tomorrow | This Heart Of Mine | Dealing Despair | Rocky Racoon | Saphronie | Summertime | Slow Train | Ernest T. Grass | Slewfoot | Watch It Fall | John Henry | Walk On Boy | Freeborn Man | Birdsong | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-13-868',
+    id: '2019-03-13-859',
     artist: 'Billy Strings',
     date: '2019-03-13',
-    venue: 'Cooper\'s BBQ',
+    venue: 'Cooper's BBQ',
     city: 'Austin',
     state: 'TX',
     year: 2019,
@@ -10322,7 +24518,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-13-869',
+    id: '2019-03-13-860',
     artist: 'Billy Strings',
     date: '2019-03-13',
     venue: 'YETI Flagship',
@@ -10334,7 +24530,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-13-870',
+    id: '2019-03-13-861',
     artist: 'Billy Strings',
     date: '2019-03-13',
     venue: 'Do512 Lounge',
@@ -10346,7 +24542,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-14-871',
+    id: '2019-03-14-862',
     artist: 'Billy Strings',
     date: '2019-03-14',
     venue: 'The Chapel Luck',
@@ -10358,7 +24554,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-15-872',
+    id: '2019-03-15-863',
     artist: 'Billy Strings',
     date: '2019-03-15',
     venue: 'Historic Scoot Inn',
@@ -10370,7 +24566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-16-873',
+    id: '2019-03-16-864',
     artist: 'Billy Strings',
     date: '2019-03-16',
     venue: 'Latchkey',
@@ -10382,7 +24578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-19-874',
+    id: '2019-03-19-865',
     artist: 'Billy Strings',
     date: '2019-03-19',
     venue: 'Carter Vintage Guitars',
@@ -10394,7 +24590,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-21-875',
+    id: '2019-03-21-866',
     artist: 'Billy Strings',
     date: '2019-03-21',
     venue: 'Vinyl Music Hall',
@@ -10406,55 +24602,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-22-876',
+    id: '2019-03-22-867',
     artist: 'Billy Strings',
     date: '2019-03-22',
-    venue: 'Spirit of the Suwannee Music Park, Suwanee Spring Reunion',
-    city: 'Live Oak',
-    state: 'FL',
+    venue: 'Spirit of the Suwannee Music Park',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
     year: 2019,
     videoUrl: '',
     setlist: 'Thirst Mutilator | Hollow Heart | Doing Things Right | Watch It Fall | Slow Train | Today | All Fall Down | Black Mountain Rag | Train That Carried My Girl | While I\'m Waiting Here | She Makes My Love | Meet Me at the Creek | Running on Empty',
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-23-877',
+    id: '2019-03-23-868',
     artist: 'Billy Strings',
     date: '2019-03-23',
-    venue: 'Spirit of the Suwannee Music Park, Suwanee Spring Reunion',
-    city: 'Live Oak',
-    state: 'FL',
+    venue: 'Spirit of the Suwannee Music Park',
+    city: 'Suwanee Spring Reunion',
+    state: 'Live Oak',
     year: 2019,
     videoUrl: '',
     setlist: 'Sally Goodin\' | Black Clouds | I Haven\'t Seen Mary In Years | Dust In A Baggie | I\'m Still Here | China Doll | In Hiding | Dealing Despair | All Of Tomorrow | Turmoil and Tinfoil | On The Line',
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-30-878',
+    id: '2019-03-30-869',
     artist: 'Billy Strings',
     date: '2019-03-30',
-    venue: 'Squaw Valley Ski Resort, Winter WonderGrass',
-    city: 'Olympic Valley',
-    state: 'CA',
+    venue: 'Squaw Valley Ski Resort',
+    city: 'Winter WonderGrass',
+    state: 'Olympic Valley',
     year: 2019,
     videoUrl: '',
     setlist: 'Sunnyside Of The Mountain | On The Line | Pyramid Country | And Your Bird Can Sing | Pyramid Country | Airmail Special | All Fall Down | Watch It Fall | Slow Train | Shady Grove | Black Clouds | While I\'m Waiting Here | She Makes My Love | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-03-31-879',
+    id: '2019-03-31-870',
     artist: 'Billy Strings',
     date: '2019-03-31',
-    venue: 'Squaw Valley Ski Resort, Winter WonderGrass',
-    city: 'Olympic Valley',
-    state: 'CA',
+    venue: 'Squaw Valley Ski Resort',
+    city: 'Winter WonderGrass',
+    state: 'Olympic Valley',
     year: 2019,
     videoUrl: '',
     setlist: 'Hollow Heart | Red Rocking Chair | Southern Flavor | These Old Blues | Thirst Mutilator | Deal | All Of Tomorrow | Freeborn Man | Rocky Racoon | Midnight on the Highway | Pretty Daughter | Old Kentucky | That\'s What Love Will Make You Do | All I Ever Loved Was You | I\'m Still Here | China Doll | Midnight Rider | Turmoil and Tinfoil | The Ballad Of Curtis Loew | Dust In A Baggie | Running on Empty',
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-11-880',
+    id: '2019-04-11-871',
     artist: 'Billy Strings',
     date: '2019-04-11',
     venue: 'Plaza Hotel Juke Joint',
@@ -10466,43 +24662,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-12-881',
+    id: '2019-04-12-872',
     artist: 'Billy Strings',
     date: '2019-04-12',
-    venue: 'Plaza Hotel Pool, Bender Jamboree',
-    city: 'Las Vegas',
-    state: 'NV',
+    venue: 'Plaza Hotel Pool',
+    city: 'Bender Jamboree',
+    state: 'Las Vegas',
     year: 2019,
     videoUrl: '',
     setlist: 'If I Lose | Pyramid Country | Airmail Special | Lonesome LA Cowboy | So Many Miles | Thirst Mutilator | I\'m Still Here | Thirst Mutilator | Hollow Heart | Willin\' | Ole Slewfoot | This Heart Of Mine | Dealing Despair | Ernest T. Grass | Paul and Silas | Turmoil and Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-13-882',
+    id: '2019-04-13-873',
     artist: 'Billy Strings',
     date: '2019-04-13',
-    venue: 'Plaza Hotel Pool, Bender Jamboree',
-    city: 'Las Vegas',
-    state: 'NV',
+    venue: 'Plaza Hotel Pool',
+    city: 'Bender Jamboree',
+    state: 'Las Vegas',
     year: 2019,
     videoUrl: '',
     setlist: 'Dust In A Baggie | Home Of The Red Fox | Little Maggie | While I\'m Waiting Here | Train Train | Watch It Fall | I\'ll Remember You, Love, In My Prayers | On The Line | China Doll | In Hiding | Slow Train | Old Mexico | And Your Bird Can Sing | Meet Me at the Creek | And Your Bird Can Sing | Proud Mary',
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-14-883',
+    id: '2019-04-14-874',
     artist: 'Billy Strings',
     date: '2019-04-14',
-    venue: 'Suite 2446 AKA 1612 - Plaza Hotel, Bender Jamboree',
-    city: 'Las Vegas',
-    state: 'NV',
+    venue: 'Suite 2446 AKA 1612 - Plaza Hotel',
+    city: 'Bender Jamboree',
+    state: 'Las Vegas',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-18-884',
+    id: '2019-04-18-875',
     artist: 'Billy Strings',
     date: '2019-04-18',
     venue: 'Salvage Station',
@@ -10514,19 +24710,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-19-885',
+    id: '2019-04-19-876',
     artist: 'Billy Strings',
     date: '2019-04-19',
-    venue: 'Centennial Olympic Park, Sweetwater 420 Festival',
-    city: 'Atlanta',
-    state: 'GA',
+    venue: 'Centennial Olympic Park',
+    city: 'Sweetwater 420 Festival',
+    state: 'Atlanta',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1VgIsfV5cWFhU-capYJ1bIXnzJfd3hWOy/preview',
     setlist: 'Pyramid Country | Georgia Mail | Dust In A Baggie | So Many Miles | China Doll | Hollow Heart | Somewhere Along The Road | Streamlined Cannonball | Black Clouds | And Your Bird Can Sing | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-04-20-886',
+    id: '2019-04-20-877',
     artist: 'Billy Strings',
     date: '2019-04-20',
     venue: 'Terminal West',
@@ -10538,10 +24734,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-01-887',
+    id: '2019-05-01-878',
     artist: 'Billy Strings',
     date: '2019-05-01',
-    venue: 'Tipitina\'s',
+    venue: 'Tipitina's',
     city: 'New Orleans',
     state: 'LA',
     year: 2019,
@@ -10550,7 +24746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-03-888',
+    id: '2019-05-03-879',
     artist: 'Billy Strings',
     date: '2019-05-03',
     venue: 'Last Concert Cafe',
@@ -10562,7 +24758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-04-889',
+    id: '2019-05-04-880',
     artist: 'Billy Strings',
     date: '2019-05-04',
     venue: 'Mohawk',
@@ -10574,31 +24770,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-10-890',
+    id: '2019-05-10-881',
     artist: 'Billy Strings',
     date: '2019-05-10',
-    venue: 'Aiken County Fairgrounds, Aiken Bluegrass Festival',
-    city: 'Aiken',
-    state: 'SC',
+    venue: 'Aiken County Fairgrounds',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
     year: 2019,
     videoUrl: '',
     setlist: 'Train 45 | I\'ll Remember You, Love, In My Prayers | Turmoil and Tinfoil | Streamlined Cannonball | Home Of The Red Fox | Hobo Song | While I\'m Waiting Here | Pyramid Country | This Heart Of Mine | Dealing Despair | Doing My Time | On The Line | Dust In A Baggie | Running on Empty | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-11-891',
+    id: '2019-05-11-882',
     artist: 'Billy Strings',
     date: '2019-05-11',
-    venue: 'Aiken County Fairgrounds, Aiken Bluegrass Festival',
-    city: 'Aiken',
-    state: 'SC',
+    venue: 'Aiken County Fairgrounds',
+    city: 'Aiken Bluegrass Festival',
+    state: 'Aiken',
     year: 2019,
     videoUrl: '',
     setlist: 'Hanging Around | Further Up The Road | Althea | Whiskey in the Jar | Cheap Tequila | Cheap Sunglasses | Breakdown | Going Down The Road Feeling Bad | Running Down A Dream | Red House | Fire | Johnny B. Goode | Paranoid | Deal | Corduroy | Down By The River | Funk #49 | Mr. Fantasy | Big River | Right Place, Wrong Time | That\'s What Love Will Make You Do | Good Times, Bad Times | Mystery Train | Funky Bitch | Sweet Leaf | Iko, Iko',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-16-892',
+    id: '2019-05-16-883',
     artist: 'Billy Strings',
     date: '2019-05-16',
     venue: 'Rives Theatre',
@@ -10610,10 +24806,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-17-893',
+    id: '2019-05-17-884',
     artist: 'Billy Strings',
     date: '2019-05-17',
-    venue: 'Brown\'s Island',
+    venue: 'Brown's Island',
     city: 'Richmond',
     state: 'VA',
     year: 2019,
@@ -10622,67 +24818,67 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-23-894',
+    id: '2019-05-23-885',
     artist: 'Billy Strings',
     date: '2019-05-23',
-    venue: 'Allegany County Fairgrounds, DelFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelFest',
+    state: 'Cumberland',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1dRoBvYFFheaFtj9KTDGKnJxuMviuBhRM/preview',
     setlist: 'Home Of The Red Fox | Sweet Blue Eyed Darlin | Senor | New Camptown Races | Unwanted Love | While I\'m Waiting Here | Pyramid Country | Ole Slewfoot | Down In The Hollow | Doing My Time | Shady Grove | Bluegrass Breakdown | I\'ll Remember You, Love, In My Prayers | Train 45 | All Fall Down | Roll On Buddy Roll On | In Hiding | Turn the Page | Running on Empty | Midnight Rider | Me And My Uncle | Ernest T. Grass | Hobo Song | Dealing Despair | Back on the Train | Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-24-895',
+    id: '2019-05-24-886',
     artist: 'Billy Strings',
     date: '2019-05-24',
-    venue: 'Allegany County Fairgrounds, DelfFest',
-    city: 'Cumberland',
-    state: 'MD',
+    venue: 'Allegany County Fairgrounds',
+    city: 'DelfFest',
+    state: 'Cumberland',
     year: 2019,
     videoUrl: '',
     setlist: 'Hollow Heart | First Whippoorwill | Slow Train | She Makes My Love | Meet Me at the Creek | This Heart Of Mine | Dust In A Baggie | Thirst Mutilator | Deal | Red Rocking Chair | All Of Tomorrow | Little Maggie | On The Line',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-25-896',
+    id: '2019-05-25-887',
     artist: 'Billy Strings',
     date: '2019-05-25',
-    venue: 'Legend Valley Concert Venue and Campground, Dark Star Jubilee',
-    city: 'Thornville',
-    state: 'OH',
+    venue: 'Legend Valley Concert Venue and Campground',
+    city: 'Dark Star Jubilee',
+    state: 'Thornville',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1Brh0Cu8zoDqIl5Vc12ibm8TrDuKLFUY5/preview',
     setlist: 'Ernest T. Grass | How Mountain Girls Can Love | While I\'m Waiting Here | Train That Carried My Girl | Black Mountain Rag | Watch It Fall | Pretty Daughter | Turmoil and Tinfoil | These Old Blues | Reverend | Pyramid Country | The Devil Shivered In His Sleeping Bag | Dust In A Baggie | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-26-897',
+    id: '2019-05-26-888',
     artist: 'Billy Strings',
     date: '2019-05-26',
-    venue: 'Pop\'s Farm, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-26-898',
+    id: '2019-05-26-889',
     artist: 'Billy Strings',
     date: '2019-05-26',
-    venue: 'Pop\'s Farm - Lawn Stage, Rooster Walk Music & Arts Festival',
-    city: 'Axton',
-    state: 'VA',
+    venue: 'Pop's Farm - Lawn Stage',
+    city: 'Rooster Walk Music & Arts Festival',
+    state: 'Axton',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-05-31-899',
+    id: '2019-05-31-890',
     artist: 'Billy Strings',
     date: '2019-05-31',
     venue: 'Red Butte Garden',
@@ -10694,7 +24890,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-01-900',
+    id: '2019-06-01-891',
     artist: 'Billy Strings',
     date: '2019-06-01',
     venue: 'Mesa Theater',
@@ -10706,19 +24902,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-02-901',
+    id: '2019-06-02-892',
     artist: 'Billy Strings',
     date: '2019-06-02',
-    venue: 'Cottonwood Meadows, Campout For a Cause',
-    city: 'Buena Vista',
-    state: 'CO',
+    venue: 'Cottonwood Meadows',
+    city: 'Campout For a Cause',
+    state: 'Buena Vista',
     year: 2019,
     videoUrl: '',
     setlist: 'Ernest T. Grass | I AInt Gonna Work Tomorrow | Little Sadie | Hollow Heart | All Of Tomorrow | Red Rocking Chair | Summertime Blues | I\'ll Remember You, Love, In My Prayers | On The Line | She Makes My Love | Train Train | Watch It Fall | Dust In A Baggie | Back on the Train | Shady Grove | Salt Creek | How Mountain Girls Can Love | Ten Degrees Or Colder | Turmoil and Tinfoil | Proud Mary',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-06-902',
+    id: '2019-06-06-893',
     artist: 'Billy Strings',
     date: '2019-06-06',
     venue: 'Manistee National Forest',
@@ -10730,19 +24926,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-08-903',
+    id: '2019-06-08-894',
     artist: 'Billy Strings',
     date: '2019-06-08',
-    venue: 'The Homestead, Silver Cloud Campout',
-    city: 'Haugan',
-    state: 'MT',
+    venue: 'The Homestead',
+    city: 'Silver Cloud Campout',
+    state: 'Haugan',
     year: 2019,
     videoUrl: '',
     setlist: 'Intro | Hollow Heart | I\'m Still Here | Last Train To Clarksville | Thirst Mutilator | I\'m Still Here | Bluegrass Breakdown | Tennessee Stud | On The Line | I\'ll Remember You, Love, In My Prayers | Rain And Snow | Wind And Rain | Old Train | Turmoil and Tinfoil | Along the Road | Streamlined Cannonball | Ain\'t Nothing to Me | Ernest T. Grass | Little Maggie | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-11-904',
+    id: '2019-06-11-895',
     artist: 'Billy Strings',
     date: '2019-06-11',
     venue: 'Pine Creek Lodge',
@@ -10754,43 +24950,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-14-905',
+    id: '2019-06-14-896',
     artist: 'Billy Strings',
     date: '2019-06-14',
-    venue: 'Whispering Pines Campground, Blue Ox Music Festival',
-    city: 'Eau Claire',
-    state: 'WI',
+    venue: 'Whispering Pines Campground',
+    city: 'Blue Ox Music Festival',
+    state: 'Eau Claire',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1HbR0qAj6tJqaWCMYSJgtr9rAf0z845OA/preview',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-15-906',
+    id: '2019-06-15-897',
     artist: 'Billy Strings',
     date: '2019-06-15',
-    venue: 'Whispering Pines Campground, Blue Ox Music Festival',
-    city: 'Eau Claire',
-    state: 'WI',
+    venue: 'Whispering Pines Campground',
+    city: 'Blue Ox Music Festival',
+    state: 'Eau Claire',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1WZcAngdZTmJ2Mkol22nWiVoSrkWo-Du6/preview',
     setlist: 'Hollow Heart | Doing Things Right | Southern Flavor | Wind And Rain | Dust In A Baggie | Thirst Mutilator | 99 Years Is Almost For Life | Black Clouds | Ernest T. Grass | Black Clouds | Ten Degrees Or Colder | Turmoil and Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-16-907',
+    id: '2019-06-16-898',
     artist: 'Billy Strings',
     date: '2019-06-16',
-    venue: '900 W Randolph Street, Taste of Randolph',
-    city: 'Chicago',
-    state: 'IL',
+    venue: '900 W Randolph Street',
+    city: 'Taste of Randolph',
+    state: 'Chicago',
     year: 2019,
     videoUrl: '',
     setlist: 'On The Southbound | Roll On Buddy Roll On | Senor | Dealing Despair | Running on Empty | Train That Carried My Girl From Town | Black Mountain Rag | While I\'m Waiting Here | She Makes My Love | Pyramid Country | Little Maggie | Big Mon | I\'m Still Here | Thirst Mutilator | Back on the Train | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-20-908',
+    id: '2019-06-20-899',
     artist: 'Billy Strings',
     date: '2019-06-20',
     venue: 'Ryman Auditorium',
@@ -10802,31 +24998,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-22-909',
+    id: '2019-06-22-900',
     artist: 'Billy Strings',
     date: '2019-06-22',
-    venue: 'Stevenson Ranch, 4 Peaks Music Fesitval',
-    city: 'Bend',
-    state: 'OR',
+    venue: 'Stevenson Ranch',
+    city: '4 Peaks Music Fesitval',
+    state: 'Bend',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/1hZMMQ_WUYI_i3etI61cuPkINtO73qbZc/preview',
     setlist: 'I\'m Still Here | Thirst Mutilator | Raleigh And Spencer | While I\'m Waiting Here | Pyramid Country | Ole Slewfoot | June Apple | Rundown | Along the Road | Hollow Heart | Sally Goodin\' | Seven Bridges Road | Rock Of Ages | Dust In A Baggie | 15 Steps | Pretty Daughter | Today | All Fall Down | Brokedown Palace',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-27-910',
+    id: '2019-06-27-901',
     artist: 'Billy Strings',
     date: '2019-06-27',
-    venue: 'Yellow Creek Park, Romp Festival',
-    city: 'Owensboro',
-    state: 'KY',
+    venue: 'Yellow Creek Park',
+    city: 'Romp Festival',
+    state: 'Owensboro',
     year: 2019,
     videoUrl: '',
     setlist: 'Sophronie | Dust In A Baggie | So Many Miles | John Henry | Turmoil and Tinfoil | Ernest T. Grass | Rose Of Old Kentucky | Senor | I\'ll Remember You, Love, In My Prayers | On The Line | Am I Born to Die',
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-28-911',
+    id: '2019-06-28-902',
     artist: 'Billy Strings',
     date: '2019-06-28',
     venue: 'Downtown',
@@ -10838,7 +25034,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-06-29-912',
+    id: '2019-06-29-903',
     artist: 'Billy Strings',
     date: '2019-06-29',
     venue: 'The Vogue',
@@ -10850,55 +25046,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-12-913',
+    id: '2019-07-12-904',
     artist: 'Billy Strings',
     date: '2019-07-12',
-    venue: 'Snowshoe Mountain Resort, 4848 Festival',
-    city: 'Snowshoe',
-    state: 'WV',
+    venue: 'Snowshoe Mountain Resort',
+    city: '4848 Festival',
+    state: 'Snowshoe',
     year: 2019,
     videoUrl: '',
     setlist: 'Taking Water | Dust In A Baggie | Thirst Mutilator | So Many Miles | On The Line | Likes of Me | China Doll | Hollow Heart | Ernest T. Grass | Little Maggie | Rundown | Meet Me at the Creek | Paul And Anders',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-18-914',
+    id: '2019-07-18-905',
     artist: 'Billy Strings',
     date: '2019-07-18',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2019,
     videoUrl: '',
     setlist: 'Slow Train | Pyramid Country | Airmail Special | Doing Things Right | Dealing Despair | Today | All Fall Down | Proud Mary | Tipper | Senor | Freeborn Man | Turmoil and Tinfoil | Spinning | Turmoil and Tinfoil | How Mountain Girls Can Love',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-19-915',
+    id: '2019-07-19-906',
     artist: 'Billy Strings',
     date: '2019-07-19',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2019,
     videoUrl: '',
     setlist: 'Likes of Me | Home Of The Red Fox | Ole Slew Foot | Watch It Fall | Doing My Time | Train That Carried My Girl From Town | Bluegrass Mountain Rag | Rundown | 15 Steps | Sally Goodin\' | Hobo Song | Hollow Heart | Believe',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-20-916',
+    id: '2019-07-20-907',
     artist: 'Billy Strings',
     date: '2019-07-20',
-    venue: 'Walsh Farm, Grey Fox Bluegrass Festival',
-    city: 'Oak Hill',
-    state: 'NY',
+    venue: 'Walsh Farm',
+    city: 'Grey Fox Bluegrass Festival',
+    state: 'Oak Hill',
     year: 2019,
     videoUrl: '',
     setlist: 'Beaumont Rag | John Henry | Groundhog | Little Sadie | Brown\'s Ferry Blues | Fiddler\'s Dram | Am I Born to Die | Cold Frosty Morn | Georgia Buck | Soldier\'s Joy | Watson Blues | Don\'t Let Your Deal Go Down | June Apple | Nashville Blues | Lay Down My Old Guitar | Thirst Mutilator | On the Road Again | Dust In A Baggie | Ernest T. Grass | Black Clouds | I Haven\'t Seen Mary In Years | Sweet Blue Eyed Darling | Pretty Daughter | Taking Water | I\'ll Remember You, Love, In My Prayers | Reverend | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-24-917',
+    id: '2019-07-24-908',
     artist: 'Billy Strings',
     date: '2019-07-24',
     venue: 'Burley Oak Brewing Company',
@@ -10910,55 +25106,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-25-918',
+    id: '2019-07-25-909',
     artist: 'Billy Strings',
     date: '2019-07-25',
-    venue: 'Montage Mountain, Peach Music Festival',
-    city: 'Scranton',
-    state: 'PA',
+    venue: 'Montage Mountain',
+    city: 'Peach Music Festival',
+    state: 'Scranton',
     year: 2019,
     videoUrl: 'https://drive.google.com/file/d/14ERIP5tF9gQxxrbR3dgRkceTlTtepBQ0/preview',
     setlist: 'Dust In A Baggie | So Many Miles | Rundown | While I\'m Waiting Here | Train Train | Nobody\'s Love Is Like Mine | Today | All Fall Down | On The Line | Watch It Fall | Blue Mule | Taking Water | She Makes My Love | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-26-919',
+    id: '2019-07-26-910',
     artist: 'Billy Strings',
     date: '2019-07-26',
-    venue: 'Ossipee Valley Fairgrounds, Ossipee Valley Music Festival',
-    city: 'Hiram',
-    state: 'ME',
+    venue: 'Ossipee Valley Fairgrounds',
+    city: 'Ossipee Valley Music Festival',
+    state: 'Hiram',
     year: 2019,
     videoUrl: '',
     setlist: 'Black Mountain Rag | Train That Carried My Girl From Town | Pyramid Country | Ole Slewfoot | Doing Things Right | Southern Flavor | Along the Road | Turmoil and Tinfoil | Tipper | Wind And Rain | Black Clouds | Roll On Buddy',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-28-920',
+    id: '2019-07-28-911',
     artist: 'Billy Strings',
     date: '2019-07-28',
-    venue: 'Fort Adams State Park, Newport Folk Festival',
-    city: 'Newport',
-    state: 'RI',
+    venue: 'Fort Adams State Park',
+    city: 'Newport Folk Festival',
+    state: 'Newport',
     year: 2019,
     videoUrl: '',
     setlist: 'Black Mountain Rag | I\'m Coming Back But I Don\'t Know When | Little Sadie | Over The Line | Rain And Snow | Thirst Mutilator | Dust In A Baggie | Friend And A Friend | Believe | I\'ve Endured | Big Mon | Doing My Time',
     thumbnailUrl: ''
   },
   {
-    id: '2019-07-31-921',
+    id: '2019-07-31-912',
     artist: 'Billy Strings',
     date: '2019-07-31',
-    venue: 'Pike County Fairgrounds, Pike County Fair',
-    city: 'Piketon',
-    state: 'OH',
+    venue: 'Pike County Fairgrounds',
+    city: 'Pike County Fair',
+    state: 'Piketon',
     year: 2019,
     videoUrl: '',
     setlist: 'Pike County Breakdown | Little Maggie | Senor | Unwanted Love | New Camptown Races | Taking Water | So Many Miles | Dust In A Baggie | Deal | Banks Of The Ohio | New Country Blues | Watch It Fall | Turmoil and Tinfoil | Going To The Races',
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-02-922',
+    id: '2019-08-02-913',
     artist: 'Billy Strings',
     date: '2019-08-02',
     venue: 'Roxian Theatre',
@@ -10970,7 +25166,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-03-923',
+    id: '2019-08-03-914',
     artist: 'Billy Strings',
     date: '2019-08-03',
     venue: 'Illinois Street Stage',
@@ -10982,55 +25178,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-10-924',
+    id: '2019-08-10-915',
     artist: 'Billy Strings',
     date: '2019-08-10',
-    venue: 'The Meadow at Keeneland, Railbird Festival',
-    city: 'Lexington',
-    state: 'KY',
+    venue: 'The Meadow at Keeneland',
+    city: 'Railbird Festival',
+    state: 'Lexington',
     year: 2019,
     videoUrl: '',
     setlist: 'Ernest T. Grass | Rose Of Ol\' Kentucky | While I\'m Waiting Here | Pyramid Country | Ole Slew Foot | Turmoil and Tinfoil | China Doll | Taking Water | Going To The Races',
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-16-925',
+    id: '2019-08-16-916',
     artist: 'Billy Strings',
     date: '2019-08-16',
-    venue: 'RiversEdge Amphitheater, Whimmydiddle Country Music Festival',
-    city: 'Hamilton',
-    state: 'OH',
+    venue: 'RiversEdge Amphitheater',
+    city: 'Whimmydiddle Country Music Festival',
+    state: 'Hamilton',
     year: 2019,
     videoUrl: '',
     setlist: 'Likes of Me | Pyramid Country | Sweet Blue Eyed Darlin | While I\'m Waiting Here | Hollow Heart | Bluegrass Breakdown | I\'ll Remember You, Love, In My Prayers | Taking Water | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-17-926',
+    id: '2019-08-17-917',
     artist: 'Billy Strings',
     date: '2019-08-17',
-    venue: 'Oregon Ridge Park, Hot August Music Festival',
-    city: 'Cockeysville',
-    state: 'MD',
+    venue: 'Oregon Ridge Park',
+    city: 'Hot August Music Festival',
+    state: 'Cockeysville',
     year: 2019,
     videoUrl: '',
     setlist: 'Tall Tall Grass | Dust In A Baggie | Tipper | Watch It Fall | Slow Train | Ain\'t Nothing to Me | Believe | Thirst Mutilator | So Many Miles | Away From The Mire | This Heart Of Mine | Dealing Despair | Turmoil and Tinfoil | Roll On Buddy | Back on the Train | On The Line',
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-18-927',
+    id: '2019-08-18-918',
     artist: 'Billy Strings',
     date: '2019-08-18',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2019,
     videoUrl: '',
     setlist: 'Shady Grove | Fiddle Tune Medley | Nashville Blues | Hollow Heart | Home Of The Red Fox | Airmail Special | Taking Water | Doing Things Right | Dust In A Baggie | The Ballad Of Curtis Loew | Steam Powered Aereo Plane | Rundown | 15 Steps | Turmoil and Tinfoil | Running on Empty | Ernest T. Grass | Ole Slewfoot | While I\'m Waiting Here | Black Clouds | Where Is My Sailor Boy | It Takes A Train | Away From The Mire | Likes of Me | Pyramid Country | Spinning | Little Maggie | How Mountain Girls Can Love | Little Maggie | Bird Song | Meet Me at the Creek | Seven Bridges Road',
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-30-928',
+    id: '2019-08-30-919',
     artist: 'Billy Strings',
     date: '2019-08-30',
     venue: 'Vilar Center for Performing Arts',
@@ -11042,31 +25238,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-08-31-929',
+    id: '2019-08-31-920',
     artist: 'Billy Strings',
     date: '2019-08-31',
-    venue: 'Reservoir Hill Park, Four Corners Folk Festival',
-    city: 'Pagosa Springs',
-    state: 'CO',
+    venue: 'Reservoir Hill Park',
+    city: 'Four Corners Folk Festival',
+    state: 'Pagosa Springs',
     year: 2019,
     videoUrl: '',
     setlist: 'Doing Things Right | Dust In A Baggie | Deal | The Cuckoo | Living Like An Animal | The Cuckoo | Watch It Fall | Black Clouds | Tall Tall Grass | So Many Miles | White Dove | Rundown | Ernest T. Grass | Airmail Special | This Heart Of Mine | Midnight Rider | Roll On Buddy | Am I Born to Die | Little Maggie',
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-01-930',
+    id: '2019-09-01-921',
     artist: 'Billy Strings',
     date: '2019-09-01',
-    venue: 'Howelsen Hill Amphitheater, Steamboat Summer Concert Series',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Howelsen Hill Amphitheater',
+    city: 'Steamboat Summer Concert Series',
+    state: 'Steamboat Springs',
     year: 2019,
     videoUrl: '',
     setlist: 'Turmoil and Tinfoil | Unwanted Love | New Camptown Races | Senor | Hollow Heart | Willin\' | Home Of The Red Fox | Georgia Mail | I\'m Still Here | Last Train To Clarksville | White Frieghtliner | Likes of Me | Pyramid Country | Bird Song | Pyramid Country | Letter to Seymour | Taking Water | Believe | Tipper | Blue Mule | She Makes My Love Come Rolling Down | Meet Me at the Creek | On the Road Again | Bluegrass Breakdown',
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-05-931',
+    id: '2019-09-05-922',
     artist: 'Billy Strings',
     date: '2019-09-05',
     venue: 'Terminal West',
@@ -11078,7 +25274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-06-932',
+    id: '2019-09-06-923',
     artist: 'Billy Strings',
     date: '2019-09-06',
     venue: 'Terminal West',
@@ -11090,7 +25286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-07-933',
+    id: '2019-09-07-924',
     artist: 'Billy Strings',
     date: '2019-09-07',
     venue: 'Georgia Theatre',
@@ -11102,7 +25298,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-10-934',
+    id: '2019-09-10-925',
     artist: 'Billy Strings',
     date: '2019-09-10',
     venue: 'BMI On The Roof',
@@ -11114,7 +25310,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-11-935',
+    id: '2019-09-11-926',
     artist: 'Billy Strings',
     date: '2019-09-11',
     venue: 'Cannery Ballroom',
@@ -11126,19 +25322,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-12-936',
+    id: '2019-09-12-927',
     artist: 'Billy Strings',
     date: '2019-09-12',
-    venue: 'Ainsworth Stage, AmericanaFest',
-    city: 'Nashville',
-    state: 'TN',
+    venue: 'Ainsworth Stage',
+    city: 'AmericanaFest',
+    state: 'Nashville',
     year: 2019,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-15-937',
+    id: '2019-09-15-928',
     artist: 'Billy Strings',
     date: '2019-09-15',
     venue: 'Red Rocks Amphitheatre',
@@ -11150,7 +25346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-17-938',
+    id: '2019-09-17-929',
     artist: 'Billy Strings',
     date: '2019-09-17',
     venue: 'The Commonwealth Room',
@@ -11162,7 +25358,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-19-939',
+    id: '2019-09-19-930',
     artist: 'Billy Strings',
     date: '2019-09-19',
     venue: 'Crystal Bay Club - The Crown Room',
@@ -11174,7 +25370,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-20-940',
+    id: '2019-09-20-931',
     artist: 'Billy Strings',
     date: '2019-09-20',
     venue: 'The Independent',
@@ -11186,7 +25382,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-21-941',
+    id: '2019-09-21-932',
     artist: 'Billy Strings',
     date: '2019-09-21',
     venue: 'The Independent',
@@ -11198,19 +25394,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-22-942',
+    id: '2019-09-22-933',
     artist: 'Billy Strings',
     date: '2019-09-22',
-    venue: 'Roaring Camp Meadows, Santa Cruz Mountain Sol Festival',
-    city: 'Felton',
-    state: 'CA',
+    venue: 'Roaring Camp Meadows',
+    city: 'Santa Cruz Mountain Sol Festival',
+    state: 'Felton',
     year: 2019,
     videoUrl: '',
     setlist: 'Everything\'s The Same | Slipstream | Red Rocking Chair | Slow Train | Watch It Fall | Tipper | Dust In A Baggie | All Of Tomorrow | Streamlined Cannonball | Pyramid Country | Airmail Special | Taking Water | Doing My Time | Old Train | Turmoil and Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-26-943',
+    id: '2019-09-26-934',
     artist: 'Billy Strings',
     date: '2019-09-26',
     venue: 'Revolution Hall',
@@ -11222,7 +25418,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-27-944',
+    id: '2019-09-27-935',
     artist: 'Billy Strings',
     date: '2019-09-27',
     venue: 'Revolution Hall',
@@ -11234,7 +25430,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-09-28-945',
+    id: '2019-09-28-936',
     artist: 'Billy Strings',
     date: '2019-09-28',
     venue: 'Showbox',
@@ -11246,7 +25442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-03-946',
+    id: '2019-10-03-937',
     artist: 'Billy Strings',
     date: '2019-10-03',
     venue: 'BarrelHouse Brewing Company',
@@ -11258,7 +25454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-04-947',
+    id: '2019-10-04-938',
     artist: 'Billy Strings',
     date: '2019-10-04',
     venue: 'Lodge Room',
@@ -11270,19 +25466,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-06-948',
+    id: '2019-10-06-939',
     artist: 'Billy Strings',
     date: '2019-10-06',
-    venue: 'Zilker Park, Austin City Limits',
-    city: 'Austin',
-    state: 'TX',
+    venue: 'Zilker Park',
+    city: 'Austin City Limits',
+    state: 'Austin',
     year: 2019,
     videoUrl: '',
     setlist: 'Running | Thirst Mutilator | Dust In A Baggie | I Haven\'t Seen Mary In Years | Home Of The Red Fox | Ole Slewfoot | Away From The Mire | Long Forgotten Dream | I\'ll Remember You, Love, In My Prayers | Watch It Fall | Turmoil and Tinfoil',
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-09-949',
+    id: '2019-10-09-940',
     artist: 'Billy Strings',
     date: '2019-10-09',
     venue: 'Crescent Ballroom',
@@ -11294,7 +25490,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-11-950',
+    id: '2019-10-11-941',
     artist: 'Billy Strings',
     date: '2019-10-11',
     venue: 'The Farm',
@@ -11306,7 +25502,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-13-951',
+    id: '2019-10-13-942',
     artist: 'Billy Strings',
     date: '2019-10-13',
     venue: '191 Toole',
@@ -11318,7 +25514,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-17-952',
+    id: '2019-10-17-943',
     artist: 'Billy Strings',
     date: '2019-10-17',
     venue: 'Deep Ellum Art Company',
@@ -11330,7 +25526,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-18-953',
+    id: '2019-10-18-944',
     artist: 'Billy Strings',
     date: '2019-10-18',
     venue: 'Historic Scoot Inn',
@@ -11342,7 +25538,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-19-954',
+    id: '2019-10-19-945',
     artist: 'Billy Strings',
     date: '2019-10-19',
     venue: 'Last Concert Cafe',
@@ -11354,7 +25550,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-27-955',
+    id: '2019-10-27-946',
     artist: 'Billy Strings',
     date: '2019-10-27',
     venue: 'Spirit of the Suwannee Music Park',
@@ -11366,7 +25562,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-30-956',
+    id: '2019-10-30-947',
     artist: 'Billy Strings',
     date: '2019-10-30',
     venue: 'Bijou Theatre',
@@ -11378,7 +25574,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-10-31-957',
+    id: '2019-10-31-948',
     artist: 'Billy Strings',
     date: '2019-10-31',
     venue: 'The Orange Peel',
@@ -11390,10 +25586,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-01-958',
+    id: '2019-11-01-949',
     artist: 'Billy Strings',
     date: '2019-11-01',
-    venue: 'Cat\'s Cradle',
+    venue: 'Cat's Cradle',
     city: 'Carrboro',
     state: 'NC',
     year: 2019,
@@ -11402,10 +25598,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-02-959',
+    id: '2019-11-02-950',
     artist: 'Billy Strings',
     date: '2019-11-02',
-    venue: 'Cat\'s Cradle',
+    venue: 'Cat's Cradle',
     city: 'Carrboro',
     state: 'NC',
     year: 2019,
@@ -11414,7 +25610,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-04-960',
+    id: '2019-11-04-951',
     artist: 'Billy Strings',
     date: '2019-11-04',
     venue: '1st Bank Center',
@@ -11426,7 +25622,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-06-961',
+    id: '2019-11-06-952',
     artist: 'Billy Strings',
     date: '2019-11-06',
     venue: 'The NorVa',
@@ -11438,7 +25634,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-07-962',
+    id: '2019-11-07-953',
     artist: 'Billy Strings',
     date: '2019-11-07',
     venue: 'The Jefferson Theater',
@@ -11450,7 +25646,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-08-963',
+    id: '2019-11-08-954',
     artist: 'Billy Strings',
     date: '2019-11-08',
     venue: 'The Jefferson Theater',
@@ -11462,7 +25658,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-09-964',
+    id: '2019-11-09-955',
     artist: 'Billy Strings',
     date: '2019-11-09',
     venue: '9:30 Club',
@@ -11474,7 +25670,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-10-965',
+    id: '2019-11-10-956',
     artist: 'Billy Strings',
     date: '2019-11-10',
     venue: 'The Stone Pony',
@@ -11486,7 +25682,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-11-966',
+    id: '2019-11-11-957',
     artist: 'Billy Strings',
     date: '2019-11-11',
     venue: 'Paste Studios',
@@ -11498,7 +25694,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-13-967',
+    id: '2019-11-13-958',
     artist: 'Billy Strings',
     date: '2019-11-13',
     venue: 'The Sinclair',
@@ -11510,7 +25706,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-14-968',
+    id: '2019-11-14-959',
     artist: 'Billy Strings',
     date: '2019-11-14',
     venue: 'The Sinclair',
@@ -11522,7 +25718,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-15-969',
+    id: '2019-11-15-960',
     artist: 'Billy Strings',
     date: '2019-11-15',
     venue: 'Brooklyn Bowl',
@@ -11534,7 +25730,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-16-970',
+    id: '2019-11-16-961',
     artist: 'Billy Strings',
     date: '2019-11-16',
     venue: 'Brooklyn Bowl',
@@ -11546,7 +25742,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-19-971',
+    id: '2019-11-19-962',
     artist: 'Billy Strings',
     date: '2019-11-19',
     venue: 'Beachland Ballroom and Tavern',
@@ -11558,7 +25754,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-21-972',
+    id: '2019-11-21-963',
     artist: 'Billy Strings',
     date: '2019-11-21',
     venue: 'Majestic Theatre',
@@ -11570,7 +25766,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-22-973',
+    id: '2019-11-22-964',
     artist: 'Billy Strings',
     date: '2019-11-22',
     venue: 'Concord Music Hall',
@@ -11582,7 +25778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-11-23-974',
+    id: '2019-11-23-965',
     artist: 'Billy Strings',
     date: '2019-11-23',
     venue: 'Madison Theater',
@@ -11594,7 +25790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-13-975',
+    id: '2019-12-13-966',
     artist: 'Billy Strings',
     date: '2019-12-13',
     venue: 'Ogden Theatre',
@@ -11606,7 +25802,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-14-976',
+    id: '2019-12-14-967',
     artist: 'Billy Strings',
     date: '2019-12-14',
     venue: 'Ogden Theatre',
@@ -11618,7 +25814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-15-977',
+    id: '2019-12-15-968',
     artist: 'Billy Strings',
     date: '2019-12-15',
     venue: 'Ogden Theatre',
@@ -11630,7 +25826,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-21-978',
+    id: '2019-12-21-969',
     artist: 'Billy Strings',
     date: '2019-12-21',
     venue: 'Marathon Music Works',
@@ -11642,7 +25838,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-27-979',
+    id: '2019-12-27-970',
     artist: 'Billy Strings',
     date: '2019-12-27',
     venue: 'Majestic Theatre',
@@ -11654,7 +25850,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-28-980',
+    id: '2019-12-28-971',
     artist: 'Billy Strings',
     date: '2019-12-28',
     venue: 'Majestic Theatre',
@@ -11666,7 +25862,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2019-12-31-981',
+    id: '2019-12-31-972',
     artist: 'Billy Strings',
     date: '2019-12-31',
     venue: 'The Intersection',
@@ -11678,7 +25874,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-08-983',
+    id: '2020-01-08-973',
     artist: 'Billy Strings',
     date: '2020-01-08',
     venue: 'Station Inn',
@@ -11690,7 +25886,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-17-984',
+    id: '2020-01-17-974',
     artist: 'Billy Strings',
     date: '2020-01-17',
     venue: 'Capitol Theatre',
@@ -11702,7 +25898,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-18-985',
+    id: '2020-01-18-975',
     artist: 'Billy Strings',
     date: '2020-01-18',
     venue: 'Capitol Theatre',
@@ -11714,7 +25910,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-23-986',
+    id: '2020-01-23-976',
     artist: 'Billy Strings',
     date: '2020-01-23',
     venue: 'Mars Music Hall',
@@ -11726,10 +25922,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-24-987',
+    id: '2020-01-24-977',
     artist: 'Billy Strings',
     date: '2020-01-24',
-    venue: 'Tipitina\'s',
+    venue: 'Tipitina's',
     city: 'New Orleans',
     state: 'LA',
     year: 2020,
@@ -11738,7 +25934,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-25-988',
+    id: '2020-01-25-978',
     artist: 'Billy Strings',
     date: '2020-01-25',
     venue: 'The Lyric Theatre',
@@ -11750,7 +25946,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-01-26-989',
+    id: '2020-01-26-979',
     artist: 'Billy Strings',
     date: '2020-01-26',
     venue: 'Duling Hall',
@@ -11762,7 +25958,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-02-990',
+    id: '2020-02-02-980',
     artist: 'Billy Strings',
     date: '2020-02-02',
     venue: 'Pima County Fairgrounds',
@@ -11774,7 +25970,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-06-991',
+    id: '2020-02-06-981',
     artist: 'Billy Strings',
     date: '2020-02-06',
     venue: 'Manchester Music Hall',
@@ -11786,34 +25982,34 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-07-992',
+    id: '2020-02-07-982',
     artist: 'Billy Strings',
     date: '2020-02-07',
-    venue: 'Headliners Music Hall, Kentucky Flame',
-    city: 'Louisville',
-    state: 'KY',
+    venue: 'Headliners Music Hall',
+    city: 'Kentucky Flame',
+    state: 'Louisville',
     year: 2020,
     videoUrl: 'https://drive.google.com/file/d/1DWUVidv1klv8Ke-9ll9CpeTjgKzX20eE/preview',
     setlist: 'Eight More Miles To Louisville | Slipstream | Enough To Leave | Running | Along the Road | Streamlined Cannonball | So Many Miles | Everything\'s The Same | Rundown | These Old Blues | On The Line | Sally Goodin\' | Must Be Seven | While I\'m Waiting Here | Pyramid Country | Rose Of Old Kentucky | Today | All Fall Down | John Deere Tractor | Turmoil and Tinfoil | Kentucky Mandolin',
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-08-993',
+    id: '2020-02-08-983',
     artist: 'Billy Strings',
     date: '2020-02-08',
-    venue: 'Headliners Music Hall, Kentucky Flame',
-    city: 'Louisville',
-    state: 'KY',
+    venue: 'Headliners Music Hall',
+    city: 'Kentucky Flame',
+    state: 'Louisville',
     year: 2020,
     videoUrl: '',
     setlist: 'Dust In A Baggie | Likes of Me | Bird Song | I Haven\'t Seen Mary In Years | Tipper | Doing Things Right | Dos Banjos | Taking Water | Black Clouds | Going Back To Old Kentucky | Dusty Miller | Highway Hypnosis | Footprints In The Snow | I Only Exist | Away From The Mire | Long Forgotten Dream | Fiddlin\' Around | Nobody\'s Love Is Like Mine | Meet Me at the Creek | Roll On Buddy Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-14-994',
+    id: '2020-02-14-984',
     artist: 'Billy Strings',
     date: '2020-02-14',
-    venue: 'Harrah\'s Cherokee Center',
+    venue: 'Harrah's Cherokee Center',
     city: 'Asheville',
     state: 'NC',
     year: 2020,
@@ -11822,10 +26018,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-15-995',
+    id: '2020-02-15-985',
     artist: 'Billy Strings',
     date: '2020-02-15',
-    venue: 'Harrah\'s Cherokee Center',
+    venue: 'Harrah's Cherokee Center',
     city: 'Asheville',
     state: 'NC',
     year: 2020,
@@ -11834,31 +26030,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-21-996',
+    id: '2020-02-21-986',
     artist: 'Billy Strings',
     date: '2020-02-21',
-    venue: 'Steamboat Springs Ski Area, Winter WonderGrass',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Steamboat Springs Ski Area',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
     year: 2020,
     videoUrl: '',
     setlist: 'Intro | Steamboat Whistle Blues | Turmoil and Tinfoil | Ten Degrees And Colder | Slow Train | Cheap Tequilla | Highway Hypnosis | Slipstream | Enough To Leave | Red Rocking Chair | Home | Away From The Mire | Long Forgotten Dream | Ernest T. Grass | How Mountain Girls Can Love | Train Train',
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-23-997',
+    id: '2020-02-23-987',
     artist: 'Billy Strings',
     date: '2020-02-23',
-    venue: 'Steamboat Springs Ski Area, Winter WonderGrass',
-    city: 'Steamboat Springs',
-    state: 'CO',
+    venue: 'Steamboat Springs Ski Area',
+    city: 'Winter WonderGrass',
+    state: 'Steamboat Springs',
     year: 2020,
     videoUrl: '',
     setlist: 'Intro | Taking Water | Dust In A Baggie | Pyramid Country | Little Maggie | While I\'m Waiting Here | Cold On Your Shoulder | On The Line | John Deere Tractor | Riding Out The Winter | Doing Things Right | Everything\'s The Same | Lonesome Moonlight Waltz | Meet Me at the Creek | Ride Me High | Meet Me at the Creek | Ole Slewfoot',
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-27-998',
+    id: '2020-02-27-988',
     artist: 'Family Strings',
     date: '2020-02-27',
     venue: 'State Theatre',
@@ -11870,7 +26066,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-28-999',
+    id: '2020-02-28-989',
     artist: 'Family Strings',
     date: '2020-02-28',
     venue: 'City Opera House',
@@ -11882,7 +26078,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-02-29-1000',
+    id: '2020-02-29-990',
     artist: 'Family Strings',
     date: '2020-02-29',
     venue: 'Ionia Theater',
@@ -11894,7 +26090,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-03-01-1001',
+    id: '2020-03-01-991',
     artist: 'Family Strings',
     date: '2020-03-01',
     venue: 'The Ark',
@@ -11906,19 +26102,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-03-07-1002',
+    id: '2020-03-07-992',
     artist: 'Billy Strings',
     date: '2020-03-07',
-    venue: 'Snowbird Ski & Summer Resort, Subaru Winterfest',
-    city: 'Snowbird',
-    state: 'UT',
+    venue: 'Snowbird Ski & Summer Resort',
+    city: 'Subaru Winterfest',
+    state: 'Snowbird',
     year: 2020,
     videoUrl: '',
     setlist: 'Taking Water | Rubens Train | Dust In A Baggie | Willin\' | Southern Flavor | There Is A Time | Slow Train | Pyramid Country | Away From The Mire | Face In The Crowd | Must Be Seven | Everything\'s The Same | Dust In A Baggie | Turmoil and Tinfoil | Little Maggie',
     thumbnailUrl: ''
   },
   {
-    id: '2020-04-04-1003',
+    id: '2020-04-04-993',
     artist: 'Billy Strings',
     date: '2020-04-04',
     venue: 'Live From Out There',
@@ -11930,7 +26126,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-04-21-1004',
+    id: '2020-04-21-994',
     artist: 'Billy Strings',
     date: '2020-04-21',
     venue: 'Private Venue',
@@ -11942,7 +26138,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-05-01-1005',
+    id: '2020-05-01-995',
     artist: 'Billy Strings',
     date: '2020-05-01',
     venue: 'Somewhere',
@@ -11954,7 +26150,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-15-1006',
+    id: '2020-07-15-996',
     artist: 'Billy Strings',
     date: '2020-07-15',
     venue: 'Brooklyn Bowl Nashville',
@@ -11966,7 +26162,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-16-1007',
+    id: '2020-07-16-997',
     artist: 'Billy Strings',
     date: '2020-07-16',
     venue: 'Brooklyn Bowl Nashville',
@@ -11978,7 +26174,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-17-1008',
+    id: '2020-07-17-998',
     artist: 'Billy Strings',
     date: '2020-07-17',
     venue: 'Brooklyn Bowl Nashville',
@@ -11990,7 +26186,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-18-1009',
+    id: '2020-07-18-999',
     artist: 'Billy Strings',
     date: '2020-07-18',
     venue: 'Station Inn',
@@ -12002,7 +26198,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-19-1010',
+    id: '2020-07-19-1000',
     artist: 'Billy Strings',
     date: '2020-07-19',
     venue: 'Station Inn',
@@ -12014,7 +26210,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-21-1011',
+    id: '2020-07-21-1001',
     artist: 'Billy Strings',
     date: '2020-07-21',
     venue: 'Jimmy Kimmel Live',
@@ -12026,7 +26222,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-22-1012',
+    id: '2020-07-22-1002',
     artist: 'Billy Strings',
     date: '2020-07-22',
     venue: 'City Winery',
@@ -12038,7 +26234,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-23-1013',
+    id: '2020-07-23-1003',
     artist: 'Billy Strings',
     date: '2020-07-23',
     venue: 'City Winery',
@@ -12050,7 +26246,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-24-1014',
+    id: '2020-07-24-1004',
     artist: 'Billy Strings',
     date: '2020-07-24',
     venue: 'Exit/In',
@@ -12062,7 +26258,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-25-1015',
+    id: '2020-07-25-1005',
     artist: 'Billy Strings',
     date: '2020-07-25',
     venue: 'Exit/In',
@@ -12074,7 +26270,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-07-26-1016',
+    id: '2020-07-26-1006',
     artist: 'Billy Strings',
     date: '2020-07-26',
     venue: '3rd & Lindsley Bar and Grill',
@@ -12086,7 +26282,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-08-01-1017',
+    id: '2020-08-01-1007',
     artist: 'Billy Strings',
     date: '2020-08-01',
     venue: 'Private Venue',
@@ -12098,7 +26294,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-08-06-1018',
+    id: '2020-08-06-1008',
     artist: 'Billy Strings',
     date: '2020-08-06',
     venue: 'Private Venue',
@@ -12110,7 +26306,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-08-08-1019',
+    id: '2020-08-08-1009',
     artist: 'Billy Strings',
     date: '2020-08-08',
     venue: 'Grand Ole Opry House',
@@ -12122,7 +26318,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-11-1020',
+    id: '2020-09-11-1010',
     artist: 'Billy Strings',
     date: '2020-09-11',
     venue: 'Mohegan Sun Arena',
@@ -12134,7 +26330,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-12-1021',
+    id: '2020-09-12-1011',
     artist: 'Billy Strings',
     date: '2020-09-12',
     venue: 'Mohegan Sun Arena',
@@ -12146,7 +26342,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-13-1022',
+    id: '2020-09-13-1012',
     artist: 'Billy Strings',
     date: '2020-09-13',
     venue: 'Mohegan Sun Arena',
@@ -12158,7 +26354,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-16-1023',
+    id: '2020-09-16-1013',
     artist: 'Billy Strings',
     date: '2020-09-16',
     venue: 'McHenry Outdoor Theatre',
@@ -12170,7 +26366,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-17-1024',
+    id: '2020-09-17-1014',
     artist: 'Billy Strings',
     date: '2020-09-17',
     venue: 'McHenry Outdoor Theatre',
@@ -12182,7 +26378,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-18-1025',
+    id: '2020-09-18-1015',
     artist: 'Billy Strings',
     date: '2020-09-18',
     venue: 'Exposition Gardens',
@@ -12194,7 +26390,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-19-1026',
+    id: '2020-09-19-1016',
     artist: 'Billy Strings',
     date: '2020-09-19',
     venue: 'Exposition Gardens',
@@ -12206,7 +26402,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-24-1027',
+    id: '2020-09-24-1017',
     artist: 'Billy Strings',
     date: '2020-09-24',
     venue: 'UCSB Arts Lectures Live',
@@ -12218,7 +26414,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-26-1028',
+    id: '2020-09-26-1018',
     artist: 'Billy Strings',
     date: '2020-09-26',
     venue: 'Bonnaroo Presents Virtual ROO-ALITY',
@@ -12230,7 +26426,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-09-26-1029',
+    id: '2020-09-26-1019',
     artist: 'Billy Strings',
     date: '2020-09-26',
     venue: 'Red Rocks Amphitheatre',
@@ -12242,7 +26438,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-10-16-1030',
+    id: '2020-10-16-1020',
     artist: 'Billy Strings',
     date: '2020-10-16',
     venue: 'Station Inn',
@@ -12254,7 +26450,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-10-25-1031',
+    id: '2020-10-25-1021',
     artist: 'Billy Strings',
     date: '2020-10-25',
     venue: 'Ryman Auditorium',
@@ -12266,7 +26462,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2020-12-26-1032',
+    id: '2020-12-26-1022',
     artist: 'Billy Strings',
     date: '2020-12-26',
     venue: 'Festival Venue',
@@ -12278,7 +26474,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-18-1034',
+    id: '2021-02-18-1023',
     artist: 'Billy Strings',
     date: '2021-02-18',
     venue: 'Capitol Theatre',
@@ -12290,7 +26486,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-19-1035',
+    id: '2021-02-19-1024',
     artist: 'Billy Strings',
     date: '2021-02-19',
     venue: 'Capitol Theatre',
@@ -12302,7 +26498,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-20-1036',
+    id: '2021-02-20-1025',
     artist: 'Billy Strings',
     date: '2021-02-20',
     venue: 'Capitol Theatre',
@@ -12314,7 +26510,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-21-1037',
+    id: '2021-02-21-1026',
     artist: 'Billy Strings',
     date: '2021-02-21',
     venue: 'Capitol Theatre',
@@ -12326,7 +26522,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-23-1038',
+    id: '2021-02-23-1027',
     artist: 'Billy Strings',
     date: '2021-02-23',
     venue: 'Capitol Theatre',
@@ -12338,7 +26534,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-02-24-1039',
+    id: '2021-02-24-1028',
     artist: 'Billy Strings',
     date: '2021-02-24',
     venue: 'Capitol Theatre',
@@ -12350,7 +26546,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-19-1040',
+    id: '2021-03-19-1029',
     artist: 'Billy Strings',
     date: '2021-03-19',
     venue: 'St. Augustine Amphitheatre',
@@ -12362,7 +26558,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-20-1041',
+    id: '2021-03-20-1030',
     artist: 'Billy Strings',
     date: '2021-03-20',
     venue: 'St. Augustine Amphitheatre',
@@ -12374,7 +26570,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-21-1042',
+    id: '2021-03-21-1031',
     artist: 'Billy Strings',
     date: '2021-03-21',
     venue: 'St. Augustine Amphitheatre',
@@ -12386,10 +26582,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-24-1043',
+    id: '2021-03-24-1032',
     artist: 'Billy Strings',
     date: '2021-03-24',
-    venue: 'Tipitina\'s',
+    venue: 'Tipitina's',
     city: 'New Orleans',
     state: 'LA',
     year: 2021,
@@ -12398,10 +26594,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-25-1044',
+    id: '2021-03-25-1033',
     artist: 'Billy Strings',
     date: '2021-03-25',
-    venue: 'Tipitina\'s',
+    venue: 'Tipitina's',
     city: 'New Orleans',
     state: 'LA',
     year: 2021,
@@ -12410,7 +26606,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-26-1045',
+    id: '2021-03-26-1034',
     artist: 'Billy Strings',
     date: '2021-03-26',
     venue: 'ACL Live at The Moody Theater',
@@ -12422,7 +26618,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-03-28-1046',
+    id: '2021-03-28-1035',
     artist: 'Billy Strings',
     date: '2021-03-28',
     venue: 'Long Center for the Performing Arts',
@@ -12434,7 +26630,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-01-1047',
+    id: '2021-04-01-1036',
     artist: 'Billy Strings',
     date: '2021-04-01',
     venue: 'Historic Columbia Speedway',
@@ -12446,7 +26642,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-02-1048',
+    id: '2021-04-02-1037',
     artist: 'Billy Strings',
     date: '2021-04-02',
     venue: 'Historic Columbia Speedway',
@@ -12458,7 +26654,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-03-1049',
+    id: '2021-04-03-1038',
     artist: 'Billy Strings',
     date: '2021-04-03',
     venue: 'Historic Columbia Speedway',
@@ -12470,7 +26666,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-04-1050',
+    id: '2021-04-04-1039',
     artist: 'Billy Strings',
     date: '2021-04-04',
     venue: 'Historic Columbia Speedway',
@@ -12482,7 +26678,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-09-1051',
+    id: '2021-04-09-1040',
     artist: 'Billy Strings',
     date: '2021-04-09',
     venue: 'Ladd Memorial Stadium',
@@ -12494,7 +26690,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-10-1052',
+    id: '2021-04-10-1041',
     artist: 'Billy Strings',
     date: '2021-04-10',
     venue: 'Ladd Memorial Stadium',
@@ -12506,7 +26702,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-04-11-1053',
+    id: '2021-04-11-1042',
     artist: 'Billy Strings',
     date: '2021-04-11',
     venue: 'Ladd Memorial Stadium',
@@ -12518,7 +26714,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-05-21-1054',
+    id: '2021-05-21-1043',
     artist: 'Billy Strings',
     date: '2021-05-21',
     venue: 'Waterfront Park',
@@ -12530,7 +26726,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-05-22-1055',
+    id: '2021-05-22-1044',
     artist: 'Billy Strings',
     date: '2021-05-22',
     venue: 'Waterfront Park',
@@ -12542,7 +26738,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-05-23-1056',
+    id: '2021-05-23-1045',
     artist: 'Billy Strings',
     date: '2021-05-23',
     venue: 'Waterfront Park',
@@ -12554,19 +26750,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-05-28-1057',
+    id: '2021-05-28-1046',
     artist: 'Billy Strings',
     date: '2021-05-28',
-    venue: 'The Bonnaroo Farm, Bonnaroo Music Festival',
-    city: 'Manchester',
-    state: 'TN',
+    venue: 'The Bonnaroo Farm',
+    city: 'Bonnaroo Music Festival',
+    state: 'Manchester',
     year: 2021,
     videoUrl: 'https://drive.google.com/file/d/1kTZRFlVeX8j0XEFH_8etR_XrDTpMGV6s/preview',
     setlist: 'Tuning | Raining Here This Morning | West Dakota Rose | Know It All | Unwanted Love | Love And Regret | Run Down | I\'ll Remember You, Love, In My Prayers | All Time Low | Ice Bridges | Wargasm | Tuning | Must Be Seven | June Apple | Train Train | Cassidy | Home | Rank Stranger | Highway Hypnosis | Hide And Seek | Dust In A Baggie | West Dakota Rose',
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-11-1058',
+    id: '2021-06-11-1047',
     artist: 'Billy Strings',
     date: '2021-06-11',
     venue: 'Wintrust Field',
@@ -12578,7 +26774,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-12-1059',
+    id: '2021-06-12-1048',
     artist: 'Billy Strings',
     date: '2021-06-12',
     venue: 'Wintrust Field',
@@ -12590,7 +26786,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-18-1060',
+    id: '2021-06-18-1049',
     artist: 'Billy Strings',
     date: '2021-06-18',
     venue: 'Leach Amphitheater',
@@ -12602,7 +26798,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-19-1061',
+    id: '2021-06-19-1050',
     artist: 'Billy Strings',
     date: '2021-06-19',
     venue: 'Leach Amphitheater',
@@ -12614,7 +26810,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-25-1062',
+    id: '2021-06-25-1051',
     artist: 'Billy Strings',
     date: '2021-06-25',
     venue: 'Legend Valley Concert Venue and Campground',
@@ -12626,7 +26822,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-06-26-1063',
+    id: '2021-06-26-1052',
     artist: 'Billy Strings',
     date: '2021-06-26',
     venue: 'Legend Valley Concert Venue and Campground',
@@ -12638,7 +26834,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-07-1064',
+    id: '2021-07-07-1053',
     artist: 'Billy Strings',
     date: '2021-07-07',
     venue: 'ACL Live at The Moody Theater',
@@ -12650,7 +26846,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-16-1065',
+    id: '2021-07-16-1054',
     artist: 'Billy Strings',
     date: '2021-07-16',
     venue: 'Big Mtn Ranch',
@@ -12662,43 +26858,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-22-1066',
+    id: '2021-07-22-1055',
     artist: 'Billy Strings',
     date: '2021-07-22',
-    venue: 'Blue Cow Pavilion, Floydfest',
-    city: 'Floyd',
-    state: 'VA',
+    venue: 'Blue Cow Pavilion',
+    city: 'Floydfest',
+    state: 'Floyd',
     year: 2021,
     videoUrl: 'https://drive.google.com/file/d/1M5epIVLje2ho7cEGlA6YSKcFWvMlo5ht/preview',
     setlist: 'Tuning | Ernest T. Grass | Little Maggie | Shenandoah Valley Waltz | Thirst Mutilator | Thunder | Wargasm | Show Me The Door | Blue Virginia Blues | Dust In A Baggie | Wild Bill Jones | Groundhog | Brown\'s Ferry Blues | Black Mountain Rag | China Doll | Pyramid Country | Ride Me High | Pyramid Country | Angel Band | Hide And Seek | Doin\' My Time | Train 45',
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-25-1067',
+    id: '2021-07-25-1056',
     artist: 'Billy Strings',
     date: '2021-07-25',
-    venue: 'Fort Adams State Park, Folk On',
-    city: 'Newport',
-    state: 'RI',
+    venue: 'Fort Adams State Park',
+    city: 'Folk On',
+    state: 'Newport',
     year: 2021,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-26-1068',
+    id: '2021-07-26-1057',
     artist: 'Billy Strings',
     date: '2021-07-26',
-    venue: 'Fort Adams State Park, Newport Folk Festival',
-    city: 'Newport',
-    state: 'RI',
+    venue: 'Fort Adams State Park',
+    city: 'Newport Folk Festival',
+    state: 'Newport',
     year: 2021,
     videoUrl: '',
     setlist: '',
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-29-1069',
+    id: '2021-07-29-1058',
     artist: 'Billy Strings',
     date: '2021-07-29',
     venue: 'Apple Valley Park',
@@ -12710,7 +26906,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-30-1070',
+    id: '2021-07-30-1059',
     artist: 'Billy Strings',
     date: '2021-07-30',
     venue: 'Apple Valley Park',
@@ -12722,7 +26918,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-07-31-1071',
+    id: '2021-07-31-1060',
     artist: 'Billy Strings',
     date: '2021-07-31',
     venue: 'Bank of New Hampshire Pavilion at Meadowbrook',
@@ -12734,7 +26930,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-01-1072',
+    id: '2021-08-01-1061',
     artist: 'Billy Strings',
     date: '2021-08-01',
     venue: 'Bank of New Hampshire Pavilion at Meadowbrook',
@@ -12746,7 +26942,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-03-1073',
+    id: '2021-08-03-1062',
     artist: 'Billy Strings',
     date: '2021-08-03',
     venue: 'Champlain Valley Fairgrounds and Exposition Center',
@@ -12758,7 +26954,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-05-1074',
+    id: '2021-08-05-1063',
     artist: 'Billy Strings',
     date: '2021-08-05',
     venue: 'The Stone Pony Summer Stage',
@@ -12770,7 +26966,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-06-1075',
+    id: '2021-08-06-1064',
     artist: 'Billy Strings',
     date: '2021-08-06',
     venue: 'Westville Music Bowl',
@@ -12782,7 +26978,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-07-1076',
+    id: '2021-08-07-1065',
     artist: 'Billy Strings',
     date: '2021-08-07',
     venue: 'Westville Music Bowl',
@@ -12794,7 +26990,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-08-1077',
+    id: '2021-08-08-1066',
     artist: 'Billy Strings',
     date: '2021-08-08',
     venue: 'Marshfield Fair Grounds',
@@ -12806,7 +27002,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-11-1078',
+    id: '2021-08-11-1067',
     artist: 'Billy Strings',
     date: '2021-08-11',
     venue: 'Stage AE',
@@ -12818,43 +27014,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-13-1079',
+    id: '2021-08-13-1068',
     artist: 'Billy Strings',
     date: '2021-08-13',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2021,
     videoUrl: '',
     setlist: 'Tuning | Away From The Mire | Long Forgotten Dream | Show Me The Door | Bronzeback | Ole Slewfoot | Taking Water | Ice Bridges | Love And Regret | Slow Train | Guitar Peace | Home | Slipstream | Wargasm | Angel Band | Hide And Seek | How Mountain Girls Can Love',
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-14-1080',
+    id: '2021-08-14-1069',
     artist: 'Billy Strings',
     date: '2021-08-14',
-    venue: 'Hoxeyville Festival Grounds, Hoxeyville Music Festival',
-    city: 'Wellston',
-    state: 'MI',
+    venue: 'Hoxeyville Festival Grounds',
+    city: 'Hoxeyville Music Festival',
+    state: 'Wellston',
     year: 2021,
     videoUrl: '',
     setlist: 'Tuning | Pyramid Country | Thunder | Pyramid Country | Little Maggie | There Is A Time | Red Daisy | Leaders | Cassidy | Lonesome Road | Clinch Mountain Backstep | Long Journey Home | Must Be Seven | Ride Me High | Meet Me at the Creek | Psycho | West Dakota Rose | Doin\' My Time | If Your Hair\'s Too Long (There\'s Sin In Your Heart)',
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-20-1081',
+    id: '2021-08-20-1070',
     artist: 'Billy Strings',
     date: '2021-08-20',
-    venue: 'Three Sisters Park, SummerCamp Music Festival',
-    city: 'Chillicothe',
-    state: 'IL',
+    venue: 'Three Sisters Park',
+    city: 'SummerCamp Music Festival',
+    state: 'Chillicothe',
     year: 2021,
     videoUrl: '',
     setlist: 'Tuning | Bound To Ride | Secrets | Fire Line | End Of The Rainbow | Ice Bridges | Morning Light | Pretty Daughter | Away From The Mire | New Country Blues | Y\'All Come | Tuning | All Fall Down | Dust In A Baggie | Sorrow Is A Highway | Rundown | Show Me The Door | Must Be Seven | Four Sticks | Wargasm | Ernest T. Grass | Little Maggie | Sweet Revenge | Pyramid Country | Thunder | Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-21-1082',
+    id: '2021-08-21-1071',
     artist: 'Billy Strings',
     date: '2021-08-21',
     venue: 'MacAllister Amphitheater at Garfield Park',
@@ -12866,19 +27062,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-08-28-1083',
+    id: '2021-08-28-1072',
     artist: 'Billy Strings',
     date: '2021-08-28',
-    venue: 'The Grounds at Keeneland, Railbird Festival',
-    city: 'Lexington',
-    state: 'KY',
+    venue: 'The Grounds at Keeneland',
+    city: 'Railbird Festival',
+    state: 'Lexington',
     year: 2021,
     videoUrl: '',
     setlist: 'Tuning | Kentucky Mandolin | Pretty Daughter | Hellbender | Pear Tree | Dust In A Baggie | Going To The Races | 99 Years Is Almost For Life | Hide And Seek | Kentucky Girl',
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-03-1084',
+    id: '2021-09-03-1073',
     artist: 'Billy Strings',
     date: '2021-09-03',
     venue: 'Event Lawn at Virgin Hotels Las Vegas',
@@ -12890,7 +27086,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-04-1085',
+    id: '2021-09-04-1074',
     artist: 'Billy Strings',
     date: '2021-09-04',
     venue: 'Event Lawn at Virgin Hotels Las Vegas',
@@ -12902,7 +27098,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-08-1086',
+    id: '2021-09-08-1075',
     artist: 'Billy Strings',
     date: '2021-09-08',
     venue: 'The Belasco',
@@ -12914,7 +27110,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-09-1087',
+    id: '2021-09-09-1076',
     artist: 'Billy Strings',
     date: '2021-09-09',
     venue: 'Fox Theater',
@@ -12926,7 +27122,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-10-1088',
+    id: '2021-09-10-1077',
     artist: 'Billy Strings',
     date: '2021-09-10',
     venue: 'Fox Theater',
@@ -12938,7 +27134,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-16-1089',
+    id: '2021-09-16-1078',
     artist: 'Billy Strings',
     date: '2021-09-16',
     venue: 'Riverfront Pavillion',
@@ -12950,7 +27146,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-17-1090',
+    id: '2021-09-17-1079',
     artist: 'Billy Strings',
     date: '2021-09-17',
     venue: 'McMenamins Historic Edgefield Manor',
@@ -12962,7 +27158,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-18-1091',
+    id: '2021-09-18-1080',
     artist: 'Billy Strings',
     date: '2021-09-18',
     venue: 'Marymoor Park',
@@ -12974,7 +27170,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-19-1092',
+    id: '2021-09-19-1081',
     artist: 'Billy Strings',
     date: '2021-09-19',
     venue: 'KettleHouse Amphitheater',
@@ -12986,7 +27182,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-22-1093',
+    id: '2021-09-22-1082',
     artist: 'Billy Strings',
     date: '2021-09-22',
     venue: 'Red Butte Garden',
@@ -12998,7 +27194,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-24-1094',
+    id: '2021-09-24-1083',
     artist: 'Billy Strings',
     date: '2021-09-24',
     venue: 'Cottonwood Meadows',
@@ -13010,7 +27206,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-25-1095',
+    id: '2021-09-25-1084',
     artist: 'Billy Strings',
     date: '2021-09-25',
     venue: 'Cottonwood Meadows',
@@ -13022,7 +27218,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-25-1096',
+    id: '2021-09-25-1085',
     artist: 'Billy Strings',
     date: '2021-09-25',
     venue: 'Cottonwood Meadows',
@@ -13034,7 +27230,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-28-1097',
+    id: '2021-09-28-1086',
     artist: 'Billy Strings',
     date: '2021-09-28',
     venue: 'WAVE',
@@ -13046,7 +27242,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-09-29-1098',
+    id: '2021-09-29-1087',
     artist: 'Billy Strings',
     date: '2021-09-29',
     venue: 'The Jones Assembly',
@@ -13058,19 +27254,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-01-1099',
+    id: '2021-10-01-1088',
     artist: 'Billy Strings',
     date: '2021-10-01',
-    venue: 'Radians Ampitheater, Mempho Music Fesitval',
-    city: 'Memphis',
-    state: 'TN',
+    venue: 'Radians Ampitheater',
+    city: 'Mempho Music Fesitval',
+    state: 'Memphis',
     year: 2021,
     videoUrl: '',
     setlist: 'Tuning | Hide And Seek | Red Daisy | Watch It Fall | Taking Water | Ice Bridges | In The Morning Light | Fire Line | Running The Route | Dust In A Baggie | Train, Train | Pyramid Country | Little Maggie',
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-02-1100',
+    id: '2021-10-02-1089',
     artist: 'Billy Strings',
     date: '2021-10-02',
     venue: 'The Momentary',
@@ -13082,7 +27278,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-14-1101',
+    id: '2021-10-14-1090',
     artist: 'Billy Strings',
     date: '2021-10-14',
     venue: 'Mission Ballroom',
@@ -13094,7 +27290,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-15-1102',
+    id: '2021-10-15-1091',
     artist: 'Billy Strings',
     date: '2021-10-15',
     venue: 'Mission Ballroom',
@@ -13106,7 +27302,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-16-1103',
+    id: '2021-10-16-1092',
     artist: 'Billy Strings',
     date: '2021-10-16',
     venue: 'Mission Ballroom',
@@ -13118,7 +27314,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-17-1104',
+    id: '2021-10-17-1093',
     artist: 'Billy Strings',
     date: '2021-10-17',
     venue: 'Mission Ballroom',
@@ -13130,7 +27326,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-25-1105',
+    id: '2021-10-25-1094',
     artist: 'Billy Strings',
     date: '2021-10-25',
     venue: 'Jimmy Kimmel Live',
@@ -13142,7 +27338,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-29-1106',
+    id: '2021-10-29-1095',
     artist: 'Billy Strings',
     date: '2021-10-29',
     venue: 'ExploreAsheville.com Arena',
@@ -13154,7 +27350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-30-1107',
+    id: '2021-10-30-1096',
     artist: 'Billy Strings',
     date: '2021-10-30',
     venue: 'ExploreAsheville.com Arena',
@@ -13166,7 +27362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-10-31-1108',
+    id: '2021-10-31-1097',
     artist: 'Billy Strings',
     date: '2021-10-31',
     venue: 'ExploreAsheville.com Arena',
@@ -13178,7 +27374,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-03-1109',
+    id: '2021-11-03-1098',
     artist: 'Billy Strings',
     date: '2021-11-03',
     venue: 'Riverside Theater',
@@ -13190,7 +27386,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-04-1110',
+    id: '2021-11-04-1099',
     artist: 'Billy Strings',
     date: '2021-11-04',
     venue: 'Palace Theatre',
@@ -13202,7 +27398,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-05-1111',
+    id: '2021-11-05-1100',
     artist: 'Billy Strings',
     date: '2021-11-05',
     venue: 'Palace Theatre',
@@ -13214,7 +27410,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-06-1112',
+    id: '2021-11-06-1101',
     artist: 'Billy Strings',
     date: '2021-11-06',
     venue: 'Aragon Ballroom',
@@ -13226,7 +27422,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-10-1113',
+    id: '2021-11-10-1102',
     artist: 'Billy Strings',
     date: '2021-11-10',
     venue: 'The Fillmore Philadelphia',
@@ -13238,7 +27434,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-11-1114',
+    id: '2021-11-11-1103',
     artist: 'Billy Strings',
     date: '2021-11-11',
     venue: 'The Fillmore Philadelphia',
@@ -13250,7 +27446,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-12-1115',
+    id: '2021-11-12-1104',
     artist: 'Billy Strings',
     date: '2021-11-12',
     venue: 'Virginia Credit Union Live! at Richmond Raceway',
@@ -13262,7 +27458,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-13-1116',
+    id: '2021-11-13-1105',
     artist: 'Billy Strings',
     date: '2021-11-13',
     venue: 'The Anthem',
@@ -13274,7 +27470,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-15-1117',
+    id: '2021-11-15-1106',
     artist: 'Billy Strings',
     date: '2021-11-15',
     venue: 'State Theatre',
@@ -13286,7 +27482,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-16-1118',
+    id: '2021-11-16-1107',
     artist: 'Billy Strings',
     date: '2021-11-16',
     venue: 'State Theatre',
@@ -13298,7 +27494,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-17-1119',
+    id: '2021-11-17-1108',
     artist: 'Billy Strings',
     date: '2021-11-17',
     venue: 'Boch Center Wang Theatre',
@@ -13310,7 +27506,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-19-1120',
+    id: '2021-11-19-1109',
     artist: 'Billy Strings',
     date: '2021-11-19',
     venue: 'Mohegan Sun Arena',
@@ -13322,7 +27518,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-20-1121',
+    id: '2021-11-20-1110',
     artist: 'Billy Strings',
     date: '2021-11-20',
     venue: 'The Fillmore Detroit',
@@ -13334,7 +27530,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-21-1122',
+    id: '2021-11-21-1111',
     artist: 'Billy Strings',
     date: '2021-11-21',
     venue: 'The Fillmore Detroit',
@@ -13346,7 +27542,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-11-30-1123',
+    id: '2021-11-30-1112',
     artist: 'Billy Strings',
     date: '2021-11-30',
     venue: 'Civic Theatre',
@@ -13358,7 +27554,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-01-1124',
+    id: '2021-12-01-1113',
     artist: 'Billy Strings',
     date: '2021-12-01',
     venue: 'Civic Theatre',
@@ -13370,7 +27566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-02-1125',
+    id: '2021-12-02-1114',
     artist: 'Billy Strings',
     date: '2021-12-02',
     venue: 'Downstairs at White Oak Music Hall',
@@ -13382,7 +27578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-03-1126',
+    id: '2021-12-03-1115',
     artist: 'Billy Strings',
     date: '2021-12-03',
     venue: 'ACL Live at The Moody Theater',
@@ -13394,7 +27590,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-04-1127',
+    id: '2021-12-04-1116',
     artist: 'Billy Strings',
     date: '2021-12-04',
     venue: 'The Factory in Deep Ellum',
@@ -13406,7 +27602,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-09-1128',
+    id: '2021-12-09-1117',
     artist: 'Billy Strings',
     date: '2021-12-09',
     venue: 'The Eastern',
@@ -13418,7 +27614,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-10-1129',
+    id: '2021-12-10-1118',
     artist: 'Billy Strings',
     date: '2021-12-10',
     venue: 'The Eastern',
@@ -13430,7 +27626,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-11-1130',
+    id: '2021-12-11-1119',
     artist: 'Billy Strings',
     date: '2021-12-11',
     venue: 'The Eastern',
@@ -13442,7 +27638,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-12-1131',
+    id: '2021-12-12-1120',
     artist: 'Billy Strings',
     date: '2021-12-12',
     venue: 'The Eastern',
@@ -13454,7 +27650,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-17-1132',
+    id: '2021-12-17-1121',
     artist: 'Billy Strings',
     date: '2021-12-17',
     venue: 'Marathon Music Works',
@@ -13466,7 +27662,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-18-1133',
+    id: '2021-12-18-1122',
     artist: 'Billy Strings',
     date: '2021-12-18',
     venue: 'Marathon Music Works',
@@ -13478,7 +27674,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-30-1134',
+    id: '2021-12-30-1123',
     artist: 'Billy Strings',
     date: '2021-12-30',
     venue: 'GLC Live at 20 Monroe',
@@ -13490,7 +27686,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2021-12-31-1135',
+    id: '2021-12-31-1124',
     artist: 'Billy Strings',
     date: '2021-12-31',
     venue: 'GLC Live at 20 Monroe',
@@ -13502,7 +27698,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-01-01-1137',
+    id: '2022-01-01-1125',
     artist: 'Billy Strings',
     date: '2022-01-01',
     venue: 'GLC Live at 20 Monroe',
@@ -13514,7 +27710,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-01-08-1138',
+    id: '2022-01-08-1126',
     artist: 'Bela Fleck',
     date: '2022-01-08',
     venue: 'Ryman Auditorium',
@@ -13526,7 +27722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-01-09-1139',
+    id: '2022-01-09-1127',
     artist: 'Bela Fleck',
     date: '2022-01-09',
     venue: 'Carnegie Hall -Stern Auditorium / Perelman Stage',
@@ -13538,7 +27734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-03-1140',
+    id: '2022-02-03-1128',
     artist: 'Billy Strings',
     date: '2022-02-03',
     venue: 'Capitol Theatre',
@@ -13550,7 +27746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-04-1141',
+    id: '2022-02-04-1129',
     artist: 'Billy Strings',
     date: '2022-02-04',
     venue: 'Capitol Theatre',
@@ -13562,7 +27758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-05-1142',
+    id: '2022-02-05-1130',
     artist: 'Billy Strings',
     date: '2022-02-05',
     venue: 'Capitol Theatre',
@@ -13574,7 +27770,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-06-1143',
+    id: '2022-02-06-1131',
     artist: 'Billy Strings',
     date: '2022-02-06',
     venue: 'Capitol Theatre',
@@ -13586,7 +27782,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-11-1144',
+    id: '2022-02-11-1132',
     artist: 'Billy Strings',
     date: '2022-02-11',
     venue: 'Greensboro Coliseum Complex',
@@ -13598,7 +27794,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-12-1145',
+    id: '2022-02-12-1133',
     artist: 'Billy Strings',
     date: '2022-02-12',
     venue: 'Chartway Arena',
@@ -13610,7 +27806,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-15-1146',
+    id: '2022-02-15-1134',
     artist: 'Billy Strings',
     date: '2022-02-15',
     venue: 'Bell Auditorium',
@@ -13622,7 +27818,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-16-1147',
+    id: '2022-02-16-1135',
     artist: 'Billy Strings',
     date: '2022-02-16',
     venue: 'Bell Auditorium',
@@ -13634,7 +27830,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-18-1148',
+    id: '2022-02-18-1136',
     artist: 'Billy Strings',
     date: '2022-02-18',
     venue: 'Knoxville Civic Auditorium',
@@ -13646,7 +27842,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-19-1149',
+    id: '2022-02-19-1137',
     artist: 'Billy Strings',
     date: '2022-02-19',
     venue: 'Knoxville Civic Auditorium',
@@ -13658,7 +27854,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-26-1150',
+    id: '2022-02-26-1138',
     artist: 'Billy Strings',
     date: '2022-02-26',
     venue: 'Tempe Beach Park & Arts Park',
@@ -13670,7 +27866,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-02-28-1151',
+    id: '2022-02-28-1139',
     artist: 'Bobby Weir & Wolf Bros',
     date: '2022-02-28',
     venue: 'Sweetwater Music Hall',
@@ -13682,7 +27878,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-03-1152',
+    id: '2022-03-03-1140',
     artist: 'Billy Strings',
     date: '2022-03-03',
     venue: 'The Sylvee',
@@ -13694,7 +27890,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-04-1153',
+    id: '2022-03-04-1141',
     artist: 'Billy Strings',
     date: '2022-03-04',
     venue: 'The Sylvee',
@@ -13706,7 +27902,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-05-1154',
+    id: '2022-03-05-1142',
     artist: 'Billy Strings',
     date: '2022-03-05',
     venue: 'The Sylvee',
@@ -13718,7 +27914,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-09-1155',
+    id: '2022-03-09-1143',
     artist: 'Billy Strings',
     date: '2022-03-09',
     venue: 'KeyBank State Theatre',
@@ -13730,7 +27926,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-11-1156',
+    id: '2022-03-11-1144',
     artist: 'Billy Strings',
     date: '2022-03-11',
     venue: 'Andrew J Brady ICON Music Center',
@@ -13742,7 +27938,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-12-1157',
+    id: '2022-03-12-1145',
     artist: 'Billy Strings',
     date: '2022-03-12',
     venue: 'Andrew J Brady ICON Music Center',
@@ -13754,7 +27950,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-14-1158',
+    id: '2022-03-14-1146',
     artist: 'Billy Strings',
     date: '2022-03-14',
     venue: 'Ed Sullivan Theater',
@@ -13766,7 +27962,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-15-1159',
+    id: '2022-03-15-1147',
     artist: 'Billy Strings',
     date: '2022-03-15',
     venue: 'Roadrunner Boston',
@@ -13778,43 +27974,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-25-1160',
+    id: '2022-03-25-1148',
     artist: 'Billy Strings',
     date: '2022-03-25',
     venue: 'Rough Trade East',
-    city: 'London, England',
-    state: 'UK',
+    city: 'London',
+    state: 'England',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/1ffaQ1hupvtYUgJO6oZzAJiPeZ4tkgjN_/preview',
     setlist: 'Everything\'s The Same | Hellbender | This Old World | The Train That Carried My Girl From Town | Black Mountain Rag | Secrets | Tipper | In The Morning Light | Likes of Me | Pyramid Country | I\'ve Just Seen A Face | I\'ve Been All Around This World | How Mountain Girls Can Love | If Your Hairs Too Long (There\'s Sin In Your Heart)',
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-26-1161',
+    id: '2022-03-26-1149',
     artist: 'Billy Strings',
     date: '2022-03-26',
     venue: 'Islington Assembly Hall',
-    city: 'London, England',
-    state: 'UK',
+    city: 'London',
+    state: 'England',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/1LHb61GKVhyPaagRkD9EkPJZ3oMynmMvj/preview',
     setlist: 'Tuning | Slow Train | Ernest T. Grass | Must Be Seven | Hide & Seek | Love & Regret | Hold the Woodpile Down | In The Baggage Coach Ahead | Long Forgotten Dream | New Country Blues | Dust In A Baggie | Tuning | Fire On My Tongue | All Fall Down | Taking Water | Ice Bridges | In Foggy Old London | Fire Line | Reuben\'s Train | Bound To Ride | The Wart | Hollow Heart | Away From The Mire | Brain Damage',
     thumbnailUrl: ''
   },
   {
-    id: '2022-03-27-1162',
+    id: '2022-03-27-1150',
     artist: 'Billy Strings',
     date: '2022-03-27',
     venue: 'Islington Assembly Hall',
-    city: 'London, England',
-    state: 'UK',
+    city: 'London',
+    state: 'England',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Turmoil and Tinfoil | A Robin Built A Nest On Daddy\'s Grave | Show Me The Door | While I\'m Waiting Here | Thunder | The Letter Edged In Black | Run Down | Pretty Daughter | Stone Walls And Steel Bars | Little Maggie | Tuning | Red Daisy | Tennessee Stud | Running The Route | End Of The Rainbow | John Deere Tractor | Nobody\'s Love Is Like Mine | Heartbeat Of America | Doin\' My Time | Meet Me at the Creek | Leaving London',
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-01-1163',
+    id: '2022-04-01-1151',
     artist: 'Billy Strings',
     date: '2022-04-01',
     venue: 'Palisades Tahoe',
@@ -13826,7 +28022,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-03-1164',
+    id: '2022-04-03-1152',
     artist: 'Billy Strings',
     date: '2022-04-03',
     venue: 'MGM Grand Garden Arena - Rooftop Stage',
@@ -13838,7 +28034,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-09-1165',
+    id: '2022-04-09-1153',
     artist: 'Billy Strings',
     date: '2022-04-09',
     venue: 'Santa Barbara Bowl',
@@ -13850,7 +28046,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-10-1166',
+    id: '2022-04-10-1154',
     artist: 'Billy Strings',
     date: '2022-04-10',
     venue: 'Santa Barbara Bowl',
@@ -13862,7 +28058,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-13-1167',
+    id: '2022-04-13-1155',
     artist: 'Billy Strings',
     date: '2022-04-13',
     venue: 'The Observatory',
@@ -13874,7 +28070,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-15-1168',
+    id: '2022-04-15-1156',
     artist: 'Billy Strings',
     date: '2022-04-15',
     venue: 'Brooklyn Bowl Las Vegas',
@@ -13886,7 +28082,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-16-1169',
+    id: '2022-04-16-1157',
     artist: 'Billy Strings',
     date: '2022-04-16',
     venue: 'Cal Coast Credit Union Ampitheater',
@@ -13898,7 +28094,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-21-1170',
+    id: '2022-04-21-1158',
     artist: 'Billy Strings',
     date: '2022-04-21',
     venue: '713 Music Hall',
@@ -13910,7 +28106,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-22-1171',
+    id: '2022-04-22-1159',
     artist: 'Billy Strings',
     date: '2022-04-22',
     venue: 'Moody Amphitheater at Waterloo Park',
@@ -13922,7 +28118,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-23-1172',
+    id: '2022-04-23-1160',
     artist: 'Billy Strings',
     date: '2022-04-23',
     venue: 'The Pavilion at Toyota Music Factory',
@@ -13934,7 +28130,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-29-1173',
+    id: '2022-04-29-1161',
     artist: 'Billy Strings',
     date: '2022-04-29',
     venue: 'St. Augustine Amphitheatre',
@@ -13946,7 +28142,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-04-30-1174',
+    id: '2022-04-30-1162',
     artist: 'Billy Strings',
     date: '2022-04-30',
     venue: 'St. Augustine Amphitheatre',
@@ -13958,7 +28154,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-01-1175',
+    id: '2022-05-01-1163',
     artist: 'Billy Strings',
     date: '2022-05-01',
     venue: 'St. Augustine Amphitheatre',
@@ -13970,19 +28166,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-05-1176',
+    id: '2022-05-05-1164',
     artist: 'Billy Strings',
     date: '2022-05-05',
-    venue: 'Shell Gentilly Stage, New Orleans Jazz & Heritage Festival',
-    city: 'New Orleans',
-    state: 'LA',
+    venue: 'Shell Gentilly Stage',
+    city: 'New Orleans Jazz & Heritage Festival',
+    state: 'New Orleans',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Hide And Seek | A Robin Built A Nest On Daddy\'s Grave | Old Mexico | Fire On My Tongue | Bronzeback | Love And Regret | Hellbender | Dust In A Baggie | Cheap Tequila | Ice Bridges | In The Morning Light | Big River | New Camptown Races | Senor | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-06-1177',
+    id: '2022-05-06-1165',
     artist: 'Billy Strings',
     date: '2022-05-06',
     venue: 'Ryman Auditorium',
@@ -13994,7 +28190,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-07-1178',
+    id: '2022-05-07-1166',
     artist: 'Billy Strings',
     date: '2022-05-07',
     venue: 'Ryman Auditorium',
@@ -14006,7 +28202,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-08-1179',
+    id: '2022-05-08-1167',
     artist: 'Billy Strings',
     date: '2022-05-08',
     venue: 'Ryman Auditorium',
@@ -14018,7 +28214,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-12-1180',
+    id: '2022-05-12-1168',
     artist: 'Billy Strings',
     date: '2022-05-12',
     venue: 'Red Rocks Amphitheatre',
@@ -14030,7 +28226,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-13-1181',
+    id: '2022-05-13-1169',
     artist: 'Billy Strings',
     date: '2022-05-13',
     venue: 'Red Rocks Amphitheatre',
@@ -14042,7 +28238,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-05-14-1182',
+    id: '2022-05-14-1170',
     artist: 'Billy Strings',
     date: '2022-05-14',
     venue: 'Mission Ballroom',
@@ -14054,7 +28250,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-03-1183',
+    id: '2022-06-03-1171',
     artist: 'Larry Sparks',
     date: '2022-06-03',
     venue: 'Station Inn',
@@ -14066,8 +28262,8 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-08-1184',
-    artist: 'Marty Stuart\'s Late Nite Jam',
+    id: '2022-06-08-1172',
+    artist: 'Marty Stuart's Late Nite Jam',
     date: '2022-06-08',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
@@ -14078,7 +28274,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-15-1185',
+    id: '2022-06-15-1173',
     artist: 'Billy Strings',
     date: '2022-06-15',
     venue: 'Rose Music Center at The Heights',
@@ -14090,7 +28286,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-16-1186',
+    id: '2022-06-16-1174',
     artist: 'Billy Strings',
     date: '2022-06-16',
     venue: 'Saint Louis Music Park',
@@ -14102,19 +28298,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-18-1187',
+    id: '2022-06-18-1175',
     artist: 'Billy Strings',
     date: '2022-06-18',
-    venue: 'The Bonnaroo Farm, Bonnaroo Music Festival',
-    city: 'Manchester',
-    state: 'TN',
+    venue: 'The Bonnaroo Farm',
+    city: 'Bonnaroo Music Festival',
+    state: 'Manchester',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/12ROgGVFLfyBi3if4I5_p_tOQ_5a-sSJP/preview',
     setlist: 'Tuning | Dust In A Baggie | Everything\'s The Same | While I\'m Waiting Here | Pyramid Country | Know It All | Hellbender | Turmoil and Tinfoil | Love And Regret | Red Daisy | Away From The Mire | Hide And Seek',
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-23-1188',
+    id: '2022-06-23-1176',
     artist: 'Billy Strings',
     date: '2022-06-23',
     venue: 'Koka Booth Ampitheatre',
@@ -14126,7 +28322,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-24-1189',
+    id: '2022-06-24-1177',
     artist: 'Billy Strings',
     date: '2022-06-24',
     venue: 'Koka Booth Ampitheatre',
@@ -14138,7 +28334,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-25-1190',
+    id: '2022-06-25-1178',
     artist: 'Billy Strings',
     date: '2022-06-25',
     venue: 'Koka Booth Ampitheatre',
@@ -14150,7 +28346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-27-1191',
+    id: '2022-06-27-1179',
     artist: 'Billy Strings',
     date: '2022-06-27',
     venue: 'Seth Meyers Late Night',
@@ -14162,7 +28358,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-29-1192',
+    id: '2022-06-29-1180',
     artist: 'Billy Strings',
     date: '2022-06-29',
     venue: 'The Rooftop at Pier 17',
@@ -14174,19 +28370,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-06-30-1193',
+    id: '2022-06-30-1181',
     artist: 'Billy Strings',
     date: '2022-06-30',
-    venue: 'The Pavilion at Montage Mountain, Peach Music Festival',
-    city: 'Scranton',
-    state: 'PA',
+    venue: 'The Pavilion at Montage Mountain',
+    city: 'Peach Music Festival',
+    state: 'Scranton',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Fire On My Tongue | Bronzeback | Heartbeat Of America | In The Morning Light | Away From The Mire | Long Forgotten Dream | Love Like Me | Highway Hypnosis | This Old World | Tuning | Taking Water | Ice Bridges | While I\'m Waiting Here | Pyramid Country | Know It All | Enough To Leave | Hollow Heart | So Many Miles | Everything\'s The Same | Secrets | Show Me The Door | Peach Pickin\' Time In Georgia',
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-02-1194',
+    id: '2022-07-02-1182',
     artist: 'Billy Strings',
     date: '2022-07-02',
     venue: 'Pier Six Pavilion',
@@ -14198,7 +28394,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-03-1195',
+    id: '2022-07-03-1183',
     artist: 'Billy Strings',
     date: '2022-07-03',
     venue: 'Pier Six Pavilion',
@@ -14210,7 +28406,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-17-1196',
+    id: '2022-07-17-1184',
     artist: 'String Cheese Incident',
     date: '2022-07-17',
     venue: 'Red Rocks Amphitheatre',
@@ -14222,7 +28418,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-22-1197',
+    id: '2022-07-22-1185',
     artist: 'Billy Strings',
     date: '2022-07-22',
     venue: 'Iroquois Amphitheater',
@@ -14234,7 +28430,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-23-1198',
+    id: '2022-07-23-1186',
     artist: 'Billy Strings',
     date: '2022-07-23',
     venue: 'Iroquois Amphitheater',
@@ -14246,7 +28442,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-24-1199',
+    id: '2022-07-24-1187',
     artist: 'Billy Strings',
     date: '2022-07-24',
     venue: 'Iroquois Amphitheater',
@@ -14258,7 +28454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-27-1200',
+    id: '2022-07-27-1188',
     artist: 'Billy Strings',
     date: '2022-07-27',
     venue: 'Metro',
@@ -14270,7 +28466,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-28-1201',
+    id: '2022-07-28-1189',
     artist: 'Billy Strings',
     date: '2022-07-28',
     venue: 'Lollapalooza',
@@ -14282,7 +28478,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-29-1202',
+    id: '2022-07-29-1190',
     artist: 'Billy Strings',
     date: '2022-07-29',
     venue: 'TCU Amphitheatre at White River State Park',
@@ -14294,7 +28490,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-07-30-1203',
+    id: '2022-07-30-1191',
     artist: 'Billy Strings',
     date: '2022-07-30',
     venue: 'TCU Amphitheatre at White River State Park',
@@ -14306,19 +28502,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-04-1204',
+    id: '2022-08-04-1192',
     artist: 'Billy Strings',
     date: '2022-08-04',
-    venue: 'Avenue of the Saints Amphitheater and Event Center, Hinterland Music Festival',
-    city: 'St. Charles',
-    state: 'IA',
+    venue: 'Avenue of the Saints Amphitheater and Event Center',
+    city: 'Hinterland Music Festival',
+    state: 'St. Charles',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Tall Tall Grass | The Fire On My Tongue | Must Be Seven | Likes of Me | Pyramid Country | Little Maggie | Heartbeat Of America | John Deere Tractor | Fire Line | The Old Mountaineer | Dust In A Baggie | Cocaine Blues | Little Sadie | Nobody\'s Business | Ernest T. Grass | Know It All | One Loaf Of Bread | Ramblin\' Letters',
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-05-1205',
+    id: '2022-08-05-1193',
     artist: 'Billy Strings',
     date: '2022-08-05',
     venue: 'Surly Brewing Festival Field',
@@ -14330,7 +28526,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-06-1206',
+    id: '2022-08-06-1194',
     artist: 'Billy Strings',
     date: '2022-08-06',
     venue: 'Bluestem Ampitheater',
@@ -14342,7 +28538,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-09-1207',
+    id: '2022-08-09-1195',
     artist: 'Billy Strings',
     date: '2022-08-09',
     venue: 'KettleHouse Amphitheater',
@@ -14354,7 +28550,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-10-1208',
+    id: '2022-08-10-1196',
     artist: 'Billy Strings',
     date: '2022-08-10',
     venue: 'KettleHouse Amphitheater',
@@ -14366,7 +28562,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-12-1209',
+    id: '2022-08-12-1197',
     artist: 'Billy Strings',
     date: '2022-08-12',
     venue: 'McMenamins Historic Edgefield Manor',
@@ -14378,7 +28574,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-13-1210',
+    id: '2022-08-13-1198',
     artist: 'Billy Strings',
     date: '2022-08-13',
     venue: 'McMenamins Historic Edgefield Manor',
@@ -14390,7 +28586,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-14-1211',
+    id: '2022-08-14-1199',
     artist: 'Billy Strings',
     date: '2022-08-14',
     venue: 'Marymoor Park',
@@ -14402,19 +28598,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-08-27-1212',
+    id: '2022-08-27-1200',
     artist: 'Billy Strings',
     date: '2022-08-27',
-    venue: 'Veterans Memorial Park, Beach Road Weekend',
-    city: 'Vineyard Haven',
-    state: 'MA',
+    venue: 'Veterans Memorial Park',
+    city: 'Beach Road Weekend',
+    state: 'Vineyard Haven',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Train On The Island | Highway Hypnosis | While I\'m Waiting Here | Hide And Seek | The Fire On My Tongue | Secrets | Fishing | Ice Bridges | Away From The Mire | Summertime | Hellbender | Dust In A Baggie',
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-09-1213',
+    id: '2022-09-09-1201',
     artist: 'Outlaw Music Festival',
     date: '2022-09-09',
     venue: 'Ameris Bank Amphitheatre',
@@ -14426,7 +28622,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-10-1214',
+    id: '2022-09-10-1202',
     artist: 'Outlaw Music Festival',
     date: '2022-09-10',
     venue: 'PNC Music Pavilion',
@@ -14438,7 +28634,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-11-1215',
+    id: '2022-09-11-1203',
     artist: 'Outlaw Music Festival',
     date: '2022-09-11',
     venue: 'Veterans United Home Loans Amphitheater',
@@ -14450,7 +28646,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-13-1216',
+    id: '2022-09-13-1204',
     artist: 'Outlaw Music Festival',
     date: '2022-09-13',
     venue: 'Hartford HealthCare Amphitheater',
@@ -14462,7 +28658,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-16-1217',
+    id: '2022-09-16-1205',
     artist: 'Outlaw Music Festival',
     date: '2022-09-16',
     venue: 'Xfinity Center',
@@ -14474,7 +28670,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-17-1218',
+    id: '2022-09-17-1206',
     artist: 'Billy Strings',
     date: '2022-09-17',
     venue: 'Sea.Hear.Now',
@@ -14486,7 +28682,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-18-1219',
+    id: '2022-09-18-1207',
     artist: 'Outlaw Music Festival',
     date: '2022-09-18',
     venue: 'Saratoga Performing Arts Center',
@@ -14498,7 +28694,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-23-1220',
+    id: '2022-09-23-1208',
     artist: 'Billy Strings',
     date: '2022-09-23',
     venue: 'Cottonwood Meadows',
@@ -14510,7 +28706,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-24-1221',
+    id: '2022-09-24-1209',
     artist: 'Billy Strings',
     date: '2022-09-24',
     venue: 'Cottonwood Meadows',
@@ -14522,7 +28718,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-28-1222',
+    id: '2022-09-28-1210',
     artist: 'Billy Strings',
     date: '2022-09-28',
     venue: 'Sacramento Memorial Auditorium',
@@ -14534,7 +28730,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-09-30-1223',
+    id: '2022-09-30-1211',
     artist: 'Billy Strings',
     date: '2022-09-30',
     venue: 'Frost Ampitheater',
@@ -14546,7 +28742,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-01-1224',
+    id: '2022-10-01-1212',
     artist: 'Billy Strings',
     date: '2022-10-01',
     venue: 'Ohana Fest',
@@ -14558,7 +28754,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-02-1225',
+    id: '2022-10-02-1213',
     artist: 'Billy Strings',
     date: '2022-10-02',
     venue: 'The Wiltern',
@@ -14570,10 +28766,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-06-1226',
+    id: '2022-10-06-1214',
     artist: 'Billy Strings',
     date: '2022-10-06',
-    venue: 'Stubb\'s BBQ',
+    venue: 'Stubb's BBQ',
     city: 'Austin',
     state: 'TX',
     year: 2022,
@@ -14582,7 +28778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-07-1227',
+    id: '2022-10-07-1215',
     artist: 'Billy Strings',
     date: '2022-10-07',
     venue: 'Austin City Limits Music Festival',
@@ -14594,10 +28790,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-13-1228',
+    id: '2022-10-13-1216',
     artist: 'Billy Strings',
     date: '2022-10-13',
-    venue: 'Stubb\'s Waller Creek Ampitheater',
+    venue: 'Stubb's Waller Creek Ampitheater',
     city: 'Austin',
     state: 'TX',
     year: 2022,
@@ -14606,7 +28802,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-14-1229',
+    id: '2022-10-14-1217',
     artist: 'Billy Strings',
     date: '2022-10-14',
     venue: 'Austin City Limits Music Festival',
@@ -14618,7 +28814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-15-1230',
+    id: '2022-10-15-1218',
     artist: 'Billy Strings',
     date: '2022-10-15',
     venue: 'The Criterion',
@@ -14630,7 +28826,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-29-1231',
+    id: '2022-10-29-1219',
     artist: 'Billy Strings',
     date: '2022-10-29',
     venue: 'ExploreAsheville.com Arena',
@@ -14642,7 +28838,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-30-1232',
+    id: '2022-10-30-1220',
     artist: 'Billy Strings',
     date: '2022-10-30',
     venue: 'ExploreAsheville.com Arena',
@@ -14654,7 +28850,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-10-31-1233',
+    id: '2022-10-31-1221',
     artist: 'Billy Strings',
     date: '2022-10-31',
     venue: 'ExploreAsheville.com Arena',
@@ -14666,7 +28862,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-03-1234',
+    id: '2022-11-03-1222',
     artist: 'Billy Strings',
     date: '2022-11-03',
     venue: 'Wings Event Center',
@@ -14678,7 +28874,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-04-1235',
+    id: '2022-11-04-1223',
     artist: 'Billy Strings',
     date: '2022-11-04',
     venue: 'Dow Event Center',
@@ -14690,7 +28886,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-05-1236',
+    id: '2022-11-05-1224',
     artist: 'Billy Strings',
     date: '2022-11-05',
     venue: 'Peterson Events Center',
@@ -14702,7 +28898,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-09-1237',
+    id: '2022-11-09-1225',
     artist: 'Billy Strings',
     date: '2022-11-09',
     venue: 'Blue Cross Arena',
@@ -14714,7 +28910,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-11-1238',
+    id: '2022-11-11-1226',
     artist: 'Billy Strings',
     date: '2022-11-11',
     venue: 'Nassau Veterans Memorial Coliseum',
@@ -14726,7 +28922,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-12-1239',
+    id: '2022-11-12-1227',
     artist: 'Billy Strings',
     date: '2022-11-12',
     venue: 'The Met',
@@ -14738,7 +28934,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-13-1240',
+    id: '2022-11-13-1228',
     artist: 'Billy Strings',
     date: '2022-11-13',
     venue: 'The Met',
@@ -14750,7 +28946,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-16-1241',
+    id: '2022-11-16-1229',
     artist: 'Billy Strings',
     date: '2022-11-16',
     venue: 'Virginia Credit Union LIVE! At Richmond Raceway',
@@ -14762,7 +28958,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-17-1242',
+    id: '2022-11-17-1230',
     artist: 'Trey Anastasio Band',
     date: '2022-11-17',
     venue: 'EagleBank Arena',
@@ -14774,7 +28970,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-18-1243',
+    id: '2022-11-18-1231',
     artist: 'Billy Strings',
     date: '2022-11-18',
     venue: 'The Anthem',
@@ -14786,7 +28982,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-19-1244',
+    id: '2022-11-19-1232',
     artist: 'Billy Strings',
     date: '2022-11-19',
     venue: 'The Anthem',
@@ -14798,127 +28994,127 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-29-1245',
+    id: '2022-11-29-1233',
     artist: 'Billy Strings',
     date: '2022-11-29',
     venue: 'Rockefeller Music Hall',
-    city: 'Oslo, Norway',
-    state: '',
+    city: 'Oslo',
+    state: 'Norway',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Red Daisy | The Likes of Me | Pyramid Country | Must Be Seven | Heartbeat Of America | In The Morning Light | Hellbender | Everything\'s The Same | The Old Mountaineer | John Deere Tractor | Nobody\'s Love Is Like Mine | Dust In A Baggie | Away From The Mire | The Fire On My Tongue | Ole Slew-Foot | Wargasm | Love And Regret | End Of The Rainbow | Taking Water | Know It All | On The Line | Freedom | Standing In The Need Of Prayer | If Your Hair\'s Too Long (There\'s Sin In Your Heart) | Rank Stranger | Slow Train | This Old World | The Train That Carried My Girl From Town | Black Mountain Rag | Hide And Seek | John Hardy',
     thumbnailUrl: ''
   },
   {
-    id: '2022-11-30-1246',
+    id: '2022-11-30-1234',
     artist: 'Billy Strings',
     date: '2022-11-30',
     venue: 'Vega',
-    city: 'Copenhagen, Denmark',
-    state: '',
+    city: 'Copenhagen',
+    state: 'Denmark',
     year: 2022,
     videoUrl: '',
     setlist: 'Dusty Miller | Secrets | While I\'m Waiting Here | Thunder | My Alice | Long Forgotten Dream | Ernest T. Grass | Drifter\'s Escape | Someday You\'ll Call My Name | Think Of What You\'ve Done | Highway Hypnosis | Fire Line | Running The Route | Doin\' My Time | Watch It Fall | Tipper | Hollow Heart | Enough To Leave | Ice Bridges | Don\'t Let Your Deal Go Down | Gone A Long Time | With a Vamp in the Middle | Tentacle Dragon (Revenge of The) | Ridin\' That Midnight Train | Turmoil and Tinfoil | Y\'All Come',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-01-1247',
+    id: '2022-12-01-1235',
     artist: 'Billy Strings',
     date: '2022-12-01',
     venue: 'Slaktkyrkan',
-    city: 'Stockholm, Sweden',
-    state: '',
+    city: 'Stockholm',
+    state: 'Sweden',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Dust In A Baggie | Love Or Confusion | Meet Me at the Creek | All Of Tomorrow | All Fall Down | Love Like Me | Whisper My Name | Hellbender | Streamline Cannonball | This Heart Of Mine | Dealing Despair | Home Of The Red Fox | Little Maggie | Tuning | Sally Goodin\' | Show Me The Door | Pretty Daughter | Shackles And Chains | There Is A Time | Running | So Many Miles | Everything\'s The Same | Home | West Dakota Rose | Shady Grove | Ride Me High | Uncle Pen',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-03-1248',
+    id: '2022-12-03-1236',
     artist: 'Billy Strings',
     date: '2022-12-03',
     venue: 'Columbia Theater',
-    city: 'Berlin, Germany',
-    state: '',
+    city: 'Berlin',
+    state: 'Germany',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | The Fire On My Tongue | Bronzeback | Away From The Mire | Long Forgotten Dream | Manzanita | This Old World | Steam Powered Aereo Plane | Doin\' Things Right | Southern Flavor | Brain Damage | Fire Line | Reuben\'s Train | Tuning | Dig A Little Deeper In The Well | Pear Tree | Red Daisy | Love And Regret | EMD | A Robin Built A Nest On Daddy\'s Grave | In The Morning Light | Hold the Woodpile Down | Heartbeat Of America | Know It All | She Makes My Love Come Rolling Down | Hide And Seek | Rabbit In A Log | The Lonesome River | I\'m Gone, Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-04-1249',
+    id: '2022-12-04-1237',
     artist: 'Billy Strings',
     date: '2022-12-04',
     venue: 'Melkweg',
-    city: 'Amsterdam, Netherlands',
-    state: '',
+    city: 'Amsterdam',
+    state: 'Netherlands',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/1x1W8N6gzqpIU8dDLFBE6F77LoHaHkBKJ/preview',
     setlist: 'Tuning | Everything\'s The Same | Thirst Mutilator | Running | A Good Woman\'s Love | Watch It Fall | I\'ll Be Gone a Long Time | Tennessee Stud | Freeborn Man | Show Me The Door | Hellbender | Run Down | Leaders | Wargasm | Secrets | Clinch Mountain Backstep | Taking Water | Running The Route | Psycho | Thunder | My Alice | Dust In A Baggie | Bound To Ride | Must Be Seven | A Letter to Seymour | 10 Degrees and Getting Colder | Turmoil and Tinfoil | Running on Empty | Old Mexico | Cattle In The Cane | Katy Daly',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-05-1250',
+    id: '2022-12-05-1238',
     artist: 'Billy Strings',
     date: '2022-12-05',
     venue: 'Die Kantine',
-    city: 'Colgne, Germany',
-    state: '',
+    city: 'Colgne',
+    state: 'Germany',
     year: 2022,
     videoUrl: '',
     setlist: 'Red Daisy | Away From The Mire | I Only Exist | New Country Blues | Love Like Me | Highway Hypnosis | Fraulein | Back on the Train | Know It All | Enough To Leave | Hollow Heart | Summertime | Sophronie | Meet Me at the Creek | Tuning | Sharecropper\'s Son | Long Forgotten Dream | Way Downtown | Pyramid Country | The Likes of Me | Walk On Boy | On The Line | Home | The Fire On My Tongue | Bronzeback | Wild Horses | Hide And Seek | Roll On Buddy, Roll On | Ralph\'s Banjo Special',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-07-1251',
+    id: '2022-12-07-1239',
     artist: 'Billy Strings',
     date: '2022-12-07',
     venue: 'O2 Forum Kentish Town',
-    city: 'London, England',
-    state: 'UK',
+    city: 'London',
+    state: 'England',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/1ot0n1IN57uWhHBCV65H338L01obDXnPu/preview',
     setlist: 'Tuning | In Foggy Old London | Slow Train | Watch It Fall | John Henry | Fire Line | Running The Route | Nothing\'s Working | In Case You Ever Change Your Mind | Red Rocking Chair | Wargasm | Ice Bridges | In The Morning Light | Dust In A Baggie | Guitar Peace | Fearless | Know It All | Black Clouds | Cold, Cold World | I\'ll Be Gone a Long Time | My Sweet Blue-Eyed Darlin\' | Love And Regret | Hellbender | Handsome Molly | New Camptown Races | Unwanted Love | Leaving London | I\'m Gone, Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-08-1252',
+    id: '2022-12-08-1240',
     artist: 'Billy Strings',
     date: '2022-12-08',
     venue: 'O2 Ritz Manchester',
-    city: 'Manchester, England',
-    state: 'UK',
+    city: 'Manchester',
+    state: 'England',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Must Be Seven | Pyramid Country | Thunder | Hello City Limits | Show Me The Door | Bronzeback | Rocky Racoon | Hide And Seek | Hollow Heart | Uncle Pen | The Fire On My Tongue | Tuning | Taking Water | Everything\'s The Same | My Alice | Heartbeat Of America | Streamlined Cannonball | Wild Bill Jones | Away From The Mire | Living Like An Animal | This Old World | Lumpy, Beanpole And Dirt | Highway Hypnosis | Reverend | Dust In A Baggie',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-09-1253',
+    id: '2022-12-09-1241',
     artist: 'Billy Strings',
     date: '2022-12-09',
     venue: 'The Academy',
-    city: 'Dublin, Ireland',
-    state: 'UK',
+    city: 'Dublin',
+    state: 'Ireland',
     year: 2022,
     videoUrl: 'https://drive.google.com/file/d/1RNIKbG1WanBjZG6q6P0GUUPPRdzoSkZY/preview',
     setlist: 'Tuning | Colleen Malone | Home Of The Red Fox | Secrets | I\'ll Remember You, Love, In My Prayers | On The Line | Hellbender | Been All Around This World | Turmoil and Tinfoil | Love Like Me | Dark Hollow | Run Down | Wargasm | Dos Banjos | Red Daisy | While I\'m Waiting Here | Train, Train | Life To Go | There Is A Time | Thirst Mutilator | So Many Miles | Dealing Despair | Red Rocking Chair | Red Haired Boy | Old Man At The Mill | Meet Me at the Creek | Long Journey Home',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-11-1254',
+    id: '2022-12-11-1242',
     artist: 'Billy Strings',
     date: '2022-12-11',
     venue: 'Galvanizers Yard',
-    city: 'Glasgow, Scotland',
-    state: 'UK',
+    city: 'Glasgow',
+    state: 'Scotland',
     year: 2022,
     videoUrl: '',
     setlist: 'Tuning | Hide And Seek | A Robin Built A Nest On Daddy\'s Grave | West Dakota Rose | Watch It Fall | Must Be Seven | Pyramid Country | Ole Slew-Foot | My Alice | The Fire On My Tongue | Know It All | Chant | Dust In A Baggie | Look Up, Look Down That Lonesome Road | Heartbeat Of America | In The Morning Light | Long Forgotten Dream | This Old World | Fiddlin\' Around | Scotland | Christmas Time\'s A-Coming | Ernest T. Grass | Secrets | Riding the Midnight Train | While I\'m Waiting Here | Ride Me High | Tennessee',
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-30-1255',
+    id: '2022-12-30-1243',
     artist: 'Billy Strings',
     date: '2022-12-30',
     venue: 'Lakefront Arena',
@@ -14930,7 +29126,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2022-12-31-1256',
+    id: '2022-12-31-1244',
     artist: 'Billy Strings',
     date: '2022-12-31',
     venue: 'Lakefront Arena',
@@ -14942,7 +29138,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-02-1258',
+    id: '2023-02-02-1245',
     artist: 'Billy Strings',
     date: '2023-02-02',
     venue: '1st Bank Center',
@@ -14954,7 +29150,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-03-1259',
+    id: '2023-02-03-1246',
     artist: 'Billy Strings',
     date: '2023-02-03',
     venue: '1st Bank Center',
@@ -14966,7 +29162,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-04-1260',
+    id: '2023-02-04-1247',
     artist: 'Billy Strings',
     date: '2023-02-04',
     venue: '1st Bank Center',
@@ -14978,7 +29174,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-16-1261',
+    id: '2023-02-16-1248',
     artist: 'Billy Strings',
     date: '2023-02-16',
     venue: 'Hard Rock Live at Etess Arena',
@@ -14990,7 +29186,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-17-1262',
+    id: '2023-02-17-1249',
     artist: 'Billy Strings',
     date: '2023-02-17',
     venue: 'Hard Rock Live at Etess Arena',
@@ -15002,7 +29198,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-18-1263',
+    id: '2023-02-18-1250',
     artist: 'Billy Strings',
     date: '2023-02-18',
     venue: 'Hard Rock Live at Etess Arena',
@@ -15014,7 +29210,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-21-1264',
+    id: '2023-02-21-1251',
     artist: 'Billy Strings',
     date: '2023-02-21',
     venue: 'John Paul Jones Arena',
@@ -15026,7 +29222,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-22-1265',
+    id: '2023-02-22-1252',
     artist: 'Billy Strings',
     date: '2023-02-22',
     venue: 'John Paul Jones Arena',
@@ -15038,7 +29234,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-24-1266',
+    id: '2023-02-24-1253',
     artist: 'Billy Strings',
     date: '2023-02-24',
     venue: 'Bridgestone Arena',
@@ -15050,7 +29246,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-25-1267',
+    id: '2023-02-25-1254',
     artist: 'Billy Strings',
     date: '2023-02-25',
     venue: 'Bridgestone Arena',
@@ -15062,7 +29258,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-02-26-1268',
+    id: '2023-02-26-1255',
     artist: 'Billy Strings',
     date: '2023-02-26',
     venue: 'Ryman Auditorium',
@@ -15074,7 +29270,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-03-1269',
+    id: '2023-03-03-1256',
     artist: 'Billy Strings',
     date: '2023-03-03',
     venue: 'Lawrence Joel Veterans Memorial Coliseum',
@@ -15086,7 +29282,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-04-1270',
+    id: '2023-03-04-1257',
     artist: 'Billy Strings',
     date: '2023-03-04',
     venue: 'Lawrence Joel Veterans Memorial Coliseum',
@@ -15098,7 +29294,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-07-1271',
+    id: '2023-03-07-1258',
     artist: 'Billy Strings',
     date: '2023-03-07',
     venue: 'Georgia Theatre',
@@ -15110,7 +29306,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-10-1272',
+    id: '2023-03-10-1259',
     artist: 'Billy Strings',
     date: '2023-03-10',
     venue: 'State Farm Arena',
@@ -15122,7 +29318,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-11-1273',
+    id: '2023-03-11-1260',
     artist: 'Billy Strings',
     date: '2023-03-11',
     venue: 'North Charleston Coliseum',
@@ -15134,7 +29330,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-12-1274',
+    id: '2023-03-12-1261',
     artist: 'Billy Strings',
     date: '2023-03-12',
     venue: 'North Charleston Coliseum',
@@ -15146,7 +29342,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-16-1275',
+    id: '2023-03-16-1262',
     artist: 'Billy Strings',
     date: '2023-03-16',
     venue: 'Andrew J Brady Music Center',
@@ -15158,7 +29354,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-17-1276',
+    id: '2023-03-17-1263',
     artist: 'Billy Strings',
     date: '2023-03-17',
     venue: 'Andrew J Brady Music Center',
@@ -15170,7 +29366,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-03-18-1277',
+    id: '2023-03-18-1264',
     artist: 'Billy Strings',
     date: '2023-03-18',
     venue: 'Andrew J Brady Music Center',
@@ -15182,7 +29378,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-13-1278',
+    id: '2023-04-13-1265',
     artist: 'Billy Strings',
     date: '2023-04-13',
     venue: 'Landers Center',
@@ -15194,7 +29390,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-14-1279',
+    id: '2023-04-14-1266',
     artist: 'Billy Strings',
     date: '2023-04-14',
     venue: 'Mobile Civic Center Arena',
@@ -15206,7 +29402,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-15-1280',
+    id: '2023-04-15-1267',
     artist: 'Billy Strings',
     date: '2023-04-15',
     venue: 'Mobile Civic Center Arena',
@@ -15218,7 +29414,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-18-1281',
+    id: '2023-04-18-1268',
     artist: 'Billy Strings',
     date: '2023-04-18',
     venue: 'Yuengling Center',
@@ -15230,7 +29426,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-20-1282',
+    id: '2023-04-20-1269',
     artist: 'Billy Strings',
     date: '2023-04-20',
     venue: 'St. Augustine Amphitheatre',
@@ -15242,7 +29438,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-21-1283',
+    id: '2023-04-21-1270',
     artist: 'Billy Strings',
     date: '2023-04-21',
     venue: 'St. Augustine Amphitheatre',
@@ -15254,7 +29450,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-04-22-1284',
+    id: '2023-04-22-1271',
     artist: 'Billy Strings',
     date: '2023-04-22',
     venue: 'St. Augustine Amphitheatre',
@@ -15266,7 +29462,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-11-1285',
+    id: '2023-05-11-1272',
     artist: 'Billy Strings',
     date: '2023-05-11',
     venue: 'Red Rocks Amphitheatre',
@@ -15278,7 +29474,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-12-1286',
+    id: '2023-05-12-1273',
     artist: 'Billy Strings',
     date: '2023-05-12',
     venue: 'Red Rocks Amphitheatre',
@@ -15290,7 +29486,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-13-1287',
+    id: '2023-05-13-1274',
     artist: 'Billy Strings',
     date: '2023-05-13',
     venue: 'Mission Ballroom',
@@ -15302,7 +29498,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-17-1288',
+    id: '2023-05-17-1275',
     artist: 'Billy Strings',
     date: '2023-05-17',
     venue: 'Arizona Financial Theatre',
@@ -15314,7 +29510,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-19-1289',
+    id: '2023-05-19-1276',
     artist: 'Billy Strings',
     date: '2023-05-19',
     venue: 'Greek Theatre',
@@ -15326,7 +29522,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-20-1290',
+    id: '2023-05-20-1277',
     artist: 'Billy Strings',
     date: '2023-05-20',
     venue: 'Cal Coast Credit Union',
@@ -15338,7 +29534,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-21-1291',
+    id: '2023-05-21-1278',
     artist: 'Billy Strings',
     date: '2023-05-21',
     venue: 'Cal Coast Credit Union',
@@ -15350,7 +29546,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-24-1292',
+    id: '2023-05-24-1279',
     artist: 'Billy Strings',
     date: '2023-05-24',
     venue: 'Brooklyn Bowl Las Vegas',
@@ -15362,7 +29558,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-05-26-1293',
+    id: '2023-05-26-1280',
     artist: 'Billy Strings',
     date: '2023-05-26',
     venue: 'BottleRock Music Festival',
@@ -15374,7 +29570,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-02-1294',
+    id: '2023-06-02-1281',
     artist: 'Billy Strings',
     date: '2023-06-02',
     venue: 'Moody Center',
@@ -15386,7 +29582,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-03-1295',
+    id: '2023-06-03-1282',
     artist: 'Billy Strings',
     date: '2023-06-03',
     venue: 'Moody Center',
@@ -15398,7 +29594,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-07-1296',
+    id: '2023-06-07-1283',
     artist: 'Billy Strings',
     date: '2023-06-07',
     venue: 'Bok Center',
@@ -15410,7 +29606,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-09-1297',
+    id: '2023-06-09-1284',
     artist: 'Billy Strings',
     date: '2023-06-09',
     venue: 'Chaifetz Arena',
@@ -15422,7 +29618,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-10-1298',
+    id: '2023-06-10-1285',
     artist: 'Billy Strings',
     date: '2023-06-10',
     venue: 'TCU Amphitheater at White River State Park',
@@ -15434,7 +29630,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-11-1299',
+    id: '2023-06-11-1286',
     artist: 'Billy Strings',
     date: '2023-06-11',
     venue: 'TCU Amphitheater at White River State Park',
@@ -15446,7 +29642,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-13-1300',
+    id: '2023-06-13-1287',
     artist: 'Billy Strings',
     date: '2023-06-13',
     venue: 'Jacobs Pavilion at Nautica',
@@ -15458,7 +29654,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-14-1301',
+    id: '2023-06-14-1288',
     artist: 'Billy Strings',
     date: '2023-06-14',
     venue: 'Jacobs Pavilion at Nautica',
@@ -15470,7 +29666,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-16-1302',
+    id: '2023-06-16-1289',
     artist: 'Billy Strings',
     date: '2023-06-16',
     venue: 'Pine Knob Music Theatre',
@@ -15482,7 +29678,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-06-17-1303',
+    id: '2023-06-17-1290',
     artist: 'Billy Strings',
     date: '2023-06-17',
     venue: 'Huntington Bank Pavilion at Northerly Island',
@@ -15494,7 +29690,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-13-1304',
+    id: '2023-07-13-1291',
     artist: 'Billy Strings',
     date: '2023-07-13',
     venue: 'Koka Booth Amphitheatre',
@@ -15506,7 +29702,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-14-1305',
+    id: '2023-07-14-1292',
     artist: 'Billy Strings',
     date: '2023-07-14',
     venue: 'Koka Booth Amphitheatre',
@@ -15518,7 +29714,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-15-1306',
+    id: '2023-07-15-1293',
     artist: 'Billy Strings',
     date: '2023-07-15',
     venue: 'Koka Booth Amphitheatre',
@@ -15530,7 +29726,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-19-1307',
+    id: '2023-07-19-1294',
     artist: 'Billy Strings',
     date: '2023-07-19',
     venue: 'Chartway Arena',
@@ -15542,7 +29738,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-21-1308',
+    id: '2023-07-21-1295',
     artist: 'Billy Strings',
     date: '2023-07-21',
     venue: 'Hartford Healthcare Amphitheater',
@@ -15554,7 +29750,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-22-1309',
+    id: '2023-07-22-1296',
     artist: 'Billy Strings',
     date: '2023-07-22',
     venue: 'Midway Lawn at Champlain Valley Expo',
@@ -15566,7 +29762,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-23-1310',
+    id: '2023-07-23-1297',
     artist: 'Billy Strings',
     date: '2023-07-23',
     venue: 'Midway Lawn at Champlain Valley Expo',
@@ -15578,7 +29774,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-25-1311',
+    id: '2023-07-25-1298',
     artist: 'Billy Strings',
     date: '2023-07-25',
     venue: 'Leader Bank Pavilion',
@@ -15590,7 +29786,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-26-1312',
+    id: '2023-07-26-1299',
     artist: 'Billy Strings',
     date: '2023-07-26',
     venue: 'Leader Bank Pavilion',
@@ -15602,10 +29798,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-28-1313',
+    id: '2023-07-28-1300',
     artist: 'Billy Strings',
     date: '2023-07-28',
-    venue: 'Thompson\'s Point',
+    venue: 'Thompson's Point',
     city: 'Portland',
     state: 'ME',
     year: 2023,
@@ -15614,10 +29810,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-07-29-1314',
+    id: '2023-07-29-1301',
     artist: 'Billy Strings',
     date: '2023-07-29',
-    venue: 'Thompson\'s Point',
+    venue: 'Thompson's Point',
     city: 'Portland',
     state: 'ME',
     year: 2023,
@@ -15626,7 +29822,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-08-24-1315',
+    id: '2023-08-24-1302',
     artist: 'Billy Strings',
     date: '2023-08-24',
     venue: 'Knoxville Civic Coliseum',
@@ -15638,7 +29834,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-08-25-1316',
+    id: '2023-08-25-1303',
     artist: 'Billy Strings',
     date: '2023-08-25',
     venue: 'The Orion Amphitheater',
@@ -15650,7 +29846,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-08-26-1317',
+    id: '2023-08-26-1304',
     artist: 'Billy Strings',
     date: '2023-08-26',
     venue: 'The Orion Amphitheater',
@@ -15662,7 +29858,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-09-22-1318',
+    id: '2023-09-22-1305',
     artist: 'Billy Strings',
     date: '2023-09-22',
     venue: 'Renewal',
@@ -15674,7 +29870,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-09-23-1319',
+    id: '2023-09-23-1306',
     artist: 'Billy Strings',
     date: '2023-09-23',
     venue: 'Renewal',
@@ -15686,7 +29882,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-09-27-1320',
+    id: '2023-09-27-1307',
     artist: 'Billy Strings',
     date: '2023-09-27',
     venue: 'Ford Idaho Center',
@@ -15698,7 +29894,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-09-29-1321',
+    id: '2023-09-29-1308',
     artist: 'Billy Strings',
     date: '2023-09-29',
     venue: 'Moda Center',
@@ -15710,7 +29906,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-09-30-1322',
+    id: '2023-09-30-1309',
     artist: 'Billy Strings',
     date: '2023-09-30',
     venue: 'Moda Center',
@@ -15722,7 +29918,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-01-1323',
+    id: '2023-10-01-1310',
     artist: 'Billy Strings',
     date: '2023-10-01',
     venue: 'WaMu Theater',
@@ -15734,7 +29930,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-04-1324',
+    id: '2023-10-04-1311',
     artist: 'Billy Strings',
     date: '2023-10-04',
     venue: 'Golden 1 Center',
@@ -15746,7 +29942,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-06-1325',
+    id: '2023-10-06-1312',
     artist: 'Billy Strings',
     date: '2023-10-06',
     venue: 'Frost Amphitheater',
@@ -15758,7 +29954,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-07-1326',
+    id: '2023-10-07-1313',
     artist: 'Billy Strings',
     date: '2023-10-07',
     venue: 'Frost Amphitheater',
@@ -15770,7 +29966,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-08-1327',
+    id: '2023-10-08-1314',
     artist: 'Billy Strings',
     date: '2023-10-08',
     venue: 'Tahoe Blue Event Center',
@@ -15782,7 +29978,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-10-1328',
+    id: '2023-10-10-1315',
     artist: 'Billy Strings',
     date: '2023-10-10',
     venue: 'Maverik Center',
@@ -15794,7 +29990,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-13-1329',
+    id: '2023-10-13-1316',
     artist: 'Billy Strings',
     date: '2023-10-13',
     venue: 'Cable Dahmer Arena',
@@ -15806,7 +30002,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-10-14-1330',
+    id: '2023-10-14-1317',
     artist: 'Billy Strings',
     date: '2023-10-14',
     venue: 'Cable Dahmer Arena',
@@ -15818,7 +30014,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-06-1331',
+    id: '2023-11-06-1318',
     artist: 'Billy Strings',
     date: '2023-11-06',
     venue: 'Paradiso',
@@ -15830,7 +30026,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-07-1332',
+    id: '2023-11-07-1319',
     artist: 'Billy Strings',
     date: '2023-11-07',
     venue: 'Paradiso',
@@ -15842,7 +30038,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-08-1333',
+    id: '2023-11-08-1320',
     artist: 'Billy Strings',
     date: '2023-11-08',
     venue: 'De Roma',
@@ -15854,7 +30050,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-10-1334',
+    id: '2023-11-10-1321',
     artist: 'Billy Strings',
     date: '2023-11-10',
     venue: 'Carlswerk Victoria',
@@ -15866,7 +30062,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-11-1335',
+    id: '2023-11-11-1322',
     artist: 'Billy Strings',
     date: '2023-11-11',
     venue: 'Den Atelier',
@@ -15878,7 +30074,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-12-1336',
+    id: '2023-11-12-1323',
     artist: 'Billy Strings',
     date: '2023-11-12',
     venue: 'Neue Theaterfabrik',
@@ -15890,7 +30086,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-14-1337',
+    id: '2023-11-14-1324',
     artist: 'Billy Strings',
     date: '2023-11-14',
     venue: 'La Cigale',
@@ -15902,7 +30098,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-15-1338',
+    id: '2023-11-15-1325',
     artist: 'Billy Strings',
     date: '2023-11-15',
     venue: 'Roundhouse',
@@ -15914,7 +30110,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-17-1339',
+    id: '2023-11-17-1326',
     artist: 'Billy Strings',
     date: '2023-11-17',
     venue: 'Manchester Academy',
@@ -15926,7 +30122,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-18-1340',
+    id: '2023-11-18-1327',
     artist: 'Billy Strings',
     date: '2023-11-18',
     venue: 'O2 Academy Glasgow',
@@ -15938,7 +30134,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-11-19-1341',
+    id: '2023-11-19-1328',
     artist: 'Billy Strings',
     date: '2023-11-19',
     venue: 'O2 Academy Birmingham',
@@ -15950,7 +30146,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-06-1342',
+    id: '2023-12-06-1329',
     artist: 'Billy Strings',
     date: '2023-12-06',
     venue: 'Greensboro Coliseum',
@@ -15962,7 +30158,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-08-1343',
+    id: '2023-12-08-1330',
     artist: 'Billy Strings',
     date: '2023-12-08',
     venue: 'CFG Bank Arena',
@@ -15974,7 +30170,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-09-1344',
+    id: '2023-12-09-1331',
     artist: 'Billy Strings',
     date: '2023-12-09',
     venue: 'CFG Bank Arena',
@@ -15986,7 +30182,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-12-1345',
+    id: '2023-12-12-1332',
     artist: 'Billy Strings',
     date: '2023-12-12',
     venue: 'Petersen Events Center',
@@ -15998,7 +30194,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-13-1346',
+    id: '2023-12-13-1333',
     artist: 'Billy Strings',
     date: '2023-12-13',
     venue: 'Petersen Events Center',
@@ -16010,7 +30206,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-15-1347',
+    id: '2023-12-15-1334',
     artist: 'Billy Strings',
     date: '2023-12-15',
     venue: 'Mohegan Sun Arena at Casey Plaza',
@@ -16022,7 +30218,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-16-1348',
+    id: '2023-12-16-1335',
     artist: 'Billy Strings',
     date: '2023-12-16',
     venue: 'The Oncenter',
@@ -16034,7 +30230,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-29-1349',
+    id: '2023-12-29-1336',
     artist: 'Billy Strings',
     date: '2023-12-29',
     venue: 'UNO Lakefront Arena',
@@ -16046,7 +30242,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-30-1350',
+    id: '2023-12-30-1337',
     artist: 'Billy Strings',
     date: '2023-12-30',
     venue: 'UNO Lakefront Arena',
@@ -16058,7 +30254,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2023-12-31-1351',
+    id: '2023-12-31-1338',
     artist: 'Billy Strings',
     date: '2023-12-31',
     venue: 'UNO Lakefront Arena',
@@ -16070,7 +30266,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-16-1353',
+    id: '2024-02-16-1339',
     artist: 'Billy Strings',
     date: '2024-02-16',
     venue: 'Exploreasheville.com Arena',
@@ -16082,7 +30278,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-17-1354',
+    id: '2024-02-17-1340',
     artist: 'Billy Strings',
     date: '2024-02-17',
     venue: 'Exploreasheville.com Arena',
@@ -16094,7 +30290,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-18-1355',
+    id: '2024-02-18-1341',
     artist: 'Billy Strings',
     date: '2024-02-18',
     venue: 'Exploreasheville.com Arena',
@@ -16106,43 +30302,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-23-1356',
+    id: '2024-02-23-1342',
     artist: 'Billy Strings',
     date: '2024-02-23',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2024,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1Ms_YRFY-Aq7078VaNKVtn1tZBcCNC0X6/preview',
     setlist: 'Red Daisy | Hellbender | Red Rocking Chair | Escanaba | All Fall Down | In The Clear | Blue Skies | California Sober | Catch and Release | Crawdad Hole | Hide And Seek | Katy Daly | And Am I Born to Die? | Jazz Odyssey | Groundhog | Boulderdash | Summertime | John Hardy | Seven Weeks In County | Cabin Song | Love Like Me | Thunder | If Your Hair\'s Too Long (There\'s Sin In Your Heart) | Freedom | Harbor Of Love | Freeborn Man',
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-24-1357',
+    id: '2024-02-24-1343',
     artist: 'Billy Strings',
     date: '2024-02-24',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2024,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1oVujGPimrLMIxx8Ltbv5JxCCArlCN2sL/preview',
     setlist: 'Sally Goodin\' | Secrets | Away From The Mire | Living Like An Animal | Long Forgotten Dream | The Train That Carried My Girl From Town | Black Mountain Rag | Ready For The Times To Get Better | The Fire On My Tongue | How Mountain Girls Can Love | Lonely at the Top | Be Your Man | Waymore’s Blues | Wargasm | Southern Flavor | Dust In A Baggie | Hands On The Wheel | Old Home Place | Eight More Miles To Louisville | With a Vamp in the Middle | E.M.D. | Whisper My Name | Turmoil and Tinfoil | Mama Don\'t Allow No Music',
     thumbnailUrl: ''
   },
   {
-    id: '2024-02-25-1358',
+    id: '2024-02-25-1344',
     artist: 'Billy Strings',
     date: '2024-02-25',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
     state: 'TN',
     year: 2024,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1xkJIHTqZm67J-GnoyxckKCjSl1DUMO8P/preview',
     setlist: 'Fire Line | Rueben\'s Train | Thirst Mutilator | Rueben\'s Train | While I\'m Waiting Here | Cold, Cold World | Taking Water | Ice Bridges | Meet Me at the Creek | Nothing\'s Working | Nutshell | Red Rocking Chair | Back on the Train | Down In The Hollow | Home | My Alice | Heartbeat Of America | Show Me The Door | Elderly Woman Behind The Counter In A Small Town | Crown Of Thorns | Leaders | Pickin\' Up The Pieces | Highway Hypnosis | Something In The Way | About A Girl | I Saw the Light',
     thumbnailUrl: ''
   },
   {
-    id: '2024-03-01-1359',
+    id: '2024-03-01-1345',
     artist: 'Billy Strings',
     date: '2024-03-01',
     venue: 'State Farm Arena',
@@ -16154,7 +30350,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-03-02-1360',
+    id: '2024-03-02-1346',
     artist: 'Billy Strings',
     date: '2024-03-02',
     venue: 'State Farm Arena',
@@ -16166,7 +30362,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-12-1361',
+    id: '2024-04-12-1347',
     artist: 'Billy Strings',
     date: '2024-04-12',
     venue: 'Yuengling Center',
@@ -16178,7 +30374,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-13-1362',
+    id: '2024-04-13-1348',
     artist: 'Billy Strings',
     date: '2024-04-13',
     venue: 'Yuengling Center',
@@ -16190,7 +30386,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-17-1363',
+    id: '2024-04-17-1349',
     artist: 'Billy Strings',
     date: '2024-04-17',
     venue: 'Enmarket Arena',
@@ -16202,7 +30398,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-19-1364',
+    id: '2024-04-19-1350',
     artist: 'Billy Strings',
     date: '2024-04-19',
     venue: 'St. Augustine Amphitheatre',
@@ -16214,7 +30410,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-20-1365',
+    id: '2024-04-20-1351',
     artist: 'Billy Strings',
     date: '2024-04-20',
     venue: 'St. Augustine Amphitheatre',
@@ -16226,7 +30422,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-21-1366',
+    id: '2024-04-21-1352',
     artist: 'Billy Strings',
     date: '2024-04-21',
     venue: 'St. Augustine Amphitheatre',
@@ -16238,7 +30434,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-26-1367',
+    id: '2024-04-26-1353',
     artist: 'Billy Strings',
     date: '2024-04-26',
     venue: 'Rupp Arena',
@@ -16250,7 +30446,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-04-27-1368',
+    id: '2024-04-27-1354',
     artist: 'Billy Strings',
     date: '2024-04-27',
     venue: 'Rupp Arena',
@@ -16262,7 +30458,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-11-1369',
+    id: '2024-05-11-1355',
     artist: 'Billy Strings',
     date: '2024-05-11',
     venue: 'Big As Texas Festival',
@@ -16274,10 +30470,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-17-1370',
+    id: '2024-05-17-1356',
     artist: 'Billy Strings',
     date: '2024-05-17',
-    venue: 'Fiddler\'s Green Amphitheatre',
+    venue: 'Fiddler's Green Amphitheatre',
     city: 'Greenwood Village',
     state: 'CO',
     year: 2024,
@@ -16286,10 +30482,10 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-18-1371',
+    id: '2024-05-18-1357',
     artist: 'Billy Strings',
     date: '2024-05-18',
-    venue: 'Fiddler\'s Green Amphitheatre',
+    venue: 'Fiddler's Green Amphitheatre',
     city: 'Greenwood Village',
     state: 'CO',
     year: 2024,
@@ -16298,7 +30494,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-21-1372',
+    id: '2024-05-21-1358',
     artist: 'Billy Strings',
     date: '2024-05-21',
     venue: 'The Armory',
@@ -16310,7 +30506,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-24-1373',
+    id: '2024-05-24-1359',
     artist: 'Billy Strings',
     date: '2024-05-24',
     venue: 'Allstate Arena',
@@ -16322,7 +30518,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-05-25-1374',
+    id: '2024-05-25-1360',
     artist: 'Billy Strings',
     date: '2024-05-25',
     venue: 'Allstate Arena',
@@ -16334,7 +30530,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-06-22-1375',
+    id: '2024-06-22-1361',
     artist: 'Billy Strings',
     date: '2024-06-22',
     venue: 'Buckeye Country Superfest',
@@ -16346,7 +30542,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-06-23-1376',
+    id: '2024-06-23-1362',
     artist: 'Billy Strings',
     date: '2024-06-23',
     venue: 'Buckeye Country Superfest',
@@ -16358,7 +30554,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-14-1377',
+    id: '2024-07-14-1363',
     artist: 'Billy Strings',
     date: '2024-07-14',
     venue: 'Under The Big Sky Festival',
@@ -16370,7 +30566,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-19-1378',
+    id: '2024-07-19-1364',
     artist: 'Billy Strings',
     date: '2024-07-19',
     venue: 'Fairwell Festival',
@@ -16382,7 +30578,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-26-1379',
+    id: '2024-07-26-1365',
     artist: 'Billy Strings',
     date: '2024-07-26',
     venue: 'Hartford Healthcare Amphitheater',
@@ -16394,7 +30590,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-27-1380',
+    id: '2024-07-27-1366',
     artist: 'Billy Strings',
     date: '2024-07-27',
     venue: 'Hartford Healthcare Amphitheater',
@@ -16406,7 +30602,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-30-1381',
+    id: '2024-07-30-1367',
     artist: 'Billy Strings',
     date: '2024-07-30',
     venue: 'DCU Center Arena',
@@ -16418,7 +30614,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-07-31-1382',
+    id: '2024-07-31-1368',
     artist: 'Billy Strings',
     date: '2024-07-31',
     venue: 'DCU Center Arena',
@@ -16430,7 +30626,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-02-1383',
+    id: '2024-08-02-1369',
     artist: 'Billy Strings',
     date: '2024-08-02',
     venue: 'Bryce Jordan Center',
@@ -16442,7 +30638,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-03-1384',
+    id: '2024-08-03-1370',
     artist: 'Billy Strings',
     date: '2024-08-03',
     venue: 'Bryce Jordan Center',
@@ -16454,7 +30650,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-10-1385',
+    id: '2024-08-10-1371',
     artist: 'Billy Strings',
     date: '2024-08-10',
     venue: 'Outlaw Music Festival at The Gorge Amphitheatre',
@@ -16466,7 +30662,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-17-1386',
+    id: '2024-08-17-1372',
     artist: 'Billy Strings',
     date: '2024-08-17',
     venue: 'Greek Theatre',
@@ -16478,7 +30674,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-18-1387',
+    id: '2024-08-18-1373',
     artist: 'Billy Strings',
     date: '2024-08-18',
     venue: 'Greek Theatre',
@@ -16490,7 +30686,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-23-1388',
+    id: '2024-08-23-1374',
     artist: 'Billy Strings',
     date: '2024-08-23',
     venue: 'Kia Forum',
@@ -16502,7 +30698,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-08-24-1389',
+    id: '2024-08-24-1375',
     artist: 'Billy Strings',
     date: '2024-08-24',
     venue: 'Kia Forum',
@@ -16514,7 +30710,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-04-1390',
+    id: '2024-10-04-1376',
     artist: 'Billy Strings',
     date: '2024-10-04',
     venue: 'Pine Knob Music Theatre',
@@ -16526,7 +30722,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-05-1391',
+    id: '2024-10-05-1377',
     artist: 'Billy Strings',
     date: '2024-10-05',
     venue: 'Pine Knob Music Theatre',
@@ -16538,7 +30734,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-11-1392',
+    id: '2024-10-11-1378',
     artist: 'Billy Strings',
     date: '2024-10-11',
     venue: 'Gainbridge Fieldhouse',
@@ -16550,7 +30746,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-12-1393',
+    id: '2024-10-12-1379',
     artist: 'Billy Strings',
     date: '2024-10-12',
     venue: 'Gainbridge Fieldhouse',
@@ -16562,7 +30758,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-18-1394',
+    id: '2024-10-18-1380',
     artist: 'Billy Strings',
     date: '2024-10-18',
     venue: 'The Orion Amphitheatre',
@@ -16574,7 +30770,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-19-1395',
+    id: '2024-10-19-1381',
     artist: 'Billy Strings',
     date: '2024-10-19',
     venue: 'The Orion Amphitheatre',
@@ -16586,7 +30782,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-10-31-1396',
+    id: '2024-10-31-1382',
     artist: 'Billy Strings',
     date: '2024-10-31',
     venue: 'CFG Bank Arena',
@@ -16598,7 +30794,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-11-01-1397',
+    id: '2024-11-01-1383',
     artist: 'Billy Strings',
     date: '2024-11-01',
     venue: 'CFG Bank Arena',
@@ -16610,7 +30806,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-06-1398',
+    id: '2024-12-06-1384',
     artist: 'Billy Strings',
     date: '2024-12-06',
     venue: 'FedExForum',
@@ -16622,7 +30818,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-07-1399',
+    id: '2024-12-07-1385',
     artist: 'Billy Strings',
     date: '2024-12-07',
     venue: 'FedExForum',
@@ -16634,7 +30830,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-10-1400',
+    id: '2024-12-10-1386',
     artist: 'Billy Strings',
     date: '2024-12-10',
     venue: 'Bok Center',
@@ -16646,7 +30842,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-12-1401',
+    id: '2024-12-12-1387',
     artist: 'Billy Strings',
     date: '2024-12-12',
     venue: 'Dickies Arena',
@@ -16658,7 +30854,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-13-1402',
+    id: '2024-12-13-1388',
     artist: 'Billy Strings',
     date: '2024-12-13',
     venue: 'ACL Live at Moody Theatre',
@@ -16670,7 +30866,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-14-1403',
+    id: '2024-12-14-1389',
     artist: 'Billy Strings',
     date: '2024-12-14',
     venue: 'Moody Center',
@@ -16682,7 +30878,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-29-1404',
+    id: '2024-12-29-1390',
     artist: 'Billy Strings',
     date: '2024-12-29',
     venue: 'UNO Lakefront Arena',
@@ -16694,7 +30890,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-30-1405',
+    id: '2024-12-30-1391',
     artist: 'Billy Strings',
     date: '2024-12-30',
     venue: 'UNO Lakefront Arena',
@@ -16706,7 +30902,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2024-12-31-1406',
+    id: '2024-12-31-1392',
     artist: 'Billy Strings',
     date: '2024-12-31',
     venue: 'UNO Lakefront Arena',
@@ -16718,7 +30914,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-01-24-1408',
+    id: '2025-01-24-1393',
     artist: 'Billy Strings',
     date: '2025-01-24',
     venue: 'Ball Arena',
@@ -16730,7 +30926,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-01-25-1409',
+    id: '2025-01-25-1394',
     artist: 'Billy Strings',
     date: '2025-01-25',
     venue: 'Ball Arena',
@@ -16742,7 +30938,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-01-26-1410',
+    id: '2025-01-26-1395',
     artist: 'Billy Strings',
     date: '2025-01-26',
     venue: 'Ball Arena',
@@ -16754,7 +30950,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-06-1411',
+    id: '2025-02-06-1396',
     artist: 'Billy Strings',
     date: '2025-02-06',
     venue: 'Exploreasheville.com Arena',
@@ -16766,19 +30962,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-07-1412',
+    id: '2025-02-07-1397',
     artist: 'Billy Strings',
     date: '2025-02-07',
     venue: 'Exploreasheville.com Arena',
     city: 'Asheville',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1cMS_Oe14ot-fhF5QeRl9Q8wvIlJ5LkAu/preview',
     setlist: 'Bronzeback | I Hear a Choo Choo Coming | Fearless | Home | Dig A Little Deeper In The Well | Catch and Release | Lonely At The Top (Bitch At The Bottom) | Brown\'s Ferry Blues | Groundhog | Running The Route | Running | All Of Tomorrow | Thunder | Richard Petty | Standing In The Need Of Prayer | Uncle Pen | Nothing\'s Working | John Deere Tractor | Away From The Mire | Long Forgotten Dream | Don\'t Let The Sunshine Fool Ya | Down In The Hollow | Highway Hypnosis | Slipstream | Enough To Leave | Love Or Confusion | With a Vamp in the Middle | Southern Flavor | Be Your Man | Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-08-1413',
+    id: '2025-02-08-1398',
     artist: 'Billy Strings',
     date: '2025-02-08',
     venue: 'Exploreasheville.com Arena',
@@ -16790,163 +30986,187 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-14-1414',
+    id: '2025-02-14-1399',
     artist: 'Billy Strings',
     date: '2025-02-14',
     venue: 'Exploreasheville.com Arena',
     city: 'Asheville',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1Ux0lzHQ09G5Qoxao_jk8IIWJRjykQ6aD/preview',
     setlist: 'My Cabin In Caroline | Love Like Me | Whisper My Name | Taking Water | End Of The Rainbow | Don\'t Be Calling Me (at 4AM) | The Old Mountaineer | In The Morning Light | All Time Low | Secrets | New Camptown Races | Unwanted Love | Away From The Shire Theme | Ole Slew-Foot | Love And Regret | Escanaba | Along the Road | Gone A Long Time | Crossing Muddy Waters | Turmoil and Tinfoil | She Makes My Love Come Rolling Down | Nellie Kane | Sophronie | Doin\' My Time',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-15-1415',
+    id: '2025-02-15-1400',
     artist: 'Billy Strings',
     date: '2025-02-15',
     venue: 'Exploreasheville.com Arena',
     city: 'Asheville',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1IJsD_u5oO78NDEhBx-gFcEh7s9NpmEqy/preview',
     setlist: 'Red Daisy | Tennessee Stud | Dusty Miller | Living Like An Animal | The Cuckoo | Heartbeat Of America | Georgia Buck | Dos Banjos | Ernest T. Grass | Know It All | 15 Steps | What Would You Give In Exchange For Your Soul | These Memories Of You | Travelin\' This Lonesome Road | West Dekota Rose | This Old World | Malfunction Junction | Black Clouds | Willin’ | Hide And Seek | Shady Grove | Happy Hollow',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-16-1416',
+    id: '2025-02-16-1401',
     artist: 'Billy Strings',
     date: '2025-02-16',
     venue: 'Exploreasheville.com Arena',
     city: 'Asheville',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1ciDU73h6VMGRW4FRTIBVNA-gIndk6K8l/preview',
     setlist: 'Dust In A Baggie | Hellbender | This Heart Of Mine | Dealing Despair | Home Of The Red Fox | Little Maggie | I\'ve Been All Around This World | Big Mon | Rank Stranger | Stratosphere Blues / I Believe in You | Old Man At The Mill | All Fall Down | Everything\'s The Same | Bluegrass Breakdown | Show Me The Door | Tentacle Dragon (Revenge of The) | Doin\' Things Right | Shackles And Chains | Slow Train | On The Line | Gild the Lily | The Beginning of the End | Meet Me at the Creek | Y\'All Come',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-21-1417',
+    id: '2025-02-21-1402',
     artist: 'Billy Strings',
     date: '2025-02-21',
     venue: 'State Farm Arena',
     city: 'Atlanta',
     state: 'GA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/12KeRviYDWudMBuvhtHk3I6fxMk2M636H/preview',
     setlist: 'The Fire On My Tongue | My Sweet Blue-Eyed Darlin\' | While I\'m Waiting Here | Hide And Seek | Blackjack County Chains | Hollow Heart | Kentucky Mandolin | I\'ve Lived A Lot In My Time | Taking Water | Ice Bridges | Seven Weeks In County | In The Clear | Sally Johnson | Don\'t Be Calling Me (at 4AM) | Seney Stretch | Must Be Seven | Psycho | Train, Train | Moody River | Long Forgotten Dream | Midnight on the Highway | Fiddling Around | Turmoil and Tinfoil | Enter The Dragon | Turmoil and Tinfoil | Gone A Long Time',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-22-1418',
+    id: '2025-02-22-1403',
     artist: 'Billy Strings',
     date: '2025-02-22',
     venue: 'State Farm Arena',
     city: 'Atlanta',
     state: 'GA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1goTfO0yyEvFynOMz8DY26ZFXj5ne7oBN/preview',
     setlist: 'My Little Georgia Rose | Cabin Song | Heartbeat Of America | Streamlined Cannonball | In The Morning Light | Ernest T. Grass | Know It All | Broomstraw Philosophers And Scuppernong Wine | Leaning on a Travelin\' Song | Home | Drifting with the Tide | Wargasm | Likes of Me | Pyramid Country | Bringing In The Georgia Mail | Be Your Man | Close By | Baltimore Johnny | My Alice | Dark Hollow | Fire Line | Thirst Mutilator | I\'m Still Here | John Deere Tractor | Highway Hypnosis | Nutshell | Red Rocking Chair',
     thumbnailUrl: ''
   },
   {
-    id: '2025-02-28-1419',
+    id: '2025-02-28-1404',
     artist: 'Billy Strings',
     date: '2025-02-28',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1L-rLcr133_KsccqicpJ5erFGH-w8o9Gv/preview',
     setlist: 'Tennessee | Red Daisy | Malfunction Junction | Secrets | Gild the Lily | Dust In A Baggie | Walk On Boy | Reverend | Katy Daly | Away From The Mire | New Country Blues | Leadfoot | Love And Regret | Dusty Miller | Hello, City Limits | California Sober | Run Down | Nashville Blues | Froggie Went a Courtin\' | Stratosphere Blues / I Believe in You | On The Line | Ruby | Meet Me at the Creek | Richard Petty | Body and Soul | Katy Hill | Uncle Pen',
     thumbnailUrl: ''
   },
   {
-    id: '2025-03-01-1420',
+    id: '2025-02-28-bonus-1405-0',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-02-28',
+    venue: 'Bridgestone Arena (Part 1)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/K67wc7hmbhw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-02-28-bonus-1405-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-02-28',
+    venue: 'Bridgestone Arena (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/5qQ58ThAjeA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-03-01-1405',
     artist: 'Billy Strings',
     date: '2025-03-01',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1Tj5kULqAIGheUKwJFlYbam5SZB_k_IuA/preview',
     setlist: 'Hide And Seek | The Fire On My Tongue | Bronzeback | Hellbender | Blue Virginia Blues | Slow Train | Escanaba | I\'ve Been All Around This World | Senor | Gone A Long Time | Seven Weeks In County | Summertime | The Train That Carried My Girl From Town | Black Mountain Rag | Taking Water | Rueben\'s Train | Long Forgotten Dream | Big Spike Hammer | All Of Tomorrow | I Haven\'t Seen Mary In Years | Roanoke | Turmoil and Tinfoil | Ole Slew-Foot | The Beginning of the End | Sophronie | Little Maggie | Dark Hollow | Roll On Buddy, Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2025-03-02-1421',
+    id: '2025-03-02-1406',
     artist: 'Billy Strings',
     date: '2025-03-02',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
     state: 'TN',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://drive.google.com/file/d/1pfupTE5aECEzDlKbW7LpB_IEMinVy3EX/preview',
     setlist: 'John Deere Tractor | Put My Little Shoes Away | Mother\'s Not Dead | Give Me Back My Fifteen Cents | When It\'s Lamplighting Time In The Valley | I\'m Going Back To The Old Home | Shuckin\' The Corn | Country Blues | Dos Banjos | Memories of Mother and Dad | I Wonder How The Old Folks Are At Home | Psycho | Mama Tried | No Mother or Dad | Mama Don\'t Allow | Open Up Them Pearly Gates | Traveling the Highway Home | Angel Band | Working On A Building | Little White Church | You Must Come In At the Door | Harbor Of Love | Somebody Touched Me | Shalom Aleichem | Jerusalem Ridge | Green Pastures in the Sky | Jesus Is Waiting For Me | Crying Holy Unto the Lord | Three Men On A Mountain | That Home Far Away | I\'ll Fly Away | And Am I Born to Die? | I Saw the Light | Will The Circle Be Unbroken?',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-03-1422',
+    id: '2025-04-03-1407',
     artist: 'Billy Strings',
     date: '2025-04-03',
     venue: 'The St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/lUSAjw245ng',
     setlist: 'On The Line | A Robin Built A Nest On Daddy\'s Grave | Gone A Long Time | Wild Bill Jones | Long Forgotten Dream | Malfunction Junction | Ridin\' That Midnight Train | Don\'t Let The Sunshine Fool Ya | Heartbeat Of America | Likes of Me | Pyramid Country | Know It All | Happy Hollow | I Only Exist | What Is A Home Without Love | The Fire On My Tongue | Bronzeback | In Hiding | Gild the Lily | My Alice | Hyacinth House | Meet Me at the Creek | Maiden\'s Prayer | Blues Stay Away from Me | Sophronie',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-04-1423',
+    id: '2025-04-04-1408',
     artist: 'Billy Strings',
     date: '2025-04-04',
     venue: 'The St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/U6xZXrYkM40',
     setlist: 'Seven Weeks In County | In The Clear | The Lonesome River | Running | Ice Bridges | In The Morning Light | All Fall Down | Hellbender | Nights In White Satin | Dust In A Baggie | Highway Hypnosis | Slow Train | There Is A Time | Away From The Mire | Big Spike Hammer | Sugar Hill Ramble | Home | This Heart Of Mine | Everything\'s The Same | Watch It Fall | Hide And Seek | Ride Me High | Hide And Seek | Red Daisy',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-05-1424',
+    id: '2025-04-05-1409',
     artist: 'Billy Strings',
     date: '2025-04-05',
     venue: 'The St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/zQuQdiXp52g',
     setlist: 'Turmoil and Tinfoil | Must Be Seven | Ernest T. Grass | Ole Slew-Foot | Love And Regret | This Old World | Escanaba | Randall Collins | Done Gone | Taking Water | Rueben\'s Train | Leadfoot | Kissimee Kid | Fire Line | Be Your Man | Running The Route | Cabin Song | Planet Caravan | Tentacle Dragon (Revenge of The) | Doin\' Things Right | Love Like Me | Whisper My Name | Nutshell | Wargasm',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-09-1425',
+    id: '2025-04-09-1410',
     artist: 'Billy Strings',
     date: '2025-04-09',
     venue: 'Yuengling Center',
     city: 'Tampa',
     state: 'FL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/mxCkjfvP74k',
     setlist: 'Nashville Blues | Catch and Release | Freeborn Man | Show Me The Door | Down In The Hollow | Doin\' My Time | Seney Stretch | Don\'t Be Calling Me (at 4AM) | Red Rocking Chair | Dusty Miller | Cold, Cold World | California Sober | Living Like An Animal | The Cuckoo | Leaning On A Traveling Song | Sally Johnson | Hold the Woodpile Down | While I\'m Waiting Here | Old Dangerfield | Secrets | Nothing\'s Working | Kentucky Mandolin | Pretty Daughter | Stratosphere Blues / I Believe in You | Hollow Heart | Richard Petty | Salty Dog | Standing In The Need Of Prayer | Dark Hollow',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-11-1426',
+    id: '2025-04-11-1411',
     artist: 'Billy Strings',
     date: '2025-04-11',
     venue: 'Enmarket Arena',
     city: 'Savannah',
     state: 'GA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/wXJl8p8nxeY',
     setlist: 'Bronzeback | Bringing In The Georgia Mail | Hellbender | Gone A Long Time | My Alice | The Fire On My Tongue | Drifter\'s Escape | Thirst Mutilator | Dust In A Baggie | Natural Born Gamblin\' Man | Streamlined Cannonball | Seven Weeks In County | Georgia Buck | Dos Banjos | Drifting with the Tide | Away From The Mire | Long Forgotten Dream | Crossing Muddy Waters | Little Maggie | With a Vamp in the Middle | Enough To Leave | Charlie\'s Birthday Breakdown | Psycho | Hide And Seek | Freedom | My Sweet Blue Eyed Darlin\' | Rank Stranger | Tennessee | Ruby',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-12-1427',
+    id: '2025-04-12-1412',
     artist: 'Billy Strings',
     date: '2025-04-12',
     venue: 'Enmarket Arena',
@@ -16958,43 +31178,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-15-1428',
+    id: '2025-04-15-1413',
     artist: 'Billy Strings',
     date: '2025-04-15',
     venue: 'John Paul Jones Arena',
     city: 'Charlottesville',
     state: 'VA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/72kuZMcRn5k',
     setlist: 'John Hardy | Malfunction Junction | In The Clear | So Many Miles | Everything\'s The Same | Slipstream | Wargasm | Wait A Minute! | She Left Me Standing On The Mountain | This Old World | Escanaba | Shenandoah Breakdown | Secrets | Leadfoot | No End Of Love | Think Of What You\'ve Done | Blues Stay Away from Me | On The Line | It Ain\'t Before | Dealing Despair | Lonesome Moonlight Waltz | Show Me The Door | Must Be Seven | She Makes My Love Come Rolling Down | Meet Me at the Creek | The Beginning of the End | Roll On Buddy, Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-17-1429',
+    id: '2025-04-17-1414',
     artist: 'Billy Strings',
     date: '2025-04-17',
     venue: 'Koka Booth Amphitheatre',
     city: 'Cary',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/tV400Dj1uBI',
     setlist: 'Red Rocking Chair | Slow Train | Seven Weeks In County | The Fire On My Tongue | Ole Slew-Foot | Don\'t Let Your Deal Go Down | While I\'m Waiting Here | Hide And Seek | John Deere Tractor | Stratosphere Blues > I Believe In You | Methodist Preacher | Dust In A Baggie | Love And Regret | Home Of The Red Fox | A Letter to Seymour | Seney Stretch | St. James Hospital | Running | Away From The Mire | Love Like Me | Highway Hypnosis | Shady Grove',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-18-1430',
+    id: '2025-04-18-1415',
     artist: 'Billy Strings',
     date: '2025-04-18',
     venue: 'Koka Booth Amphitheatre',
     city: 'Cary',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/30tyWyhB5Eg',
     setlist: 'Leaning on a Travelin\' Song | Sally Johnson | Hellbender | Heartbeat Of America | In The Morning Light | Blue Mule | Red Daisy | My Alice | Maggie Walker Blues | Likes of Me | Black Clouds | Catch and Release | Matty Groves | Bronzeback | Know It All | Happy Hollow | Streamlined Cannonball | Along the Road | Gild the Lily | Richard Petty | Uncle Pen | Long Forgotten Dream | Pyramid Country | Psycho | Pyramid Country | Little Maggie | Gonna Lay Down My Old Guitar',
     thumbnailUrl: ''
   },
   {
-    id: '2025-04-19-1431',
+    id: '2025-04-19-1416',
     artist: 'Billy Strings',
     date: '2025-04-19',
     venue: 'Koka Booth Amphitheatre',
@@ -17006,19 +31226,31 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-13-1432',
+    id: '2025-05-13-1417',
     artist: 'Billy Strings',
     date: '2025-05-13',
     venue: 'Outlaw Music Festival at Talking Stick Resort Amphitheatre',
     city: 'Phoenix',
     state: 'AZ',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/0sh7jGvBqGY',
     setlist: 'Red Daisy | Seven Weeks In County | Happy Hollow | My Alice | Ghost Train | Long Gone | Catch and Release | Brown\'s Ferry Blues | Frosty Morn | I Miss The Mississippi And You | Dusty Miller | The Fire On My Tongue | Pyramid Country | Hide And Seek | Doin\' My Time',
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-15-1433',
+    id: '2025-05-13-bonus-1418-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-05-13',
+    venue: 'Outlaw Music Festival at Talking Stick Resort Amphitheatre (Part 2)',
+    city: 'Phoenix',
+    state: 'AZ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/1QDKy7DpRgg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-05-15-1418',
     artist: 'Billy Strings',
     date: '2025-05-15',
     venue: 'Outlaw Music Festival at North Island Credit Union Amphitheatre',
@@ -17030,7 +31262,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-18-1434',
+    id: '2025-05-18-1419',
     artist: 'Billy Strings',
     date: '2025-05-18',
     venue: 'Outlaw Music Festival at Toyota Amphitheatre',
@@ -17042,19 +31274,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-20-1435',
+    id: '2025-05-20-1420',
     artist: 'Billy Strings',
     date: '2025-05-20',
     venue: 'Outlaw Music Festival at Ford Idaho Center Arena',
     city: 'Nampa',
     state: 'ID',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ejItcDZvZBs',
     setlist: 'Hello City Limits | Wargasm | Leaders | Highway Hypnosis | Love Like Me | Baltimore Johnny | Midnight on the Stormy Deep | Lonely At The Top (Bitch At The Bottom) | And Am I Born to Die? | Show Me The Door | Ashland Breakdown | All Fall Down | Everything\'s The Same',
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-22-1436',
+    id: '2025-05-20-bonus-1421-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-05-20',
+    venue: 'Outlaw Music Festival at Ford Idaho Center Arena (Part 2)',
+    city: 'Nampa',
+    state: 'ID',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/t3FB8G0tl04',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-05-20-bonus-1421-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-05-20',
+    venue: 'Outlaw Music Festival at Ford Idaho Center Arena (Part 3)',
+    city: 'Nampa',
+    state: 'ID',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/OQWMx-K_9c0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-05-20-bonus-1421-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-05-20',
+    venue: 'Outlaw Music Festival at Ford Idaho Center Arena (Part 4)',
+    city: 'Nampa',
+    state: 'ID',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/uOIJRuKqCZw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-05-22-1421',
     artist: 'Billy Strings',
     date: '2025-05-22',
     venue: 'Outlaw Music Festival at ONE Spokane Stadium',
@@ -17066,7 +31334,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-24-1437',
+    id: '2025-05-24-1422',
     artist: 'Billy Strings',
     date: '2025-05-24',
     venue: 'Outlaw Music Festival at Cascades Amphitheater',
@@ -17078,7 +31346,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-25-1438',
+    id: '2025-05-25-1423',
     artist: 'Billy Strings',
     date: '2025-05-25',
     venue: 'Outlaw Music Festival at The Gorge Amphitheatre',
@@ -17090,7 +31358,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-30-1439',
+    id: '2025-05-30-1424',
     artist: 'Billy Strings',
     date: '2025-05-30',
     venue: 'Van Andel Arena',
@@ -17102,7 +31370,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-05-31-1440',
+    id: '2025-05-31-1425',
     artist: 'Billy Strings',
     date: '2025-05-31',
     venue: 'Van Andel Arena',
@@ -17114,7 +31382,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-06-1441',
+    id: '2025-06-06-1426',
     artist: 'Billy Strings',
     date: '2025-06-06',
     venue: 'Allstate Arena',
@@ -17126,55 +31394,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-07-1442',
+    id: '2025-06-07-1427',
     artist: 'Billy Strings',
     date: '2025-06-07',
     venue: 'Allstate Arena',
     city: 'Rosemont',
     state: 'IL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Q-GbILzP0Co',
     setlist: 'A Robin Built A Nest On Daddy\'s Grave | On The Line | Train 45 | Enough To Leave | Leaning on a Travelin\' Song | The Lonesome River | Running The Route | End Of The Rainbow | Lonely At The Top (Bitch At The Bottom) | John Henry | Country Blues | Dos Banjos | Ernest T. Grass | Ridin\' That Midnight Train | Highway Hypnosis | California Sober | Hello, City Limits | All Of Tomorrow | Doin\' My Time | Leaders | Planet Caravan | Tentacle Dragon (Revenge of The) | Four Sticks | Doin\' Things Right | Dealing Despair | On The Southbound | How Many Biscuits Can You Eat? | Roll On Buddy, Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-11-1443',
+    id: '2025-06-11-1428',
     artist: 'Billy Strings',
     date: '2025-06-11',
     venue: 'T-Mobile Center',
     city: 'Kansas City',
     state: 'MO',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/vRFa2dG7JCw',
     setlist: 'Pyramid Country | Hide And Seek | In The Clear | Billy in the Lowground | My Alice | Freeborn Man | Don\'t Be Calling Me (at 4AM) | Seney Stretch | St. James Hospital | Hellbender | Heartbeat Of America | Pretty Daughter | Give the Fiddler a Dram | Catch and Release | Richard Petty | Dark Hollow | Seven Weeks In County | I Miss The Mississippi And You | She Left Me Standing On The Mountain | Malfunction Junction | The Fire On My Tongue | Ole Slew-Foot | Psycho | Thunder | Know It All | Old Mexico | Dust In A Baggie',
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-13-1444',
+    id: '2025-06-13-1429',
     artist: 'Billy Strings',
     date: '2025-06-13',
     venue: 'Chaifetz Arena',
     city: 'St. Louis',
     state: 'MO',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Jv7BeGiMfcI',
     setlist: 'Red Daisy | Ruby | Make Me A Pallet On Your Floor | In The Morning Light | Gone A Long Time | Stratosphere Blues / I Believe in You | I\'m Still Here | Thirst Mutilator | Taking Water | Home Of The Red Fox | Must Be Seven | Today | Wargasm | Airmail Special | Away From The Mire | New Country Blues | While I\'m Waiting Here | I Only Exist | Happy Hollow | Gild the Lily | Lonesome Moonlight Waltz | Cabin Song | Home | I\'m One Of Those | Turmoil and Tinfoil | Walking Boss | John Hardy',
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-14-1445',
+    id: '2025-06-14-1430',
     artist: 'Billy Strings',
     date: '2025-06-14',
     venue: 'Chaifetz Arena',
     city: 'St. Louis',
     state: 'MO',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ILzDcG-zerM',
     setlist: 'Likes of Me | Meet Me at the Creek | Crossing Muddy Waters | Show Me The Door | Fire Line | Bronzeback | Love And Regret | Sophronie | Ernest T. Grass | Secrets | Leaning on a Travelin\' Song | Sally Johnson | 10,000 Miles From A Friend | Run Down | Kentucky Mandolin | Be Your Man | Highway Hypnosis | Harbor Of Love | Blue Mule | California Sober | Everything\'s The Same | The Cuckoo | Long Forgotten Dream | All Fall Down | The Beginning of the End | Feast Here Tonight (Rabbit In A Log) | Black Mountain Rag | Feast Here Tonight (Rabbit In A Log) | Uncle Pen | Letter Edged In Black | Ninety Nine Years And One Dark Day | Doin\' My Time | The Lonesome River | My Sweet Blue-Eyed Darlin\' | Summertime | Eat My Dust | Rank Stranger | I\'m Gone, Long Gone',
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-19-1446',
+    id: '2025-06-19-1431',
     artist: 'Billy Strings',
     date: '2025-06-19',
     venue: 'Charlotte Bluegrass Festival',
@@ -17186,7 +31454,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-20-1447',
+    id: '2025-06-20-1432',
     artist: 'Billy Strings',
     date: '2025-06-20',
     venue: 'Rupp Arena',
@@ -17198,7 +31466,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-06-21-1448',
+    id: '2025-06-21-1433',
     artist: 'Billy Strings',
     date: '2025-06-21',
     venue: 'Rupp Arena',
@@ -17210,139 +31478,139 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-07-15-1449',
+    id: '2025-07-15-1434',
     artist: 'Billy Strings',
     date: '2025-07-15',
     venue: 'Margaret Court Arena',
     city: 'Melbourne',
     state: 'AUS',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/DmHGXizMs9s',
     setlist: 'Slow Train | Hide And Seek | Hellbender | The Fire On My Tongue | Drifter\'s Escape | St. James Hospital | Escanaba | Richard Petty | Love Me Darlin\', Just Tonight | Uncle Pen | Home | Fearless | I\'m One Of Those | Turmoil and Tinfoil | Love And Regret | John Deere Tractor | Dusty Miller | Dust In A Baggie | Love Or Confusion | My Alice | The Train That Carried My Girl From Town | Black Mountain Rag | Gild the Lily | Psycho | Pyramid Country | Ole Slew-Foot | Harbor Of Love | Big Spike Hammer',
     thumbnailUrl: ''
   },
   {
-    id: '2025-07-17-1450',
+    id: '2025-07-17-1435',
     artist: 'Billy Strings',
     date: '2025-07-17',
     venue: 'ICC Sydney Theatre',
     city: 'Sydney',
     state: 'AUS',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/15wA6aCck0A',
     setlist: 'Taking Water | Be Your Man | Long Forgotten Dream | Bronzeback | Away From The Mire | Rank Stranger | Streamlined Cannonball | Ernest T. Grass | Little Maggie | 10,000 Miles From A Friend | Fire Line | Rueben\'s Train | Freedom | Dark Hollow | Sally Johnson | And Am I Born to Die? | Leaning on a Travelin\' Song | Summertime | In The Clear | Heartbeat Of America | In The Morning Light | Old Man At The Mill | All Fall Down | Think Of What You\'ve Done | Meet Me at the Creek | Make Me A Pallet On Your Floor | Ridin\' That Midnight Train',
     thumbnailUrl: ''
   },
   {
-    id: '2025-07-19-1451',
+    id: '2025-07-19-1436',
     artist: 'Billy Strings',
     date: '2025-07-19',
     venue: 'Riverstage',
     city: 'Brisbane City',
     state: 'AUS',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ltMd9AhdJCA',
     setlist: 'Red Daisy | On The Line | Watch It Fall | Ocean Of Diamonds | Show Me The Door | Charlie\'s Birthday Breakdown | Freeborn Man | Know It All | Wait A Minute | Sally Goodin | Wargasm | Southern Flavor | Cabin Song | Catch and Release | Brown\'s Ferry Blues | Froggie Went A-Courtin\' | Seven Weeks In County | Reverend | Malfunction Junction | John Hardy | Cold, Cold World | Happy Hollow | Sugar Hill Ramble | Bound To Ride | Running The Route | Running | Someday You\'ll Call My Name | Blues Stay Away from Me',
     thumbnailUrl: ''
   },
   {
-    id: '2025-07-22-1452',
+    id: '2025-07-22-1437',
     artist: 'Billy Strings',
     date: '2025-07-22',
     venue: 'Spark Arena',
     city: 'Auckland',
     state: 'NZ',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/CJcnevC18zI',
     setlist: 'Likes of Me | Must Be Seven | Secrets | Doin\' Things Right | I\'ll Cry Instead | Everything\'s The Same | Nothing\'s Working | West Dakota Rose | Stratosphere Blues / I Believe in You | I\'m Still Here | So Many Miles | Dealing Despair | Hollow Heart | Nothing To It | Nights In White Satin | Highway Hypnosis | Georgia Buck | Dos Banjos | Richard Petty | If Your Hair\'s Too Long (There\'s Sin In Your Heart) | Old Home Place | Stone Walls And Steel Bars | Turmoil and Tinfoil | Tennessee | The Beginning of the End | Train 45',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-01-1453',
+    id: '2025-08-01-1438',
     artist: 'Billy Strings',
     date: '2025-08-01',
     venue: 'Golden Gate Park',
     city: 'San Francisco',
     state: 'CA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/WMihPIZs7V4',
     setlist: 'Gild the Lily | Dust In A Baggie | Sally Johnson | Shady Grove | Hellbender | Away From The Mire | If Your Hair\'s Too Long (There\'s Sin In Your Heart) | Pig in a Pen | Red Daisy | Harbor Of Love | California Sober | Oh The Wind And Rain | Thunder',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-08-1454',
+    id: '2025-08-08-1439',
     artist: 'Billy Strings',
     date: '2025-08-08',
     venue: 'Fiserv Forum',
     city: 'Milwaukee',
     state: 'WI',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/VunRZkZEOyQ',
     setlist: 'Malfunction Junction | The Fire On My Tongue | Heartbeat Of America | In The Morning Light | I\'m a Natural Born Gamblin\' Man | The Old Mountaineer | Love Like Me | Ghost Train | Ole Slew-Foot | Stratosphere Blues > I Believe In You | In The Clear | Seven Weeks In County | Richard Petty | My Sweet Blue-Eyed Darlin\' | The Wreck of the Edmund Fitzgerald | Fire Line | End Of The Rainbow | While I\'m Waiting Here | Pyramid Country | John Hardy | How Mountain Girls Can Love',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-09-1455',
+    id: '2025-08-09-1440',
     artist: 'Billy Strings',
     date: '2025-08-09',
     venue: 'Target Center',
     city: 'Minneapolis',
     state: 'MN',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/0425rM1hMRA',
     setlist: 'Taking Water | Running The Route | Hollow Heart | Hellbender | Happy Hollow | Tangled Up in Blue | All Fall Down | Be Your Man | Long Forgotten Dream | I\'m One Of Those | Turmoil and Tinfoil | Nashville Blues | Catch and Release | And Am I Born to Die? | Home | My Alice | Pretty Daughter | Psycho | Red Daisy | On The Line | Summertime | Ride Me High | Hide And Seek',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-12-1456',
+    id: '2025-08-12-1441',
     artist: 'Billy Strings',
     date: '2025-08-12',
     venue: 'SCHEELS Arena',
     city: 'Fargo',
     state: 'ND',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/svtab-LnGDI',
     setlist: 'Guitar Peace | Fearless | Dust In A Baggie | Gild the Lily | Escanaba | Cold, Cold World | Gone A Long Time | Love And Regret | Home Of The Red Fox | Know It All | Watch It Fall | Nellie Kane | Close By | East Virginia Blues | Freedom | Dos Banjos | West Dakota Rose | Show Me The Door | Must Be Seven | Little Maggie | Nothing\'s Working | Highway Hypnosis | The Tall Tall Grass | Meet Me at the Creek | The Beginning of the End',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-15-1457',
+    id: '2025-08-15-1442',
     artist: 'Billy Strings',
     date: '2025-08-15',
     venue: 'Brick Breeden Fieldhouse',
     city: 'Bozeman',
     state: 'MT',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/_ok0ik0DsNc',
     setlist: 'Walk On Boy | Cabin Song | Bluegrass Breakdown | This Old World | Away From The Mire | The Cuckoo | Away From The Mire | Living Like An Animal | New Country Blues | 10,000 Miles From A Friend | Four Sticks | Doin\' Things Right | Groundhog | Country Blues | Jeff Sturgeon | Look Up, Look Down That Lonesome Road | Leaning on a Travelin\' Song | I\'m Still Here | Running | Sally Goodin | Secrets | Doin\' My Time | Leaders | Wargasm | Montana Cowboy | Freeborn Man',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-16-1458',
+    id: '2025-08-16-1443',
     artist: 'Billy Strings',
     date: '2025-08-16',
     venue: 'Adams Center',
     city: 'Missoula',
     state: 'MT',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/PtAh_Zzg3q4',
     setlist: 'Seven Weeks In County | Dusty Miller | While I\'m Waiting Here | Train, Train | In The Morning Light | In The Clear | Bye Bye Blues | The Lonesome River | Richard Petty | Stratosphere Blues / I Believe in You | Thirst Mutilator | Dealing Despair | Don\'t Let Your Deal Go Down | Fire Line | Rueben\'s Train | Enough To Leave | Everything\'s The Same | Seney Stretch | Don\'t Be Calling Me (at 4AM) | Heartbeat Of America | She Makes My Love Come Rolling Down | Pyramid Country | Spinning | Planet Caravan | Tentacle Dragon (Revenge of The) | Leadfoot | Salty Dog Blues',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-19-1459',
+    id: '2025-08-19-1444',
     artist: 'Billy Strings',
     date: '2025-08-19',
     venue: 'Commodore Ballroom',
     city: 'Vancouver',
     state: 'BC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/kxNdGVgXyuE',
     setlist: 'Taking Water | Ice Bridges | Love Like Me | Gone A Long Time | Letter Edged In Black | Willin’ | Dust In A Baggie | Hellbender | Way Downtown | New Camptown Races | Unwanted Love | New Camptown Races | My Alice | Shenandoah Breakdown | Must Be Seven | Likes of Me | Malfunction Junction | Know It All | Crossing Muddy Waters | Escanaba | Home | 15 Steps | Red Daisy | Be Your Man | Gild the Lily | This Heart of Mine | Brain Damage',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-20-1460',
+    id: '2025-08-20-1445',
     artist: 'Billy Strings',
     date: '2025-08-20',
     venue: 'Commodore Ballroom',
@@ -17354,43 +31622,43 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-22-1461',
+    id: '2025-08-22-1446',
     artist: 'Billy Strings',
     date: '2025-08-22',
     venue: 'Angel of the Winds Arena',
     city: 'Everett',
     state: 'WA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/kwpGXIrdE1A',
     setlist: 'Slow Train | Psycho | Hide And Seek | St. James Hospital | California Sober | 10,000 Miles From A Friend | Stone Walls And Steel Bars | Hello, City Limits | Stratosphere Blues / I Believe in You | Hollow Heart | Paddy On The Turnpike | Heartbeat Of America | Home Of The Red Fox | Secrets | A Good Woman\'s Love | Beaumont Rag | Wargasm | Doin\' Things Right | Southern Flavor | Cabin Song | Seven Weeks In County | Nothing\'s Working | In Case You Ever Change Your Mind | The Beginning of the End | Highway Hypnosis',
     thumbnailUrl: ''
   },
   {
-    id: '2025-08-23-1462',
+    id: '2025-08-23-1447',
     artist: 'Billy Strings',
     date: '2025-08-23',
     venue: 'Matthew Knight Arena',
     city: 'Eugene',
     state: 'OR',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/-koagxcL93A',
     setlist: 'Red Daisy | Hellbender | Taking Water | Running The Route | Dust In A Baggie | Reverend | Home | In The Clear | Ashland Breakdown | Gild the Lily | Leadfoot | I\'m Still Here | Raleigh And Spencer | In The Morning Light | All Fall Down | Richard Petty | Harbor Of Love | Freedom | Malfunction Junction | Must Be Seven | Pyramid Country | Little Maggie',
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-05-1463',
+    id: '2025-09-05-1448',
     artist: 'Billy Strings',
     date: '2025-09-05',
     venue: 'Woodward Theatre',
     city: 'Owensboro',
     state: 'KY',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/P6j0sBouC10',
     setlist: 'Way Downtown | Little Darling Pal Of Mine | Beaumont Rag | Blue Railroad Train | What Does The Deep Sea Say | Watson Blues | Smoke, Smoke, Smoke That Cigarette | If I Needed You | Don\'t Think Twice, It\'s Alright | Sleep Baby Sleep | Give Me Back My Fifteen Cents | You Must Come In At the Door | We Shall All Be Reunited | Frosty Morn | The Cuckoo | Fiddle Tune Medley | I\'m Going Back To The Old Home | I Miss The Mississippi And You | Talking to Casey | Poor Boy Blues | Cold, Cold World | St. Louis Blues | Streamlined Cannonball | Solid Gone | South Coast | The House Carpenter | The Train That Carried My Girl From Town | Black Mountain Rag | I Told Them All About You | New River Train',
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-06-1464',
+    id: '2025-09-06-1449',
     artist: 'Billy Strings',
     date: '2025-09-06',
     venue: 'Woodward Theatre',
@@ -17402,19 +31670,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-11-1465',
+    id: '2025-09-11-1450',
     artist: 'Billy Strings',
     date: '2025-09-11',
     venue: 'Schaefer Center for the Performing Arts',
     city: 'Boone',
     state: 'NC',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/eZpm5wOUIWw',
     setlist: 'Way Downtown | Shady Grove | Salty Sheep | Greenville Trestle High | Blue Railroad Train | Smoke, Smoke, Smoke That Cigarette | I\'m Going Back To The Old Home | If I Needed You | Don\'t Think Twice, It\'s Alright | Doc\'s Guitar | Darling Corey | Life Gets Tee-jus, Don\'t It | Southbound | Open Up Them Pearly Gates | Matty Groves | Brown\'s Ferry Blues | Italy | Little Sadie | Groundhog | Fiddle Tune Medley | I Miss The Mississippi And You | Talking to Casey | Poor Boy Blues | St. James Hospital | Little Darling Pal Of Mine | Nothing To It | Streamlined Cannonball | South Coast | I Told Them All About You | The Train That Carried My Girl From Town | Black Mountain Rag | Alberta | More Pretty Girls Than One | Beaumont Rag',
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-12-1466',
+    id: '2025-09-12-1451',
     artist: 'Billy Strings',
     date: '2025-09-12',
     venue: 'Schaefer Center for the Performing Arts',
@@ -17426,19 +31694,67 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-14-1467',
+    id: '2025-09-14-1452',
     artist: 'Billy Strings',
     date: '2025-09-14',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
     state: 'TN',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/FVPZg1IuEFo',
     setlist: 'Way Downtown | Shady Grove | Little Darling Pal Of Mine | Salty Sheep | Walk On Boy | There\'s More Pretty Girls Than One | Summertime | Southbound | If I Needed You | Don\'t Think Twice, It\'s Alright | I\'m Going Back To The Old Home | Life Gets Tee-jus, Don\'t It | St. James Hospital | Nothing To It | We Shall Be Reunited | Country Blues | Frosty Morn | Talking to Casey | Poor Boy Blues | I Miss The Mississippi And You | What Does The Deep Sea Say | Beaumont Rag | Alberta | Smoke, Smoke, Smoke That Cigarette | The Train That Carried My Girl From Town | Black Mountain Rag | St. Louis Blues | Darling Corey | Moody River | South Coast | Gonna Lay Down My Old Guitar | Solid Gone | Nashville Blues',
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-15-1468',
+    id: '2025-09-14-bonus-1453-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-09-14',
+    venue: 'Ryman Auditorium (Part 2)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/cdr-ou-1xlY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-09-14-bonus-1453-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-09-14',
+    venue: 'Ryman Auditorium (Part 3)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/laMN_ACWv_w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-09-14-bonus-1453-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-09-14',
+    venue: 'Ryman Auditorium (Part 4)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/yh3s5VCo3sc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-09-14-bonus-1453-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-09-14',
+    venue: 'Ryman Auditorium (Part 5)',
+    city: 'Nashville',
+    state: 'TN',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/YN8MjawY1Ew',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-09-15-1453',
     artist: 'Billy Strings',
     date: '2025-09-15',
     venue: 'Ryman Auditorium',
@@ -17450,7 +31766,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-16-1469',
+    id: '2025-09-16-1454',
     artist: 'Billy Strings',
     date: '2025-09-16',
     venue: 'The Signal',
@@ -17462,7 +31778,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-17-1470',
+    id: '2025-09-17-1455',
     artist: 'Billy Strings',
     date: '2025-09-17',
     venue: 'The Signal',
@@ -17474,7 +31790,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-09-20-1471',
+    id: '2025-09-20-1456',
     artist: 'Billy Strings',
     date: '2025-09-20',
     venue: 'Farm Aid',
@@ -17486,7 +31802,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-03-1472',
+    id: '2025-10-03-1457',
     artist: 'Billy Strings',
     date: '2025-10-03',
     venue: 'Sentrum Scene',
@@ -17498,7 +31814,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-05-1473',
+    id: '2025-10-05-1458',
     artist: 'Billy Strings',
     date: '2025-10-05',
     venue: 'Poolen',
@@ -17510,91 +31826,103 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-07-1474',
+    id: '2025-10-07-1459',
     artist: 'Billy Strings',
     date: '2025-10-07',
     venue: 'TivoliVredenburg',
     city: 'Utrecht',
     state: 'NLD',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/UhgQN8QB0B4',
     setlist: 'Secrets | Dusty Miller | Doin\' Things Right | Be Your Man | Taking Water | Walk On Boy | Highway Hypnosis | Enough To Leave | Dealing Despair | Bluegrass Breakdown | Lumpy, Beanpole And Dirt | Frosty Morn | Crawdad Hole | Catch and Release | Sally Goodin | Know It All | Watch It Fall | Seney Stretch | Don\'t Be Calling Me (at 4AM) | Crossing Muddy Waters | Think Of What You\'ve Done | Everything\'s The Same | Home | Meet Me at the Creek',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-08-1475',
+    id: '2025-10-08-1460',
     artist: 'Billy Strings',
     date: '2025-10-08',
     venue: 'TivoliVredenburg',
     city: 'Utrecht',
     state: 'NLD',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/0rIP7a7BEBw',
     setlist: 'Leaning On A Traveling Song | John Deere Tractor | Heartbeat Of America | In The Morning Light | Libby Phillips Rag | Living Like An Animal | New Country Blues | Harbor Of Love | Thirst Mutilator | Running | Seven Weeks In County | Sweet Blue Eyed Darlin | Guitar Peace | Fearless | California Sober | Sunny Side of the Mountain | Love Like Me | Ashland Breakdown | All Of Tomorrow | End Of The Rainbow | 10,000 Miles From A Friend | With a Vamp in the Middle | Cabin Song | Wargasm | Freedom | Uncle Pen',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-10-1476',
+    id: '2025-10-10-1461',
     artist: 'Billy Strings',
     date: '2025-10-10',
     venue: 'Royal Albert Hall',
     city: 'London',
     state: 'GB',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/mcLcYSRrvnQ',
     setlist: 'Red Daisy | Gild the Lily | Hellbender | Dust In A Baggie | Leaving London | Show Me The Door | Dawg\'s Rag | Stratosphere Blues / I Believe in You | In The Clear | Turmoil and Tinfoil | The Fire On My Tongue | Ole Slew-Foot | Age | My Alice | Away From The Mire | And Am I Born to Die? | Brown\'s Ferry Blues | Dos Banjos | Escanaba | Nights In White Satin | Pretty Daughter | Psycho | Hide And Seek | Richard Petty | Tennessee',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-12-1477',
+    id: '2025-10-12-1462',
     artist: 'Billy Strings',
     date: '2025-10-12',
     venue: 'The National Stadium',
     city: 'Dublin',
     state: 'IRL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/pwyYI64nlbc',
     setlist: 'Taking Water | Ice Bridges | Streamlined Cannonball | Cold, Cold World | Enough To Leave | Malfunction Junction | Drifter\'s Escape | Hollow Heart | St. Louis Blues | While I\'m Waiting Here | Likes of Me | Pyramid Country | Little Maggie | The Hobo Song | I\'m One Of Those | Hello, City Limits | Fire Line | Be Your Man | St. James Hospital | It Ain\'t Before | I Miss The Mississippi And You | Highway Hypnosis | Home | The Beginning of the End | Colleen Malone',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-23-1478',
+    id: '2025-10-23-1463',
     artist: 'Billy Strings',
     date: '2025-10-23',
     venue: 'The Orion Amphitheater',
     city: 'Huntsville',
     state: 'AL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/40wkWJ25Oyk',
     setlist: 'Long Forgotten Dream | While I\'m Waiting Here | Pyramid Country | Ridin\' That Midnight Train | Love And Regret | Hellbender | Senor | Alabama Bound | My Alice | Hide And Seek | Secrets | Wild Bill Jones | Heartbeat Of America | In The Morning Light | Dusty Miller | Must Be Seven | Psycho | Meet Me at the Creek | Don\'t Let The Sunshine Fool Ya | Seven Weeks In County | Natural Born Gamblin\' Man | Happy Hollow',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-24-1479',
+    id: '2025-10-24-1464',
     artist: 'Billy Strings',
     date: '2025-10-24',
     venue: 'The Orion Amphitheater',
     city: 'Huntsville',
     state: 'AL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/loG2lUCdED4',
     setlist: 'The Train That Carried My Girl From Town | Black Mountain Rag | Taking Water | Rueben\'s Train | 10,000 Miles From A Friend | A Robin Built A Nest On Daddy\'s Grave | Away From The Mire | Stratosphere Blues / I Believe in You | In The Clear | Ashland Breakdown | Be Your Man | Home | Country Blues | Fiddle Tune Medley | Catch and Release | Malfunction Junction | The Fire On My Tongue | Gild the Lily | Steam Powered Aereo Plane | Dust In A Baggie | Love Like Me | I\'m One Of Those | Turmoil and Tinfoil | Sophronie | 15 Steps | My Sweet Blue-Eyed Darlin\'',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-25-1480',
+    id: '2025-10-25-1465',
     artist: 'Billy Strings',
     date: '2025-10-25',
     venue: 'The Orion Amphitheater',
     city: 'Huntsville',
     state: 'AL',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Lvtk2SzIV8s',
     setlist: 'Leaning On A Traveling Song | Sally Johnson | Fire Line | End Of The Rainbow | Show Me The Door | This Old World | Escanaba | On The Line | Ruby | Crown Of Thorns | Wargasm | Big Spike Hammer | Nashville Blues | Dos Banjos | Red Daisy | Lonesome Moonlight Waltz | California Sober | Ain\'t Nothing to Me | Doin\' Things Right | Cabin Song | Tangled Up in Blue | All Fall Down | The Beginning of the End | Leadfoot | Tennessee',
     thumbnailUrl: ''
   },
   {
-    id: '2025-10-31-1481',
+    id: '2025-10-25-bonus-1466-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-10-25',
+    venue: 'The Orion Amphitheater (Part 2)',
+    city: 'Huntsville',
+    state: 'AL',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/NPo4x4Vz-j8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-10-31-1466',
     artist: 'Billy Strings',
     date: '2025-10-31',
     venue: 'CFG Bank Arena',
@@ -17606,91 +31934,151 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-01-1482',
+    id: '2025-11-01-1467',
     artist: 'Billy Strings',
     date: '2025-11-01',
     venue: 'CFG Bank Arena',
     city: 'Baltimore',
     state: 'MD',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/iOFLFRY8yLU',
     setlist: 'My Alice | Whisper My Name | Malfunction Junction | The Fire On My Tongue | Malfunction Junction | Crossing Muddy Waters | Heartbeat Of America | Down In The Hollow | Get No Better | Home Of The Red Fox | Ole Slew-Foot | Seven Weeks In County | Ernest T. Grass | Know It All | John Deere Tractor | Gild the Lily | Harbor Of Love | Dust In A Baggie | Cold, Cold World | Be Your Man | Gone A Long Time | Tennessee Stud | Away From The Mire | Running on Empty | Back on the Train',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-07-1483',
+    id: '2025-11-07-1468',
     artist: 'Billy Strings',
     date: '2025-11-07',
     venue: 'PPG Paints Arena',
     city: 'Pittsburgh',
     state: 'PA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/C8KWqqYw9kY',
     setlist: 'I\'m One Of Those | Turmoil and Tinfoil | Happy Hollow | I Only Exist | Running The Route | Hollow Heart | 10,000 Miles From A Friend | Ernest T. Grass | How Mountain Girls Can Love | Long Forgotten Dream | Slow Train | In The Clear | Whispers of the North | Libby Phillips Rag | Must Be Seven | While I\'m Waiting Here | Meet Me at the Creek | Stratosphere Blues / I Believe in You | Seney Stretch | Don\'t Be Calling Me (at 4AM) | Rank Stranger | Likes of Me | Pyramid Country | Secrets | Richard Petty | Katy Daly',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-08-1484',
+    id: '2025-11-08-1469',
     artist: 'Billy Strings',
     date: '2025-11-08',
     venue: 'PPG Paints Arena',
     city: 'Pittsburgh',
     state: 'PA',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/ocgpnlc8WX8',
     setlist: 'Leaning on a Travelin\' Song | Hellbender | This Old World | The House Carpenter | Cocaine Blues | Love And Regret | Lumpy, Beanpole And Dirt | Everything\'s The Same | Psycho | Hide And Seek | Love Like Me | Dark Hollow | Red Daisy | Doin\' My Time | Escanaba | Highway Hypnosis | Wait A Minute | Taking Water | Running | Show Me The Door | Smoke, Smoke, Smoke That Cigarette | Doin\' Things Right | Southern Flavor | Love Or Confusion | Dust In A Baggie | Make Me A Pallet On Your Floor | Y\'All Come',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-11-1485',
+    id: '2025-11-11-1470',
     artist: 'Billy Strings',
     date: '2025-11-11',
     venue: 'Blue Cross Arena',
     city: 'Rochester',
     state: 'NY',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/nVevffuKRsA',
     setlist: 'Wargasm | West Dakota Rose | In The Morning Light | Windows | Thunder | California Sober | My Alice | The Fire On My Tongue | Know It All | Dos Banjos | Fiddle Tune Medley | Catch and Release | Home | On The Line | Alberta | Gone A Long Time | Heartbeat Of America | Northern White Clouds | Gild the Lily | Away From The Mire | Living Like An Animal | The Cuckoo | Seven Weeks In County | We Shall All Be Reunited | Roll On Buddy, Roll On',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-12-1486',
+    id: '2025-11-12-1471',
     artist: 'Billy Strings',
     date: '2025-11-12',
     venue: 'MVP Arena',
     city: 'Albany',
     state: 'NY',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/uSyVy5gthDQ',
     setlist: 'Richard Petty | Happy Hollow | Malfunction Junction | Airmail Special | While I\'m Waiting Here | Enough To Leave | In The Clear | Matty Groves | Country Blues | Sally Goodin\' | Secrets | Meet Me at the Creek | Guitar Peace | Fearless | Turmoil & Tinfoil | Stratosphere Blues / I Believe in You | All Of Tomorrow | Bronzeback | Hello City Limits | Fire Line | Thirst Mutilator | Cabin Song | 10,000 Miles From A Friend | The Beginning of the End | Freedom',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-14-1487',
+    id: '2025-11-14-1472',
     artist: 'Billy Strings',
     date: '2025-11-14',
     venue: 'Prudential Center',
     city: 'Newark',
     state: 'NJ',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/_aEgZrABdYU',
     setlist: 'I\'m One Of Those | Age | St. Louis Blues | It Ain\'t Before | Hellbender | Escanaba | Highway Hypnosis | Show Me The Door | Little Maggie | Harbor Of Love | Red Daisy | Libby Phillips Rag | End Of The Rainbow | Leadfoot | Don\'t Be Calling Me (at 4AM) | Seney Stretch | Sally Johnson | Love And Regret | Dust In A Baggie | Leaders | Planet Caravan | Spinning | So Many Miles | Everything\'s The Same | With a Vamp in the Middle | This Heart of Mine',
     thumbnailUrl: ''
   },
   {
-    id: '2025-11-15-1488',
+    id: '2025-11-15-1473',
     artist: 'Billy Strings',
     date: '2025-11-15',
     venue: 'Prudential Center',
     city: 'Newark',
     state: 'NJ',
     year: 2025,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/TbNF2R16V2o',
     setlist: 'Play a Train Song | The Fire On My Tongue | Ridin\' That Midnight Train | Heartbeat Of America | In The Morning Light | All Time Low | Running | Gild the Lily | Seven Weeks In County | Away From The Mire | Catch and Release | Brown\'s Ferry Blues | Georgia Buck | Pyramid Country | Know It All | My Alice | Be Your Man | Natural Born Gamblin\' Man | Charlie\'s Birthday Breakdown | This Old World | Love Like Me | Hide And Seek | Pancho and Lefty | Tennessee',
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-05-1489',
+    id: '2025-11-15-bonus-1474-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-11-15',
+    venue: 'Prudential Center (Part 2)',
+    city: 'Newark',
+    state: 'NJ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/5r36VFV0FgQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-11-15-bonus-1474-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-11-15',
+    venue: 'Prudential Center (Part 3)',
+    city: 'Newark',
+    state: 'NJ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/y0fFbWijNdw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-11-15-bonus-1474-3',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-11-15',
+    venue: 'Prudential Center (Part 4)',
+    city: 'Newark',
+    state: 'NJ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/E49-9ZAC04s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-11-15-bonus-1474-4',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-11-15',
+    venue: 'Prudential Center (Part 5)',
+    city: 'Newark',
+    state: 'NJ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/SwiSk430o1k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-11-15-bonus-1474-5',
+    artist: 'Billy Strings (Archive)',
+    date: '2025-11-15',
+    venue: 'Prudential Center (Part 6)',
+    city: 'Newark',
+    state: 'NJ',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/9MthGxSN7-g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2025-12-05-1474',
     artist: 'Billy Strings',
     date: '2025-12-05',
     venue: 'KFC Yum! Center',
@@ -17702,7 +32090,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-06-1490',
+    id: '2025-12-06-1475',
     artist: 'Billy Strings',
     date: '2025-12-06',
     venue: 'KFC Yum! Center',
@@ -17714,7 +32102,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-10-1491',
+    id: '2025-12-10-1476',
     artist: 'Billy Strings',
     date: '2025-12-10',
     venue: 'Bok Center',
@@ -17726,7 +32114,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-12-1492',
+    id: '2025-12-12-1477',
     artist: 'Billy Strings',
     date: '2025-12-12',
     venue: 'Dickies Arena',
@@ -17738,7 +32126,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-13-1493',
+    id: '2025-12-13-1478',
     artist: 'Billy Strings',
     date: '2025-12-13',
     venue: 'Moody Center',
@@ -17750,7 +32138,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2025-12-14-1494',
+    id: '2025-12-14-1479',
     artist: 'Billy Strings',
     date: '2025-12-14',
     venue: 'ACL Live at The Moody Theater',
@@ -17762,31 +32150,55 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-06-1496',
+    id: '2026-02-06-1480',
     artist: 'Billy Strings',
     date: '2026-02-06',
     venue: 'Akins Ford Arena',
     city: 'Athens',
     state: 'GA',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/xNseG6wrKAs',
     setlist: 'Bringing In The Georgia Mail | The Fire On My Tongue | Long Forgotten Dream | Crossing Muddy Waters | Taking Water | Ice Bridges | Ten Degrees And Colder | Turmoil and Tinfoil | All Time Low | Heartbeat Of America | Georgia Buck | Catch and Release | Dos Banjos | Pyramid Country | Ole Slew-Foot | Hellbender | Fire Line | Rueben\'s Train | My Alice | Hide And Seek | Me and My Uncle | Cassidy',
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-07-1497',
+    id: '2026-02-07-1481',
     artist: 'Billy Strings',
     date: '2026-02-07',
     venue: 'Akins Ford Arena',
     city: 'Athens',
     state: 'GA',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/bPArNsImERE',
     setlist: 'Leaning on a Travelin\' Song | In The Clear | Ashland Breakdown | John Deere Tractor | Ernest T. Grass | Must Be Seven | Likes of Me | Harbor Of Love | Slow Train | Escanaba | Psycho | Meet Me at the Creek | Show Me The Door | Seven Weeks In County | Freeborn Man | Along the Road | Streamlined Cannonball | Love Like Me | Highway Hypnosis | Gild the Lily | Salty Dog Blues | Wargasm | The Beginning of the End',
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-10-1498',
+    id: '2026-02-07-bonus-1482-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2026-02-07',
+    venue: 'Akins Ford Arena (Part 2)',
+    city: 'Athens',
+    state: 'GA',
+    year: 2026,
+    videoUrl: 'https://www.youtube.com/embed/RGCD_8cAHis',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2026-02-07-bonus-1482-2',
+    artist: 'Billy Strings (Archive)',
+    date: '2026-02-07',
+    venue: 'Akins Ford Arena (Part 3)',
+    city: 'Athens',
+    state: 'GA',
+    year: 2026,
+    videoUrl: 'https://www.youtube.com/embed/o4lBnr0iZNQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2026-02-10-1482',
     artist: 'Billy Strings',
     date: '2026-02-10',
     venue: 'Exploreasheville.com Arena',
@@ -17798,7 +32210,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-11-1499',
+    id: '2026-02-11-1483',
     artist: 'Billy Strings',
     date: '2026-02-11',
     venue: 'Exploreasheville.com Arena',
@@ -17810,7 +32222,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-13-1500',
+    id: '2026-02-13-1484',
     artist: 'Billy Strings',
     date: '2026-02-13',
     venue: 'Exploreasheville.com Arena',
@@ -17822,7 +32234,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-14-1501',
+    id: '2026-02-14-1485',
     artist: 'Billy Strings',
     date: '2026-02-14',
     venue: 'Exploreasheville.com Arena',
@@ -17834,79 +32246,91 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-20-1502',
+    id: '2026-02-20-1486',
     artist: 'Billy Strings',
     date: '2026-02-20',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/Z3ZWivP_3I4',
     setlist: 'Hello, City Limits | Happy Hollow | I\'m One Of Those | Meet Me at the Creek | Old Man At The Mill | Clinch Mountain Backstep | I Miss The Mississippi And You | Katy Daly | Home | Secrets | Fly Away | Ain\'t Nothing to Me | Love And Regret | Johnny B. Goode | Red Daisy | Escanaba | Seven Weeks In County | Crown Of Thorns | Wargasm | Sally Goodin | Ridin\' That Midnight Train | Freedom | Y\'All Come',
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-21-1503',
+    id: '2026-02-21-1487',
     artist: 'Billy Strings',
     date: '2026-02-21',
     venue: 'Bridgestone Arena',
     city: 'Nashville',
     state: 'TN',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/DDWWiMQ0YuM',
     setlist: 'Malfunction Junction | Know It All | While I\'m Waiting Here | Reverend | In The Morning Light | Baltimore Johnny | On And On | Highway Hypnosis | Leaning on a Travelin\' Song | Dust In A Baggie | 10,000 Miles From A Friend | Away From The Mire | Long Forgotten Dream | New Country Blues | Stratosphere Blues / I Believe in You | Taking Water | Seney Stretch | 15 Steps | Gild the Lily | We Shall Be Reunited | Little Maggie',
     thumbnailUrl: ''
   },
   {
-    id: '2026-02-22-1504',
+    id: '2026-02-22-1488',
     artist: 'Billy Strings',
     date: '2026-02-22',
     venue: 'Ryman Auditorium',
     city: 'Nashville',
     state: 'TN',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/EhObovViIHI',
     setlist: 'The Fire On My Tongue | Bronzeback | Be Your Man | Everything\'s The Same | Cabin Song | Catch and Release | Dos Banjos | Hellbender | Heartbeat Of America | Gone A Long Time | Running The Route | Hollow Heart | Leadfoot | Fire Line | Thirst Mutilator | Running | Watch It Fall | Leaders | Doin\' Things Right | The Beginning of the End | Hide And Seek',
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-02-1505',
+    id: '2026-04-02-1489',
     artist: 'Billy Strings',
     date: '2026-04-02',
     venue: 'St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/QSJgjS9vjv8',
     setlist: 'Everything\'s The Same | Sally Johnson | While I\'m Waiting Here | Hellbender | Taking Water | Ice Bridges | I\'m One Of Those | Turmoil and Tinfoil | Night Fishing | Bronzeback | Secrets | Doin\' Things Right | Southern Flavor | Dealing Despair | Heartbeat Of America | Rank Stranger | My Alice | Hide And Seek | Gild the Lily | Something To Look Forward To | Drifting with the Tide',
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-03-1506',
+    id: '2026-04-03-1490',
     artist: 'Billy Strings',
     date: '2026-04-03',
     venue: 'St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/VJ0VG0hHgpg',
     setlist: 'Happy Hollow | Hello, City Limits | Love And Regret | In The Clear | Escanaba | Think Of What You\'ve Done | Away From The Mire | Long Forgotten Dream | Summertime | A Robin Built A Nest On Daddy\'s Grave | Watch It Fall | Fiddling Around | Dust In A Baggie | Seven Weeks In County | Show Me The Door | Fire Line | Running The Route | It Ain\'t Before | This Old World | Malfunction Junction | Little Maggie | 10,000 Miles From A Friend | Wilted Flowers | How Mountain Girls Can Love | Dark Hollow | Someday You\'ll Call My Name | Y\'All Come',
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-04-1507',
+    id: '2026-04-04-1491',
     artist: 'Billy Strings',
     date: '2026-04-04',
     venue: 'St. Augustine Amphitheatre',
     city: 'St. Augustine',
     state: 'FL',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/13f5kaqZQm8',
     setlist: 'The Fire On My Tongue | Know It All | Psycho | Pyramid Country | Home | Harbor Of Love | Slow Train | Nothing\'s Working | Wargasm | Leaning On A Traveling Song | Seney Stretch | Don\'t Be Calling Me (at 4AM) | End Of The Rainbow | Dawg\'s Rag | In The Morning Light | Cattle In The Cane | Age | Enough To Leave | Lumpy, Beanpole And Dirt | Love Among The Tombstones | Highway Hypnosis | The Beginning of the End | We Shall All Be Reunited',
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-08-1508',
+    id: '2026-04-04-bonus-1492-1',
+    artist: 'Billy Strings (Archive)',
+    date: '2026-04-04',
+    venue: 'St. Augustine Amphitheatre (Part 2)',
+    city: 'St. Augustine',
+    state: 'FL',
+    year: 2026,
+    videoUrl: 'https://www.youtube.com/embed/YqtuALzgdR0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: '2026-04-08-1492',
     artist: 'Billy Strings',
     date: '2026-04-08',
     venue: 'Benchmark International Arena',
@@ -17918,7 +32342,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-10-1509',
+    id: '2026-04-10-1493',
     artist: 'Billy Strings',
     date: '2026-04-10',
     venue: 'Enmarket Arena',
@@ -17930,7 +32354,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-11-1510',
+    id: '2026-04-11-1494',
     artist: 'Billy Strings',
     date: '2026-04-11',
     venue: 'Enmarket Arena',
@@ -17942,19 +32366,19 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-14-1511',
+    id: '2026-04-14-1495',
     artist: 'Billy Strings',
     date: '2026-04-14',
     venue: 'First Horizon Coliseum',
     city: 'Greensboro',
     state: 'NC',
     year: 2026,
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/embed/zQSfjSmWuqY',
     setlist: 'Long Forgotten Dream | The Cuckoo | The Train That Carried My Girl From Town | Black Mountain Rag | Pyramid Country | Must Be Seven | 15 Steps | In The Morning Light | Little Sadie | Highway Hypnosis | Turmoil and Tinfoil | Seney Stretch | I Miss The Mississippi And You | The Fire On My Tongue | Ridin\' That Midnight Train | Fire Line | Running The Route | Blue Ridge Mountain Blues | In The Clear | Nutshell | Wargasm | Hold the Woodpile Down',
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-17-1512',
+    id: '2026-04-17-1496',
     artist: 'Billy Strings',
     date: '2026-04-17',
     venue: 'John Paul Jones Arena',
@@ -17966,7 +32390,7 @@ export const SHOWS: Show[] = [
     thumbnailUrl: ''
   },
   {
-    id: '2026-04-18-1513',
+    id: '2026-04-18-1497',
     artist: 'Billy Strings',
     date: '2026-04-18',
     venue: 'John Paul Jones Arena',
@@ -17975,6 +32399,4470 @@ export const SHOWS: Show[] = [
     year: 2026,
     videoUrl: '',
     setlist: 'Taking Water | Ice Bridges | Gone A Long Time | Love Like Me | Home Of The Red Fox | Secrets | East Virginia Blues | Hellbender | Doin\' Things Right | Dealing Despair | Cold, Cold World | On The Line | Train 45 | Leadfoot | I\'m One Of Those | Cold Virginia Night | Bronzeback | My Alice | She Left Me Standing On The Mountain | Don\'t Be Calling Me (at 4AM) | My Love Come Rolling Down | Hide And Seek | Train, Train | Hide And Seek',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-0-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/OPOzgNHr2dk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-1-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/qY_-py1oSNQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-2-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/dumi59OzDpU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-3-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/lrFUjpPMCp8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-4-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/v0M-VEU5lgQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-5-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/Kz0uB4aScc4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-6-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/lxjBfFe4SiA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-7-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/dhK_N2XHk2E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-8-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/hG2WCpZUZKM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-9-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/14b4MSJrnAw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-10-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/QKi4Y0NGH9w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-11-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/0C1kQTCtxP8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-12-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/NQbZv7f_anA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-13-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/hhtEFIhgJis',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-14-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/zRSWpBHJp1o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-15-15',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 16)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/ce4Is_6BqpM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-16-16',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 17)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/QToLqWjQ73o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-17-17',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 18)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/A3Wu_MCbb9c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-18-18',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 19)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/VqiBybN6JWc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-19-19',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 20)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/u5EDd7FMKcQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-20-20',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 21)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/mKQ59I7JwWg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-21-21',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 22)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/ZKyBfbA22PE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-22-22',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 23)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/PBZIp5FLqY4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-23-23',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 24)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/1KeAjvGfroU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-24-24',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 25)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/DZcFXMOewvg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-25-25',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 26)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/AGScvVTHqQo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-26-26',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 27)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/BkjCUHpGiwI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-27-27',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 28)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/CBPjv6iN5PM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-28-28',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 29)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/UEePUI6MxkQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-29-29',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 30)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/mXIDWr-EAgo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-30-30',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 31)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/s3RcIJt9iDI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-31-31',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 32)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/uXNaIDTWH0o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-32-32',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 33)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/tIPBYUZF8oo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-33-33',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 34)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/lF8LyQCirvw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-34-34',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 35)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/F2h7IK-Q1rY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-14-35-35',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-14',
+    venue: 'Special Session / Fan Upload (Part 36)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/u1mNI0hsu6k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-17-36-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-17',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/y9a7r3mJafU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-17-37-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-17',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/LlY1cZKGNIk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2011-05-17-38-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2011-05-17',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2011,
+    videoUrl: 'https://www.youtube.com/embed/Foz9Dny1KNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-39-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/kKYLR5Aa5HI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-40-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/QN4WSPluxZY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-41-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/D4lRzOuJnVs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-42-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/0d3AlpfE17M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-43-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/LeRi6BpLXDY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-44-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/J6Ri13Ihv3c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-45-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZwuPUu0i_Cg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-46-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/k7yAk4XVy2Y',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-47-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/eY7hCR8Dt-s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-48-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/8n7tC6dMD0U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-49-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/AeGgoYalkJI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-50-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/eSl1uzxYr6A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-51-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/NVzqTTtkgI4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-52-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/jdvYH8Ct7Og',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-53-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/iJvbKZt5eKM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-54-15',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 16)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/uXs8ag5dZN8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-55-16',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 17)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/7FWE8cO7lUM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-56-17',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 18)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/JlNN4qVFQC0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-57-18',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 19)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/o_8k5FgMghk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-58-19',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 20)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/fC8NmNXa9po',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-59-20',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 21)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/2METvy5bP6s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-60-21',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 22)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/LR-T2qTLF6o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-61-22',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 23)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/4r2t-x5bFXQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-62-23',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 24)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/uZJjmS1zclk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-63-24',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 25)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/to9kSq_RZa0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-64-25',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 26)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/1Wd_jpDvCRo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-65-26',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 27)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/U8o05-TWF2A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-66-27',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 28)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZTNWvPWb-B4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-67-28',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 29)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/uqtrP36rOZ0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-68-29',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 30)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ReqA-uCJSrI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-69-30',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 31)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/nygOtfS249c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-70-31',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 32)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/I8CkK0aeUII',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-71-32',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 33)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/OETl5Mn0ygY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-72-33',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 34)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/nhwGK9C0hsk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-73-34',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 35)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/vlgsF847Jvw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-74-35',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 36)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/zI07TzkwOPs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-75-36',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 37)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/2tipH6t1oWU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-76-37',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 38)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/kRo-lIKWPXY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-77-38',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 39)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/IUhCZmaAhoU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-78-39',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 40)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/hzlg4asEs9g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-79-40',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 41)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/62Jpg7g2j8A',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-80-41',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 42)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/DgaIrWpEneM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-81-42',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 43)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/YqswtOu1e4E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-82-43',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 44)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/VF-xzKciEy8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-83-44',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 45)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ift4yS36I20',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-84-45',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 46)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/dgmFLdvAkxE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-85-46',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 47)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/7cak46GUOgE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-86-47',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 48)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/dse9JO5MWig',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-87-48',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 49)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/TnYksBBoFLg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-88-49',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 50)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/EozQu6JVHpY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-89-50',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 51)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/4l_LNHs3ZiU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-90-51',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 52)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZuQYQANYXTU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-91-52',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 53)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/d-pmDdU3oY0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-92-53',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 54)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/1HRQjLlpKuU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-93-54',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 55)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/v_ZkGvSucrU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-94-55',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 56)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/RB1FvlKCU5Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-95-56',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 57)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/cndN1IXdraM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-96-57',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 58)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/CAEbB5wnBr8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-97-58',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 59)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/CDnRaAT1R5o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-98-59',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 60)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/AKk-JbeC8gw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-99-60',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 61)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/gIpXL7gn1qg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-100-61',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 62)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZQ9cJNdz2Cw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-101-62',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 63)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/jpx1Ak48GWI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-102-63',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 64)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/B5eBhmUI-fc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-103-64',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 65)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/IwC5wvkqOaA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-104-65',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 66)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/5lrnGru4aQg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-105-66',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 67)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Gsp7Qpj1N5c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-106-67',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 68)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/-OlmCz-YyGI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-107-68',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 69)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/pEquAzZTM6o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-108-69',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 70)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/RByuWezRbCQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-109-70',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 71)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/tsScgbfoQjo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-110-71',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 72)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/XWKZDoKYveI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-111-72',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 73)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/SVNDYMYyQaI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-112-73',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 74)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/l1RQO1dOsPo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-113-74',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 75)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/x-Hz9X7K8Yo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-114-75',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 76)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/utO5RnwuPHk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-115-76',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 77)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/JjWq-6XYVxs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-116-77',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 78)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/V6IkLlmvcv0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-117-78',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 79)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/tMdwRYFdmT4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-118-79',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 80)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/8HoUuTjk4B4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-119-80',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 81)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/aS0xxzRJi1w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-120-81',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 82)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/haXSwDsAH1s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-121-82',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 83)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/k8IRnIGd6_g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-122-83',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 84)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/1Gq0ei6PU9g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-123-84',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 85)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/fFG2iOEEGeo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-124-85',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 86)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/3DhS5GEvoWA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-125-86',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 87)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/d0FC-9zNcH4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-126-87',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 88)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/l7jyNeVnju4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-127-88',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 89)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/NSXXGx7WyDA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-128-89',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 90)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/7vlqBCNW4JU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-129-90',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 91)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/jjjJevYudaI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-130-91',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 92)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Po6fbNz0KTQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-131-92',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 93)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/-6t4ieAjdeI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-132-93',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 94)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/cg8aoIfhUKQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-133-94',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 95)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Vo41-syibL4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-134-95',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 96)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZoSPEeIrkKw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-135-96',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 97)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/c0GhH7028v0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-136-97',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 98)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/PDz0Wduq0Fs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-137-98',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 99)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/IAxxrxOvrPE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-138-99',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 100)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/xBpmxnzG6U8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-139-100',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 101)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/UCv4lsbHp0o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-140-101',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 102)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZXJMpuC0dfw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-141-102',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 103)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/L3T5FmxHcNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-142-103',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 104)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/aRV8OyyKD8s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-143-104',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 105)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/HWZKwT-wC-M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-144-105',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 106)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/w2-Ha-vpESY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-145-106',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 107)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/JOwBD2bDcwY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-146-107',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 108)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ueVlTqoEi_U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-147-108',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 109)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/KlhhNgQd47w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-148-109',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 110)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/rG7sM3q023U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-149-110',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 111)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/YCJKsrDl_D0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-150-111',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 112)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/-PJPuNMDfG4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-151-112',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 113)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/R6dEyni74e0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-152-113',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 114)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/UC3qk-ISCtY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-153-114',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 115)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/WTvQYupOtyM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-154-115',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 116)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/PP5FxlWwxh8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-155-116',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 117)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Xq5lsjTRDl4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-156-117',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 118)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/e2a5V0jChnc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-157-118',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 119)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/39TBBqUF0qo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-158-119',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 120)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/FlSQgluBwlY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-159-120',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 121)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/uG89f0nqFAE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-160-121',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 122)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/dBSIwBAAvRg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-161-122',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 123)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/UEBdRx26zfo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-162-123',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 124)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/7Z_yqBzh2aE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-163-124',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 125)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/9nZTzm67jks',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-164-125',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 126)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/jdKibaL8jxA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-165-126',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 127)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/bhH7rqGaDxg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-166-127',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 128)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/xmBlIYXfPgo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-167-128',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 129)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/LScRlJTC3lA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-168-129',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 130)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Cpw7qzzDvm4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-169-130',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 131)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Fnst2KCj6z0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-170-131',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 132)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/J0xeqSYv6Ug',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-171-132',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 133)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/UbFqwnEsmU8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-172-133',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 134)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/Mee46-v3Tj8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-173-134',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 135)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/-iWFJaAmLmk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-174-135',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 136)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/sC_cMIwf6s4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-175-136',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 137)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/baYODRBp0HY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-176-137',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 138)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/sssakz1Jd_o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-177-138',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 139)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/xZOcWRYpGg4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-178-139',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 140)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/DE3pkh-xnc4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-179-140',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 141)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/bND81hCUrMM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-180-141',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 142)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/BZbNQ9QE11w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-181-142',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 143)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/l1Xnb7daIvk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-182-143',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 144)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/6vkkScuyZag',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-183-144',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 145)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/9vhxiqeHsTg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-184-145',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 146)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/zd1qnAbqsqE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-185-146',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 147)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/1ESVz0oC27s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-186-147',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 148)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/GEKhPJ6Zk0o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-187-148',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 149)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/TxJowZX4vIA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-188-149',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 150)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/E1xCKZ_0Mpo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-189-150',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 151)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/CRHE0caFxJ4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-190-151',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 152)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/ZQZrNDA9vJ8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-191-152',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 153)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/YHloiYrqej4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-192-153',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 154)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/QI7eNVlOcu8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-193-154',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 155)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/1_0DnHUvvZQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-194-155',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 156)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/QX2rv3cZDrY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-195-156',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 157)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/R9acWD9NPmg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-196-157',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 158)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/jIqHw3ih3Wg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-197-158',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 159)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/tjnKp084qtA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-198-159',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 160)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/yM5Viwbz5XY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-199-160',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 161)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/0YsdTLRNUVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-200-161',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 162)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/VGN8PfiVbVo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-201-162',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 163)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/hCj0UE4A1pM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-202-163',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 164)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/6bWDAsaDmoo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-203-164',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 165)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/8hdaABoEFe8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-204-165',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 166)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/yol88VP68fw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-205-166',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 167)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/_Tk1nCnyxBo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-206-167',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 168)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/qzla8TQ6zqQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-207-168',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 169)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/TVIBlpSCuh4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-208-169',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 170)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/oKg9tgqW3pI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-209-170',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 171)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/qpSRwmRDte0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-210-171',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 172)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/GtAXspwybI4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2012-01-01-211-172',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2012-01-01',
+    venue: 'Special Session / Fan Upload (Part 173)',
+    city: 'Archive',
+    state: '',
+    year: 2012,
+    videoUrl: 'https://www.youtube.com/embed/uvCXj0xOIlQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-212-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/Q4jpymF8iVk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-213-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/YDfBsPJNqFI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-214-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/sC_cMIwf6s4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-215-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/baYODRBp0HY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-216-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/sssakz1Jd_o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-217-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/xZOcWRYpGg4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-218-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/DE3pkh-xnc4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-219-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/bND81hCUrMM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-220-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/BZbNQ9QE11w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-221-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/l1Xnb7daIvk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-222-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/6vkkScuyZag',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-223-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/9tduzKYivk8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-224-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/vVN8wjQrbNE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-225-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/9vhxiqeHsTg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-226-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/zd1qnAbqsqE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-227-15',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 16)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/1ESVz0oC27s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-228-16',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 17)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/GEKhPJ6Zk0o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-229-17',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 18)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/TxJowZX4vIA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-230-18',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 19)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/E1xCKZ_0Mpo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-231-19',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 20)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/CRHE0caFxJ4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-232-20',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 21)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ZQZrNDA9vJ8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-233-21',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 22)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/YHloiYrqej4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-234-22',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 23)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/QI7eNVlOcu8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-235-23',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 24)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/1_0DnHUvvZQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-236-24',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 25)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/QX2rv3cZDrY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-237-25',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 26)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/R9acWD9NPmg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-238-26',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 27)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/jIqHw3ih3Wg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-239-27',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 28)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/tjnKp084qtA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-240-28',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 29)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/yM5Viwbz5XY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-01-15-241-29',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-01-15',
+    venue: 'Special Session / Fan Upload (Part 30)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/0YsdTLRNUVc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-21-242-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-21',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/vIUi7afmj7s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-21-243-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-21',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/kutn-1JVTA8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-244-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/xnKtHZt-U4o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-245-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/5rlwoBm_Nlg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-246-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/U-nwir0i12w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-247-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/cY0jUi7P24k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-248-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/E5vXf6pNKcs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-249-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/9M3TIEpDN6U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-250-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/MLyos-vXVy8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-251-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/XGOy5JH414k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-252-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/-pDW__4_PFQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-253-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/EXpfgPUh5jM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-254-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/RGlf1QnUnnI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-255-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/zcPKt2-9P7U',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-256-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/5XzvKVfVX10',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-257-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/TwBmP5bGwks',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-03-28-258-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-03-28',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/zMFF7m7f6og',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-259-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ME6puPn_5yc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-260-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/0n05BtMIKP0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-261-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/438EuprOcQA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-262-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/sl4ObkuhYlI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-263-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/Gb58nt8u8XY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-264-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/AtXCeU9VxrA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-265-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/vqoEToDGp9M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-266-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/VZNmuHEHuz8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-267-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ydU1rs0cLHg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-268-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/d0eMhCXJpMU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-269-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/gjy8AC_iiok',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-270-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ZI2XkRN4YOE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-271-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/FI-b7_HBNrA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-272-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/3Ql0yZdmZ7g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-273-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/DkBM4O1k1zA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-274-15',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 16)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/xBpmxnzG6U8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-275-16',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 17)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/UCv4lsbHp0o',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-276-17',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 18)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/ZXJMpuC0dfw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-277-18',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 19)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/L3T5FmxHcNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-278-19',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 20)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/aRV8OyyKD8s',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2013-11-29-279-20',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2013-11-29',
+    venue: 'Special Session / Fan Upload (Part 21)',
+    city: 'Archive',
+    state: '',
+    year: 2013,
+    videoUrl: 'https://www.youtube.com/embed/HWZKwT-wC-M',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-280-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/2HpimHjX8bg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-281-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/urT8XZMqAro',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-282-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/OJSG1okwi8Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-283-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/8KtUYCX_UjI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-284-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/jMLOgsCHVEs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-285-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/BTUPIIBdYNI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-286-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/KD86VYill6g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-287-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/Oa6C9pFHEYE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-288-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/tHvCiDA6k1c',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-289-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/UOFVYLbmdro',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-290-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/q4CaLA1MOII',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-291-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/zF4LSKJJmH0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-292-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/vt-riABrahs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2014-03-28-293-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2014-03-28',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2014,
+    videoUrl: 'https://www.youtube.com/embed/I-t95UUSUCQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-294-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hzA0VrMmRkk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-295-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/qb-1Ej1mL-I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-296-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/2L1bmTJnKLA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-297-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/HQLcduBbrNo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-298-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/CbBeePIFNMg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-299-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/SHvMwfE5QEQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-300-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/rPdlTwkJocs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-301-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/oboTCQlBjfM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-302-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/BIwzQ_4CUAs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-303-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/2KdJ14R10WY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-304-10',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 11)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ZeR0D4q-xcI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-305-11',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 12)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/AmTTn8j8TnI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-306-12',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 13)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/IAYHdEyfRWM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-307-13',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 14)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/O1fxr9vEzgw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-308-14',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 15)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/j7xZAMLyDBs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-309-15',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 16)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/PhSzr-EEqwA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-310-16',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 17)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/DHBFSdYhkIQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-311-17',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 18)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/J5RLm20JkDQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-312-18',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 19)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/khbLv7-tSt0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-313-19',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 20)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/NHG8fLm4JE0',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-314-20',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 21)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/wH2Ra8usJXE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-315-21',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 22)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/ptLRzuoKocI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-316-22',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 23)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/P-Mz12HDZnA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-317-23',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 24)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/BwT3IrBrMD8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-318-24',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 25)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/1BNk5_LzkpI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-319-25',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 26)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/XVbZ7YcZjAE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-320-26',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 27)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/fasjP5g1O8w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-321-27',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 28)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/A7UUYD55k7E',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2015-09-12-322-28',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2015-09-12',
+    venue: 'Special Session / Fan Upload (Part 29)',
+    city: 'Archive',
+    state: '',
+    year: 2015,
+    videoUrl: 'https://www.youtube.com/embed/hiCLTGEfroY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-01-30-323-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-01-30',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/A2P0TNuCOTU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-01-30-324-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-01-30',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kgIrOcfYHMs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-01-30-325-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-01-30',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/rvnlalueHUA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-01-30-326-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-01-30',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/ZU_OAC9pOZo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-01-30-327-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-01-30',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/-XRVpqJFMiI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-02-21-328-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-02-21',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/o2RCCLiKarc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-02-21-329-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-02-21',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/6Oz9r0BmVlY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-02-21-330-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-02-21',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/EOGSMiRrbTA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-02-21-331-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-02-21',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/e1rUvekhMdk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-332-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/mK9Kr31rULw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-333-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/Lg1JMNmArlA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-334-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/9UGRxuJWQYE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-335-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/kecjYtxzC9g',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-336-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/EtEs1r5ZWBY',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-337-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/hTk8duEmWX4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2016-06-01-338-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2016-06-01',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2016,
+    videoUrl: 'https://www.youtube.com/embed/79Q7lUtjMBQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-339-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/hxVWGBWNOWs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-340-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/1t_HbxeKaLs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-341-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/4oafRoszEmQ',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-342-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/pCki9ulp3ug',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-343-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/_A3dRx07myc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-344-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/fP_TirUS8Zk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-01-06-345-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-01-06',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/XYhhAkJJmqo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-04-06-346-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-04-06',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/SKt8SGiFB4w',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-04-06-347-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-04-06',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/Y6u5MGv_e3k',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-04-06-348-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-04-06',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/0b0k27grAzI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-349-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/o-QBZZ6Qvuk',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-350-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5nVm7aq2opg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-351-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/aP25PXLYIe4',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-352-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/W4hrE42-l-I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-353-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/fJmzS_Redh8',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-354-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/qsVJ5UAdnGg',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-355-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/wr3CYsFO048',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2017-07-01-356-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2017-07-01',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2017,
+    videoUrl: 'https://www.youtube.com/embed/5SRJCDy4KBw',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-01-02-357-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-01-02',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/S1HDDugmepo',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-01-13-358-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-01-13',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/mkX5w5eEG0I',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-01-13-359-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-01-13',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Fh1uMma2GZc',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-360-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/6nwg1xiKCes',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-361-1',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 2)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/z6ba7cLY9Ig',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-362-2',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 3)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/_p7gTHvoBoA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-363-3',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 4)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/axnPxcjxfXs',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-364-4',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 5)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/d2RvXNPbrjM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-365-5',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 6)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/VszMEFMBLaI',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-366-6',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 7)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/fHFoUMqkwnM',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-367-7',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 8)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/Hw9zHyapanE',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-368-8',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 9)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/j16tGNDF0RA',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2018-03-26-369-9',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2018-03-26',
+    venue: 'Special Session / Fan Upload (Part 10)',
+    city: 'Archive',
+    state: '',
+    year: 2018,
+    videoUrl: 'https://www.youtube.com/embed/QALRsDVkX6Q',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2019-04-15-370-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2019-04-15',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2019,
+    videoUrl: 'https://www.youtube.com/embed/R_7rUS3AoHU',
+    setlist: '',
+    thumbnailUrl: ''
+  },
+  {
+    id: 'orphan-2025-08-18-371-0',
+    artist: 'Billy Strings (Early YouTube)',
+    date: '2025-08-18',
+    venue: 'Special Session / Fan Upload (Part 1)',
+    city: 'Archive',
+    state: '',
+    year: 2025,
+    videoUrl: 'https://www.youtube.com/embed/KsgeJpvGf64',
+    setlist: '',
     thumbnailUrl: ''
   }
 ];
