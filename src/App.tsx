@@ -5,11 +5,12 @@
 
 import { useState, useMemo, useEffect } from 'react';
 import { 
-  Play, Search, Calendar, MapPin, Video, X, Music, 
+  Play, Search, Calendar, MapPin, Video as VideoIcon, X, Music, 
   MonitorPlay, Home, Folder, FolderOpen, ChevronRight, ChevronDown, 
-  Settings, Headphones, Database, ListMusic, Volume2, SkipBack, SkipForward, Pause
+  Settings, Headphones, Database, ListMusic, Volume2, SkipBack, SkipForward, Pause, Lock
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+// FIX: Using standard framer-motion import to prevent the Illegal Constructor crash
+import { motion, AnimatePresence } from 'framer-motion';
 import { SHOWS } from './data/shows';
 import { Show } from './types';
 
@@ -72,7 +73,6 @@ function SmartThumbnail({ show, className }: { show: Show, className?: string })
   const [imgSrc, setImgSrc] = useState(initialSrc);
   const [hasError, setHasError] = useState(false);
 
-  // Update image source if show changes
   useEffect(() => {
     setImgSrc(getDisplayThumbnail(show));
     setHasError(false);
@@ -81,7 +81,7 @@ function SmartThumbnail({ show, className }: { show: Show, className?: string })
   if (!show || !show.videoUrl) {
     return (
       <div className="absolute inset-0 bg-[#0a0a0a] flex flex-col items-center justify-center border border-white/5">
-        <Video className="w-8 h-8 text-gray-800 mb-2" />
+        <VideoIcon className="w-8 h-8 text-gray-800 mb-2" />
         <span className="text-[10px] text-gray-700 font-bold uppercase tracking-widest">No Video</span>
       </div>
     );
@@ -123,18 +123,22 @@ export default function App() {
   
   const [showSettings, setShowSettings] = useState(false);
   const [nugsToken, setNugsToken] = useState('');
-  
-  // Custom Player State
   const [isPlayingAudio, setIsPlayingAudio] = useState(false);
 
   useEffect(() => {
-    const savedToken = localStorage.getItem('nugsToken');
-    if (savedToken) setNugsToken(savedToken);
+    try {
+      const savedToken = localStorage.getItem('nugsToken');
+      if (savedToken) setNugsToken(savedToken);
+    } catch (e) {
+      // Safely ignore strict browser security blocks on local storage
+    }
   }, []);
 
   const saveNugsToken = (token: string) => {
     setNugsToken(token);
-    localStorage.setItem('nugsToken', token);
+    try {
+      localStorage.setItem('nugsToken', token);
+    } catch (e) {}
   };
 
   const handleLogin = (e: React.FormEvent) => {
@@ -147,7 +151,6 @@ export default function App() {
     }
   };
 
-  // Grouping Data: Safely handle missing/malformed dates
   const showsByYearMonth = useMemo(() => {
     const grouped: Record<number, Record<number, Show[]>> = {};
     if (!SHOWS || !Array.isArray(SHOWS)) return grouped;
@@ -177,6 +180,8 @@ export default function App() {
 
   const filteredShows = useMemo(() => {
     if (!SHOWS || !Array.isArray(SHOWS)) return [];
+    
+    // Protect against DOM overload - keep empty unless searching or filtering
     if (!searchQuery && activeFilter.year === null) return [];
 
     return SHOWS.filter(show => {
@@ -201,9 +206,12 @@ export default function App() {
       return true;
     }).sort((a, b) => {
       if (!a.date || !b.date) return 0;
+      
+      // 1. Sort completely chronologically first
       const dateCompare = a.date.localeCompare(b.date);
       if (dateCompare !== 0) return dateCompare;
 
+      // 2. If dates match, layer them beautifully by Quality
       const typeOrder = { 'drive': 1, 'recap': 2, 'youtube': 3 };
       const orderA = typeOrder[a.sourceType || 'youtube'] || 3;
       const orderB = typeOrder[b.sourceType || 'youtube'] || 3;
@@ -361,7 +369,6 @@ export default function App() {
         {/* Main Grid */}
         <main className="flex-1 overflow-y-auto min-h-[calc(100vh-3.5rem)] pb-10">
           
-          {/* Mobile Filter Bar */}
           <div className="lg:hidden p-4 border-b border-white/5 overflow-x-auto no-scrollbar whitespace-nowrap bg-[#0f0f0f]">
              <div className="flex gap-2">
                  <button 
@@ -561,7 +568,7 @@ export default function App() {
                     />
                   ) : (
                     <div className="absolute inset-0 flex flex-col items-center justify-center bg-[#0d0d0d]">
-                      <Video className="w-16 h-16 mb-4 text-gray-800" />
+                      <VideoIcon className="w-16 h-16 mb-4 text-gray-800" />
                       <p className="text-lg font-bold text-gray-600 uppercase tracking-widest text-center px-4">Video Link Unavailable</p>
                     </div>
                   )}
@@ -580,9 +587,9 @@ export default function App() {
                            <p className="text-xs text-green-500 font-mono">AUTHORIZED: NUGS.NET</p>
                         </div>
                       </div>
+                      <span className="text-[10px] bg-green-500/20 px-2 py-1 rounded text-green-300 font-mono">NUGS.NET LINKED</span>
                     </div>
                     
-                    {/* The Player UI */}
                     <div className="bg-black/40 rounded-xl p-5 border border-white/5">
                       <div className="flex items-center gap-6 mb-4">
                         <SmartThumbnail show={selectedShow} className="w-16 h-16 rounded-lg object-cover shadow-lg border border-white/10" />
@@ -623,6 +630,9 @@ export default function App() {
                          <span>--:--</span>
                       </div>
                     </div>
+                    <p className="text-[10px] text-gray-500 mt-3 text-center uppercase tracking-wider">
+                      *Awaiting Catalog ID mapping for {selectedShow.date} to initialize stream API.
+                    </p>
                   </div>
                 )}
 
