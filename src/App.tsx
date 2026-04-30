@@ -9,7 +9,6 @@ import {
   MonitorPlay, Home, Folder, FolderOpen, ChevronRight, ChevronDown, 
   Settings, Headphones, Database, ListMusic, Volume2, SkipBack, SkipForward, Pause, Lock
 } from 'lucide-react';
-// FIX: Using standard framer-motion import to prevent the Illegal Constructor crash
 import { motion, AnimatePresence } from 'framer-motion';
 import { SHOWS } from './data/shows';
 import { Show } from './types';
