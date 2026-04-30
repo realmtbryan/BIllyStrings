@@ -105,7 +105,7 @@ export default function App() {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // 🚨 CHANGE "bmfs" TO WHATEVER YOU WANT THE SECRET PASSCODE TO BE 🚨
-    if (passcode.toLowerCase() === 'billygoat') {
+    if (passcode.toLowerCase() === 'billygoat33') {
       setIsAuthenticated(true);
     } else {
       setLoginError(true);
