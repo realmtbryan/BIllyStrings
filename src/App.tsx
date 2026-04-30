@@ -6,7 +6,7 @@
 import { useState, useMemo } from 'react';
 import { 
   Play, Search, Calendar, MapPin, Video, X, Music, 
-  MonitorPlay, Home, ThumbsUp, Share2
+  MonitorPlay, Home, ThumbsUp, Share2, Lock
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { SHOWS } from './data/shows';
@@ -14,7 +14,6 @@ import { Show } from './types';
 
 const getDisplayThumbnail = (show: Show) => {
   if (!show.videoUrl) return ''; 
-  
   if (show.videoUrl.includes('drive.google.com')) {
     const match = show.videoUrl.match(/\/d\/([^/?#]+)/) || show.videoUrl.match(/[?&]id=([^&#]+)/);
     if (match && match[1]) {
@@ -52,7 +51,6 @@ const getEmbedUrl = (url?: string) => {
   return url;
 };
 
-// Smart Thumbnail component that handles broken image links gracefully
 function SmartThumbnail({ show, className }: { show: Show, className?: string }) {
   const initialSrc = getDisplayThumbnail(show);
   const [imgSrc, setImgSrc] = useState(initialSrc);
@@ -82,7 +80,6 @@ function SmartThumbnail({ show, className }: { show: Show, className?: string })
       alt={show.venue}
       className={className || "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}
       onError={() => {
-        // Progressive fallback for YouTube: maxres -> hqdefault -> error
         if (imgSrc.includes('maxresdefault')) {
           setImgSrc(imgSrc.replace('maxresdefault', 'hqdefault'));
         } else {
@@ -94,10 +91,27 @@ function SmartThumbnail({ show, className }: { show: Show, className?: string })
 }
 
 export default function App() {
+  // THE BOUNCER STATE
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [passcode, setPasscode] = useState('');
+  const [loginError, setLoginError] = useState(false);
+
+  // ARCHIVE STATE
   const [selectedShow, setSelectedShow] = useState<Show | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedYear, setSelectedYear] = useState<number | 'All'>('All');
   const [showAll, setShowAll] = useState(false); 
+
+  const handleLogin = (e: React.FormEvent) => {
+    e.preventDefault();
+    // 🚨 CHANGE "bmfs" TO WHATEVER YOU WANT THE SECRET PASSCODE TO BE 🚨
+    if (passcode.toLowerCase() === 'bmfs') {
+      setIsAuthenticated(true);
+    } else {
+      setLoginError(true);
+      setPasscode('');
+    }
+  };
 
   const years = useMemo(() => {
     const uniqueYears = Array.from(new Set(SHOWS.map(s => s.year))).sort((a, b) => a - b);
@@ -119,6 +133,43 @@ export default function App() {
     });
   }, [searchQuery, selectedYear, showAll]);
 
+  // RENDER THE PASSCODE GATE IF NOT AUTHENTICATED
+  if (!isAuthenticated) {
+    return (
+      <div className="min-h-screen bg-[#0f0f0f] text-white flex flex-col items-center justify-center p-4">
+        <motion.div 
+           initial={{ opacity: 0, y: 20 }}
+           animate={{ opacity: 1, y: 0 }}
+           className="w-full max-w-sm"
+        >
+          <div className="flex justify-center mb-6 relative">
+            <MonitorPlay className="w-16 h-16 text-gray-800" />
+            <div className="absolute -bottom-2 -right-2 bg-[#0f0f0f] rounded-full p-1 border border-white/5">
+                <Lock className="w-6 h-6 text-red-600" />
+            </div>
+          </div>
+          <form onSubmit={handleLogin} className="bg-[#121212] p-8 rounded-2xl border border-white/5 shadow-2xl">
+            <h1 className="text-xl font-bold mb-2 text-center tracking-widest uppercase">Archive Access</h1>
+            <p className="text-gray-500 text-xs text-center mb-8 uppercase tracking-wider">Restricted to authorized users</p>
+            
+            <input 
+              type="password" 
+              value={passcode}
+              onChange={(e) => { setPasscode(e.target.value); setLoginError(false); }}
+              className={`w-full bg-[#1e1e1e] border ${loginError ? 'border-red-500/50' : 'border-white/5'} rounded-xl px-4 py-3 focus:outline-none focus:border-red-500/50 mb-6 transition-colors text-center tracking-[0.5em] text-lg`}
+              placeholder="••••"
+            />
+            
+            <button type="submit" className="w-full bg-white/5 hover:bg-white/10 text-gray-300 hover:text-white font-bold py-3 rounded-xl transition-colors uppercase tracking-widest text-xs border border-white/5">
+              Unlock
+            </button>
+          </form>
+        </motion.div>
+      </div>
+    );
+  }
+
+  // STANDARD APP RENDER
   return (
     <div className="min-h-screen bg-[#0f0f0f] text-white font-sans">
       <header className="sticky top-0 z-40 bg-[#0f0f0f] border-b border-white/10 px-4 h-14 flex items-center justify-between">
